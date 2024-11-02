@@ -1,0 +1,4343 @@
+1
+00:00:08,200 --> 00:00:13,834
+♪ ♪
+
+2
+00:00:13,900 --> 00:00:20,233
+♪ ♪
+
+3
+00:00:20,300 --> 00:00:24,800
+♪ ♪
+
+4
+00:00:25,133 --> 00:00:30,200
+[Cheers and applause]
+
+5
+00:00:30,266 --> 00:00:32,800
+John: Welcome, welcome,
+
+6
+00:00:32,867 --> 00:00:33,867
+welcome to "last week tonight."
+
+7
+00:00:33,900 --> 00:00:34,700
+I'm John Oliver, thank you so
+
+8
+00:00:34,767 --> 00:00:36,166
+much for joining us.
+
+9
+00:00:36,233 --> 00:00:37,233
+Just time for a quick recap of
+
+10
+00:00:37,266 --> 00:00:39,200
+the week, and it was a busy one
+
+11
+00:00:39,266 --> 00:00:40,400
+for the president, who, in
+
+12
+00:00:40,467 --> 00:00:41,800
+between claiming his father was
+
+13
+00:00:41,867 --> 00:00:43,900
+born in Germany when he was born
+
+14
+00:00:43,967 --> 00:00:46,467
+in New York, mispronouncing the
+
+15
+00:00:46,533 --> 00:00:47,900
+word "origins" as "oranges"
+
+16
+00:00:47,967 --> 00:00:49,400
+repeatedly, and trolling
+
+17
+00:00:49,467 --> 00:00:51,000
+Joe biden for touching women...
+
+18
+00:00:51,066 --> 00:00:54,233
+which seems, y'know, a bit
+
+19
+00:00:54,300 --> 00:00:55,533
+fucking rich... made a major and
+
+20
+00:00:55,600 --> 00:00:57,233
+shocking decision on Thursday
+
+21
+00:00:57,300 --> 00:00:58,834
+regarding the federal reserve.
+
+22
+00:00:58,900 --> 00:01:00,233
+President trump is said to of
+
+23
+00:01:00,300 --> 00:01:00,934
+selected Herman Cain for the
+
+24
+00:01:01,000 --> 00:01:03,367
+federal reserve board.
+
+25
+00:01:03,433 --> 00:01:04,800
+A former pizza executive
+
+26
+00:01:04,867 --> 00:01:07,200
+turned radio talk show host who
+
+27
+00:01:07,266 --> 00:01:08,633
+dropped his 2012 republican
+
+28
+00:01:08,700 --> 00:01:10,200
+presidential bid amid sexual
+
+29
+00:01:10,266 --> 00:01:11,333
+harassment allegations, not a
+
+30
+00:01:11,400 --> 00:01:12,834
+typical resume for a federal
+
+31
+00:01:12,900 --> 00:01:13,700
+reserve board member.
+
+32
+00:01:13,767 --> 00:01:16,800
+John: Oh, really?
+
+33
+00:01:16,867 --> 00:01:17,700
+You sure about that?
+
+34
+00:01:17,767 --> 00:01:18,367
+You think the resume of
+
+35
+00:01:18,433 --> 00:01:19,266
+pizza maker, talk show host, and
+
+36
+00:01:19,333 --> 00:01:20,400
+alleged sexual harasser would be
+
+37
+00:01:20,467 --> 00:01:21,900
+pretty unusual for the fed?
+
+38
+00:01:21,967 --> 00:01:23,233
+Well, why don't you tell that to
+
+39
+00:01:23,300 --> 00:01:24,133
+the rest of the board, six
+
+40
+00:01:24,200 --> 00:01:27,433
+Mario batalis?
+
+41
+00:01:27,500 --> 00:01:28,300
+But it is true, picking
+
+42
+00:01:28,367 --> 00:01:29,066
+Herman Cain for the federal
+
+43
+00:01:29,133 --> 00:01:30,266
+reserve is bonkers, and comes
+
+44
+00:01:30,333 --> 00:01:32,700
+just two weeks after trump also
+
+45
+00:01:32,767 --> 00:01:34,100
+said he'll nominate
+
+46
+00:01:34,166 --> 00:01:34,934
+Stephen Moore, a TV commentator
+
+47
+00:01:35,000 --> 00:01:36,000
+and fellow at a conservative
+
+48
+00:01:36,066 --> 00:01:39,567
+think tank.
+
+49
+00:01:39,633 --> 00:01:40,834
+And these two likely nominees
+
+50
+00:01:40,900 --> 00:01:42,600
+are causing more concern than
+
+51
+00:01:42,667 --> 00:01:43,533
+your typical trump
+
+52
+00:01:43,600 --> 00:01:46,033
+administration appointee, and
+
+53
+00:01:46,100 --> 00:01:47,433
+for good reason, as I'll let a
+
+54
+00:01:47,500 --> 00:01:48,500
+former deputy secretary of the
+
+55
+00:01:48,567 --> 00:01:49,166
+treasury explain.
+
+56
+00:01:49,233 --> 00:01:50,166
+It's one thing to be putting,
+
+57
+00:01:50,233 --> 00:01:50,800
+you know, your political friends
+
+58
+00:01:50,867 --> 00:01:51,400
+and cronies, you know, within
+
+59
+00:01:51,467 --> 00:01:52,567
+the agencies, but to put them on
+
+60
+00:01:52,633 --> 00:01:53,900
+the board of the central bank is
+
+61
+00:01:53,967 --> 00:01:56,066
+something that is... that has to
+
+62
+00:01:56,133 --> 00:01:58,200
+be done very, very cautiously,
+
+63
+00:01:58,266 --> 00:02:00,967
+because the moment the fed loses
+
+64
+00:02:01,033 --> 00:02:02,467
+credibility, it's almost
+
+65
+00:02:02,533 --> 00:02:04,900
+game over.
+
+66
+00:02:04,967 --> 00:02:06,266
+John: Now, that's a pretty
+
+67
+00:02:06,333 --> 00:02:07,033
+bold statement.
+
+68
+00:02:07,100 --> 00:02:10,567
+She's basically saying,
+
+69
+00:02:10,633 --> 00:02:11,867
+"go ahead, put 'Mr. oops' in
+
+70
+00:02:11,934 --> 00:02:12,867
+charge of the department of
+
+71
+00:02:12,934 --> 00:02:13,500
+energy, or a mint condition cpr
+
+72
+00:02:13,567 --> 00:02:14,467
+dummy in charge of opioids and
+
+73
+00:02:14,533 --> 00:02:16,633
+middle east peace, or hand the
+
+74
+00:02:16,700 --> 00:02:17,600
+commerce department over to a
+
+75
+00:02:17,667 --> 00:02:18,834
+man who looks like
+
+76
+00:02:18,900 --> 00:02:19,800
+Jackson pollock if he had lived
+
+77
+00:02:19,867 --> 00:02:21,433
+or Moby if he had died.
+
+78
+00:02:21,500 --> 00:02:22,600
+But the fed?
+
+79
+00:02:22,667 --> 00:02:23,500
+You don't fuck around with the
+
+80
+00:02:23,567 --> 00:02:26,500
+fed.
+
+81
+00:02:26,567 --> 00:02:27,333
+And that is because a lot of
+
+82
+00:02:27,400 --> 00:02:28,100
+America's economic power depends
+
+83
+00:02:28,166 --> 00:02:29,734
+on people's trust in the
+
+84
+00:02:29,800 --> 00:02:33,066
+stability of the dollar.
+
+85
+00:02:33,133 --> 00:02:33,800
+It is the world's reserve
+
+86
+00:02:33,867 --> 00:02:34,867
+currency in part because the fed
+
+87
+00:02:34,934 --> 00:02:35,800
+is seen as a reliable,
+
+88
+00:02:35,867 --> 00:02:38,834
+independent institution.
+
+89
+00:02:38,900 --> 00:02:40,633
+Trump has actually already
+
+90
+00:02:40,700 --> 00:02:41,567
+filled four of the fed's seven
+
+91
+00:02:41,633 --> 00:02:42,834
+seats... including the chairman,
+
+92
+00:02:42,900 --> 00:02:43,367
+Jerome Powell... but those
+
+93
+00:02:43,433 --> 00:02:43,967
+appointments didn't get much
+
+94
+00:02:44,033 --> 00:02:44,567
+press because all of these
+
+95
+00:02:44,633 --> 00:02:45,633
+people are fundamentally
+
+96
+00:02:45,700 --> 00:02:48,767
+qualified.
+
+97
+00:02:48,834 --> 00:02:49,400
+Cain and Moore, however, aren't.
+
+98
+00:02:49,467 --> 00:02:50,333
+Cain has argued for a return to
+
+99
+00:02:50,400 --> 00:02:51,800
+the gold standard, a virtually
+
+100
+00:02:51,867 --> 00:02:53,667
+unheard-of opinion among
+
+101
+00:02:53,734 --> 00:02:55,533
+respected economists, while
+
+102
+00:02:55,600 --> 00:02:59,600
+Moore is a tireless advocate of
+
+103
+00:02:59,667 --> 00:03:01,333
+supply-side economics, he helped
+
+104
+00:03:01,400 --> 00:03:03,100
+design the tax cut that blew a
+
+105
+00:03:03,166 --> 00:03:04,100
+hole in Kansas' budget, and once
+
+106
+00:03:04,166 --> 00:03:05,100
+asked if the country even really
+
+107
+00:03:05,166 --> 00:03:07,667
+needs a fed.
+
+108
+00:03:07,734 --> 00:03:08,734
+But instead of spending time
+
+109
+00:03:08,800 --> 00:03:09,967
+breaking down why their economic
+
+110
+00:03:10,033 --> 00:03:12,834
+views should be disqualifying,
+
+111
+00:03:12,900 --> 00:03:14,000
+I'd like to make a point that
+
+112
+00:03:14,066 --> 00:03:18,200
+requires no knowledge of
+
+113
+00:03:18,300 --> 00:03:21,233
+monetary policy whatsoever, and
+
+114
+00:03:21,300 --> 00:03:22,100
+that is that these two guys are
+
+115
+00:03:22,166 --> 00:03:23,066
+goofs.
+
+116
+00:03:23,133 --> 00:03:23,934
+They're just a pair of
+
+117
+00:03:24,000 --> 00:03:27,066
+dangerously goofy goofs.
+
+118
+00:03:27,133 --> 00:03:28,600
+And this isn't actually a job
+
+119
+00:03:28,667 --> 00:03:29,000
+where that's okay.
+
+120
+00:03:29,066 --> 00:03:29,734
+Fed board members are famously
+
+121
+00:03:29,800 --> 00:03:30,867
+careful with anything they say
+
+122
+00:03:30,934 --> 00:03:31,633
+in public because markets can
+
+123
+00:03:31,700 --> 00:03:32,967
+react violently.
+
+124
+00:03:33,033 --> 00:03:34,533
+Just two words from the fed
+
+125
+00:03:34,600 --> 00:03:36,667
+chair sent markets soaring last
+
+126
+00:03:36,734 --> 00:03:37,667
+November, and these two are not
+
+127
+00:03:37,734 --> 00:03:39,433
+known for thinking before they
+
+128
+00:03:39,500 --> 00:03:43,500
+speak.
+
+129
+00:03:43,567 --> 00:03:44,266
+Here's is Stephen Moore on a CNN
+
+130
+00:03:44,333 --> 00:03:45,033
+panel last year discussing
+
+131
+00:03:45,100 --> 00:03:45,767
+stormy Daniels and deciding to
+
+132
+00:03:45,834 --> 00:03:47,266
+blow the doors off the room with
+
+133
+00:03:47,333 --> 00:03:52,500
+this awesome joke.
+
+134
+00:03:52,567 --> 00:03:53,734
+We're discussing a sitting
+
+135
+00:03:53,800 --> 00:03:54,867
+president being sued by a
+
+136
+00:03:54,934 --> 00:03:55,667
+porn star, and it's part of
+
+137
+00:03:55,734 --> 00:03:56,433
+almost like the routine of
+
+138
+00:03:56,500 --> 00:03:57,266
+today's news cycle, which is the
+
+139
+00:03:57,333 --> 00:03:58,300
+interesting part of it.
+
+140
+00:03:58,367 --> 00:03:59,166
+Kevin, are you saying that a
+
+141
+00:03:59,233 --> 00:04:00,367
+porn star would actually try to
+
+142
+00:04:00,433 --> 00:04:01,867
+call attention to herself?
+
+143
+00:04:01,934 --> 00:04:09,000
+Shocking, right?
+
+144
+00:04:09,066 --> 00:04:09,900
+I mean, that's what
+
+145
+00:04:09,967 --> 00:04:10,767
+porn stars do!
+
+146
+00:04:10,834 --> 00:04:14,400
+John: Nailed it.
+
+147
+00:04:14,467 --> 00:04:16,133
+You nailed it, Stephen.
+
+148
+00:04:16,200 --> 00:04:16,967
+You don't want that man's mouth
+
+149
+00:04:17,033 --> 00:04:17,767
+moving markets.
+
+150
+00:04:17,834 --> 00:04:18,767
+Now, as for Herman Cain, let me
+
+151
+00:04:18,834 --> 00:04:19,834
+remind you, this is a man who,
+
+152
+00:04:19,900 --> 00:04:21,533
+when he ran for president, once
+
+153
+00:04:21,600 --> 00:04:22,033
+asked a crowd of
+
+154
+00:04:22,100 --> 00:04:24,000
+Cuban-Americans, "how do you say
+
+155
+00:04:24,066 --> 00:04:25,500
+'delicious' in Cuban?,"
+
+156
+00:04:25,567 --> 00:04:26,734
+he bragged about not knowing the
+
+157
+00:04:26,800 --> 00:04:30,667
+president of
+
+158
+00:04:30,734 --> 00:04:31,533
+"uzbeki-beki-beki-
+
+159
+00:04:31,600 --> 00:04:32,834
+Stan-Stan," and had this
+
+160
+00:04:32,900 --> 00:04:33,300
+memorable moment in a
+
+161
+00:04:33,367 --> 00:04:34,500
+presidential debate:
+
+162
+00:04:34,567 --> 00:04:35,867
+A poet once said, "life can
+
+163
+00:04:35,934 --> 00:04:38,166
+be a challenge, life can seem
+
+164
+00:04:38,233 --> 00:04:38,800
+impossible, but it's never easy
+
+165
+00:04:38,867 --> 00:04:39,900
+when there's so much on the
+
+166
+00:04:39,967 --> 00:04:40,934
+line."
+
+167
+00:04:41,000 --> 00:04:42,100
+All right, so, it turns out
+
+168
+00:04:42,166 --> 00:04:43,533
+that quote wasn't exactly
+
+169
+00:04:43,600 --> 00:04:44,667
+poetry.
+
+170
+00:04:44,734 --> 00:04:46,200
+It was, strictly speaking, a
+
+171
+00:04:46,233 --> 00:04:48,400
+song from the end of
+
+172
+00:04:48,500 --> 00:04:50,400
+"pokemon the movie" from 2000.
+
+173
+00:04:50,500 --> 00:04:51,133
+John: It's true.
+
+174
+00:04:51,200 --> 00:04:52,767
+It's true.
+
+175
+00:04:52,867 --> 00:04:54,967
+Herman Cain quoted this pokemon
+
+176
+00:04:55,033 --> 00:04:56,800
+movie during a presidential
+
+177
+00:04:56,867 --> 00:04:58,600
+debate, which is both the worst
+
+178
+00:04:58,667 --> 00:04:59,800
+place to do that and also
+
+179
+00:04:59,867 --> 00:05:01,834
+technically the best place to do
+
+180
+00:05:01,900 --> 00:05:03,467
+it, because who on that stage is
+
+181
+00:05:03,533 --> 00:05:05,233
+going to risk calling you out?
+
+182
+00:05:05,300 --> 00:05:06,500
+"Excuse me, but I believe my
+
+183
+00:05:06,567 --> 00:05:08,000
+opponent just attributed that
+
+184
+00:05:08,066 --> 00:05:09,467
+quote to a poet, when it really
+
+185
+00:05:09,533 --> 00:05:11,200
+comes from the theme song to the
+
+186
+00:05:11,266 --> 00:05:14,500
+film 'pokemon the movie 2000,'
+
+187
+00:05:14,567 --> 00:05:16,633
+whose lyrics I also know by
+
+188
+00:05:16,700 --> 00:05:18,500
+heart, and oh, god, I'm just now
+
+189
+00:05:18,567 --> 00:05:19,700
+realizing this is worse for me
+
+190
+00:05:19,767 --> 00:05:20,700
+than it is for him, please carry
+
+191
+00:05:20,767 --> 00:05:21,734
+on.
+
+192
+00:05:21,800 --> 00:05:24,166
+Ignore what I just said."
+
+193
+00:05:24,233 --> 00:05:25,967
+And as if all that weren't
+
+194
+00:05:26,033 --> 00:05:26,667
+disqualifying enough, I know
+
+195
+00:05:26,734 --> 00:05:27,934
+personally that Herman Cain
+
+196
+00:05:28,000 --> 00:05:29,400
+should not be on the fed,
+
+197
+00:05:29,467 --> 00:05:31,233
+because after he dropped out of
+
+198
+00:05:31,300 --> 00:05:32,533
+that presidential race, I did a
+
+199
+00:05:32,600 --> 00:05:34,367
+series of interviews with him
+
+200
+00:05:34,433 --> 00:05:35,200
+for "the daily show" where he
+
+201
+00:05:35,266 --> 00:05:36,233
+pretended to be in office, and
+
+202
+00:05:36,300 --> 00:05:37,633
+in which he, for some reason,
+
+203
+00:05:37,700 --> 00:05:39,500
+did anything I asked him to do.
+
+204
+00:05:39,567 --> 00:05:40,066
+Anything.
+
+205
+00:05:40,133 --> 00:05:42,133
+Watch.
+
+206
+00:05:42,200 --> 00:05:43,500
+Look into that camera and
+
+207
+00:05:43,567 --> 00:05:45,100
+convince Nicolas cage to give
+
+208
+00:05:45,166 --> 00:05:50,900
+that constitution back.
+
+209
+00:05:50,967 --> 00:05:52,934
+Nicolas, bring back our
+
+210
+00:05:53,000 --> 00:05:58,567
+constitution.
+
+211
+00:05:58,633 --> 00:05:59,400
+I respect you, cage, but get a
+
+212
+00:05:59,467 --> 00:06:00,633
+grip.
+
+213
+00:06:00,700 --> 00:06:01,700
+We have just had the results
+
+214
+00:06:01,767 --> 00:06:02,500
+back from your latest
+
+215
+00:06:02,567 --> 00:06:03,900
+presidential physical, and it
+
+216
+00:06:03,967 --> 00:06:05,266
+turns out you have telepathic
+
+217
+00:06:05,333 --> 00:06:06,600
+powers.
+
+218
+00:06:06,667 --> 00:06:08,033
+Look into that camera and
+
+219
+00:06:08,100 --> 00:06:09,567
+convince the Chinese that they
+
+220
+00:06:09,633 --> 00:06:18,600
+need to step down.
+
+221
+00:06:18,667 --> 00:06:19,500
+It's your move.
+
+222
+00:06:19,567 --> 00:06:20,734
+Oil is spilling everywhere
+
+223
+00:06:20,800 --> 00:06:22,133
+and it has devastated America's
+
+224
+00:06:22,200 --> 00:06:23,066
+national parks.
+
+225
+00:06:23,133 --> 00:06:24,433
+Gather those most affected and
+
+226
+00:06:24,500 --> 00:06:25,533
+explain to them why their
+
+227
+00:06:25,600 --> 00:06:32,800
+sacrifice is not in vain.
+
+228
+00:06:32,867 --> 00:06:37,734
+[Horn blares]
+
+229
+00:06:37,800 --> 00:06:40,233
+Creatures of the forest,
+
+230
+00:06:40,300 --> 00:06:43,667
+assemble!
+
+231
+00:06:43,734 --> 00:06:44,700
+John: If any part of you is
+
+232
+00:06:44,767 --> 00:06:45,800
+thinking, how did I get him to
+
+233
+00:06:45,867 --> 00:06:47,333
+do that stuff?
+
+234
+00:06:47,400 --> 00:06:48,633
+I just asked him.
+
+235
+00:06:48,700 --> 00:06:50,033
+Once.
+
+236
+00:06:50,100 --> 00:06:51,200
+He took orders from some
+
+237
+00:06:51,266 --> 00:06:53,300
+birdy twit with a pixie cut.
+
+238
+00:06:53,367 --> 00:06:54,934
+And look, at this point, you may
+
+239
+00:06:55,000 --> 00:06:57,967
+be wondering what trump sees in
+
+240
+00:06:58,033 --> 00:07:00,066
+these two men.
+
+241
+00:07:00,133 --> 00:07:03,934
+Well, just that.
+
+242
+00:07:04,000 --> 00:07:05,467
+He wants people who will do
+
+243
+00:07:05,533 --> 00:07:07,367
+exactly what he tells them to.
+
+244
+00:07:07,433 --> 00:07:08,266
+You've just seen how well Cain
+
+245
+00:07:08,333 --> 00:07:09,200
+takes direction, and Moore is
+
+246
+00:07:09,266 --> 00:07:09,900
+such a trump sycophant that he
+
+247
+00:07:09,967 --> 00:07:13,500
+co-wrote a flattering book
+
+248
+00:07:13,567 --> 00:07:14,433
+called "trumponomics" and said
+
+249
+00:07:14,500 --> 00:07:15,066
+trump should win the nobel prize
+
+250
+00:07:15,133 --> 00:07:15,900
+in economics.
+
+251
+00:07:15,967 --> 00:07:16,600
+And this should be worrying to
+
+252
+00:07:16,667 --> 00:07:17,734
+you, as trump seems to be
+
+253
+00:07:17,800 --> 00:07:18,633
+looking to bring the fed under
+
+254
+00:07:18,700 --> 00:07:19,500
+his control.
+
+255
+00:07:19,567 --> 00:07:20,734
+He's reportedly furious that it
+
+256
+00:07:20,800 --> 00:07:22,100
+has raised interest rates,
+
+257
+00:07:22,166 --> 00:07:23,333
+slowing down the stock market,
+
+258
+00:07:23,400 --> 00:07:24,900
+and he's publicly attacked
+
+259
+00:07:24,967 --> 00:07:25,533
+Jerome Powell, a huge breach of
+
+260
+00:07:25,600 --> 00:07:26,500
+custom, and reportedly
+
+261
+00:07:26,567 --> 00:07:27,900
+considered firing him.
+
+262
+00:07:27,967 --> 00:07:30,500
+And if he manages to install
+
+263
+00:07:30,567 --> 00:07:31,033
+Moore and Cain, that could
+
+264
+00:07:31,100 --> 00:07:32,467
+fundamentally undermine the fed,
+
+265
+00:07:32,533 --> 00:07:34,433
+so it's important the senate
+
+266
+00:07:34,500 --> 00:07:37,266
+stand against these nominations.
+
+267
+00:07:37,333 --> 00:07:38,467
+And I know that this could be a
+
+268
+00:07:38,533 --> 00:07:41,033
+difficult fight, but as a poet
+
+269
+00:07:41,100 --> 00:07:42,734
+once said, "come with me, the
+
+270
+00:07:42,800 --> 00:07:43,900
+time is right.
+
+271
+00:07:43,967 --> 00:07:45,367
+There's no better team.
+
+272
+00:07:45,433 --> 00:07:47,500
+Arm in arm, we'll win the fight.
+
+273
+00:07:47,567 --> 00:07:50,066
+It's always been our dream.
+
+274
+00:07:50,133 --> 00:07:51,233
+Pokemon.
+
+275
+00:07:51,300 --> 00:07:54,066
+Gotta catch em' all.
+
+276
+00:07:54,133 --> 00:07:56,033
+It's you and me, I know it's my
+
+277
+00:07:56,100 --> 00:07:57,567
+destiny.
+
+278
+00:07:57,633 --> 00:08:04,867
+Pokemon."
+
+279
+00:08:04,934 --> 00:08:05,600
+Let's move on now to Baltimore.
+
+280
+00:08:05,667 --> 00:08:06,934
+Baltimore is a great place to
+
+281
+00:08:07,000 --> 00:08:08,367
+get crabs if you can't find
+
+282
+00:08:08,433 --> 00:08:09,567
+post Malone.
+
+283
+00:08:09,633 --> 00:08:10,934
+Now, Baltimore has a long
+
+284
+00:08:11,000 --> 00:08:12,367
+history of corruption, but its
+
+285
+00:08:12,433 --> 00:08:12,867
+latest scandal is truly
+
+286
+00:08:12,934 --> 00:08:14,734
+remarkable.
+
+287
+00:08:14,800 --> 00:08:15,667
+Well, mayor Catherine pugh is
+
+288
+00:08:15,734 --> 00:08:16,734
+speaking out amid the ethics
+
+289
+00:08:16,800 --> 00:08:17,934
+controversy surrounding her
+
+290
+00:08:18,000 --> 00:08:19,333
+business dealings with the
+
+291
+00:08:19,400 --> 00:08:20,700
+university of Maryland medical
+
+292
+00:08:20,767 --> 00:08:23,834
+system.
+
+293
+00:08:23,900 --> 00:08:25,367
+The mayor had served on the
+
+294
+00:08:25,433 --> 00:08:26,467
+board of directors since 2001,
+
+295
+00:08:26,533 --> 00:08:27,967
+and throughout an eight-year
+
+296
+00:08:28,033 --> 00:08:29,133
+period, she sold the medical
+
+297
+00:08:29,200 --> 00:08:29,767
+system $500,000 worth of her
+
+298
+00:08:29,834 --> 00:08:30,700
+"healthy Holly" children's
+
+299
+00:08:30,767 --> 00:08:34,100
+books.
+
+300
+00:08:34,166 --> 00:08:35,100
+John: It's true.
+
+301
+00:08:35,166 --> 00:08:35,767
+Baltimore's mayor has apparently
+
+302
+00:08:35,834 --> 00:08:37,367
+made hundreds of thousands of
+
+303
+00:08:37,433 --> 00:08:38,500
+dollars off several local
+
+304
+00:08:38,567 --> 00:08:39,767
+entities, some of which have
+
+305
+00:08:39,834 --> 00:08:41,300
+business before the city,
+
+306
+00:08:41,367 --> 00:08:41,900
+purchasing her self-published
+
+307
+00:08:41,967 --> 00:08:43,400
+books, including "healthy Holly:
+
+308
+00:08:43,467 --> 00:08:45,367
+Vegetables are not just green,"
+
+309
+00:08:45,433 --> 00:08:46,333
+"healthy Holly: Fruits come in
+
+310
+00:08:46,400 --> 00:08:47,400
+colors like the rainbow," and
+
+311
+00:08:47,467 --> 00:08:48,834
+presumably, "healthy Holly:
+
+312
+00:08:48,900 --> 00:08:49,700
+Fruits come in vegetables but
+
+313
+00:08:49,767 --> 00:08:50,834
+only when they receive verbal
+
+314
+00:08:50,900 --> 00:08:52,600
+consent."
+
+315
+00:08:52,667 --> 00:08:54,266
+And look, look, it is hard to
+
+316
+00:08:54,333 --> 00:08:56,600
+believe pugh's books were purely
+
+317
+00:08:56,667 --> 00:08:58,734
+bought on the basis of literary
+
+318
+00:08:58,800 --> 00:09:00,066
+merit.
+
+319
+00:09:00,133 --> 00:09:01,934
+Reporters who've read them have
+
+320
+00:09:02,000 --> 00:09:03,300
+pointed out that, for a start,
+
+321
+00:09:03,367 --> 00:09:04,333
+she can't seem to settle on the
+
+322
+00:09:04,400 --> 00:09:05,667
+correct spelling of the name for
+
+323
+00:09:05,734 --> 00:09:07,266
+one of her main characters.
+
+324
+00:09:07,333 --> 00:09:08,266
+Also, she seems to think a
+
+325
+00:09:08,333 --> 00:09:09,834
+normal, healthy dinner involves
+
+326
+00:09:09,900 --> 00:09:11,200
+a family gathered around four
+
+327
+00:09:11,233 --> 00:09:12,834
+massive plates of salad with one
+
+328
+00:09:12,900 --> 00:09:14,166
+smaller salad that sits in the
+
+329
+00:09:14,233 --> 00:09:15,567
+center of the table untouched
+
+330
+00:09:15,633 --> 00:09:18,133
+while your dad says normal
+
+331
+00:09:18,200 --> 00:09:19,033
+things like, "we are having
+
+332
+00:09:19,100 --> 00:09:20,233
+spinach with our dinner.
+
+333
+00:09:20,300 --> 00:09:22,333
+It is a vegetable."
+
+334
+00:09:22,400 --> 00:09:24,066
+And finally, in her educational
+
+335
+00:09:24,133 --> 00:09:25,900
+children's book about eating
+
+336
+00:09:25,967 --> 00:09:26,433
+right, she spelled fucking
+
+337
+00:09:26,500 --> 00:09:28,967
+"vegetable" wrong.
+
+338
+00:09:29,033 --> 00:09:30,166
+And "vege tale" sounds like
+
+339
+00:09:30,233 --> 00:09:31,734
+slang that douchey bros use when
+
+340
+00:09:31,800 --> 00:09:32,300
+they pick up girls at vegan
+
+341
+00:09:32,367 --> 00:09:34,734
+restaurants.
+
+342
+00:09:34,800 --> 00:09:35,934
+"Yah, brah, I'm gonna gulp down
+
+343
+00:09:36,000 --> 00:09:37,400
+some quinoa, pretend I fucks
+
+344
+00:09:37,467 --> 00:09:39,467
+with Kale, and then try to smash
+
+345
+00:09:39,533 --> 00:09:40,667
+some of that vege tale.
+
+346
+00:09:40,734 --> 00:09:44,467
+All day, son.
+
+347
+00:09:44,533 --> 00:09:46,767
+All day."
+
+348
+00:09:46,834 --> 00:09:48,200
+And the scandal widened this
+
+349
+00:09:48,266 --> 00:09:49,834
+week after it emerged that the
+
+350
+00:09:49,900 --> 00:09:51,166
+amount she has received from
+
+351
+00:09:51,233 --> 00:09:52,667
+high-profile organizations or
+
+352
+00:09:52,734 --> 00:09:55,533
+people has now reached $800,000.
+
+353
+00:09:55,600 --> 00:09:56,533
+Pugh is now on leave because
+
+354
+00:09:56,600 --> 00:09:57,800
+she's fighting pneumonia, but
+
+355
+00:09:57,867 --> 00:09:58,834
+before she left, she called a
+
+356
+00:09:58,900 --> 00:09:59,934
+press conference to defend
+
+357
+00:10:00,000 --> 00:10:01,867
+herself.
+
+358
+00:10:01,934 --> 00:10:03,433
+And in this appearance, where
+
+359
+00:10:03,500 --> 00:10:05,333
+she was dealing with accusations
+
+360
+00:10:05,400 --> 00:10:06,300
+that she'd misused her office to
+
+361
+00:10:06,367 --> 00:10:07,834
+promote a side project, she did
+
+362
+00:10:07,900 --> 00:10:08,600
+this:
+
+363
+00:10:08,667 --> 00:10:10,700
+Mayor pugh also showed us her
+
+364
+00:10:10,767 --> 00:10:11,767
+child clothing line which has
+
+365
+00:10:11,834 --> 00:10:13,667
+slogans to get active on them as
+
+366
+00:10:13,734 --> 00:10:15,900
+well.
+
+367
+00:10:15,967 --> 00:10:17,533
+There was bibs and onesies.
+
+368
+00:10:17,600 --> 00:10:18,433
+John: It's true.
+
+369
+00:10:18,500 --> 00:10:19,667
+She basically started Hawking
+
+370
+00:10:19,734 --> 00:10:21,600
+her idea for a kids' clothing
+
+371
+00:10:21,667 --> 00:10:22,300
+line, and she did it for three
+
+372
+00:10:22,367 --> 00:10:24,967
+full minutes.
+
+373
+00:10:25,033 --> 00:10:27,633
+As you can see from these
+
+374
+00:10:27,700 --> 00:10:29,867
+bibs, it was about teaching
+
+375
+00:10:29,934 --> 00:10:31,066
+children to walk, run, crawl,
+
+376
+00:10:31,133 --> 00:10:34,467
+skip, dance.
+
+377
+00:10:34,533 --> 00:10:38,633
+Some to eat healthier.
+
+378
+00:10:38,700 --> 00:10:40,367
+To play and crawl.
+
+379
+00:10:40,433 --> 00:10:42,934
+And same thing here with the
+
+380
+00:10:43,000 --> 00:10:44,633
+messaging.
+
+381
+00:10:44,700 --> 00:10:45,633
+Swim, jump, play,
+
+382
+00:10:45,700 --> 00:10:47,533
+walk, run, crawl.
+
+383
+00:10:47,600 --> 00:10:49,500
+John: Okay, a few things
+
+384
+00:10:49,567 --> 00:10:51,000
+here: First, "walk, run, crawl,
+
+385
+00:10:51,066 --> 00:10:51,834
+skip, dance," sounds less like
+
+386
+00:10:51,900 --> 00:10:53,066
+something you'd put on a onesie
+
+387
+00:10:53,133 --> 00:10:53,633
+and more like something that
+
+388
+00:10:53,700 --> 00:10:54,266
+bjork whispers to you at the end
+
+389
+00:10:54,333 --> 00:10:55,200
+of a conversation instead of
+
+390
+00:10:55,266 --> 00:10:56,700
+saying "goodbye."
+
+391
+00:10:56,767 --> 00:10:57,800
+"Walk, run, crawl, skip, dance.
+
+392
+00:10:57,867 --> 00:11:04,200
+Hee-hee!"
+
+393
+00:11:04,266 --> 00:11:05,900
+Second, second, if the clothes
+
+394
+00:11:05,967 --> 00:11:07,367
+you're making are that small,
+
+395
+00:11:07,433 --> 00:11:08,934
+your baby is not ready to swim.
+
+396
+00:11:09,000 --> 00:11:10,233
+And finally, how is a baby
+
+397
+00:11:10,300 --> 00:11:11,233
+supposed to learn healthy eating
+
+398
+00:11:11,300 --> 00:11:13,734
+habits from a bib that reads
+
+399
+00:11:13,800 --> 00:11:14,400
+"eat healthy"?
+
+400
+00:11:14,467 --> 00:11:15,166
+The baby can't see the bib when
+
+401
+00:11:15,233 --> 00:11:15,900
+it's on.
+
+402
+00:11:15,967 --> 00:11:17,033
+It just can't bend its neck far
+
+403
+00:11:17,100 --> 00:11:17,500
+enough.
+
+404
+00:11:17,567 --> 00:11:18,367
+And I know what you're thinking,
+
+405
+00:11:18,433 --> 00:11:19,867
+just look in the mirror, baby.
+
+406
+00:11:19,934 --> 00:11:20,500
+Look in the mirror after you put
+
+407
+00:11:20,567 --> 00:11:21,667
+your bib on but before you eat.
+
+408
+00:11:21,734 --> 00:11:22,867
+But then, of course, the writing
+
+409
+00:11:22,934 --> 00:11:24,333
+will be backwards, making it
+
+410
+00:11:24,400 --> 00:11:27,233
+even more difficult to decipher
+
+411
+00:11:27,300 --> 00:11:28,100
+for a baby who already...
+
+412
+00:11:28,166 --> 00:11:29,467
+and this is true... cannot
+
+413
+00:11:29,533 --> 00:11:30,367
+fucking read.
+
+414
+00:11:30,433 --> 00:11:33,600
+But let's put all that aside and
+
+415
+00:11:33,667 --> 00:11:34,166
+let's say this baby can read
+
+416
+00:11:34,233 --> 00:11:35,367
+backwards, looks in the mirror
+
+417
+00:11:35,433 --> 00:11:36,333
+before a meal, and intuits the
+
+418
+00:11:36,400 --> 00:11:37,400
+message that it should eat
+
+419
+00:11:37,467 --> 00:11:38,233
+healthy.
+
+420
+00:11:38,300 --> 00:11:38,900
+It's still going to be
+
+421
+00:11:38,967 --> 00:11:40,233
+physically strapped into a chair
+
+422
+00:11:40,300 --> 00:11:42,033
+and fed whatever its parents
+
+423
+00:11:42,100 --> 00:11:43,066
+pick because babies have no
+
+424
+00:11:43,133 --> 00:11:44,066
+agency 'cause that's how babies
+
+425
+00:11:44,133 --> 00:11:47,900
+work.
+
+426
+00:11:47,967 --> 00:11:49,734
+Now, investigators are now
+
+427
+00:11:49,800 --> 00:11:51,133
+looking into this situation, and
+
+428
+00:11:51,200 --> 00:11:53,000
+while there have been no charges
+
+429
+00:11:53,066 --> 00:11:53,900
+so far, the whole thing does not
+
+430
+00:11:53,967 --> 00:11:59,467
+look good for the mayor.
+
+431
+00:11:59,533 --> 00:12:00,400
+And unless there is some very
+
+432
+00:12:00,467 --> 00:12:01,633
+good explanation that I can't
+
+433
+00:12:01,700 --> 00:12:02,633
+see and does not exist, it
+
+434
+00:12:02,700 --> 00:12:03,867
+might be better for her to read
+
+435
+00:12:03,934 --> 00:12:05,467
+the writing on the onesie and
+
+436
+00:12:05,533 --> 00:12:10,033
+walk, run, crawl, skip, dance,
+
+437
+00:12:10,100 --> 00:12:11,266
+her way out of office.
+
+438
+00:12:11,333 --> 00:12:12,533
+And now this.
+
+439
+00:12:12,600 --> 00:12:13,700
+Announcer: And now, a
+
+440
+00:12:13,767 --> 00:12:14,567
+tribute to the secret star of
+
+441
+00:12:14,633 --> 00:12:17,433
+divorce court.
+
+442
+00:12:17,500 --> 00:12:20,100
+Mr. Marino, did your wife
+
+443
+00:12:20,166 --> 00:12:22,233
+catch you with your situation
+
+444
+00:12:22,300 --> 00:12:22,900
+out on your phone, texting it to
+
+445
+00:12:22,967 --> 00:12:24,200
+other people?
+
+446
+00:12:24,266 --> 00:12:27,333
+It couldn't have been me.
+
+447
+00:12:27,400 --> 00:12:29,033
+I don't know.
+
+448
+00:12:29,100 --> 00:12:32,333
+I was like, well, I knew she
+
+449
+00:12:32,400 --> 00:12:35,900
+found out.
+
+450
+00:12:35,967 --> 00:12:36,800
+I'm just going to make up an
+
+451
+00:12:36,867 --> 00:12:37,900
+age.
+
+452
+00:12:37,967 --> 00:12:40,200
+We hang out all the time, so
+
+453
+00:12:40,266 --> 00:12:42,567
+I wouldn't remember...
+
+454
+00:12:42,633 --> 00:12:44,033
+I do tend to react that way,
+
+455
+00:12:44,100 --> 00:12:44,867
+because my feelings be hurt.
+
+456
+00:12:44,934 --> 00:12:45,633
+Because that's how large the
+
+457
+00:12:45,700 --> 00:12:47,000
+argument was throughout those
+
+458
+00:12:47,066 --> 00:12:47,767
+few days.
+
+459
+00:12:47,834 --> 00:12:49,100
+You should have known I was
+
+460
+00:12:49,166 --> 00:12:50,000
+going out with some other guy.
+
+461
+00:12:50,066 --> 00:12:51,800
+Right.
+
+462
+00:12:51,867 --> 00:12:58,934
+Because I feel...
+
+463
+00:12:59,000 --> 00:12:59,934
+there's no "I guess."
+
+464
+00:13:00,000 --> 00:13:00,600
+If I say something...
+
+465
+00:13:00,667 --> 00:13:01,266
+a lot of the conversation was
+
+466
+00:13:01,333 --> 00:13:03,300
+because...
+
+467
+00:13:03,367 --> 00:13:08,266
+I did do that.
+
+468
+00:13:08,333 --> 00:13:09,433
+But that's not how we started.
+
+469
+00:13:09,500 --> 00:13:11,233
+She was in the backseat with
+
+470
+00:13:11,300 --> 00:13:12,500
+two dudes in the car.
+
+471
+00:13:12,567 --> 00:13:13,133
+Oh!
+
+472
+00:13:13,200 --> 00:13:13,967
+John: Moving on.
+
+473
+00:13:14,033 --> 00:13:16,600
+Our main story tonight concerns
+
+474
+00:13:16,667 --> 00:13:18,100
+mobile homes.
+
+475
+00:13:18,166 --> 00:13:18,600
+Perfected by humans, but
+
+476
+00:13:18,667 --> 00:13:19,233
+invented by snails.
+
+477
+00:13:19,333 --> 00:13:21,700
+There are many misconceptions
+
+478
+00:13:21,767 --> 00:13:22,500
+about mobile, or manufactured
+
+479
+00:13:22,567 --> 00:13:23,166
+homes.
+
+480
+00:13:23,233 --> 00:13:24,567
+For instance, right now, you may
+
+481
+00:13:24,600 --> 00:13:25,133
+be picturing something that
+
+482
+00:13:25,166 --> 00:13:25,834
+looks like this.
+
+483
+00:13:25,900 --> 00:13:26,867
+But for decades, the industry
+
+484
+00:13:26,934 --> 00:13:28,200
+has been trying to change that
+
+485
+00:13:28,266 --> 00:13:28,767
+image, running ads like this
+
+486
+00:13:28,834 --> 00:13:30,734
+one:
+
+487
+00:13:30,800 --> 00:13:31,767
+You bought a mobile home?
+
+488
+00:13:31,834 --> 00:13:33,700
+♪ ♪
+
+489
+00:13:33,767 --> 00:13:35,166
+Today's manufactured home.
+
+490
+00:13:35,233 --> 00:13:38,967
+You bought a house!
+
+491
+00:13:39,033 --> 00:13:40,467
+Factory-built quality at a
+
+492
+00:13:40,533 --> 00:13:42,166
+price that makes sense.
+
+493
+00:13:42,233 --> 00:13:45,567
+We have three big bedrooms.
+
+494
+00:13:45,633 --> 00:13:47,033
+I love it.
+
+495
+00:13:47,100 --> 00:13:48,834
+It's a manufactured home.
+
+496
+00:13:48,900 --> 00:13:50,367
+Today's manufactured home.
+
+497
+00:13:50,433 --> 00:13:52,166
+You bought a house.
+
+498
+00:13:52,233 --> 00:13:55,734
+John: Okay.
+
+499
+00:13:55,800 --> 00:13:57,233
+I think I get it.
+
+500
+00:13:57,300 --> 00:13:57,834
+But for the record, that sexy
+
+501
+00:13:57,900 --> 00:13:58,400
+saxophone riff would make a
+
+502
+00:13:58,467 --> 00:13:59,000
+reveal of anything seem good.
+
+503
+00:13:59,066 --> 00:14:00,333
+Here, I'll show you.
+
+504
+00:14:00,400 --> 00:14:01,600
+You bought a taxidermy fox?
+
+505
+00:14:01,667 --> 00:14:04,367
+♪ ♪
+
+506
+00:14:04,433 --> 00:14:08,433
+You bought a fox!
+
+507
+00:14:08,500 --> 00:14:12,533
+But it is true, it can be
+
+508
+00:14:12,600 --> 00:14:13,567
+genuinely hard to tell the
+
+509
+00:14:13,633 --> 00:14:14,467
+difference between manufactured
+
+510
+00:14:14,533 --> 00:14:15,834
+homes and conventional homes.
+
+511
+00:14:15,900 --> 00:14:16,633
+Just like it's hard to tell the
+
+512
+00:14:16,700 --> 00:14:17,467
+difference between
+
+513
+00:14:17,533 --> 00:14:18,467
+Jessica chastain and
+
+514
+00:14:18,533 --> 00:14:19,834
+Bryce Dallas Howard.
+
+515
+00:14:19,900 --> 00:14:21,767
+The difference is, like a mobile
+
+516
+00:14:21,834 --> 00:14:24,266
+home, Bryce Dallas Howard is
+
+517
+00:14:24,333 --> 00:14:26,066
+assembled off-site then placed
+
+518
+00:14:26,133 --> 00:14:26,600
+on wheels and moved to her
+
+519
+00:14:26,667 --> 00:14:28,467
+permanent location.
+
+520
+00:14:28,533 --> 00:14:29,734
+Around 20 million people live in
+
+521
+00:14:29,800 --> 00:14:31,233
+mobile homes.
+
+522
+00:14:31,300 --> 00:14:32,734
+That's roughly 1 in 18
+
+523
+00:14:32,800 --> 00:14:33,934
+Americans, and they're one of
+
+524
+00:14:34,000 --> 00:14:35,166
+America's last affordable
+
+525
+00:14:35,233 --> 00:14:36,433
+housing options, costing up to
+
+526
+00:14:36,500 --> 00:14:37,567
+50% less per square foot than a
+
+527
+00:14:37,633 --> 00:14:44,333
+conventional house.
+
+528
+00:14:44,400 --> 00:14:45,700
+Which is great, but in recent
+
+529
+00:14:45,767 --> 00:14:46,867
+years, some of the biggest
+
+530
+00:14:46,934 --> 00:14:47,567
+investors in America
+
+531
+00:14:47,633 --> 00:14:48,400
+have moved into this industry.
+
+532
+00:14:48,467 --> 00:14:49,367
+According to one new report,
+
+533
+00:14:49,433 --> 00:14:50,667
+over 100,000 home sites,
+
+534
+00:14:50,734 --> 00:14:51,533
+traditionally run by mom-and-pop
+
+535
+00:14:51,600 --> 00:14:52,767
+businesses, are now owned or
+
+536
+00:14:52,834 --> 00:14:53,800
+partly owned by private equity
+
+537
+00:14:53,867 --> 00:14:55,166
+firms like these.
+
+538
+00:14:55,233 --> 00:14:56,533
+So the homes of some of the
+
+539
+00:14:56,600 --> 00:14:58,100
+poorest people in America are
+
+540
+00:14:58,200 --> 00:14:59,433
+getting snapped up by some of
+
+541
+00:14:59,500 --> 00:15:01,133
+the richest people in America.
+
+542
+00:15:01,200 --> 00:15:01,834
+And luckily, there've been no
+
+543
+00:15:01,900 --> 00:15:04,800
+problems whatsoever.
+
+544
+00:15:04,867 --> 00:15:06,567
+Except I'm obviously kidding.
+
+545
+00:15:06,633 --> 00:15:09,367
+It's going terribly.
+
+546
+00:15:09,433 --> 00:15:10,367
+If you want to hear me lie about
+
+547
+00:15:10,433 --> 00:15:11,367
+stories to make you feel better,
+
+548
+00:15:11,433 --> 00:15:12,800
+you might enjoy our spinoff
+
+549
+00:15:12,867 --> 00:15:14,333
+show, "everything's fine!
+
+550
+00:15:14,400 --> 00:15:15,400
+With John Oliver."
+
+551
+00:15:15,467 --> 00:15:16,567
+Did you know Isis is just
+
+552
+00:15:16,633 --> 00:15:18,300
+hamsters?
+
+553
+00:15:18,367 --> 00:15:19,133
+This little terrorist's name is
+
+554
+00:15:19,200 --> 00:15:20,867
+dumpling, and he doesn't even
+
+555
+00:15:20,934 --> 00:15:26,934
+know how to use his gun!
+
+556
+00:15:27,000 --> 00:15:27,633
+Sadly, back in the real world,
+
+557
+00:15:27,700 --> 00:15:29,900
+the truth is, the rise of
+
+558
+00:15:29,967 --> 00:15:30,767
+big-money investors in mobile
+
+559
+00:15:30,834 --> 00:15:31,867
+homes has led to a corresponding
+
+560
+00:15:31,934 --> 00:15:32,967
+spike in rents, fees, and
+
+561
+00:15:33,033 --> 00:15:34,400
+local-news stories like these:
+
+562
+00:15:34,467 --> 00:15:35,567
+People living at a local
+
+563
+00:15:35,633 --> 00:15:36,934
+mobile home park outraged over
+
+564
+00:15:37,000 --> 00:15:39,233
+the sharp increase in lot rent.
+
+565
+00:15:39,300 --> 00:15:41,066
+Rents were raised by as much
+
+566
+00:15:41,133 --> 00:15:43,133
+as 36%.
+
+567
+00:15:43,200 --> 00:15:44,200
+Rents were raised by nearly
+
+568
+00:15:44,266 --> 00:15:45,900
+60%.
+
+569
+00:15:45,967 --> 00:15:47,266
+Ella karcher lives on a fixed
+
+570
+00:15:47,333 --> 00:15:48,333
+income.
+
+571
+00:15:48,400 --> 00:15:49,734
+Her lot rent's just gone up, and
+
+572
+00:15:49,800 --> 00:15:50,433
+it all adds up to a bill she
+
+573
+00:15:50,500 --> 00:15:51,667
+can't afford.
+
+574
+00:15:51,734 --> 00:15:53,266
+Now it's a matter of, "okay,
+
+575
+00:15:53,333 --> 00:15:55,867
+now which medication am I going
+
+576
+00:15:55,934 --> 00:15:57,200
+to take and half so that I can
+
+577
+00:15:57,266 --> 00:15:58,166
+make it stretch out a little bit
+
+578
+00:15:58,233 --> 00:16:04,800
+longer."
+
+579
+00:16:04,867 --> 00:16:05,333
+John: That's clearly
+
+580
+00:16:05,400 --> 00:16:05,867
+horrible.
+
+581
+00:16:05,934 --> 00:16:06,834
+Nobody should be made to stretch
+
+582
+00:16:06,900 --> 00:16:07,633
+out medicine.
+
+583
+00:16:07,700 --> 00:16:08,600
+It's sad enough when you stretch
+
+584
+00:16:08,667 --> 00:16:09,533
+out your almost-empty bottle of
+
+585
+00:16:09,600 --> 00:16:10,133
+shampoo by adding a bunch of
+
+586
+00:16:10,200 --> 00:16:10,967
+water.
+
+587
+00:16:11,033 --> 00:16:11,667
+And if you didn't relate to that
+
+588
+00:16:11,734 --> 00:16:12,834
+joke, you haven't suffered a
+
+589
+00:16:12,900 --> 00:16:15,133
+single day in your life.
+
+590
+00:16:15,200 --> 00:16:16,400
+So tonight, let's take a look at
+
+591
+00:16:16,467 --> 00:16:18,333
+the mobile home industry.
+
+592
+00:16:18,400 --> 00:16:19,767
+And let's start with the company
+
+593
+00:16:19,834 --> 00:16:21,633
+that sells more mobile homes
+
+594
+00:16:21,700 --> 00:16:22,934
+than any other, Clayton homes,
+
+595
+00:16:23,000 --> 00:16:24,433
+controlled by one of the richest
+
+596
+00:16:24,500 --> 00:16:26,467
+men in America, Warren buffett.
+
+597
+00:16:26,533 --> 00:16:29,033
+Although the company's ads used
+
+598
+00:16:29,100 --> 00:16:30,233
+to feature a more down-home
+
+599
+00:16:30,300 --> 00:16:31,266
+spokesman.
+
+600
+00:16:31,333 --> 00:16:32,800
+What do I know about
+
+601
+00:16:32,867 --> 00:16:33,667
+Clayton homes?
+
+602
+00:16:33,734 --> 00:16:34,934
+I know they're built right here
+
+603
+00:16:35,000 --> 00:16:36,367
+in America.
+
+604
+00:16:36,433 --> 00:16:37,133
+And they know the difference
+
+605
+00:16:37,200 --> 00:16:42,200
+between a house and a home.
+
+606
+00:16:42,266 --> 00:16:43,233
+Hey, miss Kay, a home is where
+
+607
+00:16:43,300 --> 00:16:44,467
+you get your famous sweet potato
+
+608
+00:16:44,533 --> 00:16:45,266
+pie, honey.
+
+609
+00:16:45,333 --> 00:16:47,567
+And you all know how we all
+
+610
+00:16:47,633 --> 00:16:48,433
+try to make miss Kay happy,
+
+611
+00:16:48,500 --> 00:16:49,900
+happy, happy.
+
+612
+00:16:49,967 --> 00:16:50,233
+Clayton homes.
+
+613
+00:16:50,300 --> 00:16:50,734
+Good call.
+
+614
+00:16:50,800 --> 00:16:52,734
+[Duck call]
+
+615
+00:16:52,800 --> 00:16:54,033
+John: Judging by that creepy
+
+616
+00:16:54,100 --> 00:16:55,800
+delivery, there is no way that
+
+617
+00:16:55,867 --> 00:16:56,867
+"getting her famous sweet potato
+
+618
+00:16:56,934 --> 00:16:58,667
+pie" is not also code for some
+
+619
+00:16:58,734 --> 00:17:01,767
+kind of disgusting sex act.
+
+620
+00:17:01,834 --> 00:17:03,233
+It probably means miss Kay
+
+621
+00:17:03,300 --> 00:17:04,500
+smearing pie filling on his
+
+622
+00:17:04,567 --> 00:17:06,166
+ball sack while a live duck
+
+623
+00:17:06,233 --> 00:17:09,333
+scrapes it off with its bill.
+
+624
+00:17:09,400 --> 00:17:10,033
+And if it does, good call.
+
+625
+00:17:10,100 --> 00:17:12,800
+[Duck call]
+
+626
+00:17:12,867 --> 00:17:14,967
+But the key difference between a
+
+627
+00:17:15,033 --> 00:17:17,233
+mobile and conventional home has
+
+628
+00:17:17,300 --> 00:17:18,367
+nothing to do with pie.
+
+629
+00:17:18,433 --> 00:17:20,367
+It has to do with how it retains
+
+630
+00:17:20,433 --> 00:17:21,367
+its value.
+
+631
+00:17:21,433 --> 00:17:22,967
+Just listen to finance guru
+
+632
+00:17:23,033 --> 00:17:24,166
+Dave Ramsey give his no-nonsense
+
+633
+00:17:24,233 --> 00:17:25,767
+take on whether or not you
+
+634
+00:17:25,834 --> 00:17:27,133
+should buy one.
+
+635
+00:17:27,200 --> 00:17:28,133
+Mobile homes go down in
+
+636
+00:17:28,200 --> 00:17:29,166
+value.
+
+637
+00:17:29,233 --> 00:17:30,467
+It's the only thing that you
+
+638
+00:17:30,533 --> 00:17:31,900
+own, that you live in, that goes
+
+639
+00:17:31,967 --> 00:17:34,867
+down in value.
+
+640
+00:17:34,934 --> 00:17:36,767
+Even if you buy dirt under it
+
+641
+00:17:36,834 --> 00:17:38,867
+that goes up in value more than
+
+642
+00:17:38,934 --> 00:17:39,567
+it goes down in value so it
+
+643
+00:17:39,633 --> 00:17:40,867
+appears you didn't lose money,
+
+644
+00:17:40,934 --> 00:17:42,400
+you lost money.
+
+645
+00:17:42,467 --> 00:17:43,300
+You buy a $50,000 mobile home,
+
+646
+00:17:43,367 --> 00:17:45,033
+in a few years, it's a $10,000
+
+647
+00:17:45,133 --> 00:17:46,333
+mobile home.
+
+648
+00:17:46,400 --> 00:17:47,300
+I mean, cars go down in value,
+
+649
+00:17:47,367 --> 00:17:48,400
+mobile homes go down in value.
+
+650
+00:17:48,467 --> 00:17:50,700
+It's a car you sleep in.
+
+651
+00:17:50,767 --> 00:17:52,000
+John: I gotta say, I find the
+
+652
+00:17:52,066 --> 00:17:53,133
+negativity of his tone genuinely
+
+653
+00:17:53,200 --> 00:17:54,734
+refreshing there.
+
+654
+00:17:54,800 --> 00:17:56,133
+That guy should replace
+
+655
+00:17:56,200 --> 00:17:56,900
+Jim cramer on his show.
+
+656
+00:17:56,967 --> 00:17:58,133
+No more running around excitedly
+
+657
+00:17:58,200 --> 00:17:59,667
+pressing buttons like a little
+
+658
+00:17:59,734 --> 00:18:01,467
+boy at an arcade, just an angry
+
+659
+00:18:01,533 --> 00:18:02,400
+old grump hunched over a desk
+
+660
+00:18:02,467 --> 00:18:04,467
+telling you you're going to lose
+
+661
+00:18:04,533 --> 00:18:06,834
+money.
+
+662
+00:18:06,900 --> 00:18:08,166
+So mobile homes may be a
+
+663
+00:18:08,233 --> 00:18:09,500
+terrible investment for people
+
+664
+00:18:09,567 --> 00:18:10,567
+buying them, but they've been an
+
+665
+00:18:10,633 --> 00:18:11,800
+incredible investment for
+
+666
+00:18:11,867 --> 00:18:13,633
+Warren buffett.
+
+667
+00:18:13,700 --> 00:18:14,967
+Clayton homes generated pre-tax
+
+668
+00:18:15,033 --> 00:18:16,367
+earnings of $911 million last
+
+669
+00:18:16,433 --> 00:18:18,400
+year, and they've done that not
+
+670
+00:18:18,467 --> 00:18:20,367
+just by selling homes but by
+
+671
+00:18:20,433 --> 00:18:21,567
+financing them as well, because
+
+672
+00:18:21,633 --> 00:18:23,033
+instead of being financed with
+
+673
+00:18:23,100 --> 00:18:25,033
+mortgages, mobile homes tend to
+
+674
+00:18:25,100 --> 00:18:26,433
+be bought with high-interest,
+
+675
+00:18:26,500 --> 00:18:28,400
+shorter-term chattel loans, the
+
+676
+00:18:28,467 --> 00:18:29,767
+kind you'd use to buy a car or a
+
+677
+00:18:29,834 --> 00:18:31,600
+TV.
+
+678
+00:18:31,667 --> 00:18:33,133
+And an investigation a few years
+
+679
+00:18:33,200 --> 00:18:34,700
+back found Clayton relies on
+
+680
+00:18:34,767 --> 00:18:36,200
+predatory sales practices,
+
+681
+00:18:36,266 --> 00:18:38,033
+exorbitant fees, and interest
+
+682
+00:18:38,100 --> 00:18:39,967
+rates that can exceed 15%,
+
+683
+00:18:40,033 --> 00:18:41,233
+trapping many buyers in loans
+
+684
+00:18:41,300 --> 00:18:42,934
+they can't afford.
+
+685
+00:18:43,000 --> 00:18:45,100
+Now, Clayton strenuously denies
+
+686
+00:18:45,166 --> 00:18:46,600
+all that, saying the report was
+
+687
+00:18:46,667 --> 00:18:48,834
+based on isolated incidents, and
+
+688
+00:18:48,900 --> 00:18:50,200
+its customers report high levels
+
+689
+00:18:50,266 --> 00:18:52,000
+of satisfaction.
+
+690
+00:18:52,066 --> 00:18:54,367
+Although I will point out that
+
+691
+00:18:54,433 --> 00:18:56,266
+one of those isolated incidents
+
+692
+00:18:56,333 --> 00:18:58,166
+was this call a Clayton customer
+
+693
+00:18:58,233 --> 00:18:59,000
+got when she fell behind on
+
+694
+00:18:59,066 --> 00:19:00,367
+payments.
+
+695
+00:19:00,433 --> 00:19:01,567
+Why don't you try something
+
+696
+00:19:01,633 --> 00:19:02,533
+to come up with the money by the
+
+697
+00:19:02,600 --> 00:19:04,734
+31st?
+
+698
+00:19:04,800 --> 00:19:06,000
+What should you... what do
+
+699
+00:19:06,066 --> 00:19:07,600
+you suggest except for the
+
+700
+00:19:07,667 --> 00:19:08,667
+things that you already suggest,
+
+701
+00:19:08,734 --> 00:19:10,867
+which doesn't work?
+
+702
+00:19:10,934 --> 00:19:12,600
+Donate plasma or donate
+
+703
+00:19:12,667 --> 00:19:13,700
+blood.
+
+704
+00:19:13,767 --> 00:19:14,667
+Really?
+
+705
+00:19:14,734 --> 00:19:16,300
+I'ma get $800 for that?
+
+706
+00:19:16,367 --> 00:19:18,066
+No.
+
+707
+00:19:18,133 --> 00:19:19,100
+But that's one way to come up
+
+708
+00:19:19,166 --> 00:19:20,500
+with a little bit of money,
+
+709
+00:19:20,567 --> 00:19:21,266
+though.
+
+710
+00:19:21,333 --> 00:19:22,767
+John: Holy shit.
+
+711
+00:19:22,834 --> 00:19:24,967
+"Go donate blood."
+
+712
+00:19:25,033 --> 00:19:26,500
+I guess one way to get your
+
+713
+00:19:26,567 --> 00:19:27,900
+customers to report high levels
+
+714
+00:19:27,967 --> 00:19:29,300
+of satisfaction is to make sure
+
+715
+00:19:29,367 --> 00:19:30,734
+they're all feeling light-headed
+
+716
+00:19:30,800 --> 00:19:31,500
+after you literally bleed them
+
+717
+00:19:31,567 --> 00:19:33,533
+fucking dry.
+
+718
+00:19:33,600 --> 00:19:34,700
+But one of the biggest problems
+
+719
+00:19:34,767 --> 00:19:36,367
+here isn't even to do with how
+
+720
+00:19:36,433 --> 00:19:38,300
+you pay for a mobile home or how
+
+721
+00:19:38,367 --> 00:19:39,867
+quickly it loses value.
+
+722
+00:19:39,934 --> 00:19:41,433
+It's where you put it.
+
+723
+00:19:41,500 --> 00:19:42,500
+Because around a third of
+
+724
+00:19:42,567 --> 00:19:44,033
+mobile home dwellers own their
+
+725
+00:19:44,100 --> 00:19:45,867
+homes but don't own the land
+
+726
+00:19:45,934 --> 00:19:47,667
+underneath it.
+
+727
+00:19:47,734 --> 00:19:48,800
+That's because they live in
+
+728
+00:19:48,867 --> 00:19:49,834
+mobile home parks and pay rent
+
+729
+00:19:49,900 --> 00:19:54,133
+on that land to the park owner.
+
+730
+00:19:54,200 --> 00:19:55,266
+But in recent years, large
+
+731
+00:19:55,333 --> 00:19:56,266
+investors have been snatching
+
+732
+00:19:56,333 --> 00:19:57,834
+those parks up and either
+
+733
+00:19:57,900 --> 00:19:59,367
+tearing them down or ratcheting
+
+734
+00:19:59,433 --> 00:20:00,667
+up rent and fees, as these women
+
+735
+00:20:00,734 --> 00:20:03,100
+experienced first-hand.
+
+736
+00:20:03,166 --> 00:20:04,433
+The ingdol family decided to
+
+737
+00:20:04,500 --> 00:20:06,700
+sell the park and they sold it
+
+738
+00:20:06,767 --> 00:20:09,467
+to the Carlyle group.
+
+739
+00:20:09,533 --> 00:20:11,166
+First of all, Carlyle started
+
+740
+00:20:11,233 --> 00:20:13,266
+off with an immediate 8%
+
+741
+00:20:13,333 --> 00:20:14,800
+increase in space rent, so that
+
+742
+00:20:14,867 --> 00:20:16,900
+was a threat to most of us who
+
+743
+00:20:16,967 --> 00:20:18,600
+are living on fixed income.
+
+744
+00:20:18,667 --> 00:20:20,533
+I don't know what's gonna
+
+745
+00:20:20,600 --> 00:20:22,333
+happen.
+
+746
+00:20:22,400 --> 00:20:22,834
+I may be forced to leave
+
+747
+00:20:22,900 --> 00:20:23,300
+everything.
+
+748
+00:20:23,367 --> 00:20:24,700
+My doctors, my friends.
+
+749
+00:20:24,767 --> 00:20:25,734
+The life I've known here.
+
+750
+00:20:25,800 --> 00:20:26,433
+Even though I own my home.
+
+751
+00:20:26,500 --> 00:20:28,133
+John: It's true.
+
+752
+00:20:28,200 --> 00:20:29,767
+That woman may lose her home so
+
+753
+00:20:29,834 --> 00:20:31,333
+the Carlyle group, an investment
+
+754
+00:20:31,400 --> 00:20:33,533
+firm with $216 billion in
+
+755
+00:20:33,600 --> 00:20:35,734
+assets, can make more money for
+
+756
+00:20:35,800 --> 00:20:38,667
+shareholders.
+
+757
+00:20:38,734 --> 00:20:40,000
+If the concept of "income
+
+758
+00:20:40,066 --> 00:20:41,600
+inequality" came to life, that
+
+759
+00:20:41,667 --> 00:20:42,600
+is the sentence it would scream
+
+760
+00:20:42,667 --> 00:20:45,000
+when it orgasmed.
+
+761
+00:20:45,066 --> 00:20:46,333
+Now, Carlyle... Carlyle insists
+
+762
+00:20:46,400 --> 00:20:48,066
+the price hikes were to pay for
+
+763
+00:20:48,133 --> 00:20:49,367
+park improvements... which makes
+
+764
+00:20:49,433 --> 00:20:51,233
+complete sense.
+
+765
+00:20:51,300 --> 00:20:52,667
+If you asked these fuckers why
+
+766
+00:20:52,734 --> 00:20:55,433
+they got into private equity,
+
+767
+00:20:55,500 --> 00:20:56,400
+I'm sure they'd say "to break
+
+768
+00:20:56,467 --> 00:20:57,734
+even on investments in the
+
+769
+00:20:57,800 --> 00:20:59,033
+beautification of affordable
+
+770
+00:20:59,100 --> 00:21:00,834
+housing.
+
+771
+00:21:00,900 --> 00:21:06,934
+Why else would we do this?"
+
+772
+00:21:07,000 --> 00:21:08,233
+I also apparently have to tell
+
+773
+00:21:08,300 --> 00:21:10,734
+you that they have a safety net
+
+774
+00:21:10,800 --> 00:21:12,934
+program for low income
+
+775
+00:21:13,000 --> 00:21:13,934
+residents, although it only
+
+776
+00:21:14,000 --> 00:21:16,567
+applies for 81 of them, although
+
+777
+00:21:16,633 --> 00:21:19,500
+it only attaches 3% of people,
+
+778
+00:21:19,567 --> 00:21:22,233
+just like the one they use as my
+
+779
+00:21:22,300 --> 00:21:23,600
+favorite circus, a pile of dead
+
+780
+00:21:23,667 --> 00:21:25,667
+trapeze artists.
+
+781
+00:21:25,734 --> 00:21:26,967
+It's fun for the whole family!
+
+782
+00:21:27,033 --> 00:21:27,600
+Unless you're the family of one
+
+783
+00:21:27,667 --> 00:21:28,667
+of those trapeze artists.
+
+784
+00:21:28,734 --> 00:21:29,767
+And if you're thinking, "well
+
+785
+00:21:29,834 --> 00:21:30,367
+look, that's terrible, but if
+
+786
+00:21:30,433 --> 00:21:31,333
+those women live in mobile
+
+787
+00:21:31,400 --> 00:21:31,867
+homes, why don't they just
+
+788
+00:21:31,934 --> 00:21:32,667
+move?"
+
+789
+00:21:32,734 --> 00:21:34,100
+There's a problem with that, as
+
+790
+00:21:34,166 --> 00:21:34,667
+one of those women will tell
+
+791
+00:21:34,734 --> 00:21:35,133
+you.
+
+792
+00:21:35,200 --> 00:21:36,567
+Although they call them
+
+793
+00:21:36,633 --> 00:21:38,133
+mobile homes, it would cost
+
+794
+00:21:38,200 --> 00:21:39,333
+$20,000 to move this home out of
+
+795
+00:21:39,400 --> 00:21:45,800
+here.
+
+796
+00:21:45,867 --> 00:21:46,467
+Plus, it would... once you move
+
+797
+00:21:46,533 --> 00:21:47,700
+them in and they settle, moving
+
+798
+00:21:47,767 --> 00:21:48,300
+them out's gonna help destroy
+
+799
+00:21:48,367 --> 00:21:48,967
+them.
+
+800
+00:21:49,033 --> 00:21:50,033
+John: She's right.
+
+801
+00:21:50,100 --> 00:21:51,233
+It can cost thousands of dollars
+
+802
+00:21:51,333 --> 00:21:52,367
+to move mobile homes, if you can
+
+803
+00:21:52,433 --> 00:21:54,066
+move them at all.
+
+804
+00:21:54,100 --> 00:21:55,033
+That's why 80% of mobile homes
+
+805
+00:21:55,100 --> 00:21:56,600
+never move.
+
+806
+00:21:56,667 --> 00:21:58,333
+So mobile homes are mobile about
+
+807
+00:21:58,400 --> 00:21:59,367
+as much as a king crab is
+
+808
+00:21:59,433 --> 00:22:02,600
+actually a king.
+
+809
+00:22:02,667 --> 00:22:04,300
+It's just not... except in some
+
+810
+00:22:04,367 --> 00:22:05,967
+parts of Alaska, where it wields
+
+811
+00:22:06,033 --> 00:22:07,000
+the power of a despot... but
+
+812
+00:22:07,066 --> 00:22:08,533
+even then, it constitutionally
+
+813
+00:22:08,600 --> 00:22:09,066
+shares power with
+
+814
+00:22:09,133 --> 00:22:11,166
+moose parliament.
+
+815
+00:22:11,233 --> 00:22:13,834
+So "king" is really a more
+
+816
+00:22:13,900 --> 00:22:14,233
+ceremonial title.
+
+817
+00:22:14,300 --> 00:22:16,433
+Alaska is a fascinating place.
+
+818
+00:22:16,500 --> 00:22:17,834
+And this lack of mobility for
+
+819
+00:22:17,900 --> 00:22:19,266
+tenants is actually part of the
+
+820
+00:22:19,333 --> 00:22:20,834
+attraction for big investors.
+
+821
+00:22:20,900 --> 00:22:22,333
+And to see just how cynical and
+
+822
+00:22:22,400 --> 00:22:25,000
+predatory the industry can be,
+
+823
+00:22:25,066 --> 00:22:26,934
+meet frank rolfe.
+
+824
+00:22:27,000 --> 00:22:27,967
+His company is one of the
+
+825
+00:22:28,033 --> 00:22:29,633
+largest park operators in the
+
+826
+00:22:29,700 --> 00:22:31,100
+us, controlling over 30,000 home
+
+827
+00:22:31,166 --> 00:22:32,433
+sites in 25 states.
+
+828
+00:22:32,500 --> 00:22:34,300
+Rolfe is an evangelist for the
+
+829
+00:22:34,367 --> 00:22:35,734
+wonders of mobile home park
+
+830
+00:22:35,800 --> 00:22:37,333
+investing.
+
+831
+00:22:37,400 --> 00:22:38,667
+Just look at this uplifting
+
+832
+00:22:38,734 --> 00:22:39,567
+message that he made ahead of
+
+833
+00:22:39,633 --> 00:22:41,133
+the 2012 election about what it
+
+834
+00:22:41,200 --> 00:22:42,233
+would mean for his industry,
+
+835
+00:22:42,300 --> 00:22:43,266
+taped, for some reason, in front
+
+836
+00:22:43,333 --> 00:22:44,967
+of a shitty green screen oval
+
+837
+00:22:45,033 --> 00:22:46,667
+office.
+
+838
+00:22:46,734 --> 00:22:48,266
+If mitt romney wins, things
+
+839
+00:22:48,333 --> 00:22:54,567
+are good.
+
+840
+00:22:54,633 --> 00:22:56,200
+And if Barack Obama wins, things
+
+841
+00:22:56,266 --> 00:22:56,467
+are good.
+
+842
+00:22:56,533 --> 00:22:57,400
+You see, it doesn't much matter
+
+843
+00:22:57,467 --> 00:22:58,100
+who wins the election.
+
+844
+00:22:58,166 --> 00:22:59,166
+All that matters is that the
+
+845
+00:22:59,233 --> 00:23:00,567
+statistics show that Americans
+
+846
+00:23:00,633 --> 00:23:01,633
+will continue to get poorer in
+
+847
+00:23:01,700 --> 00:23:03,900
+that lower half of the
+
+848
+00:23:03,967 --> 00:23:05,133
+population.
+
+849
+00:23:05,200 --> 00:23:07,667
+John: Wow.
+
+850
+00:23:07,734 --> 00:23:08,767
+What president webcam is
+
+851
+00:23:08,834 --> 00:23:09,500
+essentially saying there is,
+
+852
+00:23:09,567 --> 00:23:10,667
+"no matter what happens, the
+
+853
+00:23:10,734 --> 00:23:11,333
+poor will suffer, and we will
+
+854
+00:23:11,400 --> 00:23:13,066
+feast on their rich marrow.
+
+855
+00:23:13,133 --> 00:23:14,033
+And, as you can see, it's casual
+
+856
+00:23:14,100 --> 00:23:16,233
+Friday here at the white house,
+
+857
+00:23:16,300 --> 00:23:17,533
+which is why I sit before you
+
+858
+00:23:17,600 --> 00:23:18,600
+looking like a divorced dad at a
+
+859
+00:23:18,667 --> 00:23:23,266
+parent-teacher conference."
+
+860
+00:23:23,333 --> 00:23:24,767
+Rolfe is shameless about the
+
+861
+00:23:24,834 --> 00:23:25,633
+degree to which his business
+
+862
+00:23:25,700 --> 00:23:27,133
+depends on having a captive
+
+863
+00:23:27,200 --> 00:23:28,734
+customer base, positively
+
+864
+00:23:28,800 --> 00:23:30,133
+comparing it to running a
+
+865
+00:23:30,200 --> 00:23:31,467
+waffle house where everyone is
+
+866
+00:23:31,533 --> 00:23:33,333
+chained to the booths, a concept
+
+867
+00:23:33,400 --> 00:23:35,133
+so deeply chilling, I think it
+
+868
+00:23:35,200 --> 00:23:35,967
+may have just inspired
+
+869
+00:23:36,033 --> 00:23:41,934
+Jordan peele's next movie.
+
+870
+00:23:42,000 --> 00:23:43,200
+Now you should know, rolfe
+
+871
+00:23:43,266 --> 00:23:43,800
+maintains that line was taken
+
+872
+00:23:43,867 --> 00:23:44,400
+out of context.
+
+873
+00:23:44,467 --> 00:23:45,033
+In fact, he has a whole page on
+
+874
+00:23:45,100 --> 00:23:45,934
+his website about it, claiming
+
+875
+00:23:46,000 --> 00:23:46,800
+he was just talking about the
+
+876
+00:23:46,867 --> 00:23:48,200
+"incredibly consistent revenues"
+
+877
+00:23:48,266 --> 00:23:50,400
+in mobile home parks.
+
+878
+00:23:50,467 --> 00:23:51,467
+So he wasn't suggesting that
+
+879
+00:23:51,533 --> 00:23:52,667
+he's a heartless person whose
+
+880
+00:23:52,734 --> 00:23:54,000
+customers are stuck there with
+
+881
+00:23:54,066 --> 00:23:54,533
+him holding all the cards
+
+882
+00:23:54,600 --> 00:23:55,667
+deciding for himself how high he
+
+883
+00:23:55,734 --> 00:23:58,266
+wants their rent to go.
+
+884
+00:23:58,333 --> 00:23:59,467
+To see him say that, you'd need
+
+885
+00:23:59,533 --> 00:24:01,200
+to enroll in his online
+
+886
+00:24:01,266 --> 00:24:02,800
+mobile home university, which we
+
+887
+00:24:02,867 --> 00:24:03,633
+did, and found seminars like
+
+888
+00:24:03,700 --> 00:24:08,367
+this:
+
+889
+00:24:08,433 --> 00:24:09,233
+What I've found, and again,
+
+890
+00:24:09,300 --> 00:24:13,300
+just as a heartless person, is
+
+891
+00:24:13,367 --> 00:24:14,333
+that, you know, the... the
+
+892
+00:24:14,400 --> 00:24:15,667
+customers are stuck there.
+
+893
+00:24:15,734 --> 00:24:16,233
+They don't have any option.
+
+894
+00:24:16,300 --> 00:24:16,834
+They can't afford to move the
+
+895
+00:24:16,900 --> 00:24:17,867
+trailer.
+
+896
+00:24:17,934 --> 00:24:19,367
+They don't have three grand.
+
+897
+00:24:19,433 --> 00:24:20,000
+So the only way they can... they
+
+898
+00:24:20,066 --> 00:24:20,834
+can object to your rent raise is
+
+899
+00:24:20,900 --> 00:24:22,300
+to walk off and leave the
+
+900
+00:24:22,367 --> 00:24:24,400
+trailer, in which case it
+
+901
+00:24:24,467 --> 00:24:25,133
+becomes abandoned property and
+
+902
+00:24:25,200 --> 00:24:26,133
+you recycle it... put another
+
+903
+00:24:26,200 --> 00:24:27,200
+person in it.
+
+904
+00:24:27,266 --> 00:24:28,266
+So you really hold all the
+
+905
+00:24:28,333 --> 00:24:29,133
+cards.
+
+906
+00:24:29,200 --> 00:24:29,767
+So the question is, what do you
+
+907
+00:24:29,834 --> 00:24:30,767
+want to do?
+
+908
+00:24:30,834 --> 00:24:31,500
+How high do you want to go?
+
+909
+00:24:31,567 --> 00:24:32,500
+John: Wow.
+
+910
+00:24:32,567 --> 00:24:33,233
+Usually when someone is that
+
+911
+00:24:33,300 --> 00:24:34,200
+contemptuous of poor people,
+
+912
+00:24:34,266 --> 00:24:37,133
+they're immediately visited by
+
+913
+00:24:37,200 --> 00:24:37,734
+the ghost of Christmas future.
+
+914
+00:24:37,800 --> 00:24:39,400
+Now, maybe... maybe rolfe will
+
+915
+00:24:39,467 --> 00:24:40,700
+claim that quote is out of
+
+916
+00:24:40,767 --> 00:24:41,934
+context too, and that he's not
+
+917
+00:24:42,000 --> 00:24:43,700
+arguing they're hostages.
+
+918
+00:24:43,767 --> 00:24:45,166
+To hear him say that, you need
+
+919
+00:24:45,233 --> 00:24:46,266
+to send away for rolfe's audio
+
+920
+00:24:46,333 --> 00:24:47,700
+seminar on running mobile home
+
+921
+00:24:47,767 --> 00:24:49,233
+parks, which we also did, and
+
+922
+00:24:49,300 --> 00:24:53,233
+found this:
+
+923
+00:24:53,300 --> 00:24:54,500
+One of the big drivers to
+
+924
+00:24:54,567 --> 00:24:55,734
+making money is the ability to
+
+925
+00:24:55,800 --> 00:24:57,166
+increase the rent.
+
+926
+00:24:57,233 --> 00:24:58,266
+If we didn't have them hostage,
+
+927
+00:24:58,333 --> 00:24:59,333
+if they weren't stuck in those
+
+928
+00:24:59,400 --> 00:25:01,066
+homes in the mobile home lots,
+
+929
+00:25:01,133 --> 00:25:01,767
+it would be a whole different
+
+930
+00:25:01,834 --> 00:25:02,667
+picture.
+
+931
+00:25:02,734 --> 00:25:04,100
+John: Frank rolfe's
+
+932
+00:25:04,166 --> 00:25:04,633
+mobile home university is
+
+933
+00:25:04,700 --> 00:25:05,333
+basically a crash course in how
+
+934
+00:25:05,400 --> 00:25:09,000
+to be an asshole.
+
+935
+00:25:09,066 --> 00:25:09,800
+Although having taken that
+
+936
+00:25:09,867 --> 00:25:10,533
+course, I'd argue that if that's
+
+937
+00:25:10,600 --> 00:25:11,333
+what you're looking for, save
+
+938
+00:25:11,400 --> 00:25:12,467
+your money and just follow
+
+939
+00:25:12,533 --> 00:25:13,467
+piers Morgan on Twitter for one
+
+940
+00:25:13,533 --> 00:25:18,200
+afternoon.
+
+941
+00:25:18,266 --> 00:25:19,433
+And, look, rolfe's course isn't
+
+942
+00:25:19,500 --> 00:25:21,233
+just online.
+
+943
+00:25:21,300 --> 00:25:23,200
+If you attend his mobile home
+
+944
+00:25:23,266 --> 00:25:24,433
+boot camp, he'll even take you
+
+945
+00:25:24,500 --> 00:25:25,967
+on a field trip tour of a park.
+
+946
+00:25:26,033 --> 00:25:26,533
+When you get to the park,
+
+947
+00:25:26,600 --> 00:25:27,633
+you'll be shocked and turned off
+
+948
+00:25:27,700 --> 00:25:28,800
+by, for example, the beach towel
+
+949
+00:25:28,867 --> 00:25:29,967
+in the window instead of an
+
+950
+00:25:30,033 --> 00:25:31,467
+actual curtain.
+
+951
+00:25:31,533 --> 00:25:33,400
+That doesn't mean anything.
+
+952
+00:25:33,467 --> 00:25:34,000
+What you gotta worry about are
+
+953
+00:25:34,066 --> 00:25:35,567
+the following items:
+
+954
+00:25:35,633 --> 00:25:36,967
+Infrastructure, density,
+
+955
+00:25:37,033 --> 00:25:37,800
+expense, age of home, and
+
+956
+00:25:37,867 --> 00:25:39,166
+location.
+
+957
+00:25:39,233 --> 00:25:40,200
+Got it?
+
+958
+00:25:40,266 --> 00:25:42,533
+What's going on?
+
+959
+00:25:42,600 --> 00:25:43,867
+They're teaching people about
+
+960
+00:25:43,934 --> 00:25:44,266
+mobile home parks.
+
+961
+00:25:44,333 --> 00:25:44,767
+Oh.
+
+962
+00:25:44,834 --> 00:25:45,633
+Yeah.
+
+963
+00:25:45,700 --> 00:25:47,233
+That's good.
+
+964
+00:25:47,300 --> 00:25:48,467
+John: No, it isn't, though.
+
+965
+00:25:48,533 --> 00:25:50,800
+It's really not good.
+
+966
+00:25:50,867 --> 00:25:51,400
+Telling that woman people are
+
+967
+00:25:51,467 --> 00:25:52,367
+just there to learn about
+
+968
+00:25:52,433 --> 00:25:53,567
+mobile home parks is like
+
+969
+00:25:53,633 --> 00:25:54,800
+telling a lobster people came to
+
+970
+00:25:54,867 --> 00:25:56,033
+the restaurant to learn about
+
+971
+00:25:56,100 --> 00:25:57,934
+crustacean habitats.
+
+972
+00:25:58,000 --> 00:25:59,300
+"Oh!
+
+973
+00:25:59,367 --> 00:26:00,567
+That's good!
+
+974
+00:26:00,633 --> 00:26:01,633
+Are those knives and forks to
+
+975
+00:26:01,700 --> 00:26:02,333
+help remove these tiny rubber
+
+976
+00:26:02,400 --> 00:26:03,300
+bands from my claws?"
+
+977
+00:26:03,333 --> 00:26:04,233
+No.
+
+978
+00:26:04,300 --> 00:26:05,834
+They're going to eat you.
+
+979
+00:26:05,867 --> 00:26:07,133
+So with that woman and many
+
+980
+00:26:07,200 --> 00:26:08,867
+mobile home residents like her
+
+981
+00:26:08,967 --> 00:26:10,133
+in danger of having their lives
+
+982
+00:26:10,233 --> 00:26:10,767
+turned upside down, it is worth
+
+983
+00:26:10,867 --> 00:26:11,633
+asking, is there anything that
+
+984
+00:26:11,700 --> 00:26:17,200
+can be done here?
+
+985
+00:26:17,266 --> 00:26:18,166
+Well, one potential solution is
+
+986
+00:26:18,233 --> 00:26:19,233
+for residents to band together
+
+987
+00:26:19,300 --> 00:26:20,900
+and buy their own park, keeping
+
+988
+00:26:20,967 --> 00:26:21,600
+it out of the hands of
+
+989
+00:26:21,667 --> 00:26:22,633
+speculators or developers.
+
+990
+00:26:22,700 --> 00:26:23,567
+And while that sounds inherently
+
+991
+00:26:23,633 --> 00:26:24,967
+like a long shot, there are
+
+992
+00:26:25,033 --> 00:26:25,567
+nonprofit groups that have had
+
+993
+00:26:25,633 --> 00:26:26,633
+real success in helping tenants
+
+994
+00:26:26,700 --> 00:26:28,300
+get financing to do just that.
+
+995
+00:26:28,367 --> 00:26:29,500
+What would help is to have laws
+
+996
+00:26:29,567 --> 00:26:30,834
+in every state that give
+
+997
+00:26:30,900 --> 00:26:31,934
+residents the right of first
+
+998
+00:26:32,000 --> 00:26:34,533
+refusal and time to raise funds
+
+999
+00:26:34,600 --> 00:26:36,567
+if the current owner plans to
+
+1000
+00:26:36,633 --> 00:26:37,800
+sell.
+
+1001
+00:26:37,867 --> 00:26:38,867
+But until laws like that are put
+
+1002
+00:26:38,934 --> 00:26:40,900
+in place, which there absolutely
+
+1003
+00:26:40,967 --> 00:26:42,533
+should be, there are some key
+
+1004
+00:26:42,600 --> 00:26:43,800
+things to bear in mind: If you
+
+1005
+00:26:43,867 --> 00:26:44,633
+want to rent a mobile home,
+
+1006
+00:26:44,700 --> 00:26:46,066
+fine.
+
+1007
+00:26:46,133 --> 00:26:47,033
+If you can afford to buy one and
+
+1008
+00:26:47,100 --> 00:26:48,367
+put it on land that you own,
+
+1009
+00:26:48,433 --> 00:26:50,166
+fine.
+
+1010
+00:26:50,233 --> 00:26:51,600
+But buying a mobile home and
+
+1011
+00:26:51,667 --> 00:26:53,266
+renting the land underneath it
+
+1012
+00:26:53,333 --> 00:26:56,100
+can be financially catastrophic.
+
+1013
+00:26:56,166 --> 00:26:57,633
+And it is very important that
+
+1014
+00:26:57,700 --> 00:26:58,700
+anyone considering doing that
+
+1015
+00:26:58,767 --> 00:27:02,734
+knows the risks involved.
+
+1016
+00:27:02,800 --> 00:27:03,367
+And I'll tell you what would've
+
+1017
+00:27:03,433 --> 00:27:04,133
+been helpful all along, if the
+
+1018
+00:27:04,200 --> 00:27:05,633
+marketing for these homes had
+
+1019
+00:27:05,700 --> 00:27:11,367
+always made those risks clear.
+
+1020
+00:27:11,433 --> 00:27:12,400
+You bought a mobile home?
+
+1021
+00:27:12,467 --> 00:27:13,633
+♪ ♪
+
+1022
+00:27:13,700 --> 00:27:15,800
+Today's manufactured home.
+
+1023
+00:27:15,867 --> 00:27:17,967
+You bought a house.
+
+1024
+00:27:18,033 --> 00:27:19,133
+I can't believe you bought a
+
+1025
+00:27:19,200 --> 00:27:20,200
+house.
+
+1026
+00:27:20,266 --> 00:27:22,100
+I really didn't.
+
+1027
+00:27:22,166 --> 00:27:23,033
+It's exactly like a house.
+
+1028
+00:27:23,100 --> 00:27:23,934
+And what a beautiful piece of
+
+1029
+00:27:24,000 --> 00:27:24,800
+land.
+
+1030
+00:27:24,867 --> 00:27:25,600
+I don't own the land though,
+
+1031
+00:27:25,667 --> 00:27:26,667
+and that's actually a super
+
+1032
+00:27:26,734 --> 00:27:27,533
+important difference.
+
+1033
+00:27:27,600 --> 00:27:30,233
+[Laughs]
+
+1034
+00:27:30,300 --> 00:27:31,667
+Look at you all grown up with a
+
+1035
+00:27:31,734 --> 00:27:32,333
+mortgage.
+
+1036
+00:27:32,400 --> 00:27:33,700
+It's a chattel loan with an
+
+1037
+00:27:33,767 --> 00:27:35,433
+astronomical interest rate.
+
+1038
+00:27:35,500 --> 00:27:36,934
+The important thing is, it's
+
+1039
+00:27:37,000 --> 00:27:38,300
+an investment in your future.
+
+1040
+00:27:38,367 --> 00:27:40,967
+It will actually only go down
+
+1041
+00:27:41,033 --> 00:27:41,600
+in value, and since a private
+
+1042
+00:27:41,667 --> 00:27:42,633
+equity firm brought the park, my
+
+1043
+00:27:42,700 --> 00:27:44,367
+rent has skyrocketed.
+
+1044
+00:27:44,433 --> 00:27:45,600
+Are you listening to me?
+
+1045
+00:27:45,667 --> 00:27:47,734
+[Laughs]
+
+1046
+00:27:47,800 --> 00:27:49,066
+Oh, I love these decorative
+
+1047
+00:27:49,133 --> 00:27:50,633
+bottles.
+
+1048
+00:27:50,700 --> 00:27:55,700
+Oh, that's my blood.
+
+1049
+00:27:55,767 --> 00:28:00,967
+I have to sell my blood and
+
+1050
+00:28:01,033 --> 00:28:03,333
+plasma in order to make
+
+1051
+00:28:03,400 --> 00:28:03,967
+loan payments.
+
+1052
+00:28:04,033 --> 00:28:04,900
+[Laughs]
+
+1053
+00:28:04,967 --> 00:28:05,700
+♪ ♪
+
+1054
+00:28:05,767 --> 00:28:06,367
+But home is where the
+
+1055
+00:28:06,433 --> 00:28:07,400
+sweet potato pie is.
+
+1056
+00:28:07,467 --> 00:28:07,934
+I didn't make that.
+
+1057
+00:28:08,000 --> 00:28:09,100
+Did you make that?
+
+1058
+00:28:09,166 --> 00:28:10,200
+Isn't that burning your hand?
+
+1059
+00:28:10,266 --> 00:28:10,934
+Are you a witch?
+
+1060
+00:28:11,000 --> 00:28:12,333
+I want to see your garden.
+
+1061
+00:28:12,400 --> 00:28:14,133
+No, no, don't go out there.
+
+1062
+00:28:14,200 --> 00:28:15,133
+There she is.
+
+1063
+00:28:15,200 --> 00:28:19,767
+Look, she can't afford to move.
+
+1064
+00:28:19,834 --> 00:28:20,800
+You hold all the
+
+1065
+00:28:20,867 --> 00:28:21,266
+cards.
+
+1066
+00:28:21,333 --> 00:28:23,433
+[Laughter]
+
+1067
+00:28:23,500 --> 00:28:24,066
+He's right.
+
+1068
+00:28:24,133 --> 00:28:26,367
+It's like a waffle house where I
+
+1069
+00:28:26,433 --> 00:28:28,400
+am chained to my booth.
+
+1070
+00:28:28,467 --> 00:28:28,934
+That sounds delicious.
+
+1071
+00:28:29,000 --> 00:28:29,734
+What is wrong with you?
+
+1072
+00:28:29,800 --> 00:28:31,934
+Speaking of delicious...
+
+1073
+00:28:32,000 --> 00:28:33,133
+stop it.
+
+1074
+00:28:33,200 --> 00:28:35,333
+You bought a house!
+
+1075
+00:28:35,400 --> 00:28:37,333
+Say it again, motherfucker!
+
+1076
+00:28:37,400 --> 00:28:39,400
+[Laughs]
+
+1077
+00:28:39,467 --> 00:28:40,367
+That's our show, thanks so
+
+1078
+00:28:40,433 --> 00:28:41,300
+much for watching, see you next
+
+1079
+00:28:41,367 --> 00:28:47,200
+week, good night!
+
+1080
+00:28:47,266 --> 00:28:48,300
+Are you listening to me?
+
+1081
+00:28:48,367 --> 00:28:52,600
+[Laughs]
+
+1082
+00:28:52,667 --> 00:28:55,266
+Are you listening to me?
+
+1083
+00:28:55,333 --> 00:28:58,600
+Are you listening to me?
+
+1084
+00:28:58,667 --> 00:29:01,266
+Speaking of delicious.
+
+1085
+00:29:01,333 --> 00:29:03,133
+Stop.
+
+1086
+00:29:03,200 --> 00:29:04,200
+Shit.

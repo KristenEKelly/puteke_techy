@@ -1,0 +1,2868 @@
+1
+00:00:28,931 --> 00:00:32,131
+Welcome, welcome, welcome
+to "Last Week Tonight."
+
+2
+00:00:32,291 --> 00:00:34,931
+I'm John Oliver.
+Thank you so much for joining us.
+
+3
+00:00:35,091 --> 00:00:36,851
+Just time for a quick
+recap of the week.
+
+4
+00:00:37,011 --> 00:00:40,051
+Bernie Sanders announced
+he's running for president again,
+
+5
+00:00:40,211 --> 00:00:43,331
+the odds of Paul Manafort dying
+in prison increased considerably,
+
+6
+00:00:43,491 --> 00:00:46,731
+and the president is preparing
+to appoint this man, William Happer,
+
+7
+00:00:46,891 --> 00:00:50,052
+to head up a climate change panel,
+a man who has previously spoken
+
+8
+00:00:50,212 --> 00:00:52,892
+of his love
+of carbon dioxide, like this:
+
+9
+00:00:53,052 --> 00:00:55,612
+The demonization of carbon dioxide
+
+10
+00:00:55,772 --> 00:00:59,932
+is just like the demonization
+of the poor Jews under Hitler.
+
+11
+00:01:00,092 --> 00:01:04,972
+Carbon dioxide is, actually a benefit
+to the world, and so were the Jews.
+
+12
+00:01:05,132 --> 00:01:07,652
+What are you talking about?
+
+13
+00:01:07,812 --> 00:01:11,412
+I think the most damning part of a
+sentence entirely made of damning parts
+
+14
+00:01:11,572 --> 00:01:13,732
+is "so <i>were the Jews."</i>
+
+15
+00:01:13,892 --> 00:01:16,172
+He knows they still exist, right?
+
+16
+00:01:16,332 --> 00:01:19,212
+Unless he also disputes the overwhelming
+scientific consensus
+
+17
+00:01:19,372 --> 00:01:22,772
+published recently in the study,
+"There are still Jews."
+
+18
+00:01:22,932 --> 00:01:24,492
+Instead of going down
+that wormhole,
+
+19
+00:01:24,652 --> 00:01:26,773
+I'd like to talk tonight
+about North Carolina:
+
+20
+00:01:26,933 --> 00:01:29,893
+of the two Carolinas, without a doubt,
+one of them.
+
+21
+00:01:30,053 --> 00:01:32,573
+Now, this week,
+there was a dramatic development
+
+22
+00:01:32,733 --> 00:01:34,733
+in the state's
+Ninth Congressional District.
+
+23
+00:01:34,893 --> 00:01:37,653
+<i>Ballot chaos--</i>
+<i>a new election is ordered</i>
+
+24
+00:01:37,813 --> 00:01:40,493
+<i>in that undecided congressional race</i>
+<i>in North Carolina.</i>
+
+25
+00:01:40,653 --> 00:01:43,973
+<i>Allegations of tampering and fraud</i>
+<i>still surrounding the election</i>
+
+26
+00:01:44,133 --> 00:01:47,013
+<i>nearly four months</i>
+<i>after voters went to the polls.</i>
+
+27
+00:01:47,173 --> 00:01:50,333
+It's true. Their election from last year
+is still unsettled,
+
+28
+00:01:50,493 --> 00:01:52,173
+and you shouldn't have
+to wait so long
+
+29
+00:01:52,333 --> 00:01:53,933
+to find out something
+that important.
+
+30
+00:01:54,093 --> 00:01:55,773
+I stopped watching
+"The Masked Singer"
+
+31
+00:01:55,933 --> 00:01:59,133
+when I realized I'd have to wait
+a week to find out who the Bee is.
+
+32
+00:01:59,293 --> 00:02:01,774
+Who's the Bee?
+I don't even care,
+
+33
+00:02:01,934 --> 00:02:04,014
+and the wait is killing me.
+
+34
+00:02:04,174 --> 00:02:06,694
+This story's incredible.
+Back in November, it appeared
+
+35
+00:02:06,854 --> 00:02:10,774
+that former Baptist pastor Mark Harris
+had won the election by just 905 votes,
+
+36
+00:02:10,934 --> 00:02:13,974
+and as you may have guessed
+from his aggressive side part,
+
+37
+00:02:14,134 --> 00:02:16,054
+Harris is a piece of work.
+
+38
+00:02:16,214 --> 00:02:18,454
+He's called Ted Cruz
+his political hero,
+
+39
+00:02:18,614 --> 00:02:21,774
+argued that the availability of abortion
+leads to mass shootings,
+
+40
+00:02:21,934 --> 00:02:24,934
+and told the story of a pastor
+who asked congregants to protest
+
+41
+00:02:25,094 --> 00:02:27,014
+a certain ABC sitcom in the 1970s,
+
+42
+00:02:27,174 --> 00:02:29,134
+and I'll let him pick up things
+from there.
+
+43
+00:02:29,294 --> 00:02:32,694
+It was gonna be about a guy
+living with two girls,
+
+44
+00:02:32,854 --> 00:02:35,854
+and the only way the landlord
+was going to allow it to happen
+
+45
+00:02:36,015 --> 00:02:39,135
+was the guy had to play
+like he was a homosexual,
+
+46
+00:02:39,295 --> 00:02:40,615
+he was gay.
+
+47
+00:02:40,775 --> 00:02:44,135
+He wasn't gay,
+but he had to pretend to be,
+
+48
+00:02:44,295 --> 00:02:46,815
+and that was the whole premise
+of "Three's Company."
+
+49
+00:02:46,975 --> 00:02:49,895
+Here's what Clyde Bearden said.
+
+50
+00:02:50,055 --> 00:02:52,775
+He said, "The devil knows
+
+51
+00:02:52,935 --> 00:02:57,775
+"that if they can get us
+to laugh at it now,
+
+52
+00:02:57,935 --> 00:03:00,775
+"we're only one generation away
+
+53
+00:03:00,935 --> 00:03:04,055
+"from being asked to accept it
+
+54
+00:03:04,215 --> 00:03:07,935
+as a purely alternative
+lifestyle."
+
+55
+00:03:08,095 --> 00:03:10,135
+So let me get this straight, Mark.
+
+56
+00:03:10,295 --> 00:03:13,736
+Satan was an ABC development executive
+in the 1970s,
+
+57
+00:03:13,896 --> 00:03:17,376
+and "Three's Company," a show with
+no actual gay characters in it,
+
+58
+00:03:17,536 --> 00:03:19,616
+was his project to destroy America.
+
+59
+00:03:19,776 --> 00:03:21,576
+Are you absolutely sure
+it wasn't a show
+
+60
+00:03:21,736 --> 00:03:24,256
+about a glamorous nautical
+fuck-palace
+
+61
+00:03:24,416 --> 00:03:27,776
+or the one about an illegal immigrant
+made entirely out of cocaine?
+
+62
+00:03:27,936 --> 00:03:29,776
+Are you sure about that?
+
+63
+00:03:29,936 --> 00:03:32,096
+People soon began
+questioning Harris' victory,
+
+64
+00:03:32,256 --> 00:03:34,296
+particularly given
+his disproportionate share
+
+65
+00:03:34,456 --> 00:03:36,976
+of the mail-in absentee votes
+in Bladen County.
+
+66
+00:03:37,136 --> 00:03:40,376
+When authorities looked at his primary,
+things got more suspicious,
+
+67
+00:03:40,536 --> 00:03:44,696
+because in that same county, he received
+437 mail-in absentee votes,
+
+68
+00:03:44,856 --> 00:03:46,777
+while his opponent,
+Robert Pittenger,
+
+69
+00:03:46,937 --> 00:03:50,777
+who happened to be the three-term
+incumbent, got just 17,
+
+70
+00:03:50,937 --> 00:03:52,457
+and that is a red flag.
+
+71
+00:03:52,617 --> 00:03:55,377
+It would only make sense
+if Pittenger's campaign slogan
+
+72
+00:03:55,537 --> 00:03:58,977
+was "Pittenger 2018:
+Fuck Bladen County!"
+
+73
+00:03:59,137 --> 00:04:00,777
+And as the suspicions grew,
+
+74
+00:04:00,937 --> 00:04:03,937
+Harris' behavior
+did not exactly dispel them.
+
+75
+00:04:04,097 --> 00:04:06,097
+North Carolina candidate
+Mark Harris
+
+76
+00:04:06,257 --> 00:04:09,537
+chose to not speak to reporters tonight
+after a GOP meeting
+
+77
+00:04:09,697 --> 00:04:11,377
+next door
+to the city council meeting,
+
+78
+00:04:11,537 --> 00:04:15,177
+but the way he made his exit
+had the whole building buzzing.
+
+79
+00:04:19,337 --> 00:04:23,018
+<i>Harris set off the fire alarm on his way</i>
+<i>out a back door into his car.</i>
+
+80
+00:04:23,178 --> 00:04:27,058
+<i>You can see Mark Harris running</i>
+<i>across the street toward his car,</i>
+
+81
+00:04:27,218 --> 00:04:30,218
+<i>taking off his jacket</i>
+<i>and eventually driving away.</i>
+
+82
+00:04:30,378 --> 00:04:32,338
+Holy shit.
+
+83
+00:04:32,498 --> 00:04:36,258
+It's like watching the Beatles dart
+through a backstage exit to outrun fans,
+
+84
+00:04:36,418 --> 00:04:38,298
+except instead
+of "The Ed Sullivan Show,"
+
+85
+00:04:38,458 --> 00:04:40,698
+it's the Charlotte-Mecklenburg
+government center,
+
+86
+00:04:40,858 --> 00:04:44,418
+and instead of lovesick teenagers,
+it's WBTV's David Hodges,
+
+87
+00:04:44,578 --> 00:04:47,938
+and instead of the Beatles,
+it's a 52-year-old minister named Mark,
+
+88
+00:04:48,098 --> 00:04:50,058
+the equivalent of four Ringos.
+
+89
+00:04:50,218 --> 00:04:54,338
+Now, suspicions soon centered around
+a consultant that Harris had hired,
+
+90
+00:04:54,498 --> 00:04:55,818
+Leslie McCrae Dowless,
+
+91
+00:04:55,978 --> 00:04:58,939
+veteran political operative
+and suburban Obi-Wan Kenobi,
+
+92
+00:04:59,099 --> 00:05:01,779
+and he'd previously admitted
+under oath
+
+93
+00:05:01,939 --> 00:05:05,459
+that he had paid workers to collect
+absentee ballots from voters in 2016,
+
+94
+00:05:05,619 --> 00:05:06,939
+which is a felony there.
+
+95
+00:05:07,099 --> 00:05:09,979
+Harris claims that he had no idea
+Dowless might be a problem,
+
+96
+00:05:10,139 --> 00:05:12,859
+but this week, in a hearing
+with the state election board,
+
+97
+00:05:13,019 --> 00:05:14,739
+Harris' own son testified that
+
+98
+00:05:14,899 --> 00:05:17,779
+he'd repeatedly and explicitly
+warned his father.
+
+99
+00:05:17,939 --> 00:05:19,779
+Heard about this McCrae guy.
+
+100
+00:05:19,939 --> 00:05:22,979
+You know, seems to me like he may be
+kind of a shady character.
+
+101
+00:05:23,139 --> 00:05:25,779
+I expressed my concerns,
+
+102
+00:05:25,939 --> 00:05:29,019
+based on everything that I did know
+up to that point,
+
+103
+00:05:29,179 --> 00:05:30,779
+mainly my belief
+
+104
+00:05:30,939 --> 00:05:35,180
+that McCrae had engaged
+in collecting ballots in 2016,
+
+105
+00:05:35,340 --> 00:05:39,300
+and I told him that collecting ballots
+was a felony.
+
+106
+00:05:39,460 --> 00:05:42,460
+I thought what he was doing
+was illegal, and I was right.
+
+107
+00:05:42,620 --> 00:05:46,740
+Wow. Most of us can only dream
+about saying "I was right"
+
+108
+00:05:46,900 --> 00:05:48,780
+to our dads in an official setting.
+
+109
+00:05:48,940 --> 00:05:50,980
+This guy just lived that dream.
+
+110
+00:05:51,140 --> 00:05:54,700
+I only wish he'd brought up every other
+instance of his dad being wrong.
+
+111
+00:05:54,860 --> 00:05:57,740
+"I was right about the garage door
+opener, about the turnpike
+
+112
+00:05:57,900 --> 00:05:59,900
+"being the fastest way
+to get to the movies,
+
+113
+00:06:00,060 --> 00:06:01,900
+"and I knew
+that birds weren't mammals.
+
+114
+00:06:02,060 --> 00:06:04,420
+"They're birds, Dad.
+Birds is its own thing.
+
+115
+00:06:04,580 --> 00:06:07,460
+"I fucking knew birds was its own thing,
+and you didn't, Dad.
+
+116
+00:06:07,620 --> 00:06:10,221
+"Birds are birds, Dad.
+Birds are birds."
+
+117
+00:06:11,661 --> 00:06:14,381
+And when asked why he'd ignored
+all of his son's warnings,
+
+118
+00:06:14,541 --> 00:06:16,821
+Mark Harris' pushback
+was not impressive.
+
+119
+00:06:16,981 --> 00:06:18,301
+I'm his dad,
+
+120
+00:06:18,461 --> 00:06:20,821
+and I know he's judg--
+a little judgmental,
+
+121
+00:06:20,981 --> 00:06:23,061
+and has a little taste
+of arrogance...
+
+122
+00:06:23,221 --> 00:06:26,541
+Ooh, excuse me?
+A taste of arrogance?
+
+123
+00:06:26,701 --> 00:06:29,581
+It's an incredibly obnoxious thing
+to say about your own son,
+
+124
+00:06:29,741 --> 00:06:32,981
+but a perfect name for a restaurant
+owned by Alec Baldwin.
+
+125
+00:06:33,141 --> 00:06:35,461
+It's--it's quite an experience.
+
+126
+00:06:35,621 --> 00:06:38,941
+The waiter screams the menu at you,
+and then punches you in the face.
+
+127
+00:06:39,101 --> 00:06:41,221
+You really must go.
+
+128
+00:06:41,381 --> 00:06:42,741
+As all this evidence piled up,
+
+129
+00:06:42,901 --> 00:06:45,422
+what was meant to be a one-day hearing
+became four,
+
+130
+00:06:45,582 --> 00:06:47,462
+and things got worse and worse
+for Harris.
+
+131
+00:06:47,622 --> 00:06:51,742
+On Thursday, his own lawyer interrupted
+his testimony to ask for a recess,
+
+132
+00:06:51,902 --> 00:06:55,582
+after which Harris did a complete
+U-turn, claiming recent health problems
+
+133
+00:06:55,742 --> 00:06:58,582
+had impacted his ability
+to recall events accurately,
+
+134
+00:06:58,742 --> 00:07:00,062
+and saying this:
+
+135
+00:07:00,222 --> 00:07:02,782
+It has become clear to me
+that the public's confidence
+
+136
+00:07:02,942 --> 00:07:05,782
+in the Ninth District seat
+general election
+
+137
+00:07:05,942 --> 00:07:07,782
+has been undermined to an extent
+
+138
+00:07:07,942 --> 00:07:09,622
+that a new election is warranted.
+
+139
+00:07:09,782 --> 00:07:13,782
+And that is the verbal equivalent
+of running out an emergency exit
+
+140
+00:07:13,942 --> 00:07:15,862
+and setting off a fire alarm,
+
+141
+00:07:16,022 --> 00:07:19,663
+I'd love to keep making fun of this
+story, but as Harris will tell you,
+
+142
+00:07:19,823 --> 00:07:23,223
+the danger is, if they can get us
+to laugh at it now,
+
+143
+00:07:23,383 --> 00:07:24,983
+we're just one generation away
+
+144
+00:07:25,143 --> 00:07:27,543
+from being asked to accept
+committing election fraud
+
+145
+00:07:27,703 --> 00:07:30,623
+as a purely alternative lifestyle.
+
+146
+00:07:30,783 --> 00:07:32,543
+And now, this:
+
+147
+00:07:32,703 --> 00:07:34,423
+<i>And now...</i>
+
+148
+00:07:39,223 --> 00:07:40,783
+The two elderly men
+
+149
+00:07:40,943 --> 00:07:43,823
+crashed their minivan
+on their way to the local fair
+
+150
+00:07:43,983 --> 00:07:47,623
+The driver, 83-year-old
+James Billingsley...
+
+151
+00:07:47,783 --> 00:07:49,943
+AKA "Dimples the Clown"...
+
+152
+00:07:50,103 --> 00:07:51,463
+<i>Their water has been shut off</i>
+
+153
+00:07:51,623 --> 00:07:53,543
+<i>because the state</i>
+<i>can't pay the bill.</i>
+
+154
+00:07:53,703 --> 00:07:57,024
+<i>IDOT says it's because</i>
+<i>there's no state bu--</i>
+
+155
+00:07:57,184 --> 00:07:58,504
+<i>No state budget.</i>
+
+156
+00:07:58,664 --> 00:08:00,024
+<i>The FSU quarterback</i>
+
+157
+00:08:00,184 --> 00:08:02,304
+<i>will not play in the Peach Bowl</i>
+
+158
+00:08:02,464 --> 00:08:04,784
+<i>because of a family issue.</i>
+
+159
+00:08:04,944 --> 00:08:06,864
+Death in the family
+is the rumor, Thomas.
+
+160
+00:08:07,024 --> 00:08:09,104
+Certainly is.
+You gotta love that, though?
+
+161
+00:08:09,264 --> 00:08:12,264
+Investigators believe a bomb caused
+the explosion on the plane,
+
+162
+00:08:12,424 --> 00:08:15,304
+which had taken off from the Somali
+capital of Mogadishu.
+
+163
+00:08:15,464 --> 00:08:17,984
+<i>The blast blew a hole</i>
+<i>in the side of the plane,</i>
+
+164
+00:08:18,144 --> 00:08:21,264
+<i>and one of the 74 passengers</i>
+<i>on board was sucked out.</i>
+
+165
+00:08:21,424 --> 00:08:23,024
+Christine Blasey Ford
+
+166
+00:08:23,184 --> 00:08:24,584
+testified
+
+167
+00:08:24,744 --> 00:08:26,584
+she was sexually assaulted.
+
+168
+00:08:26,744 --> 00:08:29,304
+- We can't laugh.
+- Sorry.
+
+169
+00:08:30,825 --> 00:08:34,265
+Moving on, our main story tonight
+concerns psychics,
+
+170
+00:08:34,425 --> 00:08:37,745
+the only people with more misplaced
+confidence than Michael Avenatti.
+
+171
+00:08:37,905 --> 00:08:41,385
+You probably haven't thought about
+psychics in a while, which is weird--
+
+172
+00:08:41,545 --> 00:08:42,945
+there's not much else going on--
+
+173
+00:08:43,105 --> 00:08:45,345
+but if you watch daytime TV at all,
+
+174
+00:08:45,505 --> 00:08:48,185
+you'll see that they pop up
+all the time.
+
+175
+00:08:48,345 --> 00:08:51,985
+My next guest started communicating with
+the dead when she was a toddler.
+
+176
+00:08:52,145 --> 00:08:55,865
+She's a wife and a mom who also happens
+to talk to dead people.
+
+177
+00:08:56,025 --> 00:08:57,705
+Please welcome
+celebrity pet psychic--
+
+178
+00:08:57,865 --> 00:09:00,065
+Our next guest
+is a clairvoyant to the stars.
+
+179
+00:09:00,225 --> 00:09:03,585
+We're back with a group of friends
+who share a very unique bond:
+
+180
+00:09:03,745 --> 00:09:05,266
+they are all psychic.
+
+181
+00:09:05,426 --> 00:09:08,786
+It's good that at least Dr. Oz
+isn't wearing scrubs in that clip,
+
+182
+00:09:08,946 --> 00:09:10,386
+but I'd still like him to do more
+
+183
+00:09:10,546 --> 00:09:13,226
+to signal he lacks credibility
+as a medical professional.
+
+184
+00:09:13,386 --> 00:09:15,466
+A sandwich sign
+that says "Walking Joke"
+
+185
+00:09:15,626 --> 00:09:17,786
+is the clothing choice
+I'd be comfortable with.
+
+186
+00:09:17,946 --> 00:09:20,946
+Before we go any further,
+I am not going to be litigating
+
+187
+00:09:21,106 --> 00:09:22,746
+whether psychics are real or not.
+
+188
+00:09:22,906 --> 00:09:27,146
+For one, they're not.
+See? No litigation required.
+
+189
+00:09:27,306 --> 00:09:29,786
+Also, for anyone who does believe
+in psychic powers,
+
+190
+00:09:29,946 --> 00:09:32,586
+I know nothing I could say
+would convince you otherwise.
+
+191
+00:09:32,746 --> 00:09:36,226
+Logic isn't the reason you believe,
+and it won't be the reason you stop,
+
+192
+00:09:36,386 --> 00:09:40,147
+which is not to say I won't be showing
+clips of psychics fucking up,
+
+193
+00:09:40,307 --> 00:09:43,267
+but that is only because
+it's really funny.
+
+194
+00:09:43,427 --> 00:09:47,627
+This is a girl who you said
+
+195
+00:09:47,787 --> 00:09:51,467
+was beaten and killed.
+
+196
+00:09:51,627 --> 00:09:54,787
+- Okay.
+- This little girl is me...
+
+197
+00:09:56,347 --> 00:09:59,587
+And you told somebody
+that she's dead.
+
+198
+00:09:59,747 --> 00:10:01,147
+Wait a minute.
+
+199
+00:10:01,307 --> 00:10:03,067
+You didn't disappear?
+
+200
+00:10:03,227 --> 00:10:06,467
+- I'm right here.
+- Well, that's interesting, isn't it?
+
+201
+00:10:06,627 --> 00:10:08,707
+Yeah, that is interesting.
+
+202
+00:10:08,867 --> 00:10:10,867
+I guess her psychic abilities
+didn't include
+
+203
+00:10:11,027 --> 00:10:14,307
+predicting when she'd be humiliated
+on national television.
+
+204
+00:10:14,467 --> 00:10:17,588
+And look, it is easy to dismiss
+psychics as a joke.
+
+205
+00:10:17,748 --> 00:10:19,188
+Really easy.
+Fun, too.
+
+206
+00:10:19,348 --> 00:10:20,948
+But the fact of the matter is,
+
+207
+00:10:21,108 --> 00:10:24,668
+one recent poll found four in ten
+Americans believe in psychics.
+
+208
+00:10:24,828 --> 00:10:27,548
+Think about it.
+Statistically, out of all the people
+
+209
+00:10:27,708 --> 00:10:31,588
+who saw John Travolta's "Gotti" movie,
+four of them believe in psychics,
+
+210
+00:10:31,748 --> 00:10:35,788
+so whether they are real
+or not is incidental.
+
+211
+00:10:35,948 --> 00:10:38,668
+What matters is a lot of people
+think they are,
+
+212
+00:10:38,828 --> 00:10:41,908
+and the psychic industry is larger
+and grimmer than you assume.
+
+213
+00:10:42,068 --> 00:10:45,148
+By one estimate,
+it's a $2.2 billion industry,
+
+214
+00:10:45,308 --> 00:10:47,788
+and there has been a lot
+of predatory behavior.
+
+215
+00:10:47,948 --> 00:10:49,468
+When the FDC settled charges
+
+216
+00:10:49,628 --> 00:10:52,589
+with the companies behind
+the Psychic Readers Network in 2002,
+
+217
+00:10:52,749 --> 00:10:54,189
+the one that featured Miss Cleo,
+
+218
+00:10:54,349 --> 00:10:56,789
+they found that
+over one three-year period,
+
+219
+00:10:56,949 --> 00:11:01,429
+they had charged people about $1 billion
+and had collected half of it.
+
+220
+00:11:01,589 --> 00:11:04,189
+They took in $500 million.
+
+221
+00:11:04,349 --> 00:11:07,149
+I had no idea
+psychics could make that much money.
+
+222
+00:11:07,309 --> 00:11:10,789
+It's like finding out the second-richest
+person behind Jeff Bezos,
+
+223
+00:11:10,949 --> 00:11:13,749
+is this GameStop employee
+named Greg.
+
+224
+00:11:13,909 --> 00:11:17,469
+I mean, good for Greg, I guess,
+but now I've got a lot of questions
+
+225
+00:11:17,629 --> 00:11:20,789
+about GameStop
+and literally everything else.
+
+226
+00:11:20,949 --> 00:11:23,789
+So tonight, let's take a look
+at the psychic industry,
+
+227
+00:11:23,949 --> 00:11:27,430
+particularly one of the most insidious
+parts of it: mediums,
+
+228
+00:11:27,590 --> 00:11:29,990
+who claim to be able
+to communicate with the dead.
+
+229
+00:11:30,150 --> 00:11:31,790
+They are everywhere on TV.
+
+230
+00:11:31,950 --> 00:11:34,030
+Some even have
+their own reality shows.
+
+231
+00:11:34,190 --> 00:11:35,590
+<i>She's a professional psychic.</i>
+
+232
+00:11:35,750 --> 00:11:37,950
+It's me, Mary O.
+<i>Madonna mia!</i>
+
+233
+00:11:38,110 --> 00:11:39,430
+<i>"Mary Knows Best."</i>
+
+234
+00:11:39,590 --> 00:11:41,110
+<i>"Hollywood Medium," on E!.</i>
+
+235
+00:11:41,270 --> 00:11:43,110
+<i>"Psychic Tia" on A&E.</i>
+
+236
+00:11:43,270 --> 00:11:45,910
+<i>"Mama Medium,"</i>
+<i>November 5th at 9:00 on TLC.</i>
+
+237
+00:11:46,070 --> 00:11:50,550
+Spirit is important to me, just as
+important as my hair and my nails.
+
+238
+00:11:50,710 --> 00:11:54,070
+<i>"Long Island Medium," only on TLC.</i>
+
+239
+00:11:54,230 --> 00:11:56,030
+The crazy thing about these shows
+
+240
+00:11:56,190 --> 00:11:59,350
+is how they choose to focus
+on the psychics' personal lives.
+
+241
+00:11:59,510 --> 00:12:01,350
+Who gives a shit about that?
+
+242
+00:12:01,511 --> 00:12:03,871
+If I believed they could communicate
+with the dead,
+
+243
+00:12:04,031 --> 00:12:06,191
+it's the only thing
+I'd want to see them doing.
+
+244
+00:12:06,351 --> 00:12:08,671
+The Long Island medium
+can ask Abraham Lincoln,
+
+245
+00:12:08,831 --> 00:12:10,791
+Gandhi, and Shakespeare
+anything she wants,
+
+246
+00:12:10,951 --> 00:12:14,591
+so tune in next week,
+as she thinks about getting bangs.
+
+247
+00:12:14,751 --> 00:12:16,951
+And look, I will admit
+
+248
+00:12:17,111 --> 00:12:18,951
+mediums make for compelling TV.
+
+249
+00:12:19,111 --> 00:12:22,191
+Most people have seen at least one
+bring someone to tears
+
+250
+00:12:22,351 --> 00:12:24,751
+with messages from dead loved ones
+like this:
+
+251
+00:12:24,911 --> 00:12:28,991
+Did you lose your husband, ma'am?
+Your husband wants to thank you
+
+252
+00:12:29,151 --> 00:12:32,671
+for caring for him and for allowing him
+to leave the physical world
+
+253
+00:12:32,831 --> 00:12:34,431
+with dignity and grace.
+
+254
+00:12:36,271 --> 00:12:40,472
+That woman is clearly genuinely touched,
+although I will say that it is weird
+
+255
+00:12:40,632 --> 00:12:44,312
+that the conduit to the afterlife
+is, for some reason, Theresa Caputo,
+
+256
+00:12:44,472 --> 00:12:48,792
+proof of what would happen if you added
+too much baking soda to Edie Falco.
+
+257
+00:12:48,952 --> 00:12:53,752
+And while watching people tear up
+can seem incredible,
+
+258
+00:12:53,912 --> 00:12:56,352
+the techniques that psychics use
+to achieve that
+
+259
+00:12:56,512 --> 00:12:58,352
+are significantly less incredible,
+
+260
+00:12:58,512 --> 00:13:01,552
+'cause there are two basic techniques
+that psychics tend to use.
+
+261
+00:13:01,712 --> 00:13:03,152
+The first is called cold reading.
+
+262
+00:13:03,312 --> 00:13:05,392
+It's basically taking
+high-probability guesses
+
+263
+00:13:05,552 --> 00:13:08,912
+like "I'm sensing a loved one
+who had problems in the chest area,"
+
+264
+00:13:09,072 --> 00:13:11,792
+or "Is there a J or an M
+in a loved one's name?"
+
+265
+00:13:11,952 --> 00:13:14,353
+Here is some cold reading in action.
+
+266
+00:13:14,513 --> 00:13:17,073
+All right,
+
+267
+00:13:17,233 --> 00:13:19,673
+and is there a D-- like a Daniel?
+
+268
+00:13:19,833 --> 00:13:22,753
+David? Like, there's a big D,
+so for me, it's initials,
+
+269
+00:13:22,913 --> 00:13:25,593
+it's months of the year,
+like December being important...
+
+270
+00:13:25,753 --> 00:13:28,113
+Who is the M-R name?
+Mark? Mary? Marie?
+
+271
+00:13:28,273 --> 00:13:30,513
+They don't have to be passed.
+They could be here.
+
+272
+00:13:30,673 --> 00:13:34,273
+Either Maureen, Mary Anne-- there's
+an M name. Where's the M connection?
+
+273
+00:13:34,433 --> 00:13:37,433
+Does someone have a scar
+on the b--on the foot?
+
+274
+00:13:37,593 --> 00:13:39,593
+- I do.
+- Thank you, your daddy's telling me
+
+275
+00:13:39,753 --> 00:13:41,073
+there's a scar on your foot.
+
+276
+00:13:41,233 --> 00:13:45,433
+She departed of Alzheimer's, some type
+of dementia, something of the brain,
+
+277
+00:13:45,593 --> 00:13:48,394
+and you had to make decisions
+connected to her departure.
+
+278
+00:13:48,554 --> 00:13:51,674
+Did anybody have either a brain tumor,
+brain aneurysm,
+
+279
+00:13:51,834 --> 00:13:53,994
+or a cerebral hemorrhage?
+
+280
+00:13:55,834 --> 00:13:58,074
+Not connected to him?
+Not connected to you.
+
+281
+00:13:58,234 --> 00:13:59,954
+Somebody behind you had that.
+
+282
+00:14:00,114 --> 00:14:03,234
+Oh. Someone behind her had that.
+
+283
+00:14:03,394 --> 00:14:04,994
+Nice save, buddy!
+
+284
+00:14:05,154 --> 00:14:08,514
+It often turns out that a psychic's
+wrong guess is just energy
+
+285
+00:14:08,674 --> 00:14:10,474
+from somewhere else in the room,
+
+286
+00:14:10,634 --> 00:14:12,834
+a room that's very likely
+to have someone
+
+287
+00:14:12,994 --> 00:14:16,594
+with one of the problems he listed,
+because cerebrovascular diseases
+
+288
+00:14:16,754 --> 00:14:19,474
+are the fifth-leading cause
+of death in the United States.
+
+289
+00:14:19,634 --> 00:14:21,874
+It's like asking a room
+full of praying mantises,
+
+290
+00:14:22,034 --> 00:14:25,195
+"Has anybody here lost a loved one
+'cause you ate them after sex?"
+
+291
+00:14:25,355 --> 00:14:30,275
+You know all those little green hands
+are going up.
+
+292
+00:14:30,435 --> 00:14:33,275
+The secret of cold reading
+is the broader the generality,
+
+293
+00:14:33,435 --> 00:14:35,315
+the more it could resonate with someone.
+
+294
+00:14:35,475 --> 00:14:37,315
+It's the same reason
+that fortune cookies
+
+295
+00:14:37,475 --> 00:14:39,915
+predict "romantic developments
+ahead" and not
+
+296
+00:14:40,075 --> 00:14:42,595
+"Your wife will seem icy
+around the 12th of the month,
+
+297
+00:14:42,755 --> 00:14:45,715
+"because when she asked you
+to handle the grout in the shower,
+
+298
+00:14:45,875 --> 00:14:49,955
+"she didn't mean, 'keep her abreast
+of every step of the grouting process.'
+
+299
+00:14:50,115 --> 00:14:51,555
+"She wanted it off her plate,
+
+300
+00:14:51,715 --> 00:14:54,795
+"and texts during the workday
+asking if she thinks the landlord
+
+301
+00:14:54,955 --> 00:14:57,835
+"will ask for plumber's insurance--
+that's not off her plate.
+
+302
+00:14:57,995 --> 00:15:00,636
+"That's you filling up the plate
+instead of the plumber.
+
+303
+00:15:00,796 --> 00:15:02,116
+"Does that make sense, Aaron?
+
+304
+00:15:02,276 --> 00:15:04,916
+"It's like the garbage disposal
+installation again!
+
+305
+00:15:05,076 --> 00:15:08,116
+Lucky numbers 8, 14, and 23."
+
+306
+00:15:08,276 --> 00:15:09,596
+And sometimes,
+
+307
+00:15:09,756 --> 00:15:12,036
+psychics may make
+laughably sure bets.
+
+308
+00:15:12,196 --> 00:15:15,116
+For instance, here's John Edward,
+in Huntington, Long Island,
+
+309
+00:15:15,276 --> 00:15:18,916
+a town where nearly one in five
+residents are of Irish ancestry.
+
+310
+00:15:19,076 --> 00:15:22,716
+Is there a Brian Flanagan
+or a O'Flynn
+
+311
+00:15:22,876 --> 00:15:24,516
+or O'Sullivan
+
+312
+00:15:24,676 --> 00:15:25,996
+or Reilly
+
+313
+00:15:26,156 --> 00:15:30,076
+or some type of...
+who's passed?
+
+314
+00:15:30,236 --> 00:15:32,876
+Brian O' something?
+Flanagan, Sullivan, like that?
+
+315
+00:15:33,036 --> 00:15:35,357
+What are you doing?
+
+316
+00:15:35,517 --> 00:15:37,997
+"Brian O'Flanagan
+or O'Flynn or O' something"--
+
+317
+00:15:38,157 --> 00:15:40,877
+you're supposed to be speaking
+to people's dead relatives,
+
+318
+00:15:41,037 --> 00:15:43,997
+not trying to guess the name
+of the Lucky Charms mascot.
+
+319
+00:15:44,157 --> 00:15:46,957
+And for the record,
+that leprechaun's name:
+
+320
+00:15:50,317 --> 00:15:55,037
+If that surprises you, maybe update
+your antiquated Irish stereotypes.
+
+321
+00:15:55,197 --> 00:15:58,037
+Once a psychic has you on the hook,
+they use your responses,
+
+322
+00:15:58,197 --> 00:16:00,437
+as well as nonverbal cues
+you may be giving them,
+
+323
+00:16:00,597 --> 00:16:02,357
+to make narrower
+and narrower guesses
+
+324
+00:16:02,517 --> 00:16:04,357
+until you're amazed
+at what they've done.
+
+325
+00:16:04,517 --> 00:16:08,117
+Of course, it's not an exact science--
+it's not a science at all--
+
+326
+00:16:08,277 --> 00:16:09,798
+and sometimes, things do go wrong.
+
+327
+00:16:09,958 --> 00:16:11,798
+Let's pick up
+John Edward's reading
+
+328
+00:16:11,958 --> 00:16:15,918
+with the family of Brian O' something,
+as he doubles down on a bad guess.
+
+329
+00:16:16,078 --> 00:16:20,398
+I'm kind of getting the feeling
+of not liking the older female.
+
+330
+00:16:20,558 --> 00:16:24,118
+Like, not liking the mother figure,
+so if you tell me you didn't like--
+
+331
+00:16:24,278 --> 00:16:26,718
+his father's mother,
+I would understand that.
+
+332
+00:16:28,238 --> 00:16:33,238
+- No, you've got the wrong Brian, then.
+- I don't think I do.
+
+333
+00:16:34,838 --> 00:16:37,958
+I don't think so.
+I can't tell you what you want to hear.
+
+334
+00:16:38,118 --> 00:16:41,798
+Only what they're showing me. If he's
+calling your mom a bitch, I'll say it.
+
+335
+00:16:41,958 --> 00:16:46,839
+Oh, my God. Now, look, say what you want
+about John Edward.
+
+336
+00:16:46,999 --> 00:16:49,199
+He's sticking to his guns there.
+None of that,
+
+337
+00:16:49,359 --> 00:16:53,159
+"maybe this bitch energy is coming from
+somewhere else in the room" this time.
+
+338
+00:16:53,319 --> 00:16:55,359
+No, this time,
+he chooses to go for it.
+
+339
+00:16:55,519 --> 00:16:58,679
+"Brian thinks Grandma's a bitch,
+and you know what? So do I now.
+
+340
+00:16:58,839 --> 00:17:01,319
+"In fact, hang on.
+Amelia Earhart just came through,
+
+341
+00:17:01,479 --> 00:17:03,039
+"and she called Grandma the C-word,
+
+342
+00:17:03,199 --> 00:17:07,479
+"so don't be mad with me,
+be mad at Amelia Earhart."
+
+343
+00:17:07,639 --> 00:17:11,439
+Cold reading is basically a magic trick,
+and yet prominent, smart people
+
+344
+00:17:11,599 --> 00:17:13,679
+are willing to co-sign
+on psychic's abilities.
+
+345
+00:17:13,839 --> 00:17:16,679
+A few years ago, Tyler Henry,
+the Hollywood medium
+
+346
+00:17:16,839 --> 00:17:18,919
+and anime drawing of Jared Kushner,
+
+347
+00:17:19,079 --> 00:17:22,080
+went on the Today Show to do a reading
+of one of their anchors,
+
+348
+00:17:22,240 --> 00:17:24,840
+and I'm afraid that it's
+the exact "Today" show anchor
+
+349
+00:17:25,000 --> 00:17:26,880
+that you are hoping-
+slash-dreading it is.
+
+350
+00:17:27,040 --> 00:17:28,720
+There's a reference to fishing,
+
+351
+00:17:28,880 --> 00:17:31,400
+but he's talking
+about being spoken out loud to.
+
+352
+00:17:31,560 --> 00:17:33,200
+I know what this is, actually.
+
+353
+00:17:33,360 --> 00:17:36,240
+I don't know if you're aware of this,
+but he is acknowledging
+
+354
+00:17:36,400 --> 00:17:38,280
+an individual be out on a boat
+
+355
+00:17:38,440 --> 00:17:42,480
+and I feel like I'm sitting alone and
+I'm fishing, and I'm thinking, "Dad,"
+
+356
+00:17:42,640 --> 00:17:46,000
+and... he's having me acknowledge
+this feeling
+
+357
+00:17:46,160 --> 00:17:48,000
+of, like, "I'm there with you."
+
+358
+00:17:48,160 --> 00:17:51,200
+You know, my dad
+shared two passions with me.
+
+359
+00:17:51,360 --> 00:17:52,800
+He shared golf and fishing.
+
+360
+00:17:52,960 --> 00:17:55,521
+<i>- Nice.</i>
+<i>- And, I do go out</i>
+
+361
+00:17:55,681 --> 00:17:57,921
+and fish a lot alone on a boat,
+
+362
+00:17:58,081 --> 00:17:59,801
+and this idea that--
+
+363
+00:17:59,961 --> 00:18:01,801
+that that might be a time
+
+364
+00:18:01,961 --> 00:18:03,401
+to communicate with him
+
+365
+00:18:03,561 --> 00:18:05,801
+or that he is attempting
+to communicate...
+
+366
+00:18:05,961 --> 00:18:09,161
+- Yeah.
+- Is... Is phenomenal to me.
+
+367
+00:18:09,321 --> 00:18:10,961
+Yeah, phenomenal.
+
+368
+00:18:11,121 --> 00:18:13,601
+It's clear that Matt Lauer is touched,
+and this time,
+
+369
+00:18:13,761 --> 00:18:16,401
+he didn't have to pressure a subordinate
+into doing it.
+
+370
+00:18:16,561 --> 00:18:18,601
+And now look, look, maybe,
+
+371
+00:18:18,761 --> 00:18:22,401
+Tyler Henry just took a shot
+that an older, straight, white male
+
+372
+00:18:22,561 --> 00:18:25,081
+was upwards of lukewarm
+toward fishing.
+
+373
+00:18:25,241 --> 00:18:27,441
+If he did,
+that would be cold reading,
+
+374
+00:18:27,601 --> 00:18:30,562
+but he may be using the other technique,
+of hot reading,
+
+375
+00:18:30,722 --> 00:18:32,962
+which involves doing
+prior research on a subject.
+
+376
+00:18:33,122 --> 00:18:37,202
+He could've read articles where Lauer
+talks of his dad's passion for fishing,
+
+377
+00:18:37,362 --> 00:18:40,282
+or seen interviews
+that Lauer gave, like this one.
+
+378
+00:18:40,442 --> 00:18:43,322
+My dad taught me how to fish.
+When I stand in a trout stream,
+
+379
+00:18:43,482 --> 00:18:46,842
+with the waders on and the fly rod
+in my hand or I'm fishing for bass,
+
+380
+00:18:47,002 --> 00:18:49,002
+I think about sitting
+in a boat with my dad.
+
+381
+00:18:49,162 --> 00:18:52,802
+Look, maybe Tyler Henry
+genuinely accessed the afterlife,
+
+382
+00:18:52,962 --> 00:18:56,602
+which would fundamentally change our
+understanding of everything on Earth,
+
+383
+00:18:56,762 --> 00:18:59,482
+or maybe he just Googled
+"Matt Lauer dad"
+
+384
+00:18:59,642 --> 00:19:01,522
+and hit the fucking jackpot.
+
+385
+00:19:01,682 --> 00:19:03,002
+So--so to recap,
+
+386
+00:19:03,162 --> 00:19:05,402
+hot reading, researching people
+beforehand,
+
+387
+00:19:05,563 --> 00:19:07,643
+the even lazier skill
+than cold reading,
+
+388
+00:19:07,803 --> 00:19:09,563
+which involves
+indiscriminately shouting
+
+389
+00:19:09,723 --> 00:19:12,243
+the names of dead Irishmen
+in a hotel ballroom.
+
+390
+00:19:12,403 --> 00:19:15,803
+And what's surprising is,
+whichever technique Tyler used,
+
+391
+00:19:15,963 --> 00:19:18,443
+Lauer fell for it,
+and he is smart.
+
+392
+00:19:18,603 --> 00:19:21,243
+He's a sophisticated
+Manhattan sex monster,
+
+393
+00:19:21,403 --> 00:19:24,123
+but--but he fell for it, hard,
+
+394
+00:19:24,283 --> 00:19:26,963
+so hard he wanted to make it clear
+to the viewers at home
+
+395
+00:19:27,123 --> 00:19:30,563
+that this was way more
+than just your standard TV bullshit.
+
+396
+00:19:30,723 --> 00:19:33,963
+I tell you, I got home, I cried.
+I did plenty of crying.
+
+397
+00:19:34,123 --> 00:19:36,683
+- It's amazing.
+- We wanna let you know,
+
+398
+00:19:36,843 --> 00:19:39,083
+season two of "Hollywood Medium
+with Tyler Hen--"
+
+399
+00:19:39,243 --> 00:19:41,644
+<i>it almost seems weird to be doing it</i>
+<i>as a promo now,</i>
+
+400
+00:19:41,804 --> 00:19:44,844
+because it was so much more important
+to me than a promo--
+
+401
+00:19:45,004 --> 00:19:48,404
+it premieres Wednesday, August 10th,
+on our sister network, E!
+
+402
+00:19:48,564 --> 00:19:52,164
+Everything about that is a bit strange,
+not least the fact that it's weird
+
+403
+00:19:52,324 --> 00:19:55,924
+to envision a scenario where something
+happened at the Today show offices
+
+404
+00:19:56,084 --> 00:19:58,644
+and Matt Lauer was the one
+who went home and cried,
+
+405
+00:19:58,804 --> 00:20:00,284
+and, look, look,
+
+406
+00:20:00,444 --> 00:20:01,804
+you can see
+
+407
+00:20:01,964 --> 00:20:04,724
+why people are vulnerable
+to psychics.
+
+408
+00:20:04,884 --> 00:20:08,324
+A message from a lost loved one
+is something many grieving people
+
+409
+00:20:08,484 --> 00:20:11,604
+would do anything for,
+and psychics may tell themselves
+
+410
+00:20:11,764 --> 00:20:14,084
+that they offer a harmless way
+to deal with loss.
+
+411
+00:20:14,244 --> 00:20:17,365
+Just watch as Theresa Caputo
+pretty much spells that out
+
+412
+00:20:17,525 --> 00:20:19,685
+in response
+to a fairly obvious question.
+
+413
+00:20:19,845 --> 00:20:23,005
+So when a tragedy happens--
+let's say a murder.
+
+414
+00:20:23,165 --> 00:20:25,485
+- Yeah.
+- If somebody comes to a loved one
+
+415
+00:20:25,645 --> 00:20:30,085
+and the spirit of the person
+who was murdered is there,
+
+416
+00:20:30,245 --> 00:20:33,245
+could that spirit potentially tell you
+who did it?
+
+417
+00:20:33,405 --> 00:20:34,805
+They will acknowledge
+
+418
+00:20:34,965 --> 00:20:37,165
+maybe the relationship,
+
+419
+00:20:37,325 --> 00:20:39,645
+but never will call someone out
+on a name.
+
+420
+00:20:39,805 --> 00:20:42,565
+- Why is that?
+- My thing--how I use my gift
+
+421
+00:20:42,725 --> 00:20:46,285
+is I only want messages that will help
+someone for the healing process.
+
+422
+00:20:46,445 --> 00:20:50,925
+Oh, come on! First, to be clear,
+if I was murdered,
+
+423
+00:20:51,085 --> 00:20:54,526
+I would definitely name names
+as a ghost.
+
+424
+00:20:54,686 --> 00:20:58,926
+It's not like one of the rules in heaven
+is "ghost snitches get ghost stitches."
+
+425
+00:20:59,086 --> 00:21:02,646
+As we all know, the only rule in heaven
+is "no fucking the clouds."
+
+426
+00:21:02,806 --> 00:21:04,606
+Seriously, it's a real problem
+up there,
+
+427
+00:21:04,766 --> 00:21:07,806
+and to be fair, I get it.
+They're so fluffy!
+
+428
+00:21:07,966 --> 00:21:09,766
+And you might say at this point,
+
+429
+00:21:09,926 --> 00:21:11,646
+"Hold on.
+Where is the downside
+
+430
+00:21:11,806 --> 00:21:14,006
+in telling people
+their grandmother loved them,"
+
+431
+00:21:14,166 --> 00:21:17,006
+but I would argue that at best,
+it is reckless
+
+432
+00:21:17,166 --> 00:21:20,126
+for a stranger to take a stab
+at ventriloquizing the dead.
+
+433
+00:21:20,286 --> 00:21:23,606
+Loss is complicated, and mourning
+doesn't look the same for everyone.
+
+434
+00:21:23,766 --> 00:21:26,927
+But at worst, when psychic abilities
+are presented as authentic,
+
+435
+00:21:27,087 --> 00:21:31,207
+it emboldens a vast underworld
+of unscrupulous vultures
+
+436
+00:21:31,367 --> 00:21:34,447
+happy to make money by offering
+an open line to the afterlife,
+
+437
+00:21:34,607 --> 00:21:36,807
+as well as
+many other bullshit services.
+
+438
+00:21:36,967 --> 00:21:39,807
+Take Rose Marks.
+She ran a lucrative psychic ring,
+
+439
+00:21:39,967 --> 00:21:44,367
+and in 2014, went to prison for
+defrauding clients of over $17 million,
+
+440
+00:21:44,527 --> 00:21:47,327
+much of which came from best-selling
+author Jude Deveraux,
+
+441
+00:21:47,487 --> 00:21:50,807
+who Marks had promised
+to reconnect with her dead son,
+
+442
+00:21:50,967 --> 00:21:53,207
+and the sick thing is,
+parents in crisis
+
+443
+00:21:53,367 --> 00:21:56,327
+are frequently
+actively targeted by psychics
+
+444
+00:21:56,487 --> 00:21:58,527
+at their most desperate moments.
+
+445
+00:21:58,687 --> 00:22:01,007
+<i>John and Jo Ann Lowitzer</i>
+<i>have been searching</i>
+
+446
+00:22:01,167 --> 00:22:05,088
+<i>for their 17-year-old daughter,</i>
+<i>Ali, since she vanished last year,</i>
+
+447
+00:22:05,248 --> 00:22:07,688
+<i>but when the case</i>
+<i>made national news...</i>
+
+448
+00:22:09,288 --> 00:22:12,248
+<i>The Houston parents say</i>
+<i>they became inundated with calls</i>
+
+449
+00:22:12,408 --> 00:22:14,768
+<i>from so-called psychic detectives.</i>
+
+450
+00:22:14,928 --> 00:22:17,768
+<i>They say some even showed up</i>
+<i>at their front door,</i>
+
+451
+00:22:17,928 --> 00:22:21,448
+<i>promising their psychic visions</i>
+<i>could help bring Ali home.</i>
+
+452
+00:22:21,608 --> 00:22:24,288
+He guaranteed me that he'd find Ali
+in three days.
+
+453
+00:22:24,448 --> 00:22:26,608
+I mean, what parent
+wouldn't be excited
+
+454
+00:22:26,768 --> 00:22:29,888
+<i>to hear you're gonna have</i>
+<i>your daughter home in three days?</i>
+
+455
+00:22:30,048 --> 00:22:31,928
+That is absolutely horrible.
+
+456
+00:22:32,088 --> 00:22:34,408
+The last thing
+any parent needs in that situation
+
+457
+00:22:34,568 --> 00:22:37,248
+is having to fend off
+an attention-seeking parasite
+
+458
+00:22:37,408 --> 00:22:40,889
+who feeds off personal tragedy
+like a human-sized deer tick,
+
+459
+00:22:41,049 --> 00:22:44,809
+and the problem is, TV actively enables
+that ghoulishness.
+
+460
+00:22:44,969 --> 00:22:47,409
+"The Montel Williams Show"
+featured Sylvia Browne,
+
+461
+00:22:47,569 --> 00:22:51,889
+a known psychic who advised parents with
+missing children on how to locate them.
+
+462
+00:22:52,049 --> 00:22:54,609
+On one episode, she advised
+the mother of Amanda Berry,
+
+463
+00:22:54,769 --> 00:22:56,489
+a missing child
+who had been kidnapped.
+
+464
+00:22:56,649 --> 00:23:01,009
+Amanda was actually alive and watching
+that episode from captivity,
+
+465
+00:23:01,169 --> 00:23:02,929
+and after she eventually escaped,
+
+466
+00:23:03,089 --> 00:23:05,529
+she talked
+about how watching it had felt.
+
+467
+00:23:05,689 --> 00:23:07,809
+<i>I'd watch her</i>
+<i>every time she was on Montel,</i>
+
+468
+00:23:07,969 --> 00:23:10,809
+and wish my mom would go on there,
+and she could tell my mom
+
+469
+00:23:10,969 --> 00:23:12,569
+that I was alive and that I'm okay.
+
+470
+00:23:12,729 --> 00:23:14,330
+- She's--
+<i>- But Sylvia Browne</i>
+
+471
+00:23:14,490 --> 00:23:16,810
+<i>breaks Louwana's hope.</i>
+
+472
+00:23:16,970 --> 00:23:19,850
+I just hate this.
+She's not alive, honey.
+
+473
+00:23:20,010 --> 00:23:23,290
+I just broke down, crying,
+I couldn't believe she said that,
+
+474
+00:23:23,450 --> 00:23:26,050
+<i>and then my mom broke down, crying,</i>
+
+475
+00:23:26,210 --> 00:23:27,730
+<i>so that hurt even worse.</i>
+
+476
+00:23:28,330 --> 00:23:29,730
+That is heartbreaking,
+
+477
+00:23:29,890 --> 00:23:33,050
+and Sylvia Browne is clearly
+an awful person for doing that,
+
+478
+00:23:33,210 --> 00:23:36,250
+but I would argue that Montel
+also bears some blame
+
+479
+00:23:36,410 --> 00:23:38,330
+for giving Browne a platform
+to begin with.
+
+480
+00:23:38,490 --> 00:23:41,330
+Put it this way. If Oprah interviewed
+a live alligator
+
+481
+00:23:41,490 --> 00:23:43,370
+and it ate four members
+of her audience,
+
+482
+00:23:43,530 --> 00:23:48,170
+I'd be angry with the alligator, but
+I'd also be kind of angry with Oprah.
+
+483
+00:23:48,331 --> 00:23:51,851
+Sylvia Browne actually died
+a few years ago, or did she?
+
+484
+00:23:52,011 --> 00:23:54,571
+People have been wrong
+about that sort of thing before.
+
+485
+00:23:54,731 --> 00:23:57,691
+Maybe she's alive, and watching me
+refer to her as dead.
+
+486
+00:23:57,851 --> 00:24:02,651
+The one thing I know for sure is that
+Montel's show is definitely deceased,
+
+487
+00:24:02,811 --> 00:24:07,731
+but--but daytime shows
+are still holding hands with this shit.
+
+488
+00:24:07,891 --> 00:24:10,931
+Just last month, Dr. Phil
+had a psychic detective on
+
+489
+00:24:11,091 --> 00:24:12,811
+to help solve a cold case,
+
+490
+00:24:12,971 --> 00:24:14,531
+and why would he do that?
+
+491
+00:24:14,691 --> 00:24:18,211
+The only logical explanation for letting
+a professional guesser weigh in
+
+492
+00:24:18,371 --> 00:24:20,851
+would be if Dr. Phil
+was actually the murderer
+
+493
+00:24:21,011 --> 00:24:23,051
+and was trying
+to throw people off the scent,
+
+494
+00:24:23,211 --> 00:24:25,812
+but apart from that explanation,
+that now makes sense,
+
+495
+00:24:25,972 --> 00:24:29,212
+there is no explanation,
+although I will say this.
+
+496
+00:24:29,372 --> 00:24:31,732
+Every now and then,
+when handled responsibly,
+
+497
+00:24:31,892 --> 00:24:34,612
+a psychic on television
+is a delightful thing.
+
+498
+00:24:34,772 --> 00:24:36,932
+Watch this spectacular
+local news investigation
+
+499
+00:24:37,092 --> 00:24:40,812
+of a psychic named Debra Dominque,
+who, in exchange for $160,
+
+500
+00:24:40,972 --> 00:24:43,532
+met an undercover reporter
+at a Denny's.
+
+501
+00:24:43,692 --> 00:24:45,452
+<i>Our producer met her</i>
+<i>at a coffee shop,</i>
+
+502
+00:24:45,612 --> 00:24:47,932
+<i>saying she wants to know</i>
+<i>what happened to Matthew,</i>
+
+503
+00:24:48,092 --> 00:24:51,692
+<i>the 10-year-old boy in this photo.</i>
+
+504
+00:24:51,852 --> 00:24:53,572
+It's so tragic.
+
+505
+00:24:53,732 --> 00:24:57,012
+<i>After staring at his photo,</i>
+<i>she uses a special pendulum,</i>
+
+506
+00:24:57,172 --> 00:25:00,453
+<i>claiming it allows her</i>
+<i>to talk with the dead.</i>
+
+507
+00:25:00,613 --> 00:25:02,373
+They're saying
+he's not alive anymore.
+
+508
+00:25:02,533 --> 00:25:06,173
+<i>And then she claims she has connected</i>
+<i>directly with Matthew.</i>
+
+509
+00:25:09,533 --> 00:25:13,173
+<i>But is he? Because we're pretty sure</i>
+<i>Matthew, the boy in this photo,</i>
+
+510
+00:25:13,333 --> 00:25:15,733
+<i>is not wearing white or in heaven.</i>
+
+511
+00:25:15,893 --> 00:25:19,453
+<i>In fact, we know he's wearing black,</i>
+<i>and is alive,</i>
+
+512
+00:25:19,613 --> 00:25:23,253
+<i>because you're looking at him</i>
+<i>sitting in the booth right behind her.</i>
+
+513
+00:25:23,413 --> 00:25:24,893
+Yep.
+
+514
+00:25:25,053 --> 00:25:27,573
+That boy is indeed
+in the opposite of heaven.
+
+515
+00:25:27,733 --> 00:25:29,453
+He's in a Denny's.
+
+516
+00:25:30,973 --> 00:25:34,774
+But wait. Wait till you see
+exactly how they bust her,
+
+517
+00:25:34,934 --> 00:25:36,934
+because it is just perfect.
+
+518
+00:25:37,094 --> 00:25:40,014
+- Kurtis Ming, Channel 13. How are you?
+- I'm fine.
+
+519
+00:25:40,174 --> 00:25:41,734
+<i>Showing her</i>
+<i>the picture of Matthew,</i>
+
+520
+00:25:41,894 --> 00:25:43,854
+<i>she tells me</i>
+<i>she thinks he was taken.</i>
+
+521
+00:25:44,014 --> 00:25:46,654
+I understand you said
+you thought he was deceased.
+
+522
+00:25:46,814 --> 00:25:50,654
+- Yes, I believe he could be.
+- I've got news for you.
+
+523
+00:25:50,814 --> 00:25:54,014
+It might come as a shock,
+but he's very much alive.
+
+524
+00:25:54,174 --> 00:25:56,694
+- Oh, that's great.
+- And he's actually standing
+
+525
+00:25:56,854 --> 00:25:58,574
+right behind you right now.
+
+526
+00:25:58,734 --> 00:26:00,254
+Oh, boy.
+
+527
+00:26:00,414 --> 00:26:02,774
+That's great.
+That's great.
+
+528
+00:26:02,934 --> 00:26:04,334
+It is great.
+
+529
+00:26:04,494 --> 00:26:08,294
+It is great. It's utter perfection.
+The only way that could have been better
+
+530
+00:26:08,454 --> 00:26:12,095
+is if the first thing that kid said
+to her was "Hey, Mom,"
+
+531
+00:26:12,255 --> 00:26:15,135
+and I would argue that that
+is the only responsible way
+
+532
+00:26:15,295 --> 00:26:16,975
+to put a psychic on television:
+
+533
+00:26:17,135 --> 00:26:20,415
+humiliating them with a ghost boy
+in a Denny's parking lot,
+
+534
+00:26:20,575 --> 00:26:23,935
+because this surprisingly large,
+often predatory industry
+
+535
+00:26:24,095 --> 00:26:27,695
+relies on popular culture
+to lend it credence and validity.
+
+536
+00:26:27,855 --> 00:26:32,575
+To put it another way, every time
+a psychic makes a widow cry on "Dr. Oz,"
+
+537
+00:26:32,735 --> 00:26:34,815
+ten con artists get their wings,
+
+538
+00:26:34,975 --> 00:26:38,335
+and that is a problem,
+because there will always be people
+
+539
+00:26:38,495 --> 00:26:41,855
+who feel an urge to reach out
+to psychics in their time of need,
+
+540
+00:26:42,015 --> 00:26:44,615
+so if you or someone you know
+is one of them,
+
+541
+00:26:44,775 --> 00:26:46,816
+I may have a small way to help here.
+
+542
+00:26:46,976 --> 00:26:49,936
+But this isn't the best format
+for me to show you, so please,
+
+543
+00:26:50,096 --> 00:26:53,256
+join me on the set of my new
+daytime talk show instead.
+
+544
+00:26:59,136 --> 00:27:01,296
+Welcome back to "Wakey Wakey
+with John Oliver."
+
+545
+00:27:01,456 --> 00:27:03,936
+It's sometime between 9:00
+and 3:00 in the afternoon,
+
+546
+00:27:04,096 --> 00:27:07,016
+and my next guest
+is a Staten Island psychic
+
+547
+00:27:07,176 --> 00:27:08,496
+and author of the book,
+
+548
+00:27:08,656 --> 00:27:10,736
+"These Freaking Spirits,
+Lemme Tell Ya."
+
+549
+00:27:10,896 --> 00:27:13,536
+Please welcome Wanda Jo Oliver.
+
+550
+00:27:13,696 --> 00:27:15,336
+Thank you.
+
+551
+00:27:15,496 --> 00:27:18,776
+Thank you.
+Thank you.
+
+552
+00:27:18,936 --> 00:27:21,497
+Thank you for having me, John.
+Thank you.
+
+553
+00:27:21,657 --> 00:27:24,617
+It's lovely to have you.
+If you look familiar to some viewers,
+
+554
+00:27:24,777 --> 00:27:27,337
+it might be because
+you're also my beloved wife.
+
+555
+00:27:27,497 --> 00:27:31,097
+- Yeah. I'm his freaking angel.
+- She is, she is.
+
+556
+00:27:31,257 --> 00:27:33,817
+Quick question, Wanda Jo.
+What happened to your accent?
+
+557
+00:27:33,977 --> 00:27:36,937
+- Aren't you from the South?
+- I'm not from there anymore.
+
+558
+00:27:37,097 --> 00:27:40,377
+That makes sense. Now, Wanda,
+when did you first realize
+
+559
+00:27:40,537 --> 00:27:42,617
+that you had
+incredible psychic abilities?
+
+560
+00:27:42,777 --> 00:27:45,697
+Oh, well, it was right after
+I saw a thing on TV
+
+561
+00:27:45,857 --> 00:27:47,897
+about how much money
+psychics can make,
+
+562
+00:27:48,057 --> 00:27:51,457
+and suddenly, I was like,
+"Me, too!"
+
+563
+00:27:51,617 --> 00:27:53,217
+"#MeToo."
+
+564
+00:27:53,377 --> 00:27:56,178
+Oh, no. That's not--
+that's actually a different thing.
+
+565
+00:27:56,338 --> 00:27:59,938
+#MeToo. Anyway,
+that's when I realized
+
+566
+00:28:00,098 --> 00:28:01,938
+I had to share my gift
+with the world.
+
+567
+00:28:02,098 --> 00:28:05,378
+Wanda Jo, I understand you've graciously
+offered to give our viewers
+
+568
+00:28:05,538 --> 00:28:08,338
+-...psychic readings for free. Right?
+-Bingo-bango.
+
+569
+00:28:08,498 --> 00:28:11,818
+As part
+of a court-ordered settlement,
+
+570
+00:28:11,978 --> 00:28:14,138
+I've been forced
+to set up a website.
+
+571
+00:28:16,978 --> 00:28:19,858
+Just log on now, and you can get
+a "freeading" from me,
+
+572
+00:28:20,018 --> 00:28:22,178
+Wanda Jo, just like this.
+
+573
+00:28:22,338 --> 00:28:24,658
+Okay, they want me
+to acknowledge an M connection.
+
+574
+00:28:24,818 --> 00:28:26,898
+That can mean Mark,
+or Mary, or Megan.
+
+575
+00:28:27,058 --> 00:28:30,818
+It could be someone passed or alive.
+It also doesn't have to be a name.
+
+576
+00:28:30,978 --> 00:28:34,139
+Could be any word that starts with M
+or has an M somewhere in it--
+
+577
+00:28:34,299 --> 00:28:35,859
+maybe "museum" or "hamper."
+
+578
+00:28:36,019 --> 00:28:38,259
+It could be an upside-down M,
+like a W,
+
+579
+00:28:38,419 --> 00:28:40,259
+or a sideways M, like a 3 or an E.
+
+580
+00:28:40,419 --> 00:28:44,419
+Anyway, that person. He--or she--
+wants me to tell you
+
+581
+00:28:44,579 --> 00:28:48,819
+that the time you had together
+was really special to him-- or her.
+
+582
+00:28:48,979 --> 00:28:51,619
+Wow, that is phenomenal to me,
+
+583
+00:28:51,779 --> 00:28:54,659
+and it almost seems weird to be
+doing this as a promo now,
+
+584
+00:28:54,819 --> 00:28:56,819
+because Wanda gave me
+a reading yesterday,
+
+585
+00:28:56,979 --> 00:28:58,819
+and it was
+so much more important to me
+
+586
+00:28:58,979 --> 00:29:01,419
+than a promo.
+I cried all the way home.
+
+587
+00:29:01,579 --> 00:29:02,899
+Yeah.
+
+588
+00:29:03,059 --> 00:29:06,339
+I told him none of his dead relatives
+wanted to talk to him.
+
+589
+00:29:06,500 --> 00:29:07,980
+That's so them.
+
+590
+00:29:08,140 --> 00:29:11,100
+The point is, go to Wanda Jo
+the Free Psychic,
+
+591
+00:29:11,260 --> 00:29:14,620
+or mediumimpressive.com,
+and get a free psychic reading.
+
+592
+00:29:14,780 --> 00:29:16,940
+We promise it will be
+exactly as accurate
+
+593
+00:29:17,100 --> 00:29:20,100
+as any psychic reading
+that you would pay money for.
+
+594
+00:29:20,260 --> 00:29:23,860
+Oh, wait. I'm getting a voice through
+for someone at home. Hold on.
+
+595
+00:29:24,020 --> 00:29:26,980
+- Your grandmother's a bitch!
+- Wow, okay.
+
+596
+00:29:27,140 --> 00:29:28,820
+That's our show.
+Thanks for watching!
+
+597
+00:29:28,980 --> 00:29:30,380
+See you next week!
+Good night!
+
+598
+00:29:30,540 --> 00:29:33,740
+You can't argue with that.
+You can't argue with a spirit.
+
+599
+00:29:33,900 --> 00:29:35,780
+If they say "bitch," it's a bitch.
+
+600
+00:29:35,940 --> 00:29:38,860
+- They said she was a bitch.
+- It's a bitch.
+
+601
+00:29:40,460 --> 00:29:41,941
+The book is fantastic.
+
+602
+00:29:42,101 --> 00:29:43,821
+- Buy the book.
+- Please buy the book.
+
+603
+00:29:43,981 --> 00:29:46,101
+- Buy the book, please.
+- Please buy the book.
+
+604
+00:29:46,261 --> 00:29:49,021
+On all good bookshelves now.
