@@ -1,0 +1,32 @@
+# docker-compose.yml
+version: "3.8"
+
+services:
+  db:
+    image: postgres:13
+    environment:
+      POSTGRES_DB: media_search_db
+      POSTGRES_USER: kristen
+      POSTGRES_PASSWORD: kristen
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+
+  web:
+    build: .
+    command: python manage.py runserver 0.0.0.0:8000
+    volumes:
+      - .:/app
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db
+    environment:
+      - DATABASE_NAME=media_search_db
+      - DATABASE_USER=kristen
+      - DATABASE_PASSWORD=kristen
+      - DATABASE_HOST=db
+
+volumes:
+  postgres_data:
