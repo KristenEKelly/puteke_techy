@@ -1,0 +1,3188 @@
+1
+00:00:31,244 --> 00:00:34,604
+Welcome, welcome, welcome
+to "Last Week Tonight."
+
+2
+00:00:34,764 --> 00:00:37,124
+I'm John Oliver.
+Thank you so much for joining us.
+
+3
+00:00:37,284 --> 00:00:41,363
+We are back, and just time
+for a quick recap of the week...
+
+4
+00:00:41,523 --> 00:00:44,043
+a week that saw North Korea
+resuming missile launches,
+
+5
+00:00:44,203 --> 00:00:47,363
+Robert Mueller somehow managing
+to irritate all of Congress,
+
+6
+00:00:47,523 --> 00:00:50,723
+and the president threatening France
+with tariffs on their wines
+
+7
+00:00:50,882 --> 00:00:53,202
+in the dumbest possible way.
+
+8
+00:00:53,362 --> 00:00:57,242
+I've always liked American wines
+better than French wines.
+
+9
+00:00:57,402 --> 00:01:02,082
+Even though I don't drink wine.
+I just like the way they look.
+
+10
+00:01:02,242 --> 00:01:05,321
+I mean, look,
+on one hand, yes, that is stupid.
+
+11
+00:01:05,481 --> 00:01:06,921
+On the other hand, judging things
+
+12
+00:01:07,081 --> 00:01:09,801
+purely on their looks is
+extremely on-brand for Trump.
+
+13
+00:01:09,961 --> 00:01:11,321
+He may as well have said,
+
+14
+00:01:11,481 --> 00:01:13,401
+"I need my wine to be
+at least a double D."
+
+15
+00:01:13,561 --> 00:01:16,321
+It would have made exactly
+as much sense as that.
+
+16
+00:01:16,481 --> 00:01:18,320
+But instead of dwelling
+on the president,
+
+17
+00:01:18,480 --> 00:01:22,440
+let's instead turn to Puerto Rico...
+objectively the best island
+
+18
+00:01:22,600 --> 00:01:24,520
+after, of course, Temptation,
+
+19
+00:01:24,680 --> 00:01:26,360
+Love, and kitchen.
+
+20
+00:01:26,520 --> 00:01:30,999
+Sorry, Hawaii, until you can display a
+knife block and a decorative fruit bowl
+
+21
+00:01:31,159 --> 00:01:34,039
+while also having hidden storage,
+you're not even on my list.
+
+22
+00:01:34,199 --> 00:01:36,879
+Daddy needs his feng shui.
+
+23
+00:01:37,039 --> 00:01:40,799
+There was... there was big news
+out of Puerto Rico this week.
+
+24
+00:01:40,959 --> 00:01:44,758
+<i>The embattled governor of Puerto Rico</i>
+<i>finally gives in and steps down.</i>
+
+25
+00:01:44,918 --> 00:01:47,478
+<i>Protests turn into celebration</i>
+<i>in the streets.</i>
+
+26
+00:01:47,638 --> 00:01:50,958
+<i>After hours of delay,</i>
+<i>Rosselló finally said the words</i>
+
+27
+00:01:51,118 --> 00:01:54,238
+<i>these people had been waiting</i>
+<i>12 days to hear:</i>
+
+28
+00:01:54,398 --> 00:01:56,237
+<i>"I will be resigning."</i>
+
+29
+00:01:59,757 --> 00:02:04,157
+Holy shit. It does not bode well
+for your political career
+
+30
+00:02:04,317 --> 00:02:06,317
+when people are reacting
+to your resignation
+
+31
+00:02:06,477 --> 00:02:08,557
+like Oprah just gave them a car.
+
+32
+00:02:08,717 --> 00:02:11,236
+"You get a new governor!
+You get a new governor!
+
+33
+00:02:11,396 --> 00:02:14,476
+Everybody gets a new governor!"
+
+34
+00:02:14,636 --> 00:02:17,356
+And look, it is hard to overstate
+
+35
+00:02:17,516 --> 00:02:19,516
+just how historic a moment this was.
+
+36
+00:02:19,676 --> 00:02:22,835
+Puerto Rico has endured decades
+of systemic corruption,
+
+37
+00:02:22,995 --> 00:02:25,955
+a massive debt crisis,
+crippling austerity measures,
+
+38
+00:02:26,115 --> 00:02:28,395
+an inadequate response
+to Hurricane Maria,
+
+39
+00:02:28,555 --> 00:02:30,835
+and most recently,
+a high-profile probe
+
+40
+00:02:30,995 --> 00:02:34,275
+that saw two former top officials
+arrested earlier this month.
+
+41
+00:02:34,435 --> 00:02:36,954
+But the last straw was this.
+
+42
+00:02:37,114 --> 00:02:39,834
+<i>Governor Ricardo Rosselló</i>
+<i>has been under fire</i>
+
+43
+00:02:39,994 --> 00:02:42,594
+<i>since nearly 900 pages</i>
+<i>of a private group chat</i>
+
+44
+00:02:42,754 --> 00:02:44,114
+<i>were leaked and published</i>
+
+45
+00:02:44,274 --> 00:02:47,034
+<i>by the Center for Investigative</i>
+<i>Journalism in Puerto Rico.</i>
+
+46
+00:02:47,194 --> 00:02:49,033
+<i>The reported messages</i>
+<i>between Rosselló</i>
+
+47
+00:02:49,193 --> 00:02:53,073
+<i>and several close aides include</i>
+<i>personal attacks on rival politicians,</i>
+
+48
+00:02:53,233 --> 00:02:56,273
+<i>sexist comments,</i>
+<i>and anti-gay slurs.</i>
+
+49
+00:02:56,433 --> 00:02:58,113
+Yeah, that's not good.
+
+50
+00:02:58,273 --> 00:03:01,312
+Nobody leaks 900 pages
+from a group chat
+
+51
+00:03:01,472 --> 00:03:03,712
+unless there's something
+terrible in it,
+
+52
+00:03:03,872 --> 00:03:06,352
+because otherwise
+all group chats are the same.
+
+53
+00:03:06,512 --> 00:03:08,992
+There's the girl who writes
+in full paragraphs,
+
+54
+00:03:09,152 --> 00:03:10,832
+the guy who says "K,"
+
+55
+00:03:10,992 --> 00:03:13,592
+and inevitably,
+the one person apologizing
+
+56
+00:03:13,752 --> 00:03:16,471
+because they thought this was
+the chat Danielle wasn't in,
+
+57
+00:03:16,631 --> 00:03:19,351
+but it turns out it's the group chat
+that Danielle was in,
+
+58
+00:03:19,511 --> 00:03:21,831
+and now she knows McKenna
+thinks that she's basic.
+
+59
+00:03:21,991 --> 00:03:25,271
+I mean, Danielle is basic,
+but that's not really the point, is it?
+
+60
+00:03:25,431 --> 00:03:27,510
+And Rosselló's group chat
+
+61
+00:03:27,670 --> 00:03:29,870
+was very, very, very bad.
+
+62
+00:03:30,030 --> 00:03:33,350
+It featured the governor calling one
+female adversary a "whore"
+
+63
+00:03:33,510 --> 00:03:35,110
+and an associate of his saying
+he was
+
+64
+00:03:35,270 --> 00:03:37,270
+"salivating to shoot"
+the mayor of San Juan,
+
+65
+00:03:37,430 --> 00:03:40,629
+to which the governor responded,
+"You'd be doing me a grand favor."
+
+66
+00:03:40,789 --> 00:03:43,029
+But perhaps the most
+devastating text
+
+67
+00:03:43,189 --> 00:03:45,829
+was a joke about
+the dead bodies accumulating
+
+68
+00:03:45,989 --> 00:03:49,109
+during and after Hurricane Maria
+at an understaffed morgue.
+
+69
+00:03:49,269 --> 00:03:52,389
+So it's frankly understandable
+that people wanted him gone,
+
+70
+00:03:52,549 --> 00:03:55,948
+but I don't think anyone
+said it better than this protestor.
+
+71
+00:03:56,108 --> 00:03:57,868
+After the hurricane,
+
+72
+00:03:58,028 --> 00:04:00,668
+I was hungry.
+I didn't have water.
+
+73
+00:04:00,828 --> 00:04:02,548
+Like, I didn't have anything.
+
+74
+00:04:02,708 --> 00:04:04,308
+And then this guy was living it up?
+
+75
+00:04:04,468 --> 00:04:07,587
+No, bruh, you're not fit
+to be governor. Out.
+
+76
+00:04:07,747 --> 00:04:11,387
+Wow. Well, I mean,
+she is not wrong there.
+
+77
+00:04:11,547 --> 00:04:13,107
+I know this isn't the point,
+
+78
+00:04:13,267 --> 00:04:16,387
+but someone needs to make that woman
+the next Bachelorette,
+
+79
+00:04:16,547 --> 00:04:19,346
+because I would tune in every week
+
+80
+00:04:19,506 --> 00:04:21,666
+just to watch her look Luke
+in the eye and say,
+
+81
+00:04:21,826 --> 00:04:25,946
+"You wanna know what I'm doing in the
+fantasy suite? Nah, bruh, you're out.
+
+82
+00:04:26,106 --> 00:04:27,546
+"You're out.
+
+83
+00:04:27,706 --> 00:04:29,866
+No, bruh... no."
+
+84
+00:04:30,026 --> 00:04:31,346
+The...
+
+85
+00:04:31,506 --> 00:04:34,185
+the protests against Rosselló
+were enormous,
+
+86
+00:04:34,345 --> 00:04:36,745
+with hundreds of thousands
+of people on the streets,
+
+87
+00:04:36,905 --> 00:04:39,065
+some on bicycles,
+some underwater,
+
+88
+00:04:39,225 --> 00:04:42,425
+and some even on horseback,
+which does seem unfair,
+
+89
+00:04:42,585 --> 00:04:46,264
+since we don't technically know
+who the horses support for governor.
+
+90
+00:04:46,424 --> 00:04:48,944
+You assume you know
+what side horses are on,
+
+91
+00:04:49,104 --> 00:04:51,104
+but you meet one
+at a party with a MAGA hat,
+
+92
+00:04:51,264 --> 00:04:55,064
+and you realize, "Whoa! Maybe I don't
+know them as well as I thought I did."
+
+93
+00:04:55,224 --> 00:04:57,344
+Then the horse stops
+because you said "whoa,"
+
+94
+00:04:57,504 --> 00:04:59,783
+and you have to say,
+"I didn't mean that 'whoa,'"
+
+95
+00:04:59,943 --> 00:05:01,863
+but you're still
+judging him for the hat.
+
+96
+00:05:02,023 --> 00:05:03,903
+And yet incredibly,
+
+97
+00:05:04,063 --> 00:05:07,103
+Rosselló refused to step down
+for over a week,
+
+98
+00:05:07,263 --> 00:05:10,383
+even trying to stand his ground
+during this testy interview
+
+99
+00:05:10,543 --> 00:05:12,342
+with Fox News's Shep Smith.
+
+100
+00:05:12,502 --> 00:05:15,982
+Governor, who's come forward to support
+you in the middle of this chaos?
+
+101
+00:05:17,622 --> 00:05:21,142
+-There are folks who supported me.
+-Who, specifically, is supporting you?
+
+102
+00:05:21,302 --> 00:05:23,862
+There are folks that support
+the rule of law.
+
+103
+00:05:24,022 --> 00:05:26,221
+-There are people.
+-Could you give me one name?
+
+104
+00:05:26,381 --> 00:05:28,581
+I see them out there;
+there is a protest.
+
+105
+00:05:28,741 --> 00:05:30,741
+Well, it's... I've talked to people...
+
+106
+00:05:30,901 --> 00:05:33,581
+-Just one name, Governor.
+-From different groups.
+
+107
+00:05:33,741 --> 00:05:35,581
+A lot of people
+from the administration.
+
+108
+00:05:35,741 --> 00:05:37,301
+Governor, you can't
+give me the name
+
+109
+00:05:37,460 --> 00:05:39,660
+of one person in Puerto Rico
+who supports you...
+
+110
+00:05:39,820 --> 00:05:43,220
+Continuing as governor?
+Is that correct?
+
+111
+00:05:43,380 --> 00:05:47,900
+I can. So the mayor of San Sebastián,
+for example, supported this effort.
+
+112
+00:05:48,060 --> 00:05:51,179
+-Whose name is?
+-Uh, from different municipalities.
+
+113
+00:05:51,339 --> 00:05:53,459
+Javier Jiménez, for example.
+
+114
+00:05:53,619 --> 00:05:56,659
+That was excruciating.
+
+115
+00:05:56,819 --> 00:05:58,939
+He took so long
+to come up with a name,
+
+116
+00:05:59,099 --> 00:06:02,099
+you might even be thinking that
+he just made Javier Jiménez up.
+
+117
+00:06:02,259 --> 00:06:04,098
+Well, in fairness to the governor,
+
+118
+00:06:04,258 --> 00:06:07,418
+I should say Javier Jiménez is in fact
+the mayor of San Sebastián,
+
+119
+00:06:07,578 --> 00:06:09,338
+but there is one problem,
+
+120
+00:06:09,498 --> 00:06:12,218
+and I think you can
+probably guess it.
+
+121
+00:06:12,378 --> 00:06:15,298
+<i>We spoke to Javier Jiménez</i>
+<i>last night via Facetime,</i>
+
+122
+00:06:15,458 --> 00:06:18,377
+<i>and he says he doesn't support</i>
+<i>the governor at all.</i>
+
+123
+00:06:20,217 --> 00:06:22,537
+<i>I am not supporting him.</i>
+<i>Of course not.</i>
+
+124
+00:06:22,697 --> 00:06:24,097
+<i>That is totally incorrect.</i>
+
+125
+00:06:24,257 --> 00:06:25,697
+Wow.
+
+126
+00:06:25,857 --> 00:06:29,736
+So the one name Rosselló
+came up with was bullshit,
+
+127
+00:06:29,896 --> 00:06:31,936
+which is such a stupid mistake.
+
+128
+00:06:32,096 --> 00:06:35,016
+Why give him a name
+they can check in seconds?
+
+129
+00:06:35,176 --> 00:06:38,696
+When 14-year-olds lie about
+having a Canadian girlfriend,
+
+130
+00:06:38,856 --> 00:06:41,936
+they know to keep the details
+vague and untraceable.
+
+131
+00:06:42,096 --> 00:06:44,215
+They don't say she's Celine Dion
+
+132
+00:06:44,375 --> 00:06:47,455
+because they'll get found out
+immediately.
+
+133
+00:06:47,615 --> 00:06:49,935
+But finally, on Wednesday,
+Governor Rosselló
+
+134
+00:06:50,095 --> 00:06:51,935
+did announce
+he'd leave office next week,
+
+135
+00:06:52,095 --> 00:06:53,855
+but it's not clear
+what happens next.
+
+136
+00:06:54,015 --> 00:06:56,014
+The next in line was
+the secretary of state.
+
+137
+00:06:56,174 --> 00:06:58,734
+He was also in the group chat
+and has already resigned.
+
+138
+00:06:58,894 --> 00:07:01,614
+The person in line after that
+is the secretary of justice,
+
+139
+00:07:01,774 --> 00:07:03,814
+who protestors think
+is too close to Rosselló
+
+140
+00:07:03,974 --> 00:07:05,974
+and just announced
+she doesn't want the job.
+
+141
+00:07:06,134 --> 00:07:09,133
+So Puerto Rico's future is unclear,
+although I will say this.
+
+142
+00:07:09,293 --> 00:07:11,613
+People there seem
+incredibly optimistic.
+
+143
+00:07:11,773 --> 00:07:14,773
+In fact, Rosselló may have been
+a terrible governor,
+
+144
+00:07:14,933 --> 00:07:18,453
+but he may have inadvertently
+accomplished something here.
+
+145
+00:07:18,613 --> 00:07:22,892
+Thank you, Governor,
+because you united one island.
+
+146
+00:07:23,052 --> 00:07:26,132
+The people in Puerto Rico
+altogether were able
+
+147
+00:07:26,292 --> 00:07:29,252
+to get him out of the seat
+that he was in.
+
+148
+00:07:29,412 --> 00:07:31,692
+The things that we can do
+together now
+
+149
+00:07:31,852 --> 00:07:34,811
+as a whole, you know,
+it's totally amazing.
+
+150
+00:07:34,971 --> 00:07:36,851
+Yeah, it is amazing,
+
+151
+00:07:37,011 --> 00:07:40,291
+because in a way, by being
+such a spectacular shithead,
+
+152
+00:07:40,451 --> 00:07:44,331
+Rosselló ended up uniting
+Puerto Rico in hating him,
+
+153
+00:07:44,491 --> 00:07:46,131
+and that's an incredible
+achievement.
+
+154
+00:07:46,291 --> 00:07:50,250
+But before he thinks for even a second
+that what I said constitutes praise,
+
+155
+00:07:50,410 --> 00:07:52,130
+I'd like to remind you of the words
+
+156
+00:07:52,290 --> 00:07:54,730
+of one of his island's
+greatest philosophers.
+
+157
+00:07:54,890 --> 00:07:58,210
+No, bruh, you're not fit
+to be governor. Out.
+
+158
+00:07:58,370 --> 00:08:02,289
+Exactly.
+And now, this.
+
+159
+00:08:02,449 --> 00:08:08,169
+<i>And now, the not-so-secret sadness</i>
+<i>of Fox 10 Phoenix's Cory McCloskey.</i>
+
+160
+00:08:08,329 --> 00:08:11,809
+When we were kids, Troy,
+it was fun to climb up on a barn
+
+161
+00:08:11,969 --> 00:08:14,968
+and then jump off into a wagon
+full of maybe hay
+
+162
+00:08:15,128 --> 00:08:16,608
+or garbage... whatever.
+
+163
+00:08:16,768 --> 00:08:20,048
+When I was a kid, we always had
+to bust these things in half.
+
+164
+00:08:20,208 --> 00:08:21,768
+I never got a whole popsicle.
+
+165
+00:08:21,928 --> 00:08:23,248
+-Never?
+-No, never.
+
+166
+00:08:23,408 --> 00:08:25,248
+This is my whole youth:
+
+167
+00:08:25,408 --> 00:08:27,487
+being whacked in the face
+by a snowball.
+
+168
+00:08:27,647 --> 00:08:29,407
+I grew up in Philadelphia,
+Pennsylvania.
+
+169
+00:08:29,567 --> 00:08:32,687
+-Really?
+-Yeah. Small town called Kennett Square.
+
+170
+00:08:32,847 --> 00:08:35,007
+Kennett Square?
+Aw, I lived out that way.
+
+171
+00:08:35,167 --> 00:08:37,007
+I had to live
+on the Jersey side, though.
+
+172
+00:08:37,167 --> 00:08:39,247
+Not a lot of cooking went on
+in our house.
+
+173
+00:08:39,407 --> 00:08:40,726
+We prepared meals,
+
+174
+00:08:40,886 --> 00:08:43,766
+but I wouldn't say that my mom
+was really a chef.
+
+175
+00:08:43,926 --> 00:08:46,726
+We all grew up with Crayola,
+of course,
+
+176
+00:08:46,886 --> 00:08:48,926
+and, man, you know who
+I always envied?
+
+177
+00:08:49,086 --> 00:08:51,926
+The kids who had the box
+with the sharpener.
+
+178
+00:08:52,086 --> 00:08:54,525
+I was always reduced
+to getting a paring knife out
+
+179
+00:08:54,685 --> 00:08:57,005
+to try to shave something
+into a point.
+
+180
+00:08:57,165 --> 00:08:59,445
+I grew up with the world's
+smallest bounce houses
+
+181
+00:08:59,605 --> 00:09:01,725
+at the carnivals
+where I used to live,
+
+182
+00:09:01,885 --> 00:09:03,445
+and they always smelled like...
+
+183
+00:09:03,605 --> 00:09:07,444
+like a combination
+of corn chips and feet.
+
+184
+00:09:07,604 --> 00:09:10,484
+This is all different.
+It's out in the open air.
+
+185
+00:09:10,644 --> 00:09:12,044
+Nothing can hurt you here.
+
+186
+00:09:15,484 --> 00:09:17,164
+Moving on.
+
+187
+00:09:17,324 --> 00:09:19,043
+Our main story tonight
+
+188
+00:09:19,203 --> 00:09:21,163
+concerns the United Kingdom,
+
+189
+00:09:21,323 --> 00:09:22,883
+home of fascinating wildlife,
+
+190
+00:09:23,043 --> 00:09:25,643
+like the fearless
+mating foxes of Kent,
+
+191
+00:09:25,803 --> 00:09:28,443
+and beautiful mountains
+that go largely unexplored
+
+192
+00:09:28,603 --> 00:09:31,003
+by the carefree
+mating foxes of Kent.
+
+193
+00:09:31,163 --> 00:09:33,882
+It's also home to some of the world's
+most gifted artists,
+
+194
+00:09:34,042 --> 00:09:38,242
+like whomever took this picture
+of the stoic mating foxes of Kent.
+
+195
+00:09:38,402 --> 00:09:41,522
+Unfortunately, the UK is about
+to be completely fucked,
+
+196
+00:09:41,682 --> 00:09:45,841
+in a way not unlike
+the resigned mating foxes of Kent,
+
+197
+00:09:46,001 --> 00:09:48,601
+and the reason for that
+is that this week
+
+198
+00:09:48,761 --> 00:09:51,441
+the UK had some very big news.
+
+199
+00:09:51,601 --> 00:09:53,641
+The UK has a new prime minister.
+
+200
+00:09:53,801 --> 00:09:56,681
+Boris Johnson took over today
+from Theresa May,
+
+201
+00:09:56,841 --> 00:09:58,320
+sealing the transition of power
+
+202
+00:09:58,480 --> 00:10:00,120
+<i>in a handshake with the queen.</i>
+
+203
+00:10:00,280 --> 00:10:02,680
+<i>He bowed, then broke the rules</i>
+
+204
+00:10:02,840 --> 00:10:05,600
+<i>by telling his news staff</i>
+<i>what she said.</i>
+
+205
+00:10:05,760 --> 00:10:09,840
+Exactly, and it was apparently,
+and I quote, "Deez nuts."
+
+206
+00:10:10,000 --> 00:10:13,119
+It's true. She's said it to every
+prime minister since Churchill,
+
+207
+00:10:13,279 --> 00:10:14,919
+and she won't say why.
+
+208
+00:10:15,079 --> 00:10:17,679
+But yes, incredibly,
+
+209
+00:10:17,839 --> 00:10:20,239
+Britain's new prime minister
+is Boris Johnson.
+
+210
+00:10:20,399 --> 00:10:22,639
+Even if you know nothing
+about British politics,
+
+211
+00:10:22,799 --> 00:10:24,838
+you're probably already
+vaguely aware of him.
+
+212
+00:10:24,998 --> 00:10:27,598
+As mayor of London, he famously
+got stuck on a zip line
+
+213
+00:10:27,758 --> 00:10:30,238
+while promoting the 2012 Olympics.
+
+214
+00:10:30,398 --> 00:10:33,438
+And if you've seen a photo of him,
+you'll probably remember it,
+
+215
+00:10:33,598 --> 00:10:36,958
+because it's hard to find one
+where he doesn't look ridiculous.
+
+216
+00:10:37,118 --> 00:10:40,077
+In fact,
+everything about his appearance
+
+217
+00:10:40,237 --> 00:10:42,757
+is consistently, immaculately wrong.
+
+218
+00:10:42,917 --> 00:10:45,357
+Here he is wearing a bike helmet
+
+219
+00:10:45,517 --> 00:10:48,877
+that's somehow both too small
+and too big for his head.
+
+220
+00:10:49,037 --> 00:10:50,516
+That's not easy to do.
+
+221
+00:10:50,676 --> 00:10:52,556
+Here he is looking
+like what would happen
+
+222
+00:10:52,716 --> 00:10:56,036
+if an egg could be both
+hairy and sad.
+
+223
+00:10:56,196 --> 00:10:57,876
+Even his childhood pictures
+are funny,
+
+224
+00:10:58,036 --> 00:11:01,276
+because here he is looking
+more like a young Anna Wintour
+
+225
+00:11:01,436 --> 00:11:03,915
+than I'm guessing she did
+at that age.
+
+226
+00:11:04,075 --> 00:11:06,755
+You may even have seen this clip
+that went viral recently
+
+227
+00:11:06,915 --> 00:11:10,475
+of Boris's endearingly weird answer
+to a very simple question
+
+228
+00:11:10,635 --> 00:11:13,275
+about what he does to relax.
+
+229
+00:11:13,435 --> 00:11:17,194
+I have a thing
+where I make models of...
+
+230
+00:11:17,354 --> 00:11:21,114
+I mean, realizing that we're mayor of
+London, we build beautiful... I make...
+
+231
+00:11:21,274 --> 00:11:22,634
+Buses.
+
+232
+00:11:22,794 --> 00:11:24,514
+-You make models of buses?
+-I do.
+
+233
+00:11:24,674 --> 00:11:25,994
+So in Downing Street...
+
+234
+00:11:26,154 --> 00:11:29,713
+So what I do... no, I didn't mean models
+of buses. What I make is...
+
+235
+00:11:29,873 --> 00:11:34,713
+I get... I get old, um...
+I don't know, wooden crates.
+
+236
+00:11:34,873 --> 00:11:36,233
+-Yeah.
+-Right?
+
+237
+00:11:36,393 --> 00:11:37,713
+And then I paint them.
+
+238
+00:11:37,873 --> 00:11:40,873
+You make cardboard buses.
+That's what you do to enjoy yourself.
+
+239
+00:11:41,033 --> 00:11:43,752
+No, I paint the passengers
+enjoying themselves...
+
+240
+00:11:43,912 --> 00:11:47,872
+-Okay, great.
+-On the wonderful bus.
+
+241
+00:11:48,032 --> 00:11:50,912
+Okay. Okay, so... so three things
+about that.
+
+242
+00:11:51,072 --> 00:11:52,792
+One, yes, it's magnificent.
+
+243
+00:11:52,952 --> 00:11:54,752
+Two, there's just no way
+that's true.
+
+244
+00:11:54,912 --> 00:11:56,591
+But three, if it were true,
+
+245
+00:11:56,751 --> 00:11:58,511
+I now want nothing more than to see
+
+246
+00:11:58,671 --> 00:12:00,391
+one of those fucking buses,
+
+247
+00:12:00,551 --> 00:12:03,271
+because if they're terrible,
+that's weird.
+
+248
+00:12:03,431 --> 00:12:06,191
+But if they're impressive,
+that's somehow weirder.
+
+249
+00:12:06,351 --> 00:12:09,590
+The very idea
+of the new prime minister
+
+250
+00:12:09,750 --> 00:12:13,070
+painting crate buses
+in his spare time to relax
+
+251
+00:12:13,230 --> 00:12:15,750
+is just endlessly fascinating.
+
+252
+00:12:15,910 --> 00:12:18,030
+But Boris is so much more
+
+253
+00:12:18,190 --> 00:12:22,069
+than the potential Michelangelo
+of vehicular crafts.
+
+254
+00:12:22,229 --> 00:12:25,469
+He was an absolutely crucial leader
+in the Brexit campaign,
+
+255
+00:12:25,629 --> 00:12:29,229
+famously riding around
+in a gigantic, red, non-crate bus
+
+256
+00:12:29,389 --> 00:12:32,229
+with a complete lie
+splashed across the side of it.
+
+257
+00:12:32,389 --> 00:12:35,508
+And now, he is prime minster
+and has to face the challenge
+
+258
+00:12:35,668 --> 00:12:39,308
+of finalizing a Brexit withdrawal deal
+by October 31st,
+
+259
+00:12:39,468 --> 00:12:41,748
+which is less than 100 days
+from now.
+
+260
+00:12:41,908 --> 00:12:44,148
+And the consequences
+of messing that up
+
+261
+00:12:44,308 --> 00:12:46,108
+could have catastrophic
+ramifications
+
+262
+00:12:46,268 --> 00:12:48,427
+for Britain, Europe, and the world.
+
+263
+00:12:48,587 --> 00:12:53,387
+So we thought it might be helpful
+to explain who exactly Boris Johnson is.
+
+264
+00:12:53,547 --> 00:12:56,787
+And let's start with the fact that
+given that Britain's new leader
+
+265
+00:12:56,947 --> 00:12:59,627
+is a clownish figure
+with silly hair
+
+266
+00:12:59,787 --> 00:13:01,786
+and a passing relationship
+with the truth,
+
+267
+00:13:01,946 --> 00:13:05,306
+you may already be thinking
+of the person you're almost always
+
+268
+00:13:05,466 --> 00:13:06,906
+thinking about anyway.
+
+269
+00:13:07,066 --> 00:13:08,866
+And you are not alone in that.
+
+270
+00:13:09,026 --> 00:13:12,706
+There have been countless headlines
+comparing Boris to Donald Trump,
+
+271
+00:13:12,866 --> 00:13:15,545
+and just this week,
+Trump did it himself.
+
+272
+00:13:15,705 --> 00:13:18,225
+They're calling him "Britain Trump",
+
+273
+00:13:18,385 --> 00:13:21,745
+and people are saying that's good,
+that they like me over there.
+
+274
+00:13:21,905 --> 00:13:24,305
+No, they don't.
+Nope, they... they don't.
+
+275
+00:13:24,465 --> 00:13:25,785
+They absolutely do not.
+
+276
+00:13:25,945 --> 00:13:30,504
+They don't like you over there,
+and no one ever says "Britain Trump"
+
+277
+00:13:30,664 --> 00:13:32,744
+unless it's in the context
+of a sentence like,
+
+278
+00:13:32,904 --> 00:13:37,104
+"I'm getting the fuck out of Britain;
+Trump is coming to visit this weekend."
+
+279
+00:13:37,264 --> 00:13:41,623
+But to call Boris Johnson
+"Britain Trump"
+
+280
+00:13:41,783 --> 00:13:45,303
+is neither exactly wrong
+nor exactly right.
+
+281
+00:13:45,463 --> 00:13:48,023
+Johnson is actually
+a lot more complex than Trump
+
+282
+00:13:48,183 --> 00:13:49,503
+in a number of important ways.
+
+283
+00:13:49,663 --> 00:13:53,742
+For one, while Trump tells you
+he has "the best words" but doesn't,
+
+284
+00:13:53,902 --> 00:13:57,022
+Johnson is more than happy
+to show you how erudite he is.
+
+285
+00:13:57,182 --> 00:13:59,862
+Just watch him charmingly drop
+some sporting trivia
+
+286
+00:14:00,022 --> 00:14:01,742
+ahead of the London Olympics.
+
+287
+00:14:01,902 --> 00:14:05,741
+Ping-pong was invented on
+the dining tables of England,
+
+288
+00:14:05,901 --> 00:14:07,941
+ladies and gentlemen,
+in the 19th century.
+
+289
+00:14:08,101 --> 00:14:10,861
+It was, and it was called
+"whiff-whaff."
+
+290
+00:14:11,021 --> 00:14:12,941
+And there you have
+the essential difference
+
+291
+00:14:13,101 --> 00:14:14,701
+between us
+and the rest of the world.
+
+292
+00:14:14,861 --> 00:14:17,301
+Other nations, the French,
+looked at a dining table
+
+293
+00:14:17,461 --> 00:14:19,660
+and saw an opportunity
+to have dinner.
+
+294
+00:14:19,820 --> 00:14:21,260
+We looked at a dining table
+
+295
+00:14:21,420 --> 00:14:24,180
+and saw an opportunity
+to play whiff-whaff.
+
+296
+00:14:24,340 --> 00:14:26,020
+Look, look, yes.
+
+297
+00:14:26,180 --> 00:14:28,380
+I will admit
+that is objectively funny,
+
+298
+00:14:28,540 --> 00:14:31,380
+although I'm not sure
+that that whiff-whaff anecdote
+
+299
+00:14:31,540 --> 00:14:33,259
+reflects quite as well
+on the British
+
+300
+00:14:33,419 --> 00:14:34,739
+as he's implying there.
+
+301
+00:14:34,899 --> 00:14:37,139
+The French looked to the dining table
+as a canvas
+
+302
+00:14:37,299 --> 00:14:39,219
+upon which to create
+exceptional cuisine,
+
+303
+00:14:39,379 --> 00:14:42,739
+and the British saw a way to
+basically invent mouse tennis.
+
+304
+00:14:42,899 --> 00:14:46,818
+And look, Johnson is more than happy
+to look ridiculous.
+
+305
+00:14:46,978 --> 00:14:51,498
+It's enabled him to not just survive
+when he fucks up, but actually benefit.
+
+306
+00:14:51,658 --> 00:14:53,738
+That absurd zip line photo
+from the Olympics
+
+307
+00:14:53,898 --> 00:14:56,338
+would have killed
+most politicians' careers,
+
+308
+00:14:56,498 --> 00:15:00,057
+but Boris found a way to laugh
+at himself and charm everyone.
+
+309
+00:15:00,217 --> 00:15:02,817
+Just watch how it got covered
+on the news at the time.
+
+310
+00:15:02,977 --> 00:15:04,297
+<i>Isn't that fantastic?</i>
+
+311
+00:15:04,457 --> 00:15:08,017
+<i>This is a man who some are tipping</i>
+<i>as a future prime minister.</i>
+
+312
+00:15:08,177 --> 00:15:10,697
+<i>Look, I think if anyone</i>
+<i>has won the Olympics,</i>
+
+313
+00:15:10,856 --> 00:15:12,896
+<i>I would say it's Boris Johnson.</i>
+
+314
+00:15:13,056 --> 00:15:14,976
+Hold on.
+Hold on there.
+
+315
+00:15:15,136 --> 00:15:17,256
+"If" anyone won the Olympics?
+
+316
+00:15:17,416 --> 00:15:20,216
+To be clear, people definitely
+won the Olympics,
+
+317
+00:15:20,376 --> 00:15:21,936
+specifically the winners.
+
+318
+00:15:22,096 --> 00:15:24,495
+The winners won the Olympics.
+
+319
+00:15:24,655 --> 00:15:26,175
+And in a nutshell,
+
+320
+00:15:26,335 --> 00:15:28,615
+that has been the root
+of Boris's appeal...
+
+321
+00:15:28,775 --> 00:15:31,015
+a loveable mess weathering adversity
+
+322
+00:15:31,175 --> 00:15:32,815
+with humor and good cheer.
+
+323
+00:15:32,975 --> 00:15:34,735
+But the truth is,
+
+324
+00:15:34,895 --> 00:15:37,134
+there may be a great deal
+more calculation
+
+325
+00:15:37,294 --> 00:15:39,134
+behind that image
+than first appears,
+
+326
+00:15:39,294 --> 00:15:40,894
+because Boris learned
+at an early age
+
+327
+00:15:41,054 --> 00:15:43,534
+the benefits of making yourself
+the butt of the joke,
+
+328
+00:15:43,694 --> 00:15:45,814
+as his own sister remembers.
+
+329
+00:15:45,974 --> 00:15:48,254
+<i>He discovered he could</i>
+<i>make people laugh.</i>
+
+330
+00:15:48,414 --> 00:15:50,653
+When he was in a French play,
+
+331
+00:15:50,813 --> 00:15:54,013
+he had to recite Molière and he hadn't
+bothered to learn his lines,
+
+332
+00:15:54,173 --> 00:15:56,173
+and he hid behind a pillow
+reading them out,
+
+333
+00:15:56,333 --> 00:15:59,653
+which was obviously much funnier
+than if he'd learnt them perfectly
+
+334
+00:15:59,813 --> 00:16:03,332
+and had stood on the stage
+and declaimed them.
+
+335
+00:16:03,492 --> 00:16:05,612
+Yeah, obviously.
+
+336
+00:16:05,772 --> 00:16:08,212
+It's always funnier
+when things go wrong,
+
+337
+00:16:08,372 --> 00:16:12,212
+like in this photo of Johnson shaking
+hands with the queen... Oh, no.
+
+338
+00:16:12,372 --> 00:16:14,972
+Oh, what an embarrassing mistake.
+
+339
+00:16:15,132 --> 00:16:17,051
+See? Objectively funnier.
+
+340
+00:16:17,211 --> 00:16:21,811
+And by the way, how are neither
+of you into this?
+
+341
+00:16:21,971 --> 00:16:26,651
+Boris... Boris actually learned
+a great deal from that incident
+
+342
+00:16:26,811 --> 00:16:28,611
+as he himself will admit.
+
+343
+00:16:28,771 --> 00:16:31,690
+Do you think that you learnt
+something for later life
+
+344
+00:16:31,850 --> 00:16:33,610
+from acting in plays at Eton?
+
+345
+00:16:33,770 --> 00:16:35,450
+You could actually get more laughs
+
+346
+00:16:35,610 --> 00:16:37,970
+by looking as if
+you don't know your lines
+
+347
+00:16:38,130 --> 00:16:40,410
+than actually remembering them.
+
+348
+00:16:40,570 --> 00:16:42,449
+Well, I certainly think that
+
+349
+00:16:42,609 --> 00:16:45,289
+as a general tactic in life,
+
+350
+00:16:45,449 --> 00:16:47,529
+if that's what you're driving at,
+
+351
+00:16:47,689 --> 00:16:51,809
+it is often useful...
+
+352
+00:16:51,969 --> 00:16:54,329
+to give the slight impression
+
+353
+00:16:54,489 --> 00:16:58,328
+that you are deliberately pretending
+not to know what is going on.
+
+354
+00:16:58,488 --> 00:17:01,128
+The reality may be that you
+don't know what is going on,
+
+355
+00:17:01,288 --> 00:17:02,968
+but people can't tell the difference.
+
+356
+00:17:03,128 --> 00:17:07,488
+And that, right there,
+is the key to Boris Johnson,
+
+357
+00:17:07,648 --> 00:17:10,687
+presenting his own lack
+of preparation so charmingly
+
+358
+00:17:10,847 --> 00:17:13,167
+that you actually doubt
+he's unprepared,
+
+359
+00:17:13,327 --> 00:17:15,207
+but he is.
+
+360
+00:17:15,367 --> 00:17:18,887
+It's an incredibly powerful trick,
+and incidentally, it's clips like that
+
+361
+00:17:19,047 --> 00:17:22,406
+that are one major reason
+why Boris is not the Britain Trump,
+
+362
+00:17:22,566 --> 00:17:26,446
+because can you imagine Trump
+having that level of self-reflection?
+
+363
+00:17:26,606 --> 00:17:30,726
+"Look, with 'covfefe,'
+the tactic was to present myself
+
+364
+00:17:30,886 --> 00:17:32,806
+"as a kind of sub-literate clown
+
+365
+00:17:32,966 --> 00:17:36,445
+"and to distract you from the fact
+that I'm a mound of skin
+
+366
+00:17:36,605 --> 00:17:38,645
+"tautly stretched
+across the howling chasm
+
+367
+00:17:38,805 --> 00:17:40,525
+of the space
+where a soul should be."
+
+368
+00:17:40,685 --> 00:17:45,725
+That's... it's a very useful tool
+when deployed well.
+
+369
+00:17:45,885 --> 00:17:47,284
+The point here is, though,
+
+370
+00:17:47,444 --> 00:17:50,724
+Johnson's bumbling persona
+is a carefully calibrated act.
+
+371
+00:17:50,884 --> 00:17:55,924
+Take his hair. Multiple people have said
+he actually messes it up on purpose.
+
+372
+00:17:56,084 --> 00:17:57,444
+A BBC producer tweeted
+
+373
+00:17:57,604 --> 00:17:59,044
+that "he'd always ruffle it
+
+374
+00:17:59,204 --> 00:18:01,043
+right before the camera
+started rolling,"
+
+375
+00:18:01,203 --> 00:18:02,883
+which kind of makes sense,
+doesn't it?
+
+376
+00:18:03,043 --> 00:18:05,283
+He's been on TV hundreds of times,
+
+377
+00:18:05,443 --> 00:18:07,603
+and he always looks like a mess.
+
+378
+00:18:07,763 --> 00:18:10,883
+What were the chances that
+before every one of those appearances,
+
+379
+00:18:11,043 --> 00:18:14,642
+he combed, gelled,
+and carefully part his hair
+
+380
+00:18:14,802 --> 00:18:17,962
+only to then be hit in the face
+by a goose
+
+381
+00:18:18,122 --> 00:18:19,762
+right as they started filming?
+
+382
+00:18:19,922 --> 00:18:23,282
+No, he looks like that
+because he wants to.
+
+383
+00:18:23,442 --> 00:18:27,841
+Or take his clothing. He's often seen
+outside in eccentric, chaotic outfits,
+
+384
+00:18:28,001 --> 00:18:29,881
+but he knows how to dress.
+
+385
+00:18:30,041 --> 00:18:32,641
+He just also knows that
+that is a more relatable image
+
+386
+00:18:32,801 --> 00:18:35,841
+than this one from when he was
+in the notoriously elite
+
+387
+00:18:36,001 --> 00:18:38,241
+Bullingdon Club at Oxford University
+
+388
+00:18:38,401 --> 00:18:40,000
+with his friend David Cameron.
+
+389
+00:18:40,160 --> 00:18:43,680
+Now, that photo was
+a huge liability for Cameron
+
+390
+00:18:43,840 --> 00:18:45,240
+but not for Johnson,
+
+391
+00:18:45,400 --> 00:18:47,360
+because he's cleverly
+inoculated himself
+
+392
+00:18:47,520 --> 00:18:49,760
+against that image
+of astonishing privilege
+
+393
+00:18:49,920 --> 00:18:52,679
+by presenting himself
+as a cartoon Englishman
+
+394
+00:18:52,839 --> 00:18:54,799
+who dresses like a raccoon
+who just emerged
+
+395
+00:18:54,959 --> 00:18:57,559
+from David Foster Wallace's trash.
+
+396
+00:18:57,719 --> 00:19:01,719
+And once you realize what he is doing,
+it makes you question everything
+
+397
+00:19:01,879 --> 00:19:04,119
+that you previously found
+charming about him.
+
+398
+00:19:04,279 --> 00:19:07,158
+Remember that clip where he's
+talking about painting buses?
+
+399
+00:19:07,318 --> 00:19:08,678
+Undeniably funny,
+
+400
+00:19:08,838 --> 00:19:12,358
+but some in Britain have pointed out
+that it might have been an attempt
+
+401
+00:19:12,518 --> 00:19:14,838
+to change the Google search results
+people receive
+
+402
+00:19:14,998 --> 00:19:17,638
+when they looked for something like
+"Boris Johnson bus,"
+
+403
+00:19:17,798 --> 00:19:20,117
+meaning that people would see
+that delightful clip
+
+404
+00:19:20,277 --> 00:19:23,237
+rather than this significantly
+less delightful bullshit.
+
+405
+00:19:23,397 --> 00:19:25,477
+Now, was that actually
+his intention?
+
+406
+00:19:25,637 --> 00:19:29,517
+It's impossible to know,
+but you can't rule it out either.
+
+407
+00:19:29,677 --> 00:19:31,556
+And once you see the possibility
+
+408
+00:19:31,716 --> 00:19:34,676
+that his gaffes are in fact
+calculated manipulations,
+
+409
+00:19:34,836 --> 00:19:36,516
+you can't unsee it.
+
+410
+00:19:36,676 --> 00:19:40,716
+It's like looking at the FedEx logo
+and finally noticing the arrow.
+
+411
+00:19:40,876 --> 00:19:42,196
+Or...
+
+412
+00:19:42,356 --> 00:19:44,076
+Or looking at the Starbucks logo
+
+413
+00:19:44,236 --> 00:19:46,515
+and finally noticing
+Robert De Niro's face.
+
+414
+00:19:46,675 --> 00:19:51,555
+You can never look at it
+in quite the same way again.
+
+415
+00:19:51,715 --> 00:19:54,035
+And beneath all of
+Boris's surface charm
+
+416
+00:19:54,195 --> 00:19:56,435
+are some truly nasty elements.
+
+417
+00:19:56,595 --> 00:19:58,474
+For one thing, he is a liar.
+
+418
+00:19:58,634 --> 00:20:00,834
+He was fired from his first job
+as a journalist,
+
+419
+00:20:00,994 --> 00:20:04,034
+at "The Times" of London
+for completely making up a quote.
+
+420
+00:20:04,194 --> 00:20:08,034
+In fact, his editor claims
+Johnson was the "single worst employee"
+
+421
+00:20:08,194 --> 00:20:09,634
+he's ever had,
+
+422
+00:20:09,794 --> 00:20:13,993
+"and skipped many work days to hang out
+with his best friend, Jeffrey Epstein,"
+
+423
+00:20:14,153 --> 00:20:15,593
+which is terrible.
+
+424
+00:20:15,753 --> 00:20:18,753
+It's not true;
+I just made that quote up.
+
+425
+00:20:18,913 --> 00:20:22,233
+But now, you can see
+just how irresponsible it is
+
+426
+00:20:22,393 --> 00:20:24,432
+to fabricate them.
+
+427
+00:20:24,592 --> 00:20:28,432
+And from there, Johnson failed upwards
+to a job at "The Daily Telegraph,"
+
+428
+00:20:28,592 --> 00:20:31,592
+where he built a following
+on a series of flagrant falsehoods
+
+429
+00:20:31,752 --> 00:20:34,472
+about the European Union
+as their Brussels correspondent...
+
+430
+00:20:34,632 --> 00:20:36,991
+falsehoods that would help
+lay the groundwork
+
+431
+00:20:37,151 --> 00:20:39,351
+for the Brexit vote decades later.
+
+432
+00:20:39,511 --> 00:20:42,791
+Johnson even admits that he had
+something called a "save-get."
+
+433
+00:20:42,951 --> 00:20:46,591
+It's a key command like a copy-paste
+of a phrase that he liked to use
+
+434
+00:20:46,751 --> 00:20:49,271
+to paint a caricature of the EU.
+
+435
+00:20:49,431 --> 00:20:53,550
+I had a sort of "save-get."
+Do you still have "save-get" keys?
+
+436
+00:20:53,710 --> 00:20:55,310
+A "save-get" kind of intro,
+
+437
+00:20:55,470 --> 00:21:00,150
+which was "Britain stood alone
+last night as..."
+
+438
+00:21:00,310 --> 00:21:04,149
+and then I'd fill in whatever it was,
+"As Europe proceeded with plans
+
+439
+00:21:04,309 --> 00:21:06,629
+to abolish the prawn cocktail
+flavor crisp,"
+
+440
+00:21:06,789 --> 00:21:08,909
+or... or whatever.
+
+441
+00:21:09,069 --> 00:21:12,029
+Okay.
+So, first, for those unfamiliar,
+
+442
+00:21:12,189 --> 00:21:14,029
+prawn cocktail crisps are real.
+
+443
+00:21:14,189 --> 00:21:16,068
+They shouldn't be, but they are.
+
+444
+00:21:16,228 --> 00:21:18,828
+And to explain,
+it's what happens when a country
+
+445
+00:21:18,988 --> 00:21:21,868
+looks at a dining table
+and foregoes food
+
+446
+00:21:22,028 --> 00:21:25,988
+in favor of playing whiff-whaff,
+but Johnson...
+
+447
+00:21:26,148 --> 00:21:29,387
+Johnson actually did write
+a series of columns
+
+448
+00:21:29,547 --> 00:21:32,627
+claiming Europe was attempting to ban
+the prawn cocktail crisp,
+
+449
+00:21:32,787 --> 00:21:34,507
+which was a complete lie.
+
+450
+00:21:34,667 --> 00:21:36,867
+Europe was never planning
+to abolish them,
+
+451
+00:21:37,027 --> 00:21:39,227
+and they immediately
+pointed that out.
+
+452
+00:21:39,387 --> 00:21:42,826
+But Boris's allegation
+spread like wildfire
+
+453
+00:21:42,986 --> 00:21:45,786
+and became a popular example
+of an out-of-control EU,
+
+454
+00:21:45,946 --> 00:21:48,026
+and as recently as 2016,
+
+455
+00:21:48,186 --> 00:21:52,706
+a full 25 years after his bullshit
+was completely debunked,
+
+456
+00:21:52,866 --> 00:21:55,025
+Boris actually cited "the great war
+
+457
+00:21:55,185 --> 00:21:57,345
+against the British
+prawn cocktail crisp"
+
+458
+00:21:57,505 --> 00:21:59,185
+as part of his case for Brexit.
+
+459
+00:21:59,345 --> 00:22:01,865
+And by the way,
+if there ever is a great war
+
+460
+00:22:02,025 --> 00:22:05,145
+against the prawn cocktail crisp,
+there will be no winners.
+
+461
+00:22:05,305 --> 00:22:07,305
+Believe me, because...
+
+462
+00:22:07,465 --> 00:22:10,024
+I will say this.
+Eating them...
+
+463
+00:22:12,144 --> 00:22:15,944
+It's... it's like eating
+a cremated mermaid.
+
+464
+00:22:16,104 --> 00:22:18,824
+But... but in a bad way.
+
+465
+00:22:18,984 --> 00:22:20,704
+And...
+
+466
+00:22:20,863 --> 00:22:23,183
+Oh, that's bad.
+And look, look...
+
+467
+00:22:24,943 --> 00:22:29,703
+Look, look, it would be bad enough
+if Boris were just a liar.
+
+468
+00:22:29,863 --> 00:22:33,862
+He's also been more than willing to tap
+into outright bigotry to get ahead.
+
+469
+00:22:34,022 --> 00:22:36,222
+He's made repeated references
+to some immigrants
+
+470
+00:22:36,382 --> 00:22:38,542
+as people that want
+to "leech off the state,"
+
+471
+00:22:38,702 --> 00:22:41,422
+and over the years he's made
+references to "piccaninnies."
+
+472
+00:22:41,582 --> 00:22:44,662
+He said the people of Congo
+had "watermelon smiles,"
+
+473
+00:22:44,822 --> 00:22:47,821
+he's called gay men
+"tank-topped bumboys,"
+
+474
+00:22:47,981 --> 00:22:50,661
+and just last year, there was this.
+
+475
+00:22:50,821 --> 00:22:52,581
+<i>"They look like letterboxes,"</i>
+
+476
+00:22:52,741 --> 00:22:54,581
+<i>Boris Johnson wrote on Monday.</i>
+
+477
+00:22:54,741 --> 00:22:56,821
+<i>He even compared women who wear them</i>
+
+478
+00:22:56,981 --> 00:22:58,461
+<i>to bank robbers.</i>
+
+479
+00:22:58,621 --> 00:23:01,020
+That is an appalling comment
+
+480
+00:23:01,180 --> 00:23:03,980
+that leaves a truly disgusting
+taste in your mouth,
+
+481
+00:23:04,140 --> 00:23:06,820
+much like the shrimp crisp dust
+
+482
+00:23:06,980 --> 00:23:11,700
+that has very much voted
+to remain on my fucking tongue.
+
+483
+00:23:11,860 --> 00:23:14,819
+And look, when reporters camped
+outside Johnson's house,
+
+484
+00:23:14,979 --> 00:23:18,419
+he really turned the cartoon
+version of himself up to 11,
+
+485
+00:23:18,579 --> 00:23:21,539
+ruffling up his hair,
+donning an absurd outfit,
+
+486
+00:23:21,699 --> 00:23:23,179
+and waddling out to charm them,
+
+487
+00:23:23,339 --> 00:23:25,978
+and just watch how
+depressingly effective
+
+488
+00:23:26,138 --> 00:23:27,658
+it winds up being.
+
+489
+00:23:27,818 --> 00:23:30,498
+-Do you apologize for what...
+-Will you have a cup of tea?
+
+490
+00:23:30,658 --> 00:23:32,698
+-Will you apologize...
+-Would you like a cup?
+
+491
+00:23:32,858 --> 00:23:34,418
+-Yeah, sure.
+-Go on. Have a cuppa.
+
+492
+00:23:34,578 --> 00:23:36,738
+Thank you, thank you.
+Do you regret...
+
+493
+00:23:36,898 --> 00:23:39,257
+-Would you like a cup?
+-Do you regret your comment?
+
+494
+00:23:39,417 --> 00:23:41,977
+-Do you regret your comment?
+-Go on, have a cup of tea.
+
+495
+00:23:42,137 --> 00:23:44,337
+-Thank you very much.
+-There you go.
+
+496
+00:23:44,497 --> 00:23:46,497
+-There you go.
+-Do you regret your comment?
+
+497
+00:23:46,657 --> 00:23:48,337
+I want you
+to have a cup of tea.
+
+498
+00:23:48,497 --> 00:23:50,897
+If I have a cup of tea,
+will you answer my question?
+
+499
+00:23:51,057 --> 00:23:54,296
+No, I'm here solely
+on a humanitarian mission.
+
+500
+00:23:54,456 --> 00:23:57,296
+You've been here all day,
+and you've been incredibly patient
+
+501
+00:23:57,456 --> 00:23:59,136
+and incredibly...
+I feel sorry for you,
+
+502
+00:23:59,296 --> 00:24:02,336
+'cause I have nothing to say,
+except offer you some tea!
+
+503
+00:24:02,496 --> 00:24:04,376
+-Okay.
+-Okay? Go on.
+
+504
+00:24:04,536 --> 00:24:06,855
+-Okay, thank you. Thank you so much.
+-Go on.
+
+505
+00:24:07,015 --> 00:24:08,535
+No!
+
+506
+00:24:08,695 --> 00:24:10,215
+Don't take the tea,
+
+507
+00:24:10,375 --> 00:24:12,015
+and do not thank him for it!
+
+508
+00:24:12,175 --> 00:24:14,295
+Because think about
+what just happened there.
+
+509
+00:24:14,455 --> 00:24:16,895
+He referred to Muslim women
+as letterboxes,
+
+510
+00:24:17,055 --> 00:24:18,734
+and in the space of 30 seconds,
+
+511
+00:24:18,894 --> 00:24:20,494
+he had them laughing along
+with them.
+
+512
+00:24:20,654 --> 00:24:23,134
+He was in trouble,
+he put on full Brit face,
+
+513
+00:24:23,294 --> 00:24:25,374
+and those journalists
+fucking fell for it.
+
+514
+00:24:25,534 --> 00:24:27,654
+And for the record,
+I can say Brit face.
+
+515
+00:24:27,814 --> 00:24:29,174
+You can't.
+
+516
+00:24:29,334 --> 00:24:31,693
+I can definitely say it.
+
+517
+00:24:31,853 --> 00:24:34,053
+We can say it together;
+you can't say it at all.
+
+518
+00:24:34,213 --> 00:24:35,613
+That's the rule.
+
+519
+00:24:35,773 --> 00:24:38,733
+But unfortunately,
+Boris the prime minister
+
+520
+00:24:38,893 --> 00:24:41,573
+may have hit the limits
+of where that charm can take him,
+
+521
+00:24:41,733 --> 00:24:45,252
+because crucially,
+he now has less than 100 days
+
+522
+00:24:45,412 --> 00:24:46,852
+to negotiate a Brexit deal.
+
+523
+00:24:47,012 --> 00:24:49,932
+And his well-engineered,
+clumsy Brit persona
+
+524
+00:24:50,092 --> 00:24:52,012
+does not necessarily travel well.
+
+525
+00:24:52,172 --> 00:24:54,412
+We saw that during his time
+as foreign secretary.
+
+526
+00:24:54,572 --> 00:24:57,771
+In 2017, he was in Myanmar,
+where for some reason
+
+527
+00:24:57,931 --> 00:24:59,851
+he kept muttering Rudyard Kipling's
+
+528
+00:25:00,011 --> 00:25:03,211
+colonialist poem "Mandalay"
+to himself.
+
+529
+00:25:16,450 --> 00:25:17,970
+Oh, yeah.
+
+530
+00:25:18,130 --> 00:25:19,890
+<i>The ambassador is quick to spot</i>
+
+531
+00:25:20,050 --> 00:25:22,530
+<i>that reminding their hosts</i>
+<i>of British rule</i>
+
+532
+00:25:22,690 --> 00:25:24,689
+<i>might not be wise.</i>
+
+533
+00:25:35,169 --> 00:25:38,408
+Is it good stuff?
+Or is that actually bad stuff?
+
+534
+00:25:38,568 --> 00:25:40,808
+'Cause I'd argue,
+as a foreign secretary,
+
+535
+00:25:40,968 --> 00:25:42,488
+it's best not to remind people
+
+536
+00:25:42,648 --> 00:25:45,968
+of when your country subjugated theirs
+for more than a century.
+
+537
+00:25:46,128 --> 00:25:48,688
+It honestly would've been
+more diplomatic at that point
+
+538
+00:25:48,848 --> 00:25:53,327
+to recite the lyrics to
+"My neck, My Back", by Khia.
+
+539
+00:25:53,487 --> 00:25:55,047
+"My neck, my back,
+
+540
+00:25:55,207 --> 00:25:57,207
+lick my pussy and my crack."
+
+541
+00:25:57,367 --> 00:25:59,407
+Good stuff, good stuff.
+
+542
+00:25:59,567 --> 00:26:01,687
+And look, that...
+
+543
+00:26:01,847 --> 00:26:03,526
+that wasn't a one-off.
+
+544
+00:26:03,686 --> 00:26:06,966
+Johnson's time in the foreign office
+was littered with gaffes,
+
+545
+00:26:07,126 --> 00:26:10,406
+as this journalist explains
+with the help of a visual aid.
+
+546
+00:26:10,566 --> 00:26:12,126
+I've spoken to one figure
+
+547
+00:26:12,286 --> 00:26:14,406
+who said that working
+with Boris Johnson
+
+548
+00:26:14,566 --> 00:26:17,525
+is like walking a few feet
+behind a horse
+
+549
+00:26:17,685 --> 00:26:19,445
+shoveling its shit.
+
+550
+00:26:21,125 --> 00:26:24,245
+Wow. That is a striking quote,
+
+551
+00:26:24,405 --> 00:26:26,605
+although I'm not really sure
+why that journalist
+
+552
+00:26:26,765 --> 00:26:29,484
+felt the need to be
+next to a horse to deliver it.
+
+553
+00:26:29,644 --> 00:26:31,524
+How do you pitch that
+to the stable owner?
+
+554
+00:26:31,684 --> 00:26:35,204
+"Look, I'm just worried that people
+have forgotten what horses look like,
+
+555
+00:26:35,364 --> 00:26:39,644
+"so please stand aside while I humiliate
+your animal on the news."
+
+556
+00:26:39,804 --> 00:26:43,363
+And the problem is, if Johnson messes up
+the Brexit negotiation,
+
+557
+00:26:43,523 --> 00:26:46,603
+the pile-up of shit
+could be considerable here,
+
+558
+00:26:46,763 --> 00:26:49,123
+as most economists believe
+a no-deal Brexit
+
+559
+00:26:49,283 --> 00:26:50,883
+would cause a deep recession.
+
+560
+00:26:51,043 --> 00:26:54,482
+And the EU may be extra immune
+to Boris's charms.
+
+561
+00:26:54,642 --> 00:26:57,602
+Remember, he was a key figure
+in the Brexit campaign
+
+562
+00:26:57,762 --> 00:27:01,202
+and has lied about them for decades
+in his newspaper columns,
+
+563
+00:27:01,362 --> 00:27:04,642
+on top of which he has privately
+referred to the French as "turds"
+
+564
+00:27:04,802 --> 00:27:07,561
+and publicly compared
+the EU to Hitler.
+
+565
+00:27:07,721 --> 00:27:09,161
+So he's not working
+
+566
+00:27:09,321 --> 00:27:11,281
+with a lot of goodwill
+at this point.
+
+567
+00:27:11,441 --> 00:27:14,641
+And Boris has made extravagant,
+unkeepable promises,
+
+568
+00:27:14,801 --> 00:27:17,041
+including that he will somehow
+devise a way
+
+569
+00:27:17,201 --> 00:27:19,561
+to sever northern Ireland
+from the EU
+
+570
+00:27:19,721 --> 00:27:22,160
+without creating a hard border
+with Ireland.
+
+571
+00:27:22,320 --> 00:27:24,840
+But his suggestions cannot work,
+
+572
+00:27:25,000 --> 00:27:26,760
+and EU Commissioner
+Jean-Claude Juncker
+
+573
+00:27:26,920 --> 00:27:29,480
+has responded
+pretty clearly to them.
+
+574
+00:27:29,640 --> 00:27:32,160
+<i>Juncker reiterated</i>
+<i>that "the EU's position</i>
+
+575
+00:27:32,320 --> 00:27:36,799
+<i>"that the Withdrawal Agreement is</i>
+<i>the best and only agreement possible."</i>
+
+576
+00:27:36,959 --> 00:27:39,439
+<i>In other words,</i>
+<i>Juncker said no to Johnson.</i>
+
+577
+00:27:39,599 --> 00:27:41,359
+Yeah, of course he did,
+
+578
+00:27:41,519 --> 00:27:44,039
+so Johnson is shit out of luck
+at this point.
+
+579
+00:27:44,199 --> 00:27:47,998
+His bumbling charm may work wonders
+in low-stakes situations,
+
+580
+00:27:48,158 --> 00:27:49,878
+but that's not where he is now.
+
+581
+00:27:50,038 --> 00:27:54,558
+Think of it like this. Hugh Grant is
+delightful in romantic comedies...
+
+582
+00:27:54,718 --> 00:27:56,518
+the stammering, the hesitation,
+
+583
+00:27:56,678 --> 00:27:58,918
+the inability to relate
+to his surroundings
+
+584
+00:27:59,078 --> 00:28:01,077
+with any level of competence.
+
+585
+00:28:01,237 --> 00:28:04,397
+You want to see Hugh Grant in
+"Four Weddings and a Funeral,"
+
+586
+00:28:04,557 --> 00:28:07,797
+but no one wants to see him
+in "United 93,"
+
+587
+00:28:07,957 --> 00:28:11,597
+because the context would make
+his character a lot less charming.
+
+588
+00:28:11,757 --> 00:28:13,436
+"Sorry, I just... um, well,
+
+589
+00:28:13,596 --> 00:28:15,796
+"ah, this is a...
+really a stupid question,
+
+590
+00:28:15,956 --> 00:28:18,956
+"Particularly
+in view of your recent jihad,
+
+591
+00:28:19,116 --> 00:28:23,036
+"but I just wondered if by any chance,
+in the words of David Cassidy,
+
+592
+00:28:23,196 --> 00:28:25,356
+"when he was still with
+'The Partridge Family,'
+
+593
+00:28:25,516 --> 00:28:27,395
+"I believe, uh,
+you might be persuaded to,
+
+594
+00:28:27,555 --> 00:28:29,435
+should Allah will it, obviously..."
+
+595
+00:28:29,595 --> 00:28:33,595
+"Land-land-land this plane. Um...
+
+596
+00:28:33,755 --> 00:28:36,955
+Allahu, as I believe
+you say it, Akbar."
+
+597
+00:28:37,115 --> 00:28:40,674
+Because...
+yeah, it's less good.
+
+598
+00:28:40,834 --> 00:28:44,794
+It's less good in a situation
+that matters,
+
+599
+00:28:44,954 --> 00:28:49,114
+because Johnson cannot get what
+he wants or has promised here,
+
+600
+00:28:49,274 --> 00:28:51,953
+and his only hope of avoiding
+complete catastrophe
+
+601
+00:28:52,113 --> 00:28:54,753
+is through focus, discipline,
+and detail.
+
+602
+00:28:54,913 --> 00:28:58,153
+But those are three Achilles heels
+of his. I'll show you.
+
+603
+00:28:58,313 --> 00:29:02,473
+One of his great plans for mitigating
+the potentially catastrophic effects
+
+604
+00:29:02,633 --> 00:29:07,032
+of a no-deal Brexit is to suggest that
+if the UK misses that October deadline,
+
+605
+00:29:07,192 --> 00:29:11,952
+it could simply trade freely with the EU
+under Article 24, paragraph 5B
+
+606
+00:29:12,112 --> 00:29:13,992
+of this existing trade agreement,
+
+607
+00:29:14,152 --> 00:29:17,032
+but... and you do not need
+to know the details of this...
+
+608
+00:29:17,192 --> 00:29:19,791
+the very next paragraph, 5C,
+
+609
+00:29:19,951 --> 00:29:22,191
+makes it clear that
+that is simply not possible.
+
+610
+00:29:22,351 --> 00:29:25,151
+And just watch as a journalist
+who actually understood that
+
+611
+00:29:25,311 --> 00:29:26,951
+challenged Johnson on it.
+
+612
+00:29:27,111 --> 00:29:30,151
+You talk about Article 5B
+in paragraph 24.
+
+613
+00:29:30,311 --> 00:29:31,950
+Paragraph 5B. Article 24.
+
+614
+00:29:32,110 --> 00:29:34,430
+-Get the detail right, Andrew.
+-Article 5...
+
+615
+00:29:34,590 --> 00:29:36,670
+It's Article 24, paragraph 5B.
+
+616
+00:29:36,830 --> 00:29:39,950
+And how would you handle
+paragraph 5C?
+
+617
+00:29:40,110 --> 00:29:45,069
+I would... I would confide entirely
+in paragraph 5B, because that is...
+
+618
+00:29:45,229 --> 00:29:47,229
+But how would you get around
+what's in 5C?
+
+619
+00:29:47,389 --> 00:29:50,829
+I'd confide entirely in paragraph 5B,
+which is enough for our purposes.
+
+620
+00:29:50,989 --> 00:29:52,789
+-Do you know what's in 5C?
+-No.
+
+621
+00:29:54,149 --> 00:29:57,548
+Oh, for fuck's sake!
+
+622
+00:29:57,708 --> 00:30:00,228
+That "no" was delivered
+with the confidence of a man
+
+623
+00:30:00,388 --> 00:30:03,828
+who doesn't know what he's talking
+about, but thinks it doesn't matter.
+
+624
+00:30:03,988 --> 00:30:06,948
+It's a "no" that says, "Yeah,
+I'm full of shit. So what?
+
+625
+00:30:07,108 --> 00:30:11,467
+"Just walk a few feet behind me
+and clean it up with a shovel."
+
+626
+00:30:11,627 --> 00:30:16,387
+But that lack of attention to detail
+for a process that has the potential
+
+627
+00:30:16,547 --> 00:30:19,387
+to impact millions of people
+is really alarming,
+
+628
+00:30:19,547 --> 00:30:21,947
+and there is no reason
+for much hope here,
+
+629
+00:30:22,107 --> 00:30:25,626
+because all the skills that have helped
+Johnson to become prime minister
+
+630
+00:30:25,786 --> 00:30:28,066
+will not paper over
+all of the deficits
+
+631
+00:30:28,226 --> 00:30:30,546
+that are going to make him
+terrible at that job.
+
+632
+00:30:30,706 --> 00:30:32,546
+Johnson has backed himself
+into a corner,
+
+633
+00:30:32,706 --> 00:30:34,866
+because Parliament has rejected
+the EU's deal;
+
+634
+00:30:35,026 --> 00:30:37,665
+the EU says there is
+no better deal to be had.
+
+635
+00:30:37,825 --> 00:30:40,105
+There is really no good way
+out of this,
+
+636
+00:30:40,265 --> 00:30:42,185
+meaning that
+he's pretty much stranded...
+
+637
+00:30:42,345 --> 00:30:44,025
+and not the charming kind
+of stranded
+
+638
+00:30:44,185 --> 00:30:47,065
+that means you've somehow
+won the Olympics,
+
+639
+00:30:47,225 --> 00:30:50,944
+because this time that zip line
+isn't over Olympic spectators.
+
+640
+00:30:51,104 --> 00:30:52,464
+It's over a volcano.
+
+641
+00:30:52,624 --> 00:30:55,024
+It's set to erupt
+in three months' time,
+
+642
+00:30:55,184 --> 00:30:57,224
+and the only people
+who can help get him down
+
+643
+00:30:57,384 --> 00:31:00,224
+are the same people he's accused
+of being turds and Hitlers.
+
+644
+00:31:00,384 --> 00:31:03,383
+And unfortunately for Johnson,
+Britain, Europe, and the world,
+
+645
+00:31:03,543 --> 00:31:08,303
+I just don't think he's gonna be able
+to whiff-whaff his way out of this one.
+
+646
+00:31:08,463 --> 00:31:10,543
+And now, this.
+
+647
+00:31:10,703 --> 00:31:15,902
+<i>And now, CNBC's Joe Kernen</i>
+<i>irritates his co-workers.</i>
+
+648
+00:31:16,062 --> 00:31:18,702
+Rami Malek's teeth... those fake teeth
+
+649
+00:31:18,862 --> 00:31:21,662
+actually won Best Actor, I think.
+
+650
+00:31:21,822 --> 00:31:24,062
+Did they not, or...?
+
+651
+00:31:24,222 --> 00:31:26,182
+Uh, no, I think they did not.
+
+652
+00:31:26,342 --> 00:31:27,902
+-You're not a baby powder guy?
+-No.
+
+653
+00:31:28,061 --> 00:31:29,941
+Baby skin.
+If you get a little bit older...
+
+654
+00:31:30,101 --> 00:31:31,901
+-I have it already.
+-Get a bit older,
+
+655
+00:31:32,061 --> 00:31:34,341
+-...gravity takes over.
+-The baby powder...
+
+656
+00:31:34,501 --> 00:31:36,421
+-Gravity takes over?
+-Eventually.
+
+657
+00:31:36,581 --> 00:31:38,941
+Is that what you want to tell
+Americans at 6:08?
+
+658
+00:31:39,101 --> 00:31:40,781
+It's just a fact, right, Mac?
+
+659
+00:31:40,941 --> 00:31:42,820
+There are big...
+specific type of sweat...
+
+660
+00:31:42,980 --> 00:31:46,860
+-Ugh. So gross.
+-Glands in your ear canal, Andrew.
+
+661
+00:31:47,020 --> 00:31:49,100
+-Really...
+-Active. Active ones.
+
+662
+00:31:49,260 --> 00:31:50,580
+-It's spectacular.
+-It's fast.
+
+663
+00:31:50,740 --> 00:31:53,620
+It's real. They're real,
+and they're spectacular.
+
+664
+00:31:54,859 --> 00:31:57,939
+-Nice.
+-Yeah, like he said.
+
+665
+00:31:59,419 --> 00:32:01,939
+You're glued
+to what's-his-face, with the...
+
+666
+00:32:02,099 --> 00:32:04,939
+big Austin Powers dude
+with the teeth, um...
+
+667
+00:32:05,099 --> 00:32:07,059
+-Mike Myers?
+-No.
+
+668
+00:32:07,218 --> 00:32:10,938
+Uh, the guy who summarizes a week
+in a day on Sunday nights...
+
+669
+00:32:11,098 --> 00:32:13,378
+-Oh, John Oliver.
+-Yeah, yeah.
+
+670
+00:32:13,538 --> 00:32:14,938
+God almighty.
+
+671
+00:32:15,098 --> 00:32:17,658
+He's not representative of, uh...
+
+672
+00:32:17,818 --> 00:32:21,337
+of Great... is he?
+I mean, do you take credit for...
+
+673
+00:32:21,497 --> 00:32:22,857
+I think it's a good show.
+
+674
+00:32:23,017 --> 00:32:25,257
+-I like him.
+-Okay.
+
+675
+00:32:25,417 --> 00:32:27,297
+How about time
+for the Squawk planner?
+
+676
+00:32:29,457 --> 00:32:31,057
+That's our show.
+Thanks for watching.
+
+677
+00:32:31,217 --> 00:32:33,256
+See you next week.
+Good night!

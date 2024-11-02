@@ -1,0 +1,2738 @@
+1
+00:00:20,210 --> 00:00:22,200
+LAST WEEK TONIGHT
+WITH JOHN OLIVER
+
+2
+00:00:24,030 --> 00:00:26,010
+SEASON VI
+EPISODE 25
+
+3
+00:00:31,210 --> 00:00:34,200
+Welcome to Last Week Tonight!
+
+4
+00:00:34,220 --> 00:00:37,120
+I'm John Oliver.
+Thank you so much for joining us.
+
+5
+00:00:37,140 --> 00:00:43,080
+Let's dive in with a week that was once
+again consumed by Stupid Watergate II,
+
+6
+00:00:43,100 --> 00:00:45,210
+something that features everything
+that was bad about the original,
+
+7
+00:00:45,230 --> 00:00:48,060
+while still somehow
+managing to be worse.
+
+8
+00:00:48,080 --> 00:00:51,160
+It's basically the Diet Mountain Dew
+of political scandals.
+
+9
+00:00:52,050 --> 00:00:54,160
+This week saw Trump
+try to shift the narrative
+
+10
+00:00:54,210 --> 00:00:56,200
+away from the allegations
+surrounding him
+
+11
+00:00:56,220 --> 00:00:59,030
+to conspiracies
+surrounding the Biden family,
+
+12
+00:00:59,050 --> 00:01:02,070
+although in doing so,
+he hit some ridiculous roadblocks.
+
+13
+00:01:02,440 --> 00:01:05,500
+The president is amping up
+his accusations on social media.
+
+14
+00:01:08,370 --> 00:01:10,340
+Tweeting out a video
+slamming the Bidens
+
+15
+00:01:10,360 --> 00:01:12,400
+featuring music
+from the rock group "Nickelback"
+
+16
+00:01:12,420 --> 00:01:14,320
+only to be shut down by Twitter
+
+17
+00:01:14,340 --> 00:01:17,390
+after the band complained
+that was a copyright violation.
+
+18
+00:01:19,340 --> 00:01:20,340
+It's true.
+
+19
+00:01:20,360 --> 00:01:24,420
+Twitter removed one of the president's
+memes 'cause Nickelback complained.
+
+20
+00:01:25,390 --> 00:01:28,350
+And that's a sentence
+that somehow suggests the news
+
+21
+00:01:28,370 --> 00:01:32,380
+is being written by an algorithm
+designed to generate random shittiness.
+
+22
+00:01:32,430 --> 00:01:35,390
+"Twitter took down Trump's meme;
+And now for the weather,
+
+23
+00:01:35,410 --> 00:01:39,330
+where it will be raining expired
+ranch dressing, rats, and bedbugs,
+
+24
+00:01:39,350 --> 00:01:41,380
+all in honor
+of Guy Fieri's birthday.
+
+25
+00:01:41,400 --> 00:01:43,480
+Thanks for watching,
+I'm Roman Polanksi."
+
+26
+00:01:44,340 --> 00:01:48,340
+And if that wasn't sufficiently stupid,
+the very next day,
+
+27
+00:01:48,390 --> 00:01:52,350
+during Trump's customary
+"screaming next to a helicopter" time,
+
+28
+00:01:52,370 --> 00:01:56,380
+he decided to answer a question about
+what he wanted Ukraine to do like this.
+
+29
+00:01:57,290 --> 00:01:59,290
+They should investigate the Bidens,
+
+30
+00:01:59,330 --> 00:02:03,460
+likewise, China should start
+an investigation into the Bidens,
+
+31
+00:02:04,080 --> 00:02:06,020
+because what happened in China
+
+32
+00:02:06,210 --> 00:02:12,000
+is just about as bad
+as what happened with Ukraine.
+
+33
+00:02:12,190 --> 00:02:17,000
+I would say that President Zelensky,
+if it were me,
+
+34
+00:02:17,060 --> 00:02:21,040
+I would recommend that they start
+an investigation into the Bidens.
+
+35
+00:02:21,220 --> 00:02:23,150
+Holy shit!
+
+36
+00:02:24,100 --> 00:02:28,130
+Instead of denying that he privately
+solicited dirt from a foreign power,
+
+37
+00:02:28,170 --> 00:02:29,230
+he publicly did it,
+
+38
+00:02:30,000 --> 00:02:33,040
+and then asked another foreign power
+to get involved, too.
+
+39
+00:02:33,060 --> 00:02:37,130
+Which is just making it worse.
+You almost expect his next words to be:
+
+40
+00:02:37,150 --> 00:02:41,120
+"Biden's not as bad as Jeffrey Epstein,
+but no problem, I had him killed.
+
+41
+00:02:41,140 --> 00:02:43,060
+So sad, great guy.
+
+42
+00:02:43,080 --> 00:02:47,070
+The killer too-paid the guards,
+used a bed sheet, he's outta there.
+
+43
+00:02:47,090 --> 00:02:50,030
+Wonderful extrajudicial murder."
+
+44
+00:02:51,060 --> 00:02:52,090
+It is bad enough
+
+45
+00:02:52,130 --> 00:02:56,180
+that Trump seems fixated on a rightwing
+conspiracy theory about the Bidens.
+
+46
+00:02:56,200 --> 00:02:59,060
+But what makes it far worse
+is the extent
+
+47
+00:02:59,100 --> 00:03:03,090
+to which he's abused the power
+of the presidency to pursue that belief.
+
+48
+00:03:03,110 --> 00:03:07,210
+Text messages emerged,
+showing a career diplomat Bill Taylor,
+
+49
+00:03:07,860 --> 00:03:10,060
+objecting to Trump
+withholding aid from Ukraine
+
+50
+00:03:10,080 --> 00:03:12,860
+unless they investigated
+the Bidens.
+
+51
+00:03:12,880 --> 00:03:15,050
+He apparently texted his concerns
+to Gordon Sondland,
+
+52
+00:03:15,070 --> 00:03:20,010
+Trump's ambassador to the EU, and
+the response he got was not reassuring.
+
+53
+00:03:20,900 --> 00:03:21,960
+Taylor wrote, quote:
+
+54
+00:03:21,990 --> 00:03:25,880
+"Are we saying that security assistance
+and a White House meeting
+
+55
+00:03:25,900 --> 00:03:27,940
+are conditioned on investigations?"
+
+56
+00:03:28,060 --> 00:03:30,850
+Sondland responded: "Call me".
+
+57
+00:03:31,910 --> 00:03:35,020
+"Call me".
+That is not a good response.
+
+58
+00:03:35,970 --> 00:03:38,930
+It would've been less damning
+if Sondland had added:
+
+59
+00:03:38,950 --> 00:03:40,020
+"Because I'm horny."
+
+60
+00:03:40,930 --> 00:03:43,950
+"And I want you to talk me off.
+Even though I'm your boss.
+
+61
+00:03:44,850 --> 00:03:48,080
+That's the misconduct I'm engaged in
+right now. Not anything else."
+
+62
+00:03:48,960 --> 00:03:50,050
+Eggplant emoji.
+
+63
+00:03:52,010 --> 00:03:57,060
+And that wasn't the only time
+Sondland brushed off Taylor's concerns.
+
+64
+00:03:58,070 --> 00:03:59,990
+In a text last month he wrote:
+
+65
+00:04:00,860 --> 00:04:02,980
+"It's crazy to withhold
+security assistance
+
+66
+00:04:03,000 --> 00:04:05,000
+for help
+with a political campaign."
+
+67
+00:04:05,880 --> 00:04:08,080
+But Gordon Sondland
+disagreed saying:
+
+68
+00:04:08,890 --> 00:04:11,820
+"I believe you are incorrect
+about President Trump's intentions...
+
+69
+00:04:11,850 --> 00:04:14,020
+No quid pro quo's... of any kind."
+
+70
+00:04:14,830 --> 00:04:17,030
+He suggested taking
+the conversation offline.
+
+71
+00:04:17,950 --> 00:04:22,940
+He said: "I suggest we stop
+the back and forth by text."
+
+72
+00:04:22,980 --> 00:04:24,880
+When you are that concerned
+
+73
+00:04:24,910 --> 00:04:27,920
+about not leaving a paper trail
+in your conversation,
+
+74
+00:04:27,950 --> 00:04:29,940
+it's just inherently suspicious.
+
+75
+00:04:30,040 --> 00:04:31,860
+If you texted someone:
+
+76
+00:04:31,890 --> 00:04:35,840
+"Have you ever masturbated in the lawn
+care aisle at Home Depot?"
+
+77
+00:04:35,890 --> 00:04:36,980
+and they responded with:
+
+78
+00:04:37,000 --> 00:04:39,860
+"I suggest we stop
+the back and forth by text"
+
+79
+00:04:39,890 --> 00:04:42,030
+you pretty much
+have your answer right there.
+
+80
+00:04:43,870 --> 00:04:47,940
+A lot of information is tumbling out
+into the open thanks to this inquiry,
+
+81
+00:04:47,980 --> 00:04:50,030
+and none of it is good
+for the White House.
+
+82
+00:04:50,800 --> 00:04:52,830
+It was just confirmed today
+that a second whistleblower
+
+83
+00:04:52,850 --> 00:04:55,860
+with first-hand knowledge
+of Trump's Ukraine dealings
+
+84
+00:04:55,880 --> 00:04:57,850
+spoke to the inspector general.
+
+85
+00:04:57,870 --> 00:05:00,980
+Other White House staffers
+are now voicing broader concerns
+
+86
+00:05:01,000 --> 00:05:03,840
+about the president's
+approach to diplomacy.
+
+87
+00:05:04,000 --> 00:05:05,820
+"The Washington Post"
+
+88
+00:05:05,840 --> 00:05:08,860
+chronicles President Trump's
+conversations with other world leaders.
+
+89
+00:05:09,060 --> 00:05:12,250
+Often, they leave his aides
+genuinely horrified.
+
+90
+00:05:13,200 --> 00:05:16,200
+Yeah, it's true.
+According to the story,
+
+91
+00:05:16,230 --> 00:05:20,180
+Trump pestered Shinzo Abe to help
+recommend him for a Nobel Prize,
+
+92
+00:05:20,280 --> 00:05:23,240
+was obsequious and fawning
+to Vladimir Putin,
+
+93
+00:05:24,040 --> 00:05:25,180
+and in a call with Xi Jinping,
+
+94
+00:05:25,220 --> 00:05:29,180
+repeated numerous times how much
+he liked a kind of chocolate cake.
+
+95
+00:05:29,250 --> 00:05:31,200
+While that last one sounds dumb,
+
+96
+00:05:31,220 --> 00:05:35,160
+at least "I like chocolate cake"
+is a unifying message.
+
+97
+00:05:35,190 --> 00:05:40,080
+The president might be a racist foghorn
+wrapped in old fried chicken skin,
+
+98
+00:05:40,140 --> 00:05:44,260
+but as far as chocolate cake
+is concerned, he is us, and we is him.
+
+99
+00:05:45,050 --> 00:05:47,060
+Unless you don't like chocolate cake,
+
+100
+00:05:47,100 --> 00:05:49,190
+in which case feel free
+to brick yourself up into a wall.
+
+101
+00:05:49,230 --> 00:05:52,230
+And look...
+You fucking monsters!
+
+102
+00:05:53,190 --> 00:05:58,150
+While it should be clear
+why Trump's Ukraine dealings are bad,
+
+103
+00:05:58,180 --> 00:06:02,040
+it is worth taking a second
+to reflect just how bad.
+
+104
+00:06:02,140 --> 00:06:07,110
+Using your office to take down your
+political rivals is what dictators do.
+
+105
+00:06:07,250 --> 00:06:11,230
+Trump asking China and Ukraine
+to do that should really bother us.
+
+106
+00:06:11,830 --> 00:06:14,000
+The only question is,
+will Republicans care?
+
+107
+00:06:14,030 --> 00:06:17,820
+And many seem to be trying very hard
+to avoid commenting,
+
+108
+00:06:17,840 --> 00:06:21,960
+maybe because, when Marco Rubio
+did comment, it didn't exactly go well.
+
+109
+00:06:22,870 --> 00:06:24,960
+Do you think it's okay
+for President Trump to ask China
+
+110
+00:06:24,980 --> 00:06:27,930
+to launch an investigation
+of Joe Biden and Hunter Biden?
+
+111
+00:06:27,950 --> 00:06:30,940
+I don't know if that's a real request
+or him just needling the press,
+
+112
+00:06:30,960 --> 00:06:32,950
+knowing that you guys were
+gonna get outraged by it.
+
+113
+00:06:32,970 --> 00:06:36,900
+I don't think it's a real request,
+I think he did it to gig you guys.
+
+114
+00:06:36,920 --> 00:06:40,850
+He did it to provoke you to ask me
+and others and get outraged by it.
+
+115
+00:06:41,850 --> 00:06:45,910
+Like I said, he plays it like a violin
+and every-falls right into it.
+
+116
+00:06:46,850 --> 00:06:51,020
+"He plays the media like a violin"
+only makes sense if he means:
+
+117
+00:06:51,800 --> 00:06:54,820
+"Trump plays the media
+exactly like he plays the violin,
+
+118
+00:06:54,840 --> 00:06:59,860
+very loud, very badly, and sometimes
+screaming at it for no reason."
+
+119
+00:07:00,830 --> 00:07:03,800
+But the clear subtext
+of Rubio's argument there
+
+120
+00:07:03,830 --> 00:07:05,990
+is that Trump
+is just trolling-he didn't mean it.
+
+121
+00:07:06,010 --> 00:07:08,880
+But I would not be sure
+that that is true.
+
+122
+00:07:08,900 --> 00:07:13,960
+And even if it is, it doesn't matter.
+People act on his jokes.
+
+123
+00:07:14,470 --> 00:07:18,590
+Russia took his "Help find Hillary's
+emails" routine pretty seriously.
+
+124
+00:07:19,460 --> 00:07:21,600
+And shooting his mouth off
+now is significantly worse,
+
+125
+00:07:21,620 --> 00:07:24,560
+because... you know,
+he's the president.
+
+126
+00:07:24,590 --> 00:07:28,550
+Nixon famously justified his actions
+during Watergate by saying:
+
+127
+00:07:28,570 --> 00:07:32,500
+"When the President does it,
+that means that it is not illegal."
+
+128
+00:07:32,630 --> 00:07:35,570
+But Trump's case here
+is actually the exact opposite of that.
+
+129
+00:07:35,600 --> 00:07:38,660
+Because if he was
+just any old Fox News-addled idiot
+
+130
+00:07:38,680 --> 00:07:42,560
+ranting about how Biden should be
+investigated, that would be one thing.
+
+131
+00:07:42,580 --> 00:07:46,450
+But he's not. He's the president,
+he has real power,
+
+132
+00:07:46,480 --> 00:07:50,580
+and when he abuses it to keep himself
+in power, that's a big problem.
+
+133
+00:07:50,670 --> 00:07:55,620
+It is a case where, when the president
+does it, it has to be illegal.
+
+134
+00:07:56,500 --> 00:07:58,440
+And for good reason.
+Because unfortunately,
+
+135
+00:07:58,460 --> 00:08:02,500
+not every foreign government will be as
+brave and willing to stand up to Trump
+
+136
+00:08:02,520 --> 00:08:04,470
+as fucking Nickelback.
+
+137
+00:08:05,560 --> 00:08:07,440
+And now this!
+
+138
+00:08:08,540 --> 00:08:13,440
+British News Programs
+Seem Unable To Book The Right Guest.
+
+139
+00:08:13,600 --> 00:08:16,590
+May I speak to Gareth Thomas,
+the shadow minister for Civil Society.
+
+140
+00:08:17,070 --> 00:08:20,040
+He's in our central London studio.
+Sir, good news, this?
+
+141
+00:08:20,060 --> 00:08:24,120
+I'm not Gareth Thomas, I'm Richard
+Dodd from the British Retail Consortium.
+
+142
+00:08:24,140 --> 00:08:26,120
+We're joined now by Steven Joseph.
+
+143
+00:08:26,140 --> 00:08:29,230
+He's chief executive
+of the Campaign for Better Transport.
+
+144
+00:08:29,250 --> 00:08:33,260
+- A very good morning to you.
+- Unfortunately I'm Steve McKenzie.
+
+145
+00:08:34,060 --> 00:08:38,070
+- I'm the finance expert this morning.
+- It's equally as good to have you on.
+
+146
+00:08:38,120 --> 00:08:42,200
+Joining us is Sara Adelbi,
+a human rights barrister.
+
+147
+00:08:43,060 --> 00:08:46,060
+Hi, I'm Addi Kakabara,
+from Amnesty International.
+
+148
+00:08:46,100 --> 00:08:47,260
+We have the wrong guest up.
+
+149
+00:08:48,060 --> 00:08:50,080
+Joining us from our New York studio
+is Ben Walker
+
+150
+00:08:50,120 --> 00:08:52,130
+who's the baseball editor
+for the Associated Press.
+
+151
+00:08:52,160 --> 00:08:58,050
+I know that you've been covering Roger
+Clemens' career for the last 23 years.
+
+152
+00:08:58,080 --> 00:09:01,050
+Remind us how big a name he is
+in the sport of baseball.
+
+153
+00:09:01,150 --> 00:09:03,220
+Ben, can you hear me in New York?
+It's Francis in London.
+
+154
+00:09:04,280 --> 00:09:09,170
+It's even a worse situation than that.
+Because I am not Ben Walker.
+
+155
+00:09:10,050 --> 00:09:11,280
+And I know nothing about baseball.
+
+156
+00:09:12,070 --> 00:09:15,250
+He's now attempting to scale
+the world's highest mountain again.
+
+157
+00:09:16,070 --> 00:09:19,060
+He joins us now in the studio
+ahead of his next mission.
+
+158
+00:09:19,310 --> 00:09:22,230
+- Good morning.
+- I think you have the wrong guest.
+
+159
+00:09:27,340 --> 00:09:32,340
+Moving on. Our main story tonight
+concerns China, the country that is,
+
+160
+00:09:32,360 --> 00:09:35,350
+not the thing you fill a cabinet with
+when you've run out of human needs.
+
+161
+00:09:36,240 --> 00:09:39,330
+And I know there is a lot
+going on with China right now,
+
+162
+00:09:40,120 --> 00:09:43,330
+from the ongoing pro-democracy
+protests in Hong Kong to the trade war
+
+163
+00:09:43,350 --> 00:09:47,230
+that's been good and easy to win
+for the last year and a half now.
+
+164
+00:09:47,260 --> 00:09:50,310
+But China took a moment
+to celebrate the 70th anniversary
+
+165
+00:09:50,330 --> 00:09:54,290
+of the Communist Party coming to power
+and they did it in some style.
+
+166
+00:09:55,350 --> 00:09:58,360
+Chinese President Xi Jinping
+and other senior officials
+
+167
+00:09:59,130 --> 00:10:02,260
+watched a grand evening gala
+Tuesday on Tiananmen Square.
+
+168
+00:10:03,210 --> 00:10:05,360
+A song called
+"I Love You China" played.
+
+169
+00:10:06,340 --> 00:10:09,230
+And the number 70
+was formed in the night sky.
+
+170
+00:10:10,230 --> 00:10:12,300
+They didn't just make a 70
+out of fireworks,
+
+171
+00:10:12,330 --> 00:10:16,240
+people also made a 70
+out of chickens and out of pandas.
+
+172
+00:10:16,290 --> 00:10:22,160
+That is a 7 made out of pandas,
+with a zero made out of apples.
+
+173
+00:10:22,340 --> 00:10:26,300
+And if there aren't enough pandas
+to make a whole 70 out of pandas,
+
+174
+00:10:26,320 --> 00:10:29,340
+maybe pandas don't deserve
+to be made into a 70.
+
+175
+00:10:30,280 --> 00:10:33,420
+You might not like it when I imply
+pandas are shitty and worthless,
+
+176
+00:10:33,440 --> 00:10:35,290
+but you know
+who agrees with me on that?
+
+177
+00:10:35,310 --> 00:10:38,350
+Other pandas.
+Pandas look at pandas and say:
+
+178
+00:10:38,370 --> 00:10:41,380
+"That thing sucks so much,
+I would not fuck it
+
+179
+00:10:41,400 --> 00:10:45,510
+if the survival of my species depended
+on it, which it absolutely does."
+
+180
+00:10:46,460 --> 00:10:48,390
+But look, that's not the point.
+
+181
+00:10:48,510 --> 00:10:53,500
+The point is, since China's government
+is celebrating its last 70 years,
+
+182
+00:10:54,280 --> 00:10:56,290
+we thought we'd help
+by highlighting
+
+183
+00:10:56,310 --> 00:11:00,350
+one the most massively consequential
+policies they undertook in that time:
+
+184
+00:11:00,370 --> 00:11:01,470
+the one child-policy.
+
+185
+00:11:01,490 --> 00:11:05,500
+It began in 1980, and it was basically
+exactly what it sounded like:
+
+186
+00:11:05,520 --> 00:11:10,320
+a policy from the government limiting
+how many children families could have.
+
+187
+00:11:10,340 --> 00:11:12,340
+And I know
+it might seem like old news,
+
+188
+00:11:12,370 --> 00:11:16,320
+but this policy actually ended
+far more recently than you might think.
+
+189
+00:11:16,460 --> 00:11:18,480
+În China, the Communist Party
+
+190
+00:11:18,510 --> 00:11:23,500
+is ending the one child policy
+as a method of population control.
+
+191
+00:11:24,350 --> 00:11:26,370
+That was 2015,
+
+192
+00:11:27,250 --> 00:11:31,260
+meaning China made the historic
+decision to end its one child policy
+
+193
+00:11:31,280 --> 00:11:34,230
+the same year Pizza Rat
+made the historic decision
+
+194
+00:11:34,250 --> 00:11:37,320
+to carry pizza down stairs
+while being a rat.
+
+195
+00:11:37,400 --> 00:11:41,230
+Which one of those decisions
+will prove to be more historic?
+
+196
+00:11:41,270 --> 00:11:44,230
+We won't know until future generations
+are reading about both events
+
+197
+00:11:44,260 --> 00:11:50,170
+in the history textbook: "History Is
+Memes: 435 Pages About Pizza Rat."
+
+198
+00:11:50,330 --> 00:11:53,320
+So, why talk about
+something that's now over?
+
+199
+00:11:53,350 --> 00:11:57,210
+The history of the one child policy
+reveals a lot
+
+200
+00:11:57,230 --> 00:12:01,180
+about how the Communist Party
+has used and held on to its power.
+
+201
+00:12:01,210 --> 00:12:04,390
+And for another,
+the effects of it are far from over.
+
+202
+00:12:05,170 --> 00:12:09,360
+The one child policy is behind a lot
+of challenges facing China right now.
+
+203
+00:12:10,250 --> 00:12:14,200
+To take just one major example:
+for reasons we'll discuss later,
+
+204
+00:12:14,230 --> 00:12:20,190
+there are currently around 34 million
+more males than females in China.
+
+205
+00:12:20,320 --> 00:12:21,350
+That is a lot.
+
+206
+00:12:22,180 --> 00:12:25,400
+In some villages, the ratio of men
+to women can be nearly two to one.
+
+207
+00:12:26,160 --> 00:12:30,150
+A situation that's made journalists
+who've visited noticeably sad.
+
+208
+00:12:30,250 --> 00:12:33,340
+Welcome to the most miserable
+place in China for lovers.
+
+209
+00:12:34,260 --> 00:12:38,280
+Here where single men sit around
+all day, it seems, with nothing to do.
+
+210
+00:12:39,120 --> 00:12:41,340
+You come across them everywhere,
+listless and hopeless.
+
+211
+00:12:44,190 --> 00:12:46,190
+That is so harsh!
+
+212
+00:12:47,180 --> 00:12:50,170
+"The most miserable place in China
+for lovers."
+
+213
+00:12:50,240 --> 00:12:53,350
+I presume narrowly beating out
+wherever they keep the pandas.
+
+214
+00:12:54,280 --> 00:12:56,250
+The one on the right
+is clearly thinking:
+
+215
+00:12:56,270 --> 00:13:00,350
+"I am not doing it." And the one on
+the left is completely fine with that.
+
+216
+00:13:01,340 --> 00:13:05,220
+So, tonight, let's talk
+about China's one child policy:
+
+217
+00:13:05,240 --> 00:13:09,300
+why it happened, how it was carried out
+and what the consequences have been.
+
+218
+00:13:09,320 --> 00:13:11,330
+And let's start with why it happened.
+
+219
+00:13:11,350 --> 00:13:15,270
+In the 60s and 70s, overpopulation
+was a huge global concern,
+
+220
+00:13:15,300 --> 00:13:18,240
+with alarmists
+making apocalyptic predictions.
+
+221
+00:13:18,260 --> 00:13:22,280
+Even Disney got in on it, producing
+this video for the Population Council.
+
+222
+00:13:23,180 --> 00:13:27,350
+Suppose that in time,
+more and more children are born.
+
+223
+00:13:28,190 --> 00:13:32,190
+The children will be sickly, unhappy,
+with little hope for the future.
+
+224
+00:13:32,250 --> 00:13:35,230
+This picture can be true
+for countless families
+
+225
+00:13:36,080 --> 00:13:38,270
+if the number of children
+born is left to chance.
+
+226
+00:13:39,220 --> 00:13:42,210
+But fortunately,
+this need not happen anymore.
+
+227
+00:13:43,060 --> 00:13:45,090
+Modern science has given us a key
+
+228
+00:13:45,230 --> 00:13:49,060
+that makes possible
+a new kind of personal freedom:
+
+229
+00:13:49,210 --> 00:13:50,230
+family planning.
+
+230
+00:13:51,200 --> 00:13:54,260
+Family planning?
+Never heard of it.
+
+231
+00:13:55,260 --> 00:13:58,230
+Okay, okay, so first:
+
+232
+00:13:59,070 --> 00:14:02,060
+I know that clip
+seems a little racially problematic,
+
+233
+00:14:02,080 --> 00:14:05,240
+but let's remember Disney also made
+"Song of the South",
+
+234
+00:14:05,270 --> 00:14:08,180
+so we're grading them
+on a very steep curve here.
+
+235
+00:14:09,090 --> 00:14:11,130
+But secondly,
+and I cannot stress this enough,
+
+236
+00:14:11,150 --> 00:14:15,240
+I don't care how useful the information
+Donald has on family planning might be,
+
+237
+00:14:15,260 --> 00:14:18,190
+you never take advice
+on having sex from a duck.
+
+238
+00:14:18,280 --> 00:14:23,250
+They have corkscrew-shaped penises
+that they regrow every mating season.
+
+239
+00:14:23,270 --> 00:14:26,040
+Donald Duck
+actually looks like this.
+
+240
+00:14:26,160 --> 00:14:30,130
+And I'm simply not taking
+family planning lessons
+
+241
+00:14:30,530 --> 00:14:32,590
+from some corkscrew-dicked pervert.
+
+242
+00:14:34,430 --> 00:14:40,500
+In any case, curly-dick duck aside,
+the overpopulation hysteria was global.
+
+243
+00:14:40,520 --> 00:14:42,400
+And China was no exception.
+
+244
+00:14:42,420 --> 00:14:45,430
+And the Communist Party also saw
+controlling their population growth
+
+245
+00:14:45,460 --> 00:14:49,530
+as key to raising the China's economic
+prospects and standard of living,
+
+246
+00:14:49,550 --> 00:14:51,610
+making it easier for them
+to hold onto power.
+
+247
+00:14:51,630 --> 00:14:54,550
+So, who did they pick
+to solve this issue?
+
+248
+00:14:54,570 --> 00:14:58,550
+Take a minute and think about
+who would be the absolute worst choice
+
+249
+00:14:58,580 --> 00:15:01,540
+to craft a prescriptive
+nationwide policy on reproduction
+
+250
+00:15:01,560 --> 00:15:04,550
+and, do keep in mind,
+Jared Kushner is not Chinese.
+
+251
+00:15:05,510 --> 00:15:07,620
+I'll give you the answer,
+it was actually the military.
+
+252
+00:15:08,400 --> 00:15:10,620
+The policy was crafted
+by military scientists.
+
+253
+00:15:11,400 --> 00:15:13,570
+Which, as one expert will tell you,
+was not ideal.
+
+254
+00:15:14,470 --> 00:15:15,570
+It was conceived by men.
+
+255
+00:15:16,630 --> 00:15:20,590
+So, and the, these men
+were primarily missile scientists,
+
+256
+00:15:20,610 --> 00:15:24,430
+who envision women
+as in some ways like machines.
+
+257
+00:15:24,530 --> 00:15:27,590
+What these men thought
+were that, women's fertility,
+
+258
+00:15:27,620 --> 00:15:30,480
+you can push it up
+or push it down like a switch.
+
+259
+00:15:30,770 --> 00:15:33,770
+They didn't understand
+that that's not how things work.
+
+260
+00:15:33,890 --> 00:15:37,960
+She's absolutely right.
+Family planning isn't rocket science.
+
+261
+00:15:38,740 --> 00:15:41,810
+That's exactly why rocket scientists
+should not do it.
+
+262
+00:15:42,720 --> 00:15:44,730
+It's the same reason
+we don't let OB-GYNs
+
+263
+00:15:44,760 --> 00:15:47,720
+launch babies into space
+and land them on the moon.
+
+264
+00:15:47,840 --> 00:15:49,880
+Experts should stay in their lane.
+
+265
+00:15:50,840 --> 00:15:52,950
+This policy
+was a nationwide directive,
+
+266
+00:15:53,750 --> 00:15:55,900
+in the form of an open letter
+to members of the Communist Party,
+
+267
+00:15:55,930 --> 00:15:58,880
+but it was actually
+implemented at the lower level,
+
+268
+00:15:58,920 --> 00:16:02,820
+meaning enforcement varied wildly
+depending on where you lived.
+
+269
+00:16:02,840 --> 00:16:03,910
+There could be exceptions.
+
+270
+00:16:03,930 --> 00:16:08,900
+Many rural areas even allowed families
+a second child if their first was a girl.
+
+271
+00:16:08,960 --> 00:16:12,870
+But, the general message
+was to have just one child.
+
+272
+00:16:12,950 --> 00:16:16,830
+It was often expressed through
+striking propaganda, like this!
+
+273
+00:16:16,960 --> 00:16:22,960
+If you have a second child,
+you violate the law.
+
+274
+00:16:23,780 --> 00:16:25,860
+Then you'll be detained.
+
+275
+00:16:25,890 --> 00:16:28,870
+If you try to escape,
+you will end up in jail.
+
+276
+00:16:28,890 --> 00:16:30,800
+Think twice about it.
+
+277
+00:16:32,240 --> 00:16:36,110
+Don't say I didn't warn you.
+
+278
+00:16:36,230 --> 00:16:41,040
+Holy fuck!
+That is undeniably effective.
+
+279
+00:16:41,200 --> 00:16:45,040
+No better way to dissuade parents
+from having more children
+
+280
+00:16:45,060 --> 00:16:47,180
+than by showing them
+that particular child.
+
+281
+00:16:48,060 --> 00:16:52,090
+"Congratulations, Mrs. Jong, you've
+given birth to a real aggro narc!"
+
+282
+00:16:53,160 --> 00:16:57,210
+There were also propaganda signs,
+saying things like:
+
+283
+00:16:57,230 --> 00:17:01,210
+"Respond actively to the call that
+each couple should have one child."
+
+284
+00:17:01,260 --> 00:17:04,260
+And "Have fewer children
+but raise the quality."
+
+285
+00:17:05,080 --> 00:17:07,250
+Which is just
+not how children work.
+
+286
+00:17:08,080 --> 00:17:10,190
+Children, and I say this
+as a loving parent,
+
+287
+00:17:10,230 --> 00:17:12,240
+are not high-quality individuals.
+
+288
+00:17:13,150 --> 00:17:16,240
+Their artwork is derivative
+and their stories, meandering.
+
+289
+00:17:16,260 --> 00:17:20,140
+No one who's ever been asked:
+"Who's your ideal dinner guest"
+
+290
+00:17:20,170 --> 00:17:24,060
+has said, "Someone who insists
+their food be dinosaur-shaped."
+
+291
+00:17:24,220 --> 00:17:29,180
+Broadly, the one child policy was also
+enforced by an enormous bureaucracy.
+
+292
+00:17:29,200 --> 00:17:33,110
+At the national level, there were
+half a million employees
+
+293
+00:17:33,340 --> 00:17:36,400
+in charge of administering it,
+with many millions more
+
+294
+00:17:36,430 --> 00:17:40,320
+at the local level and their
+scrutiny could be intense.
+
+295
+00:17:40,510 --> 00:17:44,370
+Workers must have their factory's
+permission to get married.
+
+296
+00:17:44,390 --> 00:17:48,390
+Each team of 16 women,
+has its birth planning worker.
+
+297
+00:17:48,490 --> 00:17:51,550
+She is constantly alert for
+anyone who might be pregnant
+
+298
+00:17:52,330 --> 00:17:53,560
+or even thinking
+of having a child.
+
+299
+00:17:54,330 --> 00:17:57,460
+We asked: "Doesn't the fact that
+she's watching her workmates,"
+
+300
+00:17:57,480 --> 00:18:00,370
+"asking them
+about their periods and so on,"
+
+301
+00:18:00,400 --> 00:18:02,410
+"doesn't that make
+for resentment?"
+
+302
+00:18:03,350 --> 00:18:05,450
+No, the workers
+are grateful for my concern.
+
+303
+00:18:06,340 --> 00:18:08,540
+Really?
+Are you sure about that?
+
+304
+00:18:08,560 --> 00:18:11,400
+The workers are grateful
+for your concern?
+
+305
+00:18:11,420 --> 00:18:15,360
+If there is anything I know about
+women, and there definitely isn't,
+
+306
+00:18:15,380 --> 00:18:19,380
+it's that they love to be asked
+about their periods at work.
+
+307
+00:18:19,500 --> 00:18:22,360
+Seriously. Just go up to a colleague
+and say:
+
+308
+00:18:22,380 --> 00:18:24,480
+"How do you like
+that DivaCup, girlfriend?"
+
+309
+00:18:24,500 --> 00:18:27,460
+"You wear it with a period
+thong to prevent leakage?"
+
+310
+00:18:27,480 --> 00:18:30,500
+"How about that extra-absorbent
+period toilet paper?"
+
+311
+00:18:30,520 --> 00:18:34,450
+My female writers told me that one
+of those things I said isn't real,
+
+312
+00:18:34,860 --> 00:18:36,850
+but they refuse
+to tell me which one.
+
+313
+00:18:37,010 --> 00:18:41,020
+If I'm honest, my money
+is on "DivaCup"
+
+314
+00:18:41,040 --> 00:18:45,060
+'cause it sounds like what Mariah Carey
+demands all her beverages come in.
+
+315
+00:18:45,080 --> 00:18:49,910
+I could be wrong, but obviously,
+the enforcement went much further.
+
+316
+00:18:49,940 --> 00:18:52,040
+Local officials
+would issue massive fines
+
+317
+00:18:52,060 --> 00:18:54,980
+for having more children
+than you were allowed,
+
+318
+00:18:55,000 --> 00:18:58,980
+fines that routinely were multiple
+times a household's annual income.
+
+319
+00:18:59,000 --> 00:19:02,910
+Many villages came to depend
+upon those fines for revenue.
+
+320
+00:19:02,930 --> 00:19:04,930
+Even if parents could afford them,
+
+321
+00:19:04,960 --> 00:19:08,080
+some chose never to let
+their kids ever forget it.
+
+322
+00:19:09,010 --> 00:19:11,850
+One child policy fines
+are now so common
+
+323
+00:19:11,890 --> 00:19:14,930
+that they're being
+incorporated into children's names.
+
+324
+00:19:15,040 --> 00:19:17,890
+Why did we name our child
+"20000 Chen?"
+
+325
+00:19:17,910 --> 00:19:20,980
+That's how much we were fined
+to have him, 20000 yuan.
+
+326
+00:19:21,950 --> 00:19:25,900
+Yeah. They named
+their kid "20000 Chen"
+
+327
+00:19:25,950 --> 00:19:29,040
+so everyone would know what
+they had to go through to have him.
+
+328
+00:19:29,060 --> 00:19:30,890
+It's the equivalent of
+
+329
+00:19:30,910 --> 00:19:35,860
+"Jason Last-Minute-Epidural-And-A-Lot
+- Of-Shitting-On-The-Table Rabinowitz."
+
+330
+00:19:35,940 --> 00:19:38,000
+It's a lot
+to make that kid carry around.
+
+331
+00:19:38,150 --> 00:19:41,970
+Massive fines were far
+from the worst-case scenario,
+
+332
+00:19:41,990 --> 00:19:43,930
+particularly for girls.
+
+333
+00:19:43,990 --> 00:19:47,060
+In China, there's
+a strong preference for boys,
+
+334
+00:19:47,090 --> 00:19:51,130
+which are seen as
+an economic investment for old age,
+
+335
+00:19:51,160 --> 00:19:54,060
+as sons are expected
+to support their parents.
+
+336
+00:19:54,080 --> 00:19:56,090
+Families would go to great lengths
+
+337
+00:19:56,120 --> 00:19:59,060
+to make sure that
+their one child was a boy:
+
+338
+00:19:59,130 --> 00:20:02,990
+from abandoning girls,
+to having sex-selective abortions,
+
+339
+00:20:03,040 --> 00:20:05,080
+to cases of female infanticide.
+
+340
+00:20:05,160 --> 00:20:09,100
+In some areas, the government's
+methods of preventing more births,
+
+341
+00:20:09,120 --> 00:20:11,130
+regardless of gender,
+were brutal.
+
+342
+00:20:11,970 --> 00:20:14,110
+Children could be taken
+and sold to orphanages
+
+343
+00:20:14,130 --> 00:20:18,130
+and there were millions of forced
+sterilizations and forced abortions.
+
+344
+00:20:18,930 --> 00:20:21,150
+This woman is still haunted
+by the fact she was forced
+
+345
+00:20:21,930 --> 00:20:23,980
+to abort her child at nine months,
+
+346
+00:20:24,030 --> 00:20:27,130
+because her husband had a child
+from a previous marriage.
+
+347
+00:20:28,100 --> 00:20:31,130
+It's like an arrow through my heart.
+They made a mistake,
+
+348
+00:20:31,160 --> 00:20:34,980
+I should have had my baby,
+they did not let me to keep my child.
+
+349
+00:20:38,120 --> 00:20:40,140
+The policy was
+just so senseless.
+
+350
+00:20:41,100 --> 00:20:44,980
+That's obviously horrifying.
+I know that there are some
+
+351
+00:20:45,000 --> 00:20:49,050
+who like to hold up China as a blanket
+argument against abortion.
+
+352
+00:20:49,080 --> 00:20:56,030
+It is very easy to be both pro-choice
+and anti-forced abortion,
+
+353
+00:20:56,080 --> 00:21:00,100
+in the same way you can be pro-drinking
+fountain and anti-waterboarding.
+
+354
+00:21:00,160 --> 00:21:04,110
+The important thing is who's
+in control of the fucking process.
+
+355
+00:21:05,080 --> 00:21:09,980
+As you have seen so far,
+many heartbreaking decisions
+
+356
+00:21:10,000 --> 00:21:13,080
+were forced on Chinese families
+by the one child policy.
+
+357
+00:21:13,100 --> 00:21:15,140
+You'll be relieved to hear
+
+358
+00:21:15,160 --> 00:21:18,950
+that we're gonna jump now
+from the past to the present.
+
+359
+00:21:19,010 --> 00:21:22,100
+There are enormous ongoing
+ramifications to China's policy
+
+360
+00:21:22,120 --> 00:21:24,120
+and much
+like Donald Duck's penis,
+
+361
+00:21:24,150 --> 00:21:28,080
+there are a lot of twists and turns
+and an important point at the end.
+
+362
+00:21:28,920 --> 00:21:32,990
+For a government that made it a point
+to micromanage their citizens' lives,
+
+363
+00:21:33,010 --> 00:21:37,150
+China did little to prepare for
+the long-term consequences.
+
+364
+00:21:37,860 --> 00:21:39,910
+And let's start
+relatively small here.
+
+365
+00:21:39,930 --> 00:21:42,920
+The one child policy meant
+that an entire generation
+
+366
+00:21:42,940 --> 00:21:44,970
+is filled with many only children.
+
+367
+00:21:45,030 --> 00:21:49,840
+Some theorize that means lots of kids
+whose parents have overindulged them,
+
+368
+00:21:49,870 --> 00:21:53,920
+as a newscast explained in the '90s
+in a not very tactful way.
+
+369
+00:21:54,080 --> 00:21:58,880
+A surprising by-product of China's
+affluence is a young generation
+
+370
+00:21:58,910 --> 00:22:00,940
+with growing numbers
+of fat children,
+
+371
+00:22:01,900 --> 00:22:06,860
+"little emperors" or "little meatballs"
+as they're called in Chinese.
+
+372
+00:22:07,070 --> 00:22:12,060
+Calling that kid a little meatball
+is both mean and adorable.
+
+373
+00:22:12,840 --> 00:22:17,070
+You shouldn't call a child a meatball
+if he doesn't want to.
+
+374
+00:22:17,840 --> 00:22:20,870
+But on the other hand:
+look at that little meatball!
+
+375
+00:22:20,990 --> 00:22:25,040
+Look at his little meatball hat. I want
+to bite that little meatball's tummy.
+
+376
+00:22:25,060 --> 00:22:26,920
+I want to say "nom nom"
+
+377
+00:22:26,980 --> 00:22:28,960
+and throw him up
+in the air and say:
+
+378
+00:22:28,980 --> 00:22:30,980
+"Who's a little meatball?
+You are!"
+
+379
+00:22:31,000 --> 00:22:33,970
+That's the proper
+reaction to that little meatball.
+
+380
+00:22:33,990 --> 00:22:37,070
+Hashtag #MeatballHero,
+hashtag #ThatsASpicyMeatABall.
+
+381
+00:22:38,880 --> 00:22:43,040
+The policy didn't just produce
+lots of scrumptious little meatballs.
+
+382
+00:22:43,900 --> 00:22:46,900
+Remember those fines
+that resulted in 20000 Chen?
+
+383
+00:22:46,980 --> 00:22:50,010
+There were many parents who
+did not have that kind of money.
+
+384
+00:22:50,030 --> 00:22:53,970
+But even if, for whatever reason,
+they were able to keep their child,
+
+385
+00:22:53,990 --> 00:22:56,850
+there was a massive catch,
+as this woman,
+
+386
+00:22:56,880 --> 00:23:00,030
+born 26 years ago as a second
+child, can attest.
+
+387
+00:23:00,990 --> 00:23:04,010
+Officials told her parents
+they would have to pay a fine,
+
+388
+00:23:04,030 --> 00:23:07,030
+the equivalent to about
+four years of their salaries.
+
+389
+00:23:07,860 --> 00:23:09,000
+They could never afford it,
+
+390
+00:23:09,030 --> 00:23:12,050
+so she was never registered
+as a Chinese citizen.
+
+391
+00:23:13,960 --> 00:23:18,070
+Her birth certificate
+has a blank instead of her name.
+
+392
+00:23:18,940 --> 00:23:22,000
+Without an ID card,
+I can't have a normal life.
+
+393
+00:23:22,080 --> 00:23:24,970
+I could never go to school,
+never see a doctor.
+
+394
+00:23:25,030 --> 00:23:29,860
+I can't work and I can't get married.
+It makes me very sad.
+
+395
+00:23:30,070 --> 00:23:33,930
+Exactly. She can't go to the doctor,
+find a job, or get married.
+
+396
+00:23:33,950 --> 00:23:37,890
+She's a ghost without all the fun
+parts of being a ghost,
+
+397
+00:23:38,070 --> 00:23:40,260
+like rattling chains,
+or summoning cold winds,
+
+398
+00:23:40,280 --> 00:23:44,140
+or making terrible ceramics
+while having sex with Demi Moore.
+
+399
+00:23:44,280 --> 00:23:47,190
+That woman is far from alone.
+
+400
+00:23:47,210 --> 00:23:53,210
+At least six and a half million Chinese
+have no official status
+
+401
+00:23:53,240 --> 00:23:57,050
+because they were born
+outside the family planning rules.
+
+402
+00:23:57,100 --> 00:24:01,060
+But one of the largest and perhaps
+most far reaching effects of a policy
+
+403
+00:24:01,080 --> 00:24:04,090
+that resulted in the elimination
+of millions of girls,
+
+404
+00:24:04,110 --> 00:24:07,110
+is that a couple of decades later
+you have a generation
+
+405
+00:24:07,130 --> 00:24:10,200
+with a massive gender disparity
+and far more men than women,
+
+406
+00:24:10,220 --> 00:24:13,130
+34 million more,
+you may remember.
+
+407
+00:24:13,230 --> 00:24:18,110
+Millions of Chinese men will end up
+without female mates.
+
+408
+00:24:18,130 --> 00:24:21,170
+Which has created a number
+of odd business opportunities
+
+409
+00:24:21,190 --> 00:24:23,240
+to give men an edge
+in attracting women.
+
+410
+00:24:23,270 --> 00:24:28,150
+This is an agency catering for
+China's growing population of singles.
+
+411
+00:24:28,200 --> 00:24:32,220
+Choosing the right clothes,
+the right chat lines on the first date
+
+412
+00:24:32,250 --> 00:24:34,110
+are all part of the plan.
+
+413
+00:24:34,220 --> 00:24:36,250
+For singles like Lo Gu Zhang,
+
+414
+00:24:37,050 --> 00:24:39,180
+newfound magic skills
+may do the trick.
+
+415
+00:24:39,720 --> 00:24:41,770
+"You can really impress a girl,"
+he says,
+
+416
+00:24:41,790 --> 00:24:45,600
+"and they'll become
+attracted without even knowing it."
+
+417
+00:24:46,720 --> 00:24:49,840
+I know this might seem
+hard to believe,
+
+418
+00:24:50,630 --> 00:24:53,660
+but that's actually a pretty
+amazing magic trick there.
+
+419
+00:24:53,690 --> 00:24:56,690
+At the beginning, the hoop
+and the chain are separate.
+
+420
+00:24:56,720 --> 00:25:00,600
+By the end, any woman he's talking
+to has disappeared.
+
+421
+00:25:01,730 --> 00:25:07,670
+No matter how many cool tricks
+they learn,
+
+422
+00:25:07,690 --> 00:25:11,680
+millions of men who want
+a wife will never have one.
+
+423
+00:25:11,700 --> 00:25:14,670
+Which has led to a bunch
+of unintended consequences,
+
+424
+00:25:14,690 --> 00:25:16,770
+including the success
+of this company.
+
+425
+00:25:20,740 --> 00:25:24,650
+There are far too many men in China
+compared to the number of women.
+
+426
+00:25:24,670 --> 00:25:26,670
+It's a great business opportunity.
+
+427
+00:25:26,690 --> 00:25:29,840
+There are more single men who cannot
+find a wife and are desperate.
+
+428
+00:25:30,610 --> 00:25:33,620
+We've decided to make
+life-sized dolls for them.
+
+429
+00:25:33,720 --> 00:25:36,790
+These men are happy to pay the price,
+because the alternative
+
+430
+00:25:36,810 --> 00:25:39,700
+is to be alone
+for the rest of their lives.
+
+431
+00:25:41,000 --> 00:25:46,200
+Buying a life-sized sex doll does not
+stop you from being alone.
+
+432
+00:25:47,110 --> 00:25:49,220
+It makes you somehow more alone
+
+433
+00:25:50,000 --> 00:25:52,080
+than you were
+when you were totally alone.
+
+434
+00:25:52,150 --> 00:25:54,090
+If one is the loneliest number,
+
+435
+00:25:54,110 --> 00:25:58,030
+one and a sex doll is the even
+loneliester number.
+
+436
+00:25:59,010 --> 00:26:02,110
+While buying a sex doll
+to replace the wife you'll never have
+
+437
+00:26:02,140 --> 00:26:07,030
+may seem like rock-bottom,
+it's somewhere around rock-middle.
+
+438
+00:26:07,130 --> 00:26:10,210
+The gender imbalance created
+by the one child policy
+
+439
+00:26:10,240 --> 00:26:13,180
+has created
+a huge market for human trafficking,
+
+440
+00:26:13,200 --> 00:26:17,240
+with women and girls trafficked from
+within China or surrounding countries
+
+441
+00:26:18,010 --> 00:26:20,010
+to be sold as wives
+for Chinese men.
+
+442
+00:26:20,070 --> 00:26:23,210
+One study estimated that,
+in just a four-year period,
+
+443
+00:26:23,240 --> 00:26:28,110
+21000 women and girls,
+just from northern Myanmar,
+
+444
+00:26:28,130 --> 00:26:31,240
+were forced into marriage
+in one Chinese province alone.
+
+445
+00:26:32,110 --> 00:26:36,160
+It isn't fair to expect the rocket
+scientists who designed this policy
+
+446
+00:26:36,180 --> 00:26:41,050
+to anticipate the boom times it would
+create for sex dolls and trafficking.
+
+447
+00:26:41,260 --> 00:26:45,230
+The irony is that one of the key
+justifications for the policy
+
+448
+00:26:45,250 --> 00:26:48,320
+was that it would boost
+China's future economic prospects.
+
+449
+00:26:48,340 --> 00:26:52,250
+Those prospects are under threat,
+thanks to that very policy.
+
+450
+00:26:52,300 --> 00:26:54,410
+China's population is rapidly aging
+
+451
+00:26:55,200 --> 00:26:58,410
+and the youngest generation
+is facing crushing responsibilities.
+
+452
+00:26:59,300 --> 00:27:04,410
+Researchers estimate that by 2025,
+one in five Chinese in urban areas
+
+453
+00:27:04,430 --> 00:27:08,320
+will be over 60
+and that by 2050,
+
+454
+00:27:08,370 --> 00:27:12,260
+that age group will increase
+to 30 percent of the population.
+
+455
+00:27:13,320 --> 00:27:17,290
+The policy has led to what
+is called the 4-2-1 problem,
+
+456
+00:27:17,330 --> 00:27:22,290
+where one child will be responsible
+for two parents and four grandparents.
+
+457
+00:27:23,230 --> 00:27:25,430
+Right, that's a lot
+for someone to take on.
+
+458
+00:27:26,210 --> 00:27:29,200
+If you've seen "Willy Wonka
+&amp; The Chocolate Factory",
+
+459
+00:27:29,220 --> 00:27:31,440
+you know the pressure
+of having four grandparents,
+
+460
+00:27:32,210 --> 00:27:33,270
+all relying on you.
+
+461
+00:27:33,290 --> 00:27:37,240
+Best-case scenario, you win a
+chocolate contest and you end up
+
+462
+00:27:37,260 --> 00:27:40,430
+impressing a slave-owner by surviving
+his child murder factory.
+
+463
+00:27:41,250 --> 00:27:44,290
+But that's only gonna happen
+to what? 12-14 of them, tops.
+
+464
+00:27:44,310 --> 00:27:46,380
+The rest are facing
+a big challenge here.
+
+465
+00:27:46,410 --> 00:27:51,270
+There are worrying signs for China.
+From 2012 to 2017,
+
+466
+00:27:51,290 --> 00:27:56,260
+the country's working-age population
+decreased by 25 million people,
+
+467
+00:27:56,300 --> 00:27:59,340
+the equivalent
+of the entire population of Australia
+
+468
+00:27:59,370 --> 00:28:01,360
+disappearing from the workforce.
+
+469
+00:28:01,380 --> 00:28:05,290
+And not for the reasons Australians
+usually leave the workforce,
+
+470
+00:28:05,310 --> 00:28:07,350
+like being carried off
+by a giant snake.
+
+471
+00:28:07,430 --> 00:28:10,370
+Australia is a terrible island
+full of monsters.
+
+472
+00:28:10,390 --> 00:28:14,290
+Those aren't even stars on their
+flag. They're spiders.
+
+473
+00:28:14,320 --> 00:28:17,230
+Get out of here!
+You're disgusting.
+
+474
+00:28:18,300 --> 00:28:22,330
+And the troubling economic forecast
+is a big reason why China's government
+
+475
+00:28:22,350 --> 00:28:24,380
+decided to end
+their one child policy.
+
+476
+00:28:24,410 --> 00:28:26,420
+If you think:
+"Great, happy ending."
+
+477
+00:28:27,200 --> 00:28:31,260
+"The government learned its lesson
+and stopped meddling with family size",
+
+478
+00:28:31,280 --> 00:28:32,320
+not exactly.
+
+479
+00:28:32,340 --> 00:28:36,240
+Remember that clip earlier announcing
+that the policy was over?
+
+480
+00:28:36,300 --> 00:28:38,280
+Let me play it out just a little bit.
+
+481
+00:28:39,210 --> 00:28:42,380
+The Communist Party is ending
+that country's one child policy
+
+482
+00:28:42,950 --> 00:28:44,950
+as a method of population control.
+
+483
+00:28:44,990 --> 00:28:48,920
+All couples will now be allowed
+to have two children.
+
+484
+00:28:49,090 --> 00:28:54,120
+Exactly! The one child policy is over,
+but a two child policy has begun.
+
+485
+00:28:54,920 --> 00:28:57,010
+Chinese couples
+can do whatever they want,
+
+486
+00:28:57,030 --> 00:28:59,920
+as long as what they want
+is having two children
+
+487
+00:28:59,950 --> 00:29:02,010
+like the government
+wants them to want.
+
+488
+00:29:02,030 --> 00:29:06,980
+Many couples don't want that. China's
+birth rate has fallen to its lowest,
+
+489
+00:29:07,010 --> 00:29:10,990
+despite the policy shift, due in part
+to rising living standards
+
+490
+00:29:11,010 --> 00:29:12,970
+and the cost of having children.
+
+491
+00:29:12,990 --> 00:29:17,140
+The Chinese government is pushing
+the appeal of two children hard,
+
+492
+00:29:17,940 --> 00:29:21,010
+in ways that may, by now,
+seem a little familiar to you.
+
+493
+00:29:21,090 --> 00:29:24,150
+There's propaganda, once again,
+they've released stamps
+
+494
+00:29:24,920 --> 00:29:27,010
+showing a happy
+monkey with two babies,
+
+495
+00:29:27,080 --> 00:29:31,090
+there are signs that say things like:
+"One is too few, two is just right;"
+
+496
+00:29:31,110 --> 00:29:34,150
+"The young will have siblings,
+the old will be cared for."
+
+497
+00:29:34,920 --> 00:29:37,000
+There are
+government-produced PSA's...
+
+498
+00:29:37,920 --> 00:29:42,080
+To all our friends of childbearing age,
+are you aware that the two child policy
+
+499
+00:29:42,110 --> 00:29:45,140
+went into effect
+on January 1st, 2016?
+
+500
+00:29:45,850 --> 00:29:47,940
+The reform
+of family planning services
+
+501
+00:29:47,960 --> 00:29:50,920
+will be a great thing
+for not only each family,
+
+502
+00:29:50,940 --> 00:29:53,820
+but also the great family
+that makes up China.
+
+503
+00:29:53,840 --> 00:29:56,890
+Look, I'll grant that that was a very
+compelling argument
+
+504
+00:29:56,910 --> 00:29:58,910
+made by a very sexy cartoon.
+
+505
+00:29:59,820 --> 00:30:02,920
+We all agree on that, right?
+That's a hot 'toon right there.
+
+506
+00:30:03,900 --> 00:30:07,950
+When you consider...
+Now you get it, now you see it.
+
+507
+00:30:08,030 --> 00:30:12,980
+We've got the same tie on.
+That's a copyright infringement.
+
+508
+00:30:13,930 --> 00:30:18,890
+When you consider all the one
+child propaganda before that,
+
+509
+00:30:18,930 --> 00:30:20,880
+that's pretty jarring to watch.
+
+510
+00:30:20,900 --> 00:30:22,940
+I haven't seen a turnaround
+that abrupt
+
+511
+00:30:22,960 --> 00:30:25,910
+since Subway changed their slogan
+from "eat fresh"
+
+512
+00:30:25,930 --> 00:30:27,840
+to "forget that pedophile".
+
+513
+00:30:27,880 --> 00:30:30,860
+It was direct.
+You have to give that to them.
+
+514
+00:30:31,860 --> 00:30:36,820
+Enforcement of the two child policy
+is being left to local officials,
+
+515
+00:30:36,840 --> 00:30:39,990
+so methods for carrying it out
+can still vary.
+
+516
+00:30:40,820 --> 00:30:42,930
+There are concerns
+that the low birthrate
+
+517
+00:30:42,950 --> 00:30:46,940
+is behind a push in some provinces
+to tighten access to abortion
+
+518
+00:30:47,390 --> 00:30:49,480
+and make it more difficult
+to get divorced.
+
+519
+00:30:49,510 --> 00:30:52,600
+And in other areas, where two
+is being treated as a hard limit,
+
+520
+00:30:53,370 --> 00:30:57,580
+people exceeding those limits are
+frightened of the worst consequences.
+
+521
+00:30:58,370 --> 00:31:01,530
+Listen to this man, whose wife
+got pregnant with their third child.
+
+522
+00:31:01,550 --> 00:31:05,440
+He was so terrified, he'd only
+talk with his identity disguised.
+
+523
+00:31:07,480 --> 00:31:10,510
+A third baby is not allowed,
+so we went into hiding.
+
+524
+00:31:10,600 --> 00:31:14,580
+Family planning officers conduct
+pregnancy tests every three months.
+
+525
+00:31:14,600 --> 00:31:17,480
+They would have done
+a forced abortion.
+
+526
+00:31:18,410 --> 00:31:21,590
+And that right there does suggest
+the Chinese government
+
+527
+00:31:22,360 --> 00:31:24,570
+still hasn't learned
+the fundamental lesson here:
+
+528
+00:31:24,600 --> 00:31:26,500
+people are not machines,
+
+529
+00:31:26,530 --> 00:31:30,470
+whose reproductive systems
+can be turned on or off at will.
+
+530
+00:31:30,500 --> 00:31:34,410
+Pretending otherwise leads
+to all the consequences you've seen,
+
+531
+00:31:34,430 --> 00:31:37,520
+from the entirely foreseeable,
+like trauma and heartbreak,
+
+532
+00:31:37,550 --> 00:31:41,430
+to the less anticipated ones
+like delicious little meatballs,
+
+533
+00:31:41,530 --> 00:31:43,430
+desperate magic tricks
+
+534
+00:31:43,480 --> 00:31:46,490
+and a factory that can't pump
+out sex dolls fast enough.
+
+535
+00:31:46,600 --> 00:31:49,450
+That image is pretty on-the-nose:
+
+536
+00:31:49,750 --> 00:31:53,750
+a factory churning out
+headless silicone women,
+
+537
+00:31:53,790 --> 00:31:57,750
+because rocket scientists nearly
+40 years ago didn't care enough
+
+538
+00:31:57,770 --> 00:31:59,940
+about what their policies
+might do to real ones.
+
+539
+00:31:59,960 --> 00:32:05,730
+As China's Communist Party
+celebrates its 70 years in power,
+
+540
+00:32:05,760 --> 00:32:08,930
+it seems worth remembering a massive
+way that they used that power.
+
+541
+00:32:08,950 --> 00:32:12,780
+And if they are running low
+on pandas, which they clearly are,
+
+542
+00:32:12,820 --> 00:32:16,820
+I'd argue that sex dolls might be
+a more appropriate tribute.
+
+543
+00:32:16,840 --> 00:32:18,870
+They've certainly got enough
+of them.
+
+544
+00:32:18,920 --> 00:32:21,920
+So, happy 70th
+to the Chinese government.
+
+545
+00:32:22,930 --> 00:32:24,870
+And now, this.
+
+546
+00:32:25,910 --> 00:32:31,960
+More Local News Beat Poetry
+From NBC4 Washington's Pat Collins.
+
+547
+00:32:32,930 --> 00:32:38,840
+Two scammers got a shopper inside
+Whole Foods talking about rice.
+
+548
+00:32:38,960 --> 00:32:43,900
+Soon, they disappeared.
+And so did her wallet.
+
+549
+00:32:44,750 --> 00:32:50,960
+See this display case here?
+It used to be way over there.
+
+550
+00:32:51,800 --> 00:32:55,900
+Now, it's back here in what's left
+of the break room.
+
+551
+00:32:56,830 --> 00:33:00,740
+A video chat. She takes off
+her clothes,
+
+552
+00:33:00,800 --> 00:33:02,810
+he takes off his clothes.
+
+553
+00:33:02,910 --> 00:33:08,730
+And then, sextortion!
+
+554
+00:33:09,710 --> 00:33:11,780
+The sign over here says "open",
+
+555
+00:33:11,850 --> 00:33:17,860
+but this morning it was far more
+open than they ever intended it to be.
+
+556
+00:33:19,700 --> 00:33:23,860
+Two days later, same kind
+of pick up truck, same M.O.!
+
+557
+00:33:23,910 --> 00:33:28,750
+In goes the truck!
+Down goes the ATM.
+
+558
+00:33:28,860 --> 00:33:33,680
+ATM here.
+Not anymore.
+
+559
+00:33:33,830 --> 00:33:39,830
+Police say they also seized a car.
+A car with flashing lights.
+
+560
+00:33:40,880 --> 00:33:42,880
+A car with a siren.
+
+561
+00:33:43,910 --> 00:33:46,700
+A car with police equipment.
+
+562
+00:33:48,810 --> 00:33:49,850
+It was a Honda.
+
+563
+00:33:54,770 --> 00:33:58,710
+That's our show, thanks for watching.
+See you next week. Goodnight!
+
+564
+00:33:59,710 --> 00:34:01,780
+LAST WEEK TONIGHT
+WITH JOHN OLIVER
+
+565
+00:34:01,800 --> 00:34:03,780
+END OF EPISODE 25,
+SEASON VI

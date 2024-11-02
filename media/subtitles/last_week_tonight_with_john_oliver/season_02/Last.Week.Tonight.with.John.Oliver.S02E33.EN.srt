@@ -1,0 +1,2769 @@
+1
+00:00:22,400 --> 00:00:23,760
+LAST WEEK TONIGHT
+WITH JOHN OLIVER
+
+2
+00:00:23,840 --> 00:00:25,000
+Series II
+Episode 33
+
+3
+00:00:29,000 --> 00:00:31,880
+Welcome, welcome, welcome
+to "Last Week Tonight."
+
+4
+00:00:31,960 --> 00:00:35,000
+Thank you so much for joining us.
+I'm John Oliver.
+
+5
+00:00:35,080 --> 00:00:37,840
+Just time for
+a quick recap of the week.
+
+6
+00:00:37,920 --> 00:00:42,200
+And we begin with the UK,
+Earth's least Magic Kingdom.
+
+7
+00:00:43,280 --> 00:00:45,920
+This week, debate
+has been raging over there
+
+8
+00:00:46,000 --> 00:00:48,320
+over a controversial new law.
+
+9
+00:00:48,400 --> 00:00:51,680
+The British government is unveiling
+new surveillance laws
+
+10
+00:00:51,760 --> 00:00:56,280
+that significantly extends its power
+to monitor people's activities online.
+
+11
+00:00:56,360 --> 00:00:58,920
+Theresa May there calls it
+"a license to operate."
+
+12
+00:00:59,000 --> 00:01:01,400
+Others have called it a "Snooper's
+Charter," haven't they ?
+
+13
+00:01:01,480 --> 00:01:05,320
+Well, hold on, because "Snooper's
+Charter" is not the right phrase.
+
+14
+00:01:05,400 --> 00:01:08,120
+That sounds like the agreement an
+eight-year-old is forced to sign
+
+15
+00:01:08,200 --> 00:01:11,400
+promising to knock before he enters
+his parents' bedroom.
+
+16
+00:01:12,160 --> 00:01:13,920
+Dexter, sign this Snooper's Charter,
+
+17
+00:01:14,000 --> 00:01:16,960
+or we cannot be held responsible
+for what you might see.
+
+18
+00:01:18,000 --> 00:01:20,920
+This bill could potentially
+write into law
+
+19
+00:01:21,000 --> 00:01:23,120
+a huge invasion of privacy.
+
+20
+00:01:23,200 --> 00:01:27,840
+Under the plans, a list of websites
+visited by every person in the UK
+
+21
+00:01:27,920 --> 00:01:29,640
+will be recorded for a year
+
+22
+00:01:29,720 --> 00:01:32,760
+and could be made available to police
+and security services.
+
+23
+00:01:32,840 --> 00:01:35,440
+This communications data
+wouldn't reveal
+
+24
+00:01:35,520 --> 00:01:38,920
+the exact web page you looked at,
+it would show the site it was on.
+
+25
+00:01:39,000 --> 00:01:43,560
+Okay, so it wouldn't store the exact
+page, just the website.
+
+26
+00:01:43,640 --> 00:01:45,920
+But that is still
+a lot of information.
+
+27
+00:01:46,000 --> 00:01:48,480
+For instance,
+if someone visited Orbitz.com,
+
+28
+00:01:48,560 --> 00:01:50,560
+you'd know they were
+thinking about taking a trip.
+
+29
+00:01:50,640 --> 00:01:52,640
+If they visited Yahoo.com,
+
+30
+00:01:52,720 --> 00:01:55,200
+you'd know they just had a stroke and
+forgot the word "Google."
+
+31
+00:01:56,080 --> 00:01:59,160
+And if they visited vigvoovs.com,
+
+32
+00:01:59,240 --> 00:02:01,920
+you'd know they're horny
+and their B-key doesn't work.
+
+33
+00:02:02,800 --> 00:02:06,920
+And yet, for all the sweeping powers
+the bill contains,
+
+34
+00:02:07,000 --> 00:02:09,160
+British Home Secretary
+Theresa May insists
+
+35
+00:02:09,240 --> 00:02:11,280
+that critics have
+blown it out of proportion.
+
+36
+00:02:11,360 --> 00:02:13,840
+An Internet connection record
+is a record
+
+37
+00:02:13,920 --> 00:02:16,920
+of the communication service
+that a person has used,
+
+38
+00:02:17,000 --> 00:02:19,920
+not a record of every
+web page they have accessed.
+
+39
+00:02:20,000 --> 00:02:23,720
+It is simply the modern equivalent
+of an itemized phone bill.
+
+40
+00:02:23,800 --> 00:02:29,240
+But that's not quite as reassuring as
+she thinks it is, I'll tell you why.
+
+41
+00:02:29,320 --> 00:02:32,640
+First, I don't want the government
+looking at my phone calls either.
+
+42
+00:02:32,720 --> 00:02:35,120
+And secondly,
+an Internet browsing history
+
+43
+00:02:35,200 --> 00:02:38,040
+is a little different
+from an itemized phone bill.
+
+44
+00:02:38,120 --> 00:02:43,880
+No one frantically deletes their phone
+bill every time they finish a call.
+
+45
+00:02:43,960 --> 00:02:46,360
+So, let's move on to veterans,
+
+46
+00:02:46,440 --> 00:02:49,400
+the only people on Earth who can pull
+off a camo jacket...
+
+47
+00:02:49,480 --> 00:02:50,800
+Gwyneth.
+
+48
+00:02:52,000 --> 00:02:56,200
+Wednesday...
+Wednesday is Veterans Day,
+
+49
+00:02:56,280 --> 00:02:59,480
+a chance for Americans around the
+country to salute those who've served.
+
+50
+00:02:59,560 --> 00:03:03,920
+Although, if you've watched any
+sporting event in the past few years,
+
+51
+00:03:04,000 --> 00:03:07,360
+you could be excused for thinking
+every day is Veterans Day.
+
+52
+00:03:07,440 --> 00:03:11,800
+The roar of a military flyover is the
+highlight of NFL pre-game activities.
+
+53
+00:03:11,880 --> 00:03:15,280
+Then the Padres take
+the field in their camo uni.
+
+54
+00:03:15,360 --> 00:03:17,920
+Pre-game, a full field flag
+was unveiled
+
+55
+00:03:18,000 --> 00:03:19,600
+in honor of our troops.
+
+56
+00:03:19,680 --> 00:03:23,000
+A tribute to those
+who protect our way of life.
+
+57
+00:03:23,080 --> 00:03:25,480
+There is Dad, home from Korea.
+
+58
+00:03:25,560 --> 00:03:27,680
+Here's your moment that makes you
+proud to be an American.
+
+59
+00:03:27,760 --> 00:03:29,920
+Please direct your attention
+high above the scoreboard
+
+60
+00:03:30,000 --> 00:03:32,760
+and welcome Sergeant
+First Class Richard Babineau
+
+61
+00:03:32,840 --> 00:03:35,080
+as he rappels down
+from the arena catwalk
+
+62
+00:03:35,160 --> 00:03:36,880
+for tonight's ceremonial puck drop.
+
+63
+00:03:36,960 --> 00:03:40,240
+Holy shit !
+That is awesome !
+
+64
+00:03:40,320 --> 00:03:42,600
+Although, quick tip to the NHL,
+
+65
+00:03:42,680 --> 00:03:44,600
+maybe don't lead off your festivities
+
+66
+00:03:44,680 --> 00:03:48,040
+with something objectively cooler than
+the product you're presenting.
+
+67
+00:03:48,120 --> 00:03:51,520
+Hope you enjoyed an American hero
+flying through the air.
+
+68
+00:03:51,600 --> 00:03:54,160
+Now for your main event:
+12 bearded Russians engage
+
+69
+00:03:54,240 --> 00:03:58,000
+in full-contact figure skating
+while trying to whack a flat ball.
+
+70
+00:03:59,000 --> 00:04:00,640
+Unfortunately though,
+
+71
+00:04:00,720 --> 00:04:03,920
+it turns out while some military
+tributes were for the right reasons,
+
+72
+00:04:04,000 --> 00:04:06,320
+others may have been
+a little more self-serving.
+
+73
+00:04:06,400 --> 00:04:08,920
+You know those moments when
+you see a military member
+
+74
+00:04:09,000 --> 00:04:12,360
+sing the national anthem or carry out
+the American flag at a game ?
+
+75
+00:04:12,440 --> 00:04:15,640
+Well, an unprecedented
+congressional review has found
+
+76
+00:04:15,720 --> 00:04:19,880
+those moments are often actually paid
+for by the Department of Defense.
+
+77
+00:04:19,960 --> 00:04:23,440
+Investigations show
+that as many as 72 contracts
+
+78
+00:04:23,520 --> 00:04:26,680
+were in place with up to
+50 pro sports teams.
+
+79
+00:04:26,760 --> 00:04:29,800
+That's right. This week
+we learned the full extent
+
+80
+00:04:29,880 --> 00:04:33,160
+of how the US military had been
+quietly paying sports teams
+
+81
+00:04:33,240 --> 00:04:36,360
+in exchange for seemingly
+genuine emotional moments
+
+82
+00:04:36,440 --> 00:04:39,920
+a phenomenon usually reserved
+for the Girlfriend Experience section
+
+83
+00:04:40,000 --> 00:04:42,160
+of Craigslist Casual Encounters.
+
+84
+00:04:42,240 --> 00:04:45,040
+And the details of some
+of these deals are amazing.
+
+85
+00:04:45,120 --> 00:04:47,240
+The Air Force paid
+the Dallas Mavericks
+
+86
+00:04:47,320 --> 00:04:49,640
+$5,000 for a package that included
+
+87
+00:04:49,720 --> 00:04:53,400
+throwing out T-shirts that
+the Air Force itself provided.
+
+88
+00:04:53,480 --> 00:04:57,920
+The National Guard paid the Atlanta
+Falcons to recognize its birthday,
+
+89
+00:04:58,000 --> 00:04:59,920
+and that is so sad.
+
+90
+00:05:00,000 --> 00:05:03,520
+That's what a mom does for her
+socially inept third-grader.
+
+91
+00:05:03,600 --> 00:05:06,920
+Listen, if you come to Gregory's party
+for 45 minutes,
+
+92
+00:05:07,000 --> 00:05:08,400
+I'll get you an Xbox One,
+
+93
+00:05:08,480 --> 00:05:12,000
+but you have to talk to him and you
+cannot deny you came.
+
+94
+00:05:12,080 --> 00:05:16,920
+Now, the response to this story from
+the leagues has been unimpressive.
+
+95
+00:05:17,000 --> 00:05:19,080
+NFL Commissioner
+Roger Goodell promised,
+
+96
+00:05:19,160 --> 00:05:21,760
+if they find any inappropriate
+payments were made,
+
+97
+00:05:21,840 --> 00:05:23,280
+they will be refunded in full.
+
+98
+00:05:23,360 --> 00:05:25,600
+And the commissioner of Major League
+Baseball claimed,
+
+99
+00:05:25,680 --> 00:05:28,320
+the teams didn't always collect the
+money in the contract,
+
+100
+00:05:28,400 --> 00:05:30,040
+and even when they did,
+
+101
+00:05:30,120 --> 00:05:33,400
+there was some important context we
+should all bear in mind.
+
+102
+00:05:33,480 --> 00:05:38,440
+I think that our clubs, for the
+minuscule amount of money involved,
+
+103
+00:05:38,520 --> 00:05:42,040
+it's just not material
+to their business.
+
+104
+00:05:42,120 --> 00:05:46,080
+I think that the amount of things that
+we do free for the military,
+
+105
+00:05:46,160 --> 00:05:48,920
+hundreds and hundreds of fold,
+makes up
+
+106
+00:05:49,000 --> 00:05:51,320
+for whatever small payments are
+involved in these contracts.
+
+107
+00:05:52,040 --> 00:05:55,680
+No, it doesn't.
+And you just made this even grosser.
+
+108
+00:05:55,760 --> 00:05:58,000
+You're basically saying, maybe
+we did take your money,
+
+109
+00:05:58,080 --> 00:06:00,600
+but we're so rich,
+we didn't even need it.
+
+110
+00:06:00,680 --> 00:06:03,200
+And besides, we've done
+so much for veterans,
+
+111
+00:06:03,280 --> 00:06:07,040
+a little thank you for your service
+would be nice for a change.
+
+112
+00:06:07,120 --> 00:06:09,720
+And finally tonight,
+staying in the world of sport,
+
+113
+00:06:09,800 --> 00:06:11,080
+the Washington Redskins,
+
+114
+00:06:11,160 --> 00:06:16,320
+amazingly, only the 19th most
+indefensible thing about the NFL.
+
+115
+00:06:16,400 --> 00:06:19,000
+You may remember back in July,
+
+116
+00:06:19,080 --> 00:06:21,840
+a federal judge upheld a decision
+by the US Patent Office
+
+117
+00:06:21,920 --> 00:06:23,960
+to cancel the Redskins'
+trademark protection,
+
+118
+00:06:24,040 --> 00:06:27,920
+ruling that it does not extend to
+names that may disparage people.
+
+119
+00:06:28,000 --> 00:06:30,960
+Well, last Friday,
+the team fired back.
+
+120
+00:06:31,040 --> 00:06:33,800
+The team is defending its name
+with an interesting tactic,
+
+121
+00:06:33,880 --> 00:06:35,600
+listing out the companies
+with offensive names
+
+122
+00:06:35,680 --> 00:06:37,480
+that the government has approved.
+
+123
+00:06:37,560 --> 00:06:40,080
+Here on 8 News, we will not be listing
+out those names,
+
+124
+00:06:40,160 --> 00:06:41,880
+because they are, indeed, offensive.
+
+125
+00:06:41,960 --> 00:06:45,920
+Okay, okay. That's fine.
+That's understandable.
+
+126
+00:06:46,000 --> 00:06:49,360
+However, here on HBO,
+we have no such restrictions,
+
+127
+00:06:49,440 --> 00:06:52,640
+so we will be reading
+the names out in full.
+
+128
+00:06:52,720 --> 00:06:54,880
+Because, and I'll tell you why,
+
+129
+00:06:54,960 --> 00:06:58,080
+in a bid to show the Patent Office's
+double standards,
+
+130
+00:06:58,160 --> 00:07:00,920
+the Redskins actually pointed,
+in their legal brief,
+
+131
+00:07:01,000 --> 00:07:02,920
+to approved trademarks such as,
+
+132
+00:07:03,000 --> 00:07:04,960
+Slutsseeker dating services,
+
+133
+00:07:05,040 --> 00:07:07,520
+Capitalism Sucks Donkey Balls,
+
+134
+00:07:07,600 --> 00:07:11,920
+and Hot Octopuss anti-premature
+ejaculation creams.
+
+135
+00:07:12,000 --> 00:07:13,520
+The team also cited
+
+136
+00:07:13,600 --> 00:07:15,760
+Edible Crotchless Gummy Panties,
+
+137
+00:07:15,840 --> 00:07:18,720
+Dick Balls,
+and Klitoris with a K.
+
+138
+00:07:19,640 --> 00:07:21,920
+I could go on, so I will.
+
+139
+00:07:22,000 --> 00:07:24,400
+They also pointed to MILF Weed,
+
+140
+00:07:24,480 --> 00:07:26,360
+Make Your Own Dildo,
+
+141
+00:07:26,440 --> 00:07:28,720
+and Laughing My Vagina Off.
+
+142
+00:07:28,800 --> 00:07:30,840
+I could stop, but I won't.
+
+143
+00:07:30,920 --> 00:07:34,360
+Because they also mentioned
+Party With Sluts,
+
+144
+00:07:34,440 --> 00:07:38,040
+Anal Fantasy Collection,
+and Jizz Underwear.
+
+145
+00:07:38,120 --> 00:07:41,560
+Oh, sorry, I forgot to mention,
+if you have children in the room,
+
+146
+00:07:41,640 --> 00:07:44,920
+they should have left before
+the previous 30 seconds.
+
+147
+00:07:45,000 --> 00:07:48,480
+Now, the Redskins maintain
+that their legal argument here
+
+148
+00:07:48,560 --> 00:07:50,280
+is actually quite simple.
+
+149
+00:07:50,360 --> 00:07:52,360
+The Washington Redskins
+want to know
+
+150
+00:07:52,440 --> 00:07:54,240
+why their trademark is different.
+
+151
+00:07:54,320 --> 00:07:57,760
+The Redskins say that more than three
+million trademarks have been issued
+
+152
+00:07:57,840 --> 00:08:00,480
+and not one of them ever
+cancelled for being offensive.
+
+153
+00:08:00,560 --> 00:08:03,400
+Okay, you know what,
+that might be a fair point.
+
+154
+00:08:03,480 --> 00:08:04,680
+Although, for the record,
+
+155
+00:08:04,760 --> 00:08:07,040
+that means the Redskins' moral defence
+is now essentially,
+
+156
+00:08:07,120 --> 00:08:09,880
+Hey, our name
+is no worse than that of
+
+157
+00:08:09,960 --> 00:08:13,680
+and again, this is another real
+trademark cited in their case,
+
+158
+00:08:13,760 --> 00:08:16,240
+"the Shank the Bitch board game,"
+
+159
+00:08:16,320 --> 00:08:19,320
+which I'm guessing had
+to be trademarked
+
+160
+00:08:19,400 --> 00:08:22,080
+to distinguish it from the Shank the
+Bitch breakfast cereal,
+
+161
+00:08:22,160 --> 00:08:25,880
+and Nancy Meyers' "Shank the Bitch,"
+the motion picture.
+
+162
+00:08:25,960 --> 00:08:29,960
+But maybe the most obnoxious part
+
+163
+00:08:30,040 --> 00:08:33,800
+of the Redskins' entire 82-page appeal
+is when they argued...
+
+164
+00:08:33,880 --> 00:08:37,480
+Just about everything is potentially
+disparaging to someone.
+
+165
+00:08:37,560 --> 00:08:39,440
+Because A, no it isn't,
+
+166
+00:08:39,520 --> 00:08:41,920
+and B, that's not the fucking point.
+
+167
+00:08:42,000 --> 00:08:46,320
+The word Redskins isn't "potentially"
+disparaging to "someone."
+
+168
+00:08:46,400 --> 00:08:50,080
+It is "currently" disparaging
+to specific individuals,
+
+169
+00:08:50,160 --> 00:08:54,160
+no matter how often you try to deny it
+by saying things like this.
+
+170
+00:08:54,240 --> 00:08:55,320
+The Redskins have long said
+
+171
+00:08:55,400 --> 00:08:59,280
+the name is intended to honor Native
+Americans, not insult them.
+
+172
+00:09:00,040 --> 00:09:04,440
+Look, if I may talk to Redskins' owner
+Dan Snyder for a moment.
+
+173
+00:09:04,520 --> 00:09:08,840
+Intending to honor something is a lot
+different from actually honoring it.
+
+174
+00:09:08,920 --> 00:09:11,280
+Although, since you seem
+to feel differently,
+
+175
+00:09:11,360 --> 00:09:14,200
+let me suggest that everyone
+now honor Dan Snyder
+
+176
+00:09:14,280 --> 00:09:16,720
+by renaming their fantasy
+football teams...
+
+177
+00:09:16,800 --> 00:09:19,880
+Dan Snyder is a thin-skinned racist
+whose sunglasses look like
+
+178
+00:09:19,960 --> 00:09:22,320
+something a tacky paedophile
+might settle for.
+
+179
+00:09:22,400 --> 00:09:25,600
+And hey, hey, Dan, don't get upset.
+
+180
+00:09:25,680 --> 00:09:30,240
+Everything is potentially
+disparaging to somebody.
+
+181
+00:09:30,320 --> 00:09:32,720
+And now, this.
+
+182
+00:09:32,800 --> 00:09:36,920
+And now, everybody wants to be
+an outsider.
+
+183
+00:09:37,000 --> 00:09:38,720
+There's a big appetite for outsiders.
+
+184
+00:09:38,800 --> 00:09:42,040
+That used to be what they said about
+you when you came in.
+
+185
+00:09:42,120 --> 00:09:44,800
+They still do. You just have to
+listen, they still do.
+
+186
+00:09:44,880 --> 00:09:47,640
+US senator for four years.
+Not an outsider
+
+187
+00:09:47,720 --> 00:09:50,240
+It's time to get someone
+who's an outsider.
+
+188
+00:09:50,320 --> 00:09:53,000
+US senator for 12 years.
+Also not an outsider.
+
+189
+00:09:53,080 --> 00:09:55,480
+I wake up every morning
+as an outsider.
+
+190
+00:09:55,560 --> 00:09:57,240
+You wake up every morning as a
+governor,
+
+191
+00:09:57,320 --> 00:09:59,240
+and have for the last five
+years. Not an outsider.
+
+192
+00:09:59,320 --> 00:10:01,960
+Well, I can't think of
+anything more of an outsider
+
+193
+00:10:02,040 --> 00:10:03,720
+than electing
+the first woman president.
+
+194
+00:10:03,800 --> 00:10:05,680
+First lady for 8 years.
+US senator for 8 years.
+
+195
+00:10:05,760 --> 00:10:08,000
+Secretary of state for four years.
+Not an outsider.
+
+196
+00:10:08,080 --> 00:10:09,480
+Are you a plausible outsider ?
+
+197
+00:10:09,560 --> 00:10:11,160
+Yeah, I haven't been
+in Washington D.C.
+
+198
+00:10:11,240 --> 00:10:12,440
+I wouldn't know how to drive.
+
+199
+00:10:12,520 --> 00:10:16,040
+I can barely get from Dulles
+to Senator Grassley's office.
+
+200
+00:10:16,120 --> 00:10:17,760
+Are you fucking kidding me?
+
+201
+00:10:17,840 --> 00:10:19,880
+I'm very much outside the box.
+
+202
+00:10:19,960 --> 00:10:22,040
+OK, that's true. True, true, true.
+
+203
+00:10:24,000 --> 00:10:27,240
+Moving on.
+Now, this year...
+
+204
+00:10:27,320 --> 00:10:30,160
+This year we've covered many
+depressing aspects
+
+205
+00:10:30,240 --> 00:10:31,840
+of our criminal
+justice system,
+
+206
+00:10:31,920 --> 00:10:34,560
+from how mandatory minimum sentencing
+has crowded our prisons,
+
+207
+00:10:34,640 --> 00:10:36,280
+to how bail punishes the poor,
+
+208
+00:10:36,360 --> 00:10:39,360
+to how overstretched public defenders
+threaten your right to a fair trial,
+
+209
+00:10:39,440 --> 00:10:41,040
+to how small municipal violations
+
+210
+00:10:41,120 --> 00:10:42,920
+can wind up putting you
+in the fuck barrel.
+
+211
+00:10:43,000 --> 00:10:44,440
+And, fun fact:
+
+212
+00:10:44,520 --> 00:10:46,720
+If you binge-watch
+those episodes in order,
+
+213
+00:10:46,800 --> 00:10:49,680
+you are entitled to an ice cream cone
+at Dairy Queen.
+
+214
+00:10:49,760 --> 00:10:52,600
+So, congratulations, enjoy it.
+
+215
+00:10:52,680 --> 00:10:54,200
+You have earned it.
+
+216
+00:10:54,280 --> 00:10:56,200
+Just to be clear, it's not free,
+
+217
+00:10:56,280 --> 00:10:59,320
+and Dairy Queen is not
+involved in any capacity.
+
+218
+00:10:59,400 --> 00:11:00,760
+The point is, though,
+
+219
+00:11:00,840 --> 00:11:03,080
+after learning about
+our shattered justice system,
+
+220
+00:11:03,160 --> 00:11:05,240
+you've frankly earned the right to eat
+your feelings
+
+221
+00:11:05,320 --> 00:11:07,920
+with a Peanut Buster Parfait,
+
+222
+00:11:08,000 --> 00:11:12,640
+the only frozen treat in America with
+"nut buster" as part of its name.
+
+223
+00:11:13,120 --> 00:11:18,800
+Anyway, tonight, instead of talking
+about how people wind up in prison,
+
+224
+00:11:18,880 --> 00:11:20,640
+I thought we'd talk
+about how they leave,
+
+225
+00:11:20,720 --> 00:11:22,920
+a process known as prison re-entry.
+
+226
+00:11:23,000 --> 00:11:24,520
+It's particularly relevant this week
+
+227
+00:11:24,600 --> 00:11:26,840
+in light of what happened
+just last weekend.
+
+228
+00:11:26,920 --> 00:11:29,640
+The largest one-time release of
+federal prisoners in history
+
+229
+00:11:29,720 --> 00:11:30,920
+is getting underway today.
+
+230
+00:11:31,000 --> 00:11:34,880
+The move is in response to a loosening
+of mandatory minimum sentences
+
+231
+00:11:34,960 --> 00:11:36,880
+for nonviolent drug offenders.
+
+232
+00:11:36,960 --> 00:11:39,800
+About 6,000 prisoners
+are being set free today.
+
+233
+00:11:40,360 --> 00:11:44,920
+Yes, 6,000 mostly low-level drug
+offenders were released last week,
+
+234
+00:11:45,000 --> 00:11:47,160
+and if you are one of them,
+let me bring you up to speed
+
+235
+00:11:47,240 --> 00:11:49,360
+on what you may have missed
+since you've been inside.
+
+236
+00:11:49,440 --> 00:11:53,400
+Uber's replaced cabs,
+everyone pretends to like kale now,
+
+237
+00:11:53,880 --> 00:11:58,520
+Matthew McConaughey has an Oscar,
+and in four states pot is legal,
+
+238
+00:11:58,600 --> 00:12:02,920
+which, for some of you, must seem like
+a cruel, cruel irony.
+
+239
+00:12:03,000 --> 00:12:04,960
+Now, unsurprisingly,
+
+240
+00:12:05,040 --> 00:12:07,880
+this news was not exactly
+welcomed by everyone.
+
+241
+00:12:07,960 --> 00:12:10,800
+When you release people like that,
+you'll have an increase in crime.
+
+242
+00:12:10,880 --> 00:12:12,160
+Okay. No doubt in my mind.
+
+243
+00:12:12,240 --> 00:12:15,520
+Some believe the prisoner
+release is a racial deal
+
+244
+00:12:15,600 --> 00:12:17,200
+that will put Americans in jeopardy.
+
+245
+00:12:17,280 --> 00:12:20,000
+It's part of an effort
+to reduce prison overcrowding.
+
+246
+00:12:20,080 --> 00:12:22,800
+But who exactly are these prisoners ?
+Are they dangerous ?
+
+247
+00:12:22,880 --> 00:12:24,920
+Yes, are they dangerous ?
+
+248
+00:12:25,000 --> 00:12:27,160
+Is this the purge ? Is it happening ?
+
+249
+00:12:27,240 --> 00:12:28,600
+Is this the pur..
+
+250
+00:12:28,680 --> 00:12:31,440
+Do I need to buy a mask, or will one
+be provided for me ?
+
+251
+00:12:31,520 --> 00:12:33,720
+I don't know how the purge works.
+
+252
+00:12:33,800 --> 00:12:36,440
+Now, to be clear, by and large,
+
+253
+00:12:36,520 --> 00:12:39,360
+these prisoners were going to be
+released in a couple of years anyway.
+
+254
+00:12:39,440 --> 00:12:41,600
+So, people are essentially
+freaking out about something
+
+255
+00:12:41,680 --> 00:12:44,560
+that had it happened two years later,
+they wouldn't even have noticed.
+
+256
+00:12:44,640 --> 00:12:48,400
+And it's also worth noting
+that more than 600,000 people
+
+257
+00:12:48,480 --> 00:12:50,920
+get released from state and federal
+prisons every year.
+
+258
+00:12:51,000 --> 00:12:54,640
+So, 6,000 more would represent an
+increase of less than one percent.
+
+259
+00:12:54,720 --> 00:12:57,920
+And the only time anyone actually
+notices a change that small
+
+260
+00:12:58,000 --> 00:13:00,040
+is your dad with the thermostat.
+
+261
+00:13:00,120 --> 00:13:03,920
+And hey, when you have your own place,
+you can heat it like the tropics,
+
+262
+00:13:04,000 --> 00:13:05,960
+but not while he's paying the bills.
+
+263
+00:13:07,480 --> 00:13:10,280
+You're burning money !
+
+264
+00:13:10,360 --> 00:13:13,400
+Unfortunately,
+we have a lot of misconceptions
+
+265
+00:13:13,480 --> 00:13:15,760
+about what leaving prison
+is actually like.
+
+266
+00:13:15,840 --> 00:13:19,200
+Perhaps because it's often presented
+in movies and TV as a happy moment,
+
+267
+00:13:19,280 --> 00:13:22,480
+when former inmates
+rejoin families and friends
+
+268
+00:13:22,560 --> 00:13:24,320
+and put their life back together.
+
+269
+00:13:24,400 --> 00:13:26,360
+I'm free !
+
+270
+00:13:26,440 --> 00:13:29,520
+Free ! Oh, Lord !
+I never thought I'd get out.
+
+271
+00:13:29,600 --> 00:13:31,840
+That's a good hug. That's a good hug.
+
+272
+00:13:31,920 --> 00:13:34,200
+What was important is
+that we cut a deal,
+
+273
+00:13:34,280 --> 00:13:36,120
+and Kenny was finally free.
+
+274
+00:13:38,720 --> 00:13:40,600
+Patrick !
+
+275
+00:13:40,680 --> 00:13:41,920
+SpongeBob !
+
+276
+00:13:42,000 --> 00:13:43,920
+That's so nice.
+
+277
+00:13:44,000 --> 00:13:46,240
+Although, the last scene
+was slightly undercut
+
+278
+00:13:46,320 --> 00:13:47,880
+when Patrick the starfish realized
+
+279
+00:13:47,960 --> 00:13:50,560
+SpongeBob had joined the Aryan
+Brotherhood while inside.
+
+280
+00:13:50,640 --> 00:13:53,400
+Hey, hey ! He did what he had to do !
+
+281
+00:13:53,480 --> 00:13:55,920
+He did what he had to do !
+
+282
+00:13:56,000 --> 00:13:57,920
+But the sad truth is
+
+283
+00:13:58,000 --> 00:14:00,480
+for a surprisingly high
+number of prisoners,
+
+284
+00:14:00,560 --> 00:14:02,960
+their time on the outside
+may be brief.
+
+285
+00:14:03,040 --> 00:14:05,920
+The national average
+of recidivism is 50%.
+
+286
+00:14:06,000 --> 00:14:10,920
+So, we're spending 80 billion dollars
+and failing half the time, right ?
+
+287
+00:14:11,000 --> 00:14:12,200
+That doesn't make any sense.
+
+288
+00:14:12,760 --> 00:14:14,360
+No, it doesn't make any sense.
+
+289
+00:14:14,440 --> 00:14:17,600
+The only thing we're allowed to throw
+billions at just to fail half the time
+
+290
+00:14:17,680 --> 00:14:22,040
+is this man, vandalized Urban
+Outfitters mannequin, Johnny Depp.
+
+291
+00:14:22,120 --> 00:14:26,600
+The fact that around half
+of people who leave prison
+
+292
+00:14:26,680 --> 00:14:28,480
+end up going back is horrifying.
+
+293
+00:14:28,560 --> 00:14:30,840
+But when you look
+at the challenges they face,
+
+294
+00:14:30,920 --> 00:14:32,720
+it gets a little less surprising.
+
+295
+00:14:32,800 --> 00:14:34,400
+In fact, let me walk you through
+
+296
+00:14:34,480 --> 00:14:36,120
+what's it's like
+when you get out of prison.
+
+297
+00:14:36,200 --> 00:14:38,320
+And let's just start with minute one.
+
+298
+00:14:38,400 --> 00:14:41,640
+Because when inmates exit that gate to
+start a new life,
+
+299
+00:14:41,720 --> 00:14:43,920
+they could find themselves
+in the middle of nowhere
+
+300
+00:14:44,000 --> 00:14:45,920
+with little to nothing
+in their pockets.
+
+301
+00:14:46,000 --> 00:14:48,960
+And the lucky ones might get enough
+for a bus ticket and a meal,
+
+302
+00:14:49,040 --> 00:14:51,480
+but even exonerated
+prisoners like Glenn Ford
+
+303
+00:14:51,560 --> 00:14:54,440
+can walk out with little to build
+a life on.
+
+304
+00:14:54,520 --> 00:14:59,160
+Glenn Ford was given a $20 gift card
+the day he left Angola Prison.
+
+305
+00:14:59,240 --> 00:15:04,360
+Gave me the card for $20
+and said, "Wish you luck."
+
+306
+00:15:04,440 --> 00:15:05,960
+How long did that last you ?
+
+307
+00:15:06,040 --> 00:15:07,240
+One meal.
+
+308
+00:15:08,440 --> 00:15:13,800
+I had some fried chicken, tea,
+and the French fries came with it.
+
+309
+00:15:13,880 --> 00:15:16,720
+I had four dollars and change left.
+
+310
+00:15:17,560 --> 00:15:19,640
+A $20 gift card.
+
+311
+00:15:19,720 --> 00:15:22,720
+If you're exonerated, you should
+probably be leaving prison
+
+312
+00:15:22,800 --> 00:15:26,360
+with more than you take home after a
+disappointing office Secret Santa.
+
+313
+00:15:26,440 --> 00:15:30,440
+And hey, don't act surprised
+that that gift was terrible.
+
+314
+00:15:30,520 --> 00:15:32,400
+Your name got picked
+by Janice from accounting,
+
+315
+00:15:32,480 --> 00:15:34,800
+and you know she don't give a fuck.
+
+316
+00:15:34,880 --> 00:15:37,920
+She don't give a fuck about you.
+
+317
+00:15:38,000 --> 00:15:40,920
+And look, once your money runs out,
+
+318
+00:15:41,000 --> 00:15:43,040
+you can find yourself
+hungry and desperate.
+
+319
+00:15:43,120 --> 00:15:46,320
+Because in many states anyone
+with felony drug convictions
+
+320
+00:15:46,400 --> 00:15:48,640
+can be banned
+from government food benefits.
+
+321
+00:15:48,720 --> 00:15:50,960
+And if your family
+lives in public housing,
+
+322
+00:15:51,040 --> 00:15:52,920
+you may not be able to return home.
+
+323
+00:15:53,000 --> 00:15:55,680
+Because some places require tenants
+to sign papers
+
+324
+00:15:55,760 --> 00:15:58,600
+banning relatives with convictions
+from entering their homes.
+
+325
+00:15:58,680 --> 00:16:00,760
+And while those rules
+may have been written
+
+326
+00:16:00,840 --> 00:16:02,560
+to reduce crime in public housing,
+
+327
+00:16:02,640 --> 00:16:06,320
+they're administered so broadly it can
+lead to situations like this.
+
+328
+00:16:06,400 --> 00:16:10,640
+Geraldine Miller signed the ban
+after her son robbed a bodega at 16.
+
+329
+00:16:10,720 --> 00:16:15,360
+Had I'd known what I know today,
+I would have never signed that paper.
+
+330
+00:16:15,440 --> 00:16:17,560
+Miller herself now
+faces eviction
+
+331
+00:16:17,640 --> 00:16:21,360
+after her son was caught helping her
+with groceries after she became ill.
+
+332
+00:16:21,440 --> 00:16:24,120
+She has to go to her brother's
+apartment to see her son.
+
+333
+00:16:24,840 --> 00:16:29,360
+NYCHA want me to throw my son away.
+I can't. I can't.
+
+334
+00:16:30,320 --> 00:16:33,920
+We all want people who've committed
+crimes to learn their lesson,
+
+335
+00:16:34,000 --> 00:16:36,760
+but "never help your sick
+mother with groceries"
+
+336
+00:16:36,840 --> 00:16:38,600
+sounds more like the kind of lesson
+you'd learn
+
+337
+00:16:38,680 --> 00:16:40,760
+from a shitty Boyscout leader.
+
+338
+00:16:40,840 --> 00:16:43,920
+Hey, kids, never help your sick
+mother with groceries,
+
+339
+00:16:44,000 --> 00:16:46,480
+always know where
+the exits are in a dogfight,
+
+340
+00:16:46,560 --> 00:16:49,680
+and never pay a stripper up front.
+
+341
+00:16:49,760 --> 00:16:52,320
+Scouts dismissed.
+
+342
+00:16:52,400 --> 00:16:55,400
+And look, restricted
+access to food and shelter
+
+343
+00:16:55,480 --> 00:16:57,320
+could be just the beginning
+of your problems.
+
+344
+00:16:57,400 --> 00:16:58,440
+Depending on where you live,
+
+345
+00:16:58,520 --> 00:17:00,680
+a felony conviction can cut you off
+from everything
+
+346
+00:17:00,760 --> 00:17:04,080
+from voting, to a driver's license,
+and this is true
+
+347
+00:17:04,160 --> 00:17:07,360
+one Florida county's home
+weatherization program.
+
+348
+00:17:07,440 --> 00:17:10,920
+So, I guess Florida is perfectly happy
+to put people behind bars,
+
+349
+00:17:11,000 --> 00:17:14,760
+but they draw the line at putting them
+behind storm windows and insulation.
+
+350
+00:17:14,840 --> 00:17:19,520
+While you could pay for food, shelter,
+and weatherization with a job,
+
+351
+00:17:19,600 --> 00:17:22,920
+your opportunities to get one of those
+might be severely limited.
+
+352
+00:17:23,000 --> 00:17:24,400
+There are state and local bans
+
+353
+00:17:24,480 --> 00:17:26,440
+preventing ex-felons from working
+as everything
+
+354
+00:17:26,520 --> 00:17:29,120
+from a nurse to a septic tank cleaner,
+
+355
+00:17:29,200 --> 00:17:31,920
+to, in Mississippi,
+an alligator rancher.
+
+356
+00:17:32,000 --> 00:17:35,520
+As if breaking into the alligator
+ranching business
+
+357
+00:17:35,600 --> 00:17:37,920
+wasn't already hard enough as it is.
+
+358
+00:17:38,000 --> 00:17:43,280
+It's all who you know who's been eaten
+by an alligator in that game.
+
+359
+00:17:43,360 --> 00:17:45,120
+And a criminal record can even make
+
+360
+00:17:45,200 --> 00:17:47,760
+getting an interview
+for a job difficult.
+
+361
+00:17:47,840 --> 00:17:51,880
+Nearly every job application
+will ask a potential employee
+
+362
+00:17:51,960 --> 00:17:54,480
+if he or she has ever been
+convicted of a felony,
+
+363
+00:17:54,560 --> 00:17:56,320
+a question that, in some cases,
+
+364
+00:17:56,400 --> 00:17:59,360
+will automatically disqualify
+you from getting hired.
+
+365
+00:17:59,440 --> 00:18:01,240
+It makes you a little uncomfortable.
+
+366
+00:18:01,320 --> 00:18:03,280
+You get that anxiety
+when you get to that box.
+
+367
+00:18:03,360 --> 00:18:06,160
+It's like, wow,
+how are they gonna judge me ?
+
+368
+00:18:06,240 --> 00:18:07,800
+Knowing that
+I committed this crime.
+
+369
+00:18:07,880 --> 00:18:09,520
+How are they gonna feel about this ?
+
+370
+00:18:09,600 --> 00:18:11,360
+And it's understandable
+
+371
+00:18:11,440 --> 00:18:14,680
+that an employer might want to know if
+an applicant has a criminal history,
+
+372
+00:18:14,760 --> 00:18:18,000
+but to have that question on a form
+before you've even met the person
+
+373
+00:18:18,080 --> 00:18:19,400
+seems a little unfair.
+
+374
+00:18:19,480 --> 00:18:21,440
+They may have changed
+significantly since then,
+
+375
+00:18:21,520 --> 00:18:24,920
+and you shouldn't judge someone on
+what they may be most ashamed of.
+
+376
+00:18:25,000 --> 00:18:28,920
+Imagine if you had once
+fucked a watermelon.
+
+377
+00:18:29,000 --> 00:18:31,560
+Maybe it happened 14 years ago.
+
+378
+00:18:31,640 --> 00:18:33,920
+You're not proud of it,
+and you've changed since then.
+
+379
+00:18:34,000 --> 00:18:38,920
+If every job application you filled
+out had this question on it
+
+380
+00:18:39,000 --> 00:18:42,760
+with no opportunity to give context of
+how drunk you were,
+
+381
+00:18:42,840 --> 00:18:44,920
+or the fact that you haven't even
+looked at a watermelon
+
+382
+00:18:45,000 --> 00:18:46,760
+for over a decade,
+
+383
+00:18:46,840 --> 00:18:50,160
+you'd begin to feel like the deck was
+stacked against you.
+
+384
+00:18:50,240 --> 00:18:54,280
+And some states even acknowledge how
+hard this process can be.
+
+385
+00:18:54,360 --> 00:18:58,200
+Ohio actually has a list
+of job tips for ex-offenders
+
+386
+00:18:58,280 --> 00:19:01,560
+with dos and don'ts, such as...
+Do be honest.
+
+387
+00:19:01,640 --> 00:19:04,680
+But if you're asked why
+you left your last job,
+
+388
+00:19:04,760 --> 00:19:07,920
+don't use negative words
+like "went to jail".
+
+389
+00:19:08,000 --> 00:19:14,280
+Instead do use terms like "relocated"
+or "contract ended". Both are true.
+
+390
+00:19:14,360 --> 00:19:17,920
+And they are. And before you judge,
+that is not a lie.
+
+391
+00:19:18,000 --> 00:19:21,920
+Everyone tries to present the most
+flattering image of themselves.
+
+392
+00:19:22,000 --> 00:19:25,720
+You do it when you use a filter on an
+Instagram photo of yourself.
+
+393
+00:19:25,800 --> 00:19:29,520
+Even the queen does it.
+Because this is her official portrait,
+
+394
+00:19:29,600 --> 00:19:32,880
+but this is who she actually is.
+
+395
+00:19:32,960 --> 00:19:37,000
+But deep down, she knows you can't
+put that face on money.
+
+396
+00:19:38,280 --> 00:19:42,000
+And all of this is before
+we get to the difficulty
+
+397
+00:19:42,080 --> 00:19:43,960
+of ex-prisoners navigating parole.
+
+398
+00:19:44,040 --> 00:19:47,200
+Two-thirds of parolees
+who go back to prison
+
+399
+00:19:47,280 --> 00:19:50,000
+do so not due to a new crime,
+
+400
+00:19:50,080 --> 00:19:51,920
+but because of parole violations,
+
+401
+00:19:52,000 --> 00:19:54,400
+sometimes for reasons as simple
+as missing appointments
+
+402
+00:19:54,480 --> 00:19:55,920
+or failing a drug test.
+
+403
+00:19:56,000 --> 00:19:57,840
+And for some it may be because
+
+404
+00:19:57,920 --> 00:20:00,440
+they're dealing with untreated
+substance abuse or mental illness,
+
+405
+00:20:00,520 --> 00:20:03,440
+but for others
+who are trying their hardest,
+
+406
+00:20:03,520 --> 00:20:07,040
+satisfying the conditions of parole
+can be maddeningly difficult.
+
+407
+00:20:07,120 --> 00:20:08,760
+Look at Bilal Chatman.
+
+408
+00:20:08,840 --> 00:20:11,800
+He spent a decade in prison
+for a nonviolent drug offense
+
+409
+00:20:11,880 --> 00:20:13,080
+but despite the odds,
+
+410
+00:20:13,160 --> 00:20:16,640
+he managed to get his life back on
+track and find a job that he loved.
+
+411
+00:20:16,720 --> 00:20:19,080
+Things were going well
+until he hit a problem
+
+412
+00:20:19,160 --> 00:20:22,440
+regarding scheduling meetings
+with his probation officer.
+
+413
+00:20:22,520 --> 00:20:25,400
+So, he got off, I think,
+every day about 4:00,
+
+414
+00:20:25,480 --> 00:20:28,520
+and so my job didn't,
+I didn't get off until 4:30.
+
+415
+00:20:28,600 --> 00:20:30,920
+I said, "Okay, well,
+can I come in early ?"
+
+416
+00:20:31,000 --> 00:20:32,920
+Said "No, you can't come in early."
+
+417
+00:20:33,000 --> 00:20:35,160
+I said, "Well, okay. Well then, can I
+come a little later ?
+
+418
+00:20:35,240 --> 00:20:37,800
+"Can I get there at like,
+5:00 if you leave at 4:30 ?"
+
+419
+00:20:37,880 --> 00:20:40,720
+"I don't stay and wait for you. I'm
+not gonna wait for you."
+
+420
+00:20:40,800 --> 00:20:42,080
+So, I don't wanna lose my job.
+
+421
+00:20:42,160 --> 00:20:43,920
+This is the thing
+that I'm supposed to be doing.
+
+422
+00:20:44,000 --> 00:20:45,360
+This is what I'm out here for,
+
+423
+00:20:45,440 --> 00:20:48,080
+is I'm working to be a productive
+member of society.
+
+424
+00:20:48,760 --> 00:20:52,800
+I felt set up.
+I felt like I was set up to fail.
+
+425
+00:20:52,880 --> 00:20:55,920
+I felt most people in that situation
+are set up to fail.
+
+426
+00:20:56,520 --> 00:20:58,880
+And you know what ?
+It is hard to argue with that.
+
+427
+00:20:58,960 --> 00:21:02,240
+Because the only way Bilal could make
+an appointment at 4:00,
+
+428
+00:21:02,320 --> 00:21:04,080
+if he left at 4:30,
+
+429
+00:21:04,160 --> 00:21:07,720
+would be if he somehow
+owned a DeLorean, a TARDIS,
+
+430
+00:21:07,800 --> 00:21:11,040
+or whatever the fuck Jean-Claude Van
+Damme used in "Timecop."
+
+431
+00:21:11,600 --> 00:21:15,160
+I can't remember. I think he travelled
+through time by doing the splits.
+
+432
+00:21:15,240 --> 00:21:19,840
+It's been a while, but I think it was
+a splits-based system.
+
+433
+00:21:19,920 --> 00:21:21,880
+Also, depending on where you live,
+
+434
+00:21:21,960 --> 00:21:25,000
+you might not just struggle
+to meet your parole officer,
+
+435
+00:21:25,080 --> 00:21:26,720
+you might struggle to pay him.
+
+436
+00:21:26,800 --> 00:21:28,880
+Because in many states
+you actually have to pay
+
+437
+00:21:28,960 --> 00:21:30,880
+for probation and parole service.
+
+438
+00:21:30,960 --> 00:21:35,120
+And in Pennsylvania they charge a $60
+fee just to enter the program.
+
+439
+00:21:35,200 --> 00:21:37,960
+And if you don't have the money for
+all the fees they charge,
+
+440
+00:21:38,040 --> 00:21:39,920
+as one Pennsylvania parolee explains,
+
+441
+00:21:40,000 --> 00:21:43,560
+you can be forced to make
+a truly ridiculous choice.
+
+442
+00:21:43,640 --> 00:21:46,760
+You go to see your parole officer and
+you don't have money ?
+
+443
+00:21:46,840 --> 00:21:47,840
+They will hold you.
+
+444
+00:21:47,920 --> 00:21:51,080
+Job or no job. And if you don't pay,
+you come back to jail.
+
+445
+00:21:51,160 --> 00:21:52,280
+Yeah. I know one thing.
+
+446
+00:21:52,360 --> 00:21:55,640
+I found myself selling drugs
+to pay back Pennsylvania.
+
+447
+00:21:55,720 --> 00:21:58,880
+Oh, my God.
+
+448
+00:21:58,960 --> 00:22:03,440
+So, in order to pay for the program to
+keep him away from dealing drugs,
+
+449
+00:22:03,520 --> 00:22:06,240
+he has to earn money drug dealing.
+
+450
+00:22:06,320 --> 00:22:08,920
+At this point, the Pennsylvania
+Department of Corrections
+
+451
+00:22:09,000 --> 00:22:13,000
+might as well change its motto to,
+"Y'all come back now, y'hear ?"
+
+452
+00:22:14,320 --> 00:22:16,200
+By now, you may be wondering
+
+453
+00:22:16,280 --> 00:22:18,720
+who is responsible for
+a system this broken.
+
+454
+00:22:18,800 --> 00:22:22,000
+Well, interestingly, the answer is
+pretty much everybody.
+
+455
+00:22:22,080 --> 00:22:26,720
+Many of the obstacles you've seen
+originated in the tough-on-crime '90s
+
+456
+00:22:26,800 --> 00:22:28,520
+with surprisingly little debate.
+
+457
+00:22:28,600 --> 00:22:31,920
+Remember the ban on ex-prisoners
+from entering public housing
+
+458
+00:22:32,000 --> 00:22:34,080
+which forced Geraldine Miller
+to kick out her son ?
+
+459
+00:22:34,160 --> 00:22:36,240
+Well, here's where that started.
+
+460
+00:22:36,320 --> 00:22:39,840
+From now on, the rule for residents
+who commit crime and peddle drugs
+
+461
+00:22:39,920 --> 00:22:42,600
+should be one strike and you're out.
+
+462
+00:22:51,320 --> 00:22:54,000
+That is a State of the Union
+standing ovation
+
+463
+00:22:54,080 --> 00:22:55,640
+from both sides.
+
+464
+00:22:55,720 --> 00:22:59,840
+Almost nothing gets a full room
+ovation during those speeches,
+
+465
+00:22:59,920 --> 00:23:03,760
+with the exception of veterans, God,
+and the speech being over.
+
+466
+00:23:05,480 --> 00:23:09,480
+In many cases, these laws were passed
+with barely a second thought.
+
+467
+00:23:09,560 --> 00:23:13,960
+The 1996 law letting states restrict
+food stamps for ex-drug felons.
+
+468
+00:23:14,040 --> 00:23:17,440
+was debated in the Senate
+for all of three minutes.
+
+469
+00:23:17,520 --> 00:23:19,240
+I've been talking about this subject
+
+470
+00:23:19,320 --> 00:23:22,080
+for nearly five times longer
+than they did
+
+471
+00:23:22,160 --> 00:23:24,920
+and I'm leaving a fuck
+of a lot of stuff out.
+
+472
+00:23:25,000 --> 00:23:29,400
+Mainly because I had to make
+time for "Timecop" references.
+
+473
+00:23:29,480 --> 00:23:34,760
+And  no one batted an eye when Bart
+Gordon, a Democrat from Tennessee,
+
+474
+00:23:34,840 --> 00:23:38,720
+justified cutting off federal student
+aid for prisoners with this logic.
+
+475
+00:23:38,800 --> 00:23:42,920
+Just because one blind hog may
+occasionally find an acorn
+
+476
+00:23:43,000 --> 00:23:46,160
+doesn't mean many other
+blind hogs will.
+
+477
+00:23:46,240 --> 00:23:50,160
+The same principle applies to giving
+federal Pell Grants to prisoners.
+
+478
+00:23:53,040 --> 00:23:56,200
+First of all,
+pigs find nuts by smell,
+
+479
+00:23:56,280 --> 00:24:01,080
+so a blind one is at no significant
+disadvantage in an acorn hunt.
+
+480
+00:24:01,160 --> 00:24:05,920
+And second of all, people aren't pigs,
+you fucking asshole !
+
+481
+00:24:06,000 --> 00:24:09,680
+And look, I know, I know...
+
+482
+00:24:09,760 --> 00:24:12,920
+it is not always easy
+
+483
+00:24:13,000 --> 00:24:15,920
+to care about the welfare
+of ex-prisoners.
+
+484
+00:24:16,000 --> 00:24:18,560
+And some are going to re-offend no
+matter what you do.
+
+485
+00:24:18,640 --> 00:24:24,160
+But the fact remains, over 95% of all
+prisoners will eventually be released.
+
+486
+00:24:24,240 --> 00:24:25,920
+So, it's in everyone's interest
+
+487
+00:24:26,000 --> 00:24:28,480
+that we try to give them
+a better chance at success.
+
+488
+00:24:28,560 --> 00:24:29,840
+Because under the current system,
+
+489
+00:24:29,920 --> 00:24:33,360
+if they do manage to overcome
+all the obstacles we've set,
+
+490
+00:24:33,440 --> 00:24:34,920
+it's a minor miracle.
+
+491
+00:24:35,000 --> 00:24:38,800
+And one of the people who have managed
+to beat those odds is Bilal Chatman.
+
+492
+00:24:38,880 --> 00:24:42,640
+I'm happy to say that he is still in
+his job and he's still doing well.
+
+493
+00:24:42,720 --> 00:24:45,080
+And I'm even happy to say he's
+actually with us this evening.
+
+494
+00:24:45,160 --> 00:24:47,120
+So, please welcome Bilal Chatman !
+
+495
+00:24:49,920 --> 00:24:52,240
+- Thanks a lot.
+- Hi, Bilal.
+
+496
+00:24:52,320 --> 00:24:56,320
+Bilal Chatman, ladies and gentlemen.
+Please, sit down.
+
+497
+00:24:57,480 --> 00:25:00,840
+Bilal, Bilal.
+
+498
+00:25:00,920 --> 00:25:02,640
+Thank you so much
+for coming tonight.
+
+499
+00:25:02,720 --> 00:25:05,720
+I know that you were
+not sure about doing this.
+
+500
+00:25:05,800 --> 00:25:07,880
+So, I wanna thank you
+for being here.
+
+501
+00:25:07,960 --> 00:25:12,920
+Now, you managed to keep the job that
+you were talking about in that clip.
+
+502
+00:25:13,000 --> 00:25:16,360
+And we saw the State of Ohio
+giving advice to prisoners
+
+503
+00:25:16,440 --> 00:25:18,920
+about how to present their truth.
+
+504
+00:25:19,000 --> 00:25:21,040
+And when you were applying for jobs,
+
+505
+00:25:21,120 --> 00:25:24,360
+you listed your previous employer as:
+What did you list ?
+
+506
+00:25:24,440 --> 00:25:25,440
+State of California.
+
+507
+00:25:25,520 --> 00:25:27,160
+The State of California. That's right.
+
+508
+00:25:27,240 --> 00:25:29,920
+That's technically true.
+
+509
+00:25:30,000 --> 00:25:32,000
+- Yeah, that is true. Yeah.
+- That's true. That's true.
+
+510
+00:25:32,080 --> 00:25:35,200
+How is the job going ?
+
+511
+00:25:35,280 --> 00:25:38,480
+Absolutely fantastic. I couldn't have
+scripted it another way,
+
+512
+00:25:38,560 --> 00:25:40,040
+any way better than what's going on.
+
+513
+00:25:40,120 --> 00:25:42,920
+I'm very excited I'm very fortunate
+and blessed,
+
+514
+00:25:43,000 --> 00:25:44,400
+they've given me this opportunity.
+
+515
+00:25:44,480 --> 00:25:46,960
+And yes, I'm dedicated
+to them. Absolutely wonderful.
+
+516
+00:25:47,040 --> 00:25:50,200
+I know that one of the reasons
+you're nervous
+
+517
+00:25:50,280 --> 00:25:54,720
+is that because not everyone you work
+for or with knows about the fact
+
+518
+00:25:54,800 --> 00:25:56,240
+that you were once in prison.
+
+519
+00:25:56,320 --> 00:25:59,120
+Now, you're going to work
+tomorrow morning.
+
+520
+00:25:59,200 --> 00:26:01,440
+They may know by then. Yes.
+
+521
+00:26:01,520 --> 00:26:06,560
+So, what particularly are you most
+worried about ?
+
+522
+00:26:06,640 --> 00:26:10,400
+I'm more worried about being judged
+for what I used to be.
+
+523
+00:26:10,480 --> 00:26:11,920
+I'm not that same person.
+
+524
+00:26:12,000 --> 00:26:15,280
+You know, I've dedicated
+myself, I've changed myself.
+
+525
+00:26:15,360 --> 00:26:16,920
+I'm no longer that person. You know ?
+
+526
+00:26:17,000 --> 00:26:20,920
+As time goes on, you become, you know,
+I become a better person.
+
+527
+00:26:21,000 --> 00:26:24,800
+I worked really hard at the things
+that I've taken from society.
+
+528
+00:26:24,880 --> 00:26:25,920
+And so, yeah.
+
+529
+00:26:26,000 --> 00:26:29,320
+So, what are the concerns,
+though ? What they will think ?
+
+530
+00:26:29,400 --> 00:26:31,800
+Or how they might behave ?
+
+531
+00:26:31,880 --> 00:26:34,720
+What is the spectrum of circumstances
+that you're concerned about ?
+
+532
+00:26:34,800 --> 00:26:37,920
+People are judgmental.
+People that don't know. You know ?
+
+533
+00:26:38,000 --> 00:26:40,800
+I don't want anybody
+to look at me as the ex-con.
+
+534
+00:26:40,880 --> 00:26:42,800
+I want them to look at me as the
+person I am now.
+
+535
+00:26:42,880 --> 00:26:45,320
+I'm a supervisor.
+You know, I'm a good employee.
+
+536
+00:26:45,400 --> 00:26:48,160
+I'm an employer.
+I even hire and I fire.
+
+537
+00:26:48,240 --> 00:26:49,520
+So, I think they want to,
+
+538
+00:26:49,600 --> 00:26:51,920
+I want them to look at me as that and
+continue to live with that.
+
+539
+00:26:52,000 --> 00:26:55,880
+They were about to both cheer and boo
+you when you said that.
+
+540
+00:26:55,960 --> 00:26:58,640
+I guess that it's interesting
+that you say that. Right ?
+
+541
+00:26:58,720 --> 00:27:01,920
+That you don't want to be defined by
+something that you did so long ago.
+
+542
+00:27:02,000 --> 00:27:06,640
+'Cause we're probably guilty of giving
+you a reductive term in that way.
+
+543
+00:27:06,720 --> 00:27:10,760
+'Cause we're having you on tonight as
+Bilal the ex-prisoner.
+
+544
+00:27:10,840 --> 00:27:11,920
+Right.
+
+545
+00:27:12,000 --> 00:27:14,560
+Which is clearly not who you've been
+for a long time.
+
+546
+00:27:14,640 --> 00:27:17,560
+Everyone has at least three
+other things about them
+
+547
+00:27:17,640 --> 00:27:19,040
+that are interesting.
+
+548
+00:27:19,120 --> 00:27:23,000
+What three things about you
+not related to that
+
+549
+00:27:23,080 --> 00:27:24,840
+would you like people to know ?
+
+550
+00:27:24,920 --> 00:27:26,840
+Well, I would like
+people to know, you know.
+
+551
+00:27:26,920 --> 00:27:28,640
+Well, you know,
+I grow tomatoes, you know.
+
+552
+00:27:28,720 --> 00:27:31,920
+Wait, wait. Wait, I'm gonna...
+
+553
+00:27:32,000 --> 00:27:34,600
+I'm gonna stop you... Yeah.
+
+554
+00:27:34,680 --> 00:27:37,040
+I'm gonna stop you
+at number one there, Bilal.
+
+555
+00:27:37,920 --> 00:27:40,640
+'Cause that's a lot more interesting
+than I think you think it is.
+
+556
+00:27:40,720 --> 00:27:41,920
+Yeah.
+
+557
+00:27:42,000 --> 00:27:46,360
+And I'm hoping that tomorrow,
+your fellow workers
+
+558
+00:27:46,440 --> 00:27:49,000
+may choose, really, mainly to focus
+on the fact
+
+559
+00:27:49,080 --> 00:27:50,600
+you grow tomatoes...
+
+560
+00:27:50,680 --> 00:27:53,400
+as being a more interesting
+part of your life.
+
+561
+00:27:53,480 --> 00:27:55,720
+I know that one of the things
+that's interesting
+
+562
+00:27:55,800 --> 00:27:57,600
+is that I know how hesitant you were
+to do this.
+
+563
+00:27:57,680 --> 00:27:59,160
+As we talked to you through
+the week...
+
+564
+00:27:59,240 --> 00:28:02,280
+as we even talked to you
+today and tonight.
+
+565
+00:28:02,360 --> 00:28:07,680
+I guess a question would be, why did
+you end up talking to us ?
+
+566
+00:28:07,760 --> 00:28:09,360
+Why are you here ?
+
+567
+00:28:09,440 --> 00:28:13,000
+I'm here because of the fact that, you
+know, I may never do this again.
+
+568
+00:28:13,080 --> 00:28:15,240
+I've done other interviews.
+I may never do this again
+
+569
+00:28:15,320 --> 00:28:18,480
+because this takes me back
+to being that prisoner again.
+
+570
+00:28:18,560 --> 00:28:19,920
+I'm not that prisoner today.
+
+571
+00:28:20,000 --> 00:28:22,920
+I'm a taxpayer. You know, I work.
+
+572
+00:28:23,000 --> 00:28:24,640
+I'm a citizen. I'm a voter.
+
+573
+00:28:24,720 --> 00:28:27,760
+That's who I want to be. Those are the
+things that have defined me today.
+
+574
+00:28:27,840 --> 00:28:30,920
+It's not what I did before. I did
+things years ago that I'm ashamed of,
+
+575
+00:28:31,000 --> 00:28:32,200
+you know, that I don't like.
+
+576
+00:28:32,280 --> 00:28:33,920
+But I don't want to relive that.
+
+577
+00:28:34,000 --> 00:28:36,520
+I want this opportunity to be for
+someone who says,
+
+578
+00:28:36,600 --> 00:28:38,920
+Oh, man, I can never get a chance.
+I'll never have a chance.
+
+579
+00:28:39,000 --> 00:28:40,880
+There's always a chance.
+You just keep going.
+
+580
+00:28:40,960 --> 00:28:43,920
+But I want the person, also,
+that looks down at us
+
+581
+00:28:44,000 --> 00:28:46,080
+that maybe there's
+a chance for other people too.
+
+582
+00:28:46,720 --> 00:28:47,800
+That's right.
+
+583
+00:28:47,880 --> 00:28:52,960
+Bilal, I can't thank you enough for
+taking the time to be here.
+
+584
+00:28:53,040 --> 00:28:56,120
+Bilal Chatman, ladies and gentlemen,
+the tomato grower !
+
+585
+00:28:56,200 --> 00:28:57,920
+Bilal the tomato grower !
+
+586
+00:28:58,000 --> 00:29:00,680
+That's our show.
+Our thanks to Bilal Chatman.
+
+587
+00:29:00,760 --> 00:29:03,000
+We'll see you next week. Good night !
+
+588
+00:29:03,080 --> 00:29:04,400
+Thanks. Thanks, so much.
+
+589
+00:29:11,280 --> 00:29:12,800
+LAST WEEK TONIGHT
+WITH JOHN OLIVER
+
+590
+00:29:12,880 --> 00:29:14,320
+Series II
+End of episode 33

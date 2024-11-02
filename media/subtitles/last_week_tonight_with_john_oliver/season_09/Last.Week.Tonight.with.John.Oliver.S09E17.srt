@@ -1,0 +1,3203 @@
+1
+00:00:30,930 --> 00:00:34,290
+Welcome to "Last Week Tonight".
+I'm John Oliver.
+
+2
+00:00:34,369 --> 00:00:36,810
+Thank you so much for joining us.
+We are back,
+
+3
+00:00:36,890 --> 00:00:38,890
+and sadly there is no time
+to recap everything
+
+4
+00:00:38,970 --> 00:00:40,409
+that we've missed
+in the last month,
+
+5
+00:00:40,490 --> 00:00:43,409
+including multiple world leaders
+losing their jobs,
+
+6
+00:00:43,490 --> 00:00:46,009
+sometimes after mass protest,
+like in Sri Lanka,
+
+7
+00:00:46,089 --> 00:00:48,409
+and sometimes after
+mass government resignations,
+
+8
+00:00:48,490 --> 00:00:49,530
+like in the UK,
+
+9
+00:00:49,610 --> 00:00:52,729
+where Boris Johnson finally
+stepped down in disgrace,
+
+10
+00:00:52,810 --> 00:00:55,769
+prompting this magnificent
+man-on-the-street interview.
+
+11
+00:00:56,170 --> 00:00:59,649
+Excuse me, sir, sorry to disturb.
+I'm from BBC Newsnight,
+
+12
+00:00:59,729 --> 00:01:02,490
+just wondering what you think
+of Boris Johnson resigning today.
+
+13
+00:01:02,570 --> 00:01:05,689
+I want him to go.
+He's a pain in the ass.
+
+14
+00:01:06,010 --> 00:01:10,329
+Excellent. I mean, Dirtbag English
+Stanley Tucci is perfect.
+
+15
+00:01:10,890 --> 00:01:13,090
+From now on, that man should
+be asked for comment
+
+16
+00:01:13,170 --> 00:01:15,129
+on every major news event.
+
+17
+00:01:15,209 --> 00:01:17,370
+In fact, put him on "Love Island"
+right now.
+
+18
+00:01:17,450 --> 00:01:19,929
+I'm so fucking serious about this.
+
+19
+00:01:20,010 --> 00:01:22,610
+A new bombshell has entered the villa.
+
+20
+00:01:23,689 --> 00:01:25,090
+Meanwhile, here in the US,
+
+21
+00:01:25,170 --> 00:01:27,329
+the January 6th committee
+hearings have been continuing,
+
+22
+00:01:27,409 --> 00:01:29,329
+with the latest taking place
+on Thursday,
+
+23
+00:01:29,409 --> 00:01:31,730
+featuring some interesting footage
+of Josh Hawley,
+
+24
+00:01:31,810 --> 00:01:34,810
+who you may remember riled up
+the crowd earlier in the day
+
+25
+00:01:34,890 --> 00:01:36,489
+with a fist of solidarity,
+
+26
+00:01:36,569 --> 00:01:38,970
+but who we now know
+was seen running for safety
+
+27
+00:01:39,049 --> 00:01:43,250
+after they stormed the Capitol.
+That is painfully embarrassing.
+
+28
+00:01:43,810 --> 00:01:46,810
+That is the gait of a man who's either
+just gassed up an insurrection
+
+29
+00:01:46,890 --> 00:01:48,450
+that's now bearing down
+on top of him,
+
+30
+00:01:48,530 --> 00:01:51,769
+or just drank a large iced coffee
+45 minutes ago.
+
+31
+00:01:52,170 --> 00:01:56,569
+Either way, those legs scream
+"I've made a huge mistake".
+
+32
+00:01:57,049 --> 00:01:58,810
+But maybe the best response
+to that clip
+
+33
+00:01:58,890 --> 00:02:01,250
+came from former DC police officer
+Michael Fanone,
+
+34
+00:02:01,329 --> 00:02:05,010
+who was injured in the riot,
+and offered this commentary.
+
+35
+00:02:05,610 --> 00:02:08,490
+The first thoughts that popped
+into my mind was,
+
+36
+00:02:08,569 --> 00:02:12,609
+Josh Hawley is a bitch
+and he ran like a bitch.
+
+37
+00:02:13,009 --> 00:02:15,129
+Now, I personally would not say that.
+
+38
+00:02:15,210 --> 00:02:18,569
+I'd say Josh Hawley is a bitch
+who ran like a chihuahua
+
+39
+00:02:18,650 --> 00:02:21,490
+desperately trying to keep up
+with its owner on a casual walk.
+
+40
+00:02:21,569 --> 00:02:23,449
+But you know what,
+to each their own.
+
+41
+00:02:23,530 --> 00:02:26,210
+And look, I'm sure that there'll be more
+to say about this
+
+42
+00:02:26,289 --> 00:02:28,050
+when the hearings resume
+in September,
+
+43
+00:02:28,129 --> 00:02:31,169
+but for now, we're gonna dive straight
+in with our main story this week,
+
+44
+00:02:31,250 --> 00:02:34,009
+as it concerns a topic that's been
+at the forefront of the news
+
+45
+00:02:34,090 --> 00:02:35,330
+over the past year.
+
+46
+00:02:35,409 --> 00:02:37,129
+Tonight, inflation nation.
+
+47
+00:02:37,210 --> 00:02:40,650
+Inflation's grip on American
+consumers not letting up.
+
+48
+00:02:40,729 --> 00:02:42,289
+It's called lunch-flation.
+
+49
+00:02:42,370 --> 00:02:44,729
+- Booze flation.
+- Milk-flation.
+
+50
+00:02:44,810 --> 00:02:47,689
+Meat-flation is rocking the nation.
+
+51
+00:02:47,770 --> 00:02:51,970
+Okay, first, a big, enthusiastic nope
+to the word "meatflation",
+
+52
+00:02:52,609 --> 00:02:54,449
+which sounds less like
+an economic phenomenon
+
+53
+00:02:54,530 --> 00:02:56,370
+and more like a slang term
+for a boner.
+
+54
+00:02:56,449 --> 00:02:59,889
+It is honestly hard to think
+of a more unpleasant portmanteau
+
+55
+00:02:59,970 --> 00:03:02,250
+than meatflation,
+aside from maybe "snart",
+
+56
+00:03:02,330 --> 00:03:04,330
+which combines the words sneeze
+and fart,
+
+57
+00:03:04,409 --> 00:03:05,650
+or "Ronzo",
+
+58
+00:03:05,729 --> 00:03:08,449
+which would obviously be the celebrity
+couple name if Ron Howard
+
+59
+00:03:08,530 --> 00:03:10,729
+ever fucked Gonzo the Muppet.
+
+60
+00:03:10,810 --> 00:03:12,330
+As you undoubtedly know,
+
+61
+00:03:12,409 --> 00:03:15,650
+the US is experiencing the highest
+inflation of the past 40 years.
+
+62
+00:03:15,729 --> 00:03:18,050
+And despite initial hopes
+that it would be temporary,
+
+63
+00:03:18,129 --> 00:03:19,849
+prices are still going up.
+
+64
+00:03:19,930 --> 00:03:25,530
+Over the past year, food is up 10.4%,
+electricity is up 13.7%,
+
+65
+00:03:25,609 --> 00:03:28,770
+and gasoline is up 59.9%.
+
+66
+00:03:28,849 --> 00:03:29,889
+So, to be honest,
+
+67
+00:03:29,970 --> 00:03:33,330
+it's a good idea to start making your
+gasoline at home in the morning
+
+68
+00:03:33,409 --> 00:03:36,930
+instead of getting an expensive
+cup of it on your way to work.
+
+69
+00:03:37,009 --> 00:03:39,810
+And in some cases, companies
+have tried to hide inflation
+
+70
+00:03:39,889 --> 00:03:41,849
+by keeping their prices the same,
+
+71
+00:03:41,930 --> 00:03:46,050
+but reducing the size of their
+products. It's called shrinkflation.
+
+72
+00:03:46,129 --> 00:03:48,449
+And news outlets love
+to cover this,
+
+73
+00:03:48,530 --> 00:03:52,409
+usually with the help of what seems
+to be the one go-to expert on the topic.
+
+74
+00:03:52,490 --> 00:03:56,650
+There's almost no category of product
+except eggs, maybe,
+
+75
+00:03:56,729 --> 00:03:59,770
+that hasn't been downsized
+over the past years.
+
+76
+00:03:59,849 --> 00:04:03,729
+Consumer advocate Ed Dworsky
+is publisher of mouse-print-dot-org.
+
+77
+00:04:03,810 --> 00:04:10,530
+Crest 3D White went from 4.1 ounces
+to 3.8 ounces.
+
+78
+00:04:10,609 --> 00:04:14,009
+Apple Cinnamon Cheerios went
+from 20.1 ounces
+
+79
+00:04:14,090 --> 00:04:15,530
+to 19 ounces.
+
+80
+00:04:15,609 --> 00:04:18,570
+It's still called "family size".
+The family must've gotten smaller.
+
+81
+00:04:18,650 --> 00:04:21,489
+Here you've got
+two bottles of Gatorade
+
+82
+00:04:21,570 --> 00:04:24,609
+and these have just changed
+in the past few months.
+
+83
+00:04:24,690 --> 00:04:30,249
+This one is the old 32-ounce one.
+This one is four ounces less.
+
+84
+00:04:30,330 --> 00:04:33,890
+They said they made it easier
+to grip, you know.
+
+85
+00:04:33,970 --> 00:04:35,169
+Give me a break.
+
+86
+00:04:35,249 --> 00:04:37,530
+Yeah! You tell 'em, Ed!
+
+87
+00:04:38,010 --> 00:04:39,690
+I love everything about that man,
+
+88
+00:04:39,770 --> 00:04:41,929
+from his website,
+mouse-print-dot-org,
+
+89
+00:04:42,010 --> 00:04:44,609
+which is somehow not
+an online literary journal
+
+90
+00:04:44,690 --> 00:04:46,369
+for writers who happen to be rodents,
+
+91
+00:04:46,450 --> 00:04:50,169
+to his electrifying
+delivery of the word "eggs",
+
+92
+00:04:50,729 --> 00:04:54,130
+to his utter refusal to tolerate even
+the slightest amount of bullshit
+
+93
+00:04:54,210 --> 00:04:55,770
+from Gatorade.
+
+94
+00:04:56,169 --> 00:04:58,249
+But whether it's inflation,
+shrinkflation,
+
+95
+00:04:58,330 --> 00:05:01,570
+or meatflation, rising prices
+are clearly a problem.
+
+96
+00:05:01,650 --> 00:05:05,690
+Although hourly earnings were up
+5.1% over the past year,
+
+97
+00:05:05,770 --> 00:05:09,010
+overall wages fell by 3.6%
+
+98
+00:05:09,090 --> 00:05:10,570
+when adjusted for inflation.
+
+99
+00:05:10,650 --> 00:05:13,530
+And for those on fixed incomes
+or tight budgets,
+
+100
+00:05:13,609 --> 00:05:17,249
+like students and retirees, inflation
+is especially difficult to handle,
+
+101
+00:05:17,330 --> 00:05:19,809
+and can amount to a life overhaul.
+
+102
+00:05:19,890 --> 00:05:24,849
+Patti Byther just unretired and
+got ready for her new part-time job.
+
+103
+00:05:25,369 --> 00:05:26,489
+I thought I was done.
+
+104
+00:05:26,570 --> 00:05:28,970
+I had worked it all out financially
+that, you know, I could afford it.
+
+105
+00:05:29,049 --> 00:05:33,249
+With prices soaring,
+her retirement lasted 10 months.
+
+106
+00:05:33,330 --> 00:05:34,609
+These are my fuel bills.
+
+107
+00:05:34,690 --> 00:05:37,729
+In 13 months, it went up 150 dollars.
+
+108
+00:05:38,130 --> 00:05:40,650
+Correct. My safety net is just gone.
+
+109
+00:05:40,729 --> 00:05:43,489
+When do you
+see yourself retiring for real?
+
+110
+00:05:43,570 --> 00:05:46,289
+I don't really see a time when
+I'll be able to retire again,
+
+111
+00:05:46,369 --> 00:05:50,570
+or entirely again, which is sort
+of annoying and sad.
+
+112
+00:05:50,970 --> 00:05:53,130
+Yeah. That is putting it lightly!
+
+113
+00:05:53,210 --> 00:05:56,489
+It must be so frustrating to retire,
+think you're done,
+
+114
+00:05:56,570 --> 00:05:58,609
+and then have to go back to work.
+
+115
+00:05:58,690 --> 00:06:01,169
+That is the absolute worst-case
+scenario of retirement,
+
+116
+00:06:01,249 --> 00:06:03,890
+other than, of course,
+moving to Florida.
+
+117
+00:06:03,970 --> 00:06:07,530
+So, given that it is hurting so many
+people right now,
+
+118
+00:06:07,609 --> 00:06:09,890
+tonight, let's examine inflation,
+
+119
+00:06:09,970 --> 00:06:12,650
+what caused it, what
+we've done to address it so far,
+
+120
+00:06:12,729 --> 00:06:14,049
+and what could happen next.
+
+121
+00:06:14,130 --> 00:06:16,530
+And let's start with how exactly
+we got here.
+
+122
+00:06:16,609 --> 00:06:19,929
+Because you've probably heard
+a lot of explanations flying around.
+
+123
+00:06:20,010 --> 00:06:24,210
+This is Biden-flation,
+a 39-year high created by Joe Biden.
+
+124
+00:06:24,289 --> 00:06:27,049
+Make no mistake. Inflation
+is largely the fault of Putin.
+
+125
+00:06:27,130 --> 00:06:29,849
+The supply chain is the catalyst
+at the end of the day.
+
+126
+00:06:29,929 --> 00:06:32,809
+Inflation is not caused
+by the Build Back Better
+
+127
+00:06:32,890 --> 00:06:35,809
+or the bipartisan bill.
+It's caused by corporate greed.
+
+128
+00:06:35,890 --> 00:06:38,169
+Yeah, there has been a flurry
+of finger pointing,
+
+129
+00:06:38,249 --> 00:06:41,970
+with many tending to place the blame
+on whatever they were already mad at,
+
+130
+00:06:42,049 --> 00:06:44,210
+with some Democrats blaming
+corporate greed,
+
+131
+00:06:44,289 --> 00:06:47,450
+Republicans blaming Joe Biden,
+Biden blaming Putin,
+
+132
+00:06:47,530 --> 00:06:50,369
+and your dog presumably blaming
+the vacuum cleaner.
+
+133
+00:06:50,450 --> 00:06:53,970
+And here is the interesting thing.
+Aside from the dog,
+
+134
+00:06:54,049 --> 00:06:56,770
+they're probably all
+at least a little bit right,
+
+135
+00:06:56,849 --> 00:07:00,130
+because the truth is,
+there is no one cause of inflation.
+
+136
+00:07:00,210 --> 00:07:03,770
+At the best of times, it involves
+a multitude of factors,
+
+137
+00:07:03,849 --> 00:07:05,489
+and the situation
+that we're in right now
+
+138
+00:07:05,570 --> 00:07:08,049
+has been an unprecedented
+perfect storm.
+
+139
+00:07:08,130 --> 00:07:11,609
+And to understand that storm,
+it might actually help to pause
+
+140
+00:07:11,690 --> 00:07:14,369
+for a moment to talk about
+the mechanics of inflation.
+
+141
+00:07:14,450 --> 00:07:18,049
+Very basically, it happens whenever
+there is too much demand
+
+142
+00:07:18,130 --> 00:07:19,690
+for too little supply.
+
+143
+00:07:19,770 --> 00:07:21,570
+If people
+have lots of money to spend,
+
+144
+00:07:21,650 --> 00:07:23,289
+they usually want to buy more stuff.
+
+145
+00:07:23,369 --> 00:07:25,169
+But if there is not enough stuff
+to go around,
+
+146
+00:07:25,249 --> 00:07:27,729
+then the price of that stuff goes up.
+
+147
+00:07:27,809 --> 00:07:31,010
+I'll give you an example. Let's say that
+every single person in America
+
+148
+00:07:31,090 --> 00:07:32,330
+suddenly wins the lottery,
+
+149
+00:07:32,409 --> 00:07:35,690
+and everyone now has
+40 million dollars to spend.
+
+150
+00:07:35,770 --> 00:07:37,049
+What are they going to do?
+
+151
+00:07:37,130 --> 00:07:39,090
+Well, I would assume that
+they'd do what I would,
+
+152
+00:07:39,169 --> 00:07:40,409
+which is immediately buy
+
+153
+00:07:40,489 --> 00:07:43,489
+this 1 500 dollar emerald patina
+fountain statue
+
+154
+00:07:43,570 --> 00:07:45,770
+of a frog spreading its unnaturally
+long legs
+
+155
+00:07:45,849 --> 00:07:49,570
+in a manner that seems offensive,
+but I'm not exactly sure to who.
+
+156
+00:07:49,650 --> 00:07:53,849
+Now, by the way, the frog comes
+in two sizes, "large" and "giant".
+
+157
+00:07:53,929 --> 00:07:56,489
+Now, obviously,
+if you win the lottery,
+
+158
+00:07:56,570 --> 00:07:58,049
+you are springing for the giant one.
+
+159
+00:07:58,130 --> 00:08:02,010
+But there are currently
+only three of them left in stock.
+
+160
+00:08:02,090 --> 00:08:04,450
+So, the statues are likely
+to get more expensive,
+
+161
+00:08:04,530 --> 00:08:06,650
+because everyone
+suddenly wants one,
+
+162
+00:08:06,729 --> 00:08:08,489
+as they all have
+more money to spend,
+
+163
+00:08:08,570 --> 00:08:10,729
+but there are only three left.
+
+164
+00:08:10,809 --> 00:08:13,970
+Basically, high demand,
+not enough supply,
+
+165
+00:08:14,049 --> 00:08:16,530
+and that's how we get frog-flation.
+
+166
+00:08:16,609 --> 00:08:19,330
+So, too much money chasing
+a limited supply of goods
+
+167
+00:08:19,409 --> 00:08:20,690
+can lead to inflation.
+
+168
+00:08:20,770 --> 00:08:23,929
+And some on the right have seized
+on the "too much money" part
+
+169
+00:08:24,010 --> 00:08:28,369
+to suggest that inflation
+is really just down to one thing.
+
+170
+00:08:28,729 --> 00:08:32,290
+When you put 6 trillion dollars
+of fiscal stimulus into the economy
+
+171
+00:08:32,369 --> 00:08:34,609
+as President Biden
+and Democrats did last year,
+
+172
+00:08:34,690 --> 00:08:36,769
+you're going to end up
+with big time inflation.
+
+173
+00:08:36,849 --> 00:08:40,249
+The March stimulus package
+literally manufactured inflation.
+
+174
+00:08:40,330 --> 00:08:43,529
+This inflation is caused
+by Democrat policies.
+
+175
+00:08:43,609 --> 00:08:44,690
+It didn't just happen.
+
+176
+00:08:44,769 --> 00:08:47,489
+This is the Democrat tax
+on the middle class.
+
+177
+00:08:48,330 --> 00:08:50,729
+That is some pretty heavy fire there.
+
+178
+00:08:50,810 --> 00:08:54,129
+Calling something a "tax on the middle
+class" is one of the best ways
+
+179
+00:08:54,210 --> 00:08:56,489
+to make it look bad,
+just after calling it
+
+180
+00:08:56,570 --> 00:08:59,050
+"a close associate
+of Prince Andrew".
+
+181
+00:08:59,489 --> 00:09:02,129
+Blaming Biden's
+stimulus package has become
+
+182
+00:09:02,210 --> 00:09:04,889
+a common refrain on the
+right when discussing inflation.
+
+183
+00:09:04,970 --> 00:09:08,649
+And the reality is, there is
+a kernel of truth to it.
+
+184
+00:09:08,729 --> 00:09:10,889
+Thanks to the pandemic-era
+stimulus bills,
+
+185
+00:09:10,970 --> 00:09:13,050
+people did have more cash on hand.
+
+186
+00:09:13,129 --> 00:09:15,489
+But that is not the only reason.
+
+187
+00:09:15,570 --> 00:09:18,849
+As strange as it sounds, many people
+saved money during the early days
+
+188
+00:09:18,930 --> 00:09:22,170
+of the pandemic, simply because
+we were all stuck at home.
+
+189
+00:09:22,249 --> 00:09:24,410
+By one estimate,
+households actually accumulated
+
+190
+00:09:24,489 --> 00:09:28,410
+two and a half trillion dollars in
+excess savings during the pandemic.
+
+191
+00:09:28,489 --> 00:09:30,769
+And to the extent that people
+were spending money,
+
+192
+00:09:30,849 --> 00:09:34,249
+it mostly wasn't on services like
+flights or hotels or restaurants.
+
+193
+00:09:34,330 --> 00:09:37,970
+Instead, it went to goods like
+furniture, appliances,
+
+194
+00:09:38,050 --> 00:09:41,290
+or some steamy watercolor rat erotica.
+
+195
+00:09:41,369 --> 00:09:45,170
+I'm just describing what most
+people did in 2020.
+
+196
+00:09:45,930 --> 00:09:49,090
+And what's more, the notion that
+our economy would be fine
+
+197
+00:09:49,170 --> 00:09:50,849
+if not for Biden's stimulus,
+
+198
+00:09:50,930 --> 00:09:54,210
+completely ignores what it
+would've looked like without it.
+
+199
+00:09:54,290 --> 00:09:56,570
+Because it not only protected
+low-income workers,
+
+200
+00:09:56,649 --> 00:09:58,330
+who were in real trouble,
+
+201
+00:09:58,410 --> 00:10:01,369
+it also helped us avoid a Covid
+induced financial crisis.
+
+202
+00:10:01,450 --> 00:10:04,489
+And while, with hindsight,
+most economists would say
+
+203
+00:10:04,570 --> 00:10:07,330
+that we could have made it
+more targeted and precise,
+
+204
+00:10:07,410 --> 00:10:11,170
+so that we didn't increase the money
+supply any more than we had to,
+
+205
+00:10:11,249 --> 00:10:14,290
+it is very important to note that,
+according to one estimate,
+
+206
+00:10:14,369 --> 00:10:16,649
+without the American Rescue Plan,
+
+207
+00:10:16,729 --> 00:10:18,649
+the economy would
+have come close to suffering
+
+208
+00:10:18,729 --> 00:10:21,450
+a double-digit recession
+in the spring of 2021.
+
+209
+00:10:21,529 --> 00:10:24,649
+So, two things are likely true here:
+
+210
+00:10:24,729 --> 00:10:27,649
+the government stimulus
+did contribute to inflation,
+
+211
+00:10:27,729 --> 00:10:31,450
+but it was also
+a necessary intervention.
+
+212
+00:10:31,529 --> 00:10:33,290
+And the much bigger point is,
+
+213
+00:10:33,369 --> 00:10:37,410
+inflation clearly isn't just about
+the stimulus at all.
+
+214
+00:10:37,489 --> 00:10:40,249
+After all, it's not just a problem here
+in the US.
+
+215
+00:10:40,330 --> 00:10:44,009
+Britain and Germany have seen inflation
+rates hit four decade highs,
+
+216
+00:10:44,090 --> 00:10:45,970
+and in seven Eastern European
+nations,
+
+217
+00:10:46,050 --> 00:10:48,690
+it's now expected to surge
+past double digits.
+
+218
+00:10:48,769 --> 00:10:52,090
+And in Japan, it's had particularly
+dramatic consequences.
+
+219
+00:10:53,129 --> 00:10:55,210
+We're at an aquarium in Hakone.
+
+220
+00:10:55,290 --> 00:10:57,810
+The effects of inflation
+can be felt here, too.
+
+221
+00:10:57,889 --> 00:11:00,769
+With the rising price of feed,
+
+222
+00:11:00,849 --> 00:11:03,249
+they've chosen to use
+the cheaper mackerel.
+
+223
+00:11:03,889 --> 00:11:06,369
+How are the penguins reacting
+to the new feed?
+
+224
+00:11:10,570 --> 00:11:12,450
+It doesn't want the mackerel.
+
+225
+00:11:14,330 --> 00:11:16,609
+She tries to coax it to eat.
+
+226
+00:11:19,609 --> 00:11:21,129
+You don't want it?
+
+227
+00:11:21,930 --> 00:11:23,769
+The penguin doesn't like it.
+
+228
+00:11:23,849 --> 00:11:27,129
+No. No, it does not.
+And I do not blame it.
+
+229
+00:11:27,210 --> 00:11:28,970
+I love absolutely everything about that.
+
+230
+00:11:29,050 --> 00:11:31,570
+My new favorite
+genre of news segment is now
+
+231
+00:11:31,649 --> 00:11:36,249
+"footage of what appears to be a large,
+flightless bird being a massive bitch",
+
+232
+00:11:36,330 --> 00:11:40,570
+which, now that I say it out loud, would
+be a pretty accurate title for the show.
+
+233
+00:11:40,649 --> 00:11:45,889
+But also, demand is only one side
+of this equation.
+
+234
+00:11:45,970 --> 00:11:48,930
+The other side is supply.
+And to quote my therapist,
+
+235
+00:11:49,009 --> 00:11:52,649
+"Let's come back to that frog
+spreading its legs statue."
+
+236
+00:11:52,729 --> 00:11:55,290
+Because in that scenario where
+everyone won the lottery,
+
+237
+00:11:55,369 --> 00:11:58,609
+if there happened to be enough
+frog statues for everyone to buy,
+
+238
+00:11:58,690 --> 00:12:01,609
+then there wouldn't be any imbalance
+between supply and demand.
+
+239
+00:12:01,690 --> 00:12:03,330
+And prices would remain stable.
+
+240
+00:12:03,410 --> 00:12:07,290
+But remember: there are only three
+giant statues left in stock.
+
+241
+00:12:07,369 --> 00:12:09,690
+And if for whatever reason,
+they can't make any more,
+
+242
+00:12:09,769 --> 00:12:12,489
+the price of the remaining statues
+will then go up.
+
+243
+00:12:12,570 --> 00:12:15,849
+Especially because there aren't
+actually three of them left anymore.
+
+244
+00:12:15,930 --> 00:12:18,290
+'Cause I have one,
+and it's right over here.
+
+245
+00:12:18,729 --> 00:12:22,529
+Look at my beautiful frog statue!
+
+246
+00:12:22,970 --> 00:12:26,649
+And crucially,
+crucially, what that means is,
+
+247
+00:12:26,729 --> 00:12:29,810
+there are now only two
+of the frog statues left.
+
+248
+00:12:29,889 --> 00:12:31,930
+Except, to be honest,
+there aren't two,
+
+249
+00:12:32,009 --> 00:12:35,489
+because I have another one as well,
+and it's right over there!
+
+250
+00:12:35,570 --> 00:12:40,649
+Look at my second frog statue!
+What an absolutely perfect pair!
+
+251
+00:12:40,729 --> 00:12:43,889
+And what that means is that
+the last remaining frog statue
+
+252
+00:12:43,970 --> 00:12:46,690
+is gonna be worth an absolute
+fortune, which to be honest,
+
+253
+00:12:46,769 --> 00:12:48,450
+is very good news for me,
+
+254
+00:12:48,529 --> 00:12:52,489
+'cause I did get that one as well.
+Here it is! I'm rich!
+
+255
+00:12:53,009 --> 00:12:55,129
+I've got all the frogs!
+
+256
+00:12:55,210 --> 00:12:57,609
+I've cornered the frog statue market!
+
+257
+00:12:57,690 --> 00:12:59,889
+I am good at business!
+
+258
+00:13:00,649 --> 00:13:05,690
+But look, the larger macroeconomic
+point that I'm making is,
+
+259
+00:13:05,769 --> 00:13:07,970
+demand is certainly a factor,
+
+260
+00:13:08,050 --> 00:13:10,970
+but a smaller supply
+also leads to inflation.
+
+261
+00:13:11,050 --> 00:13:12,489
+And generally speaking,
+
+262
+00:13:12,570 --> 00:13:15,970
+we've had diminished and disrupted
+supplies of a lot of consumer goods,
+
+263
+00:13:16,050 --> 00:13:18,129
+primarily because,
+thanks to Covid,
+
+264
+00:13:18,210 --> 00:13:21,369
+factories overseas have been shut
+or have slowed down considerably.
+
+265
+00:13:21,450 --> 00:13:23,090
+Take, for instance, bicycles.
+
+266
+00:13:23,170 --> 00:13:26,769
+There has been a massive bike
+shortage over the last couple of years,
+
+267
+00:13:26,849 --> 00:13:29,410
+thanks in large part to lockdowns
+and slowdowns disrupting
+
+268
+00:13:29,489 --> 00:13:31,009
+bike production in China,
+
+269
+00:13:31,090 --> 00:13:35,170
+where roughly 90% of all bikes sold
+in the US are produced.
+
+270
+00:13:35,529 --> 00:13:38,249
+Meanwhile,
+demand for bikes soared
+
+271
+00:13:38,330 --> 00:13:40,649
+as shoppers tried to stay
+active during lockdowns.
+
+272
+00:13:40,729 --> 00:13:42,849
+Meaning that just a few months
+into the pandemic,
+
+273
+00:13:42,930 --> 00:13:44,970
+we were already seeing
+stories like this.
+
+274
+00:13:45,290 --> 00:13:48,849
+Bike shops across the country now
+seeing skyrocketing demand
+
+275
+00:13:48,930 --> 00:13:52,210
+and supplies dwindling.
+In Albuquerque, New Mexico
+
+276
+00:13:52,290 --> 00:13:55,369
+This is actually the only one
+we have right at the moment.
+
+277
+00:13:55,450 --> 00:13:56,769
+And in New York City
+
+278
+00:13:56,849 --> 00:13:59,210
+Have you ever seen a bike
+shortage like this before?
+
+279
+00:13:59,290 --> 00:14:00,649
+No, never.
+
+280
+00:14:00,729 --> 00:14:04,369
+I'm selling way more pink and purple
+to guys
+
+281
+00:14:04,849 --> 00:14:08,050
+because they're just like, "whatever,
+doesn't matter what color it is".
+
+282
+00:14:08,129 --> 00:14:10,609
+"It is what it is. It's a bike."
+
+283
+00:14:10,690 --> 00:14:14,729
+It's true. The bike shortage even
+broke down gender stereotypes!
+
+284
+00:14:14,810 --> 00:14:18,729
+But interestingly,
+while pink and purple bikes attracted
+
+285
+00:14:18,810 --> 00:14:20,090
+a new male demographic,
+
+286
+00:14:20,170 --> 00:14:23,410
+penny-farthing bikes maintained
+their traditional customer base,
+
+287
+00:14:23,489 --> 00:14:25,609
+fancy mustachioed perverts.
+
+288
+00:14:26,050 --> 00:14:28,249
+All of which helps explain why,
+last year,
+
+289
+00:14:28,330 --> 00:14:32,369
+the average retail price
+of bike products was up 43%
+
+290
+00:14:32,450 --> 00:14:33,849
+compared to 2019.
+
+291
+00:14:33,930 --> 00:14:35,450
+Which means essentially one thing:
+
+292
+00:14:35,529 --> 00:14:37,970
+if you are the sort of person
+who stayed active
+
+293
+00:14:38,050 --> 00:14:41,810
+and exercised during lockdown,
+inflation is your fault,
+
+294
+00:14:41,889 --> 00:14:44,410
+and you're a terrible, terrible person.
+
+295
+00:14:45,129 --> 00:14:49,649
+The point is, inflation truly was
+a perfect storm going into the year,
+
+296
+00:14:49,729 --> 00:14:52,050
+and it seems like everything
+that's happened since then
+
+297
+00:14:52,129 --> 00:14:53,769
+has only made it worse.
+
+298
+00:14:53,849 --> 00:14:57,290
+When Biden said "inflation is largely
+the fault of Putin",
+
+299
+00:14:57,369 --> 00:14:59,570
+that is clearly not true.
+
+300
+00:14:59,649 --> 00:15:02,769
+Inflation was happening before Putin
+even invaded Ukraine,
+
+301
+00:15:02,849 --> 00:15:04,849
+so that's just not how time works.
+
+302
+00:15:04,930 --> 00:15:09,210
+What is true, though, is that Putin
+definitely exacerbated the problem.
+
+303
+00:15:09,290 --> 00:15:12,570
+The invasion of Ukraine greatly
+impacted food and fuel prices,
+
+304
+00:15:12,649 --> 00:15:15,529
+as the world cut off its oil
+purchases from Russia,
+
+305
+00:15:15,609 --> 00:15:18,009
+driving gas prices,
+which were already rising,
+
+306
+00:15:18,090 --> 00:15:21,570
+up to outrageous levels, perhaps
+best summed up by this guy.
+
+307
+00:15:22,050 --> 00:15:26,410
+Bruh, I just got a brand-new car.
+My first car.
+
+308
+00:15:26,849 --> 00:15:29,690
+Now I see what you
+motherfuckers are talking about
+
+309
+00:15:29,769 --> 00:15:33,050
+with these gas prices.
+My shit was on empty.
+
+310
+00:15:33,129 --> 00:15:38,529
+I put 20 bucks in the fucking tank.
+Look at this shit!
+
+311
+00:15:38,609 --> 00:15:43,249
+What the fuck? This is what
+20 fucking dollars gets me?
+
+312
+00:15:43,649 --> 00:15:45,649
+Are you fucking kidding me?!
+
+313
+00:15:47,129 --> 00:15:52,129
+If I had to bet, I'd say 80% of a gas
+station employee's job right now
+
+314
+00:15:52,210 --> 00:15:55,330
+is to talk people down
+from exactly this situation.
+
+315
+00:15:55,410 --> 00:15:57,690
+The other 20% is, as always,
+tracking down
+
+316
+00:15:57,769 --> 00:16:00,369
+some of the bluest drinks
+you've ever seen.
+
+317
+00:16:00,450 --> 00:16:02,849
+Now, is it a good idea to sell those
+in the same store
+
+318
+00:16:02,930 --> 00:16:05,570
+where you sell antifreeze?
+Not for me to say.
+
+319
+00:16:05,649 --> 00:16:10,489
+So, Putin invading Ukraine
+didn't start this inflationary cycle,
+
+320
+00:16:10,570 --> 00:16:11,849
+but it is making it worse.
+
+321
+00:16:11,930 --> 00:16:14,090
+And the same can be said
+of corporate greed.
+
+322
+00:16:14,170 --> 00:16:17,489
+It is absolutely true that some
+companies are taking advantage
+
+323
+00:16:17,570 --> 00:16:19,810
+of this environment to drive up prices,
+
+324
+00:16:19,889 --> 00:16:24,050
+and they're getting record profits
+in return. And that is infuriating.
+
+325
+00:16:24,489 --> 00:16:26,810
+But most economists will tell you,
+
+326
+00:16:26,889 --> 00:16:29,769
+that's not what caused inflation
+in the first place.
+
+327
+00:16:29,849 --> 00:16:34,489
+It's not like corporations only
+just got greedy in the last two years.
+
+328
+00:16:34,930 --> 00:16:36,849
+Companies will shamelessly profiteer
+
+329
+00:16:36,930 --> 00:16:39,529
+the exact same way that a dog
+will make an absolute meal
+
+330
+00:16:39,609 --> 00:16:42,609
+out of its own ball sack,
+if left to its own devices,
+
+331
+00:16:42,690 --> 00:16:45,410
+that's unfortunately just
+what it's going to do.
+
+332
+00:16:45,810 --> 00:16:50,090
+So, to recap, rising prices are due
+to a ton of factors,
+
+333
+00:16:50,170 --> 00:16:52,529
+a pandemic, a stimulus,
+changed spending patterns,
+
+334
+00:16:52,609 --> 00:16:56,290
+supply chain issues, the war
+in Ukraine, to name just a few.
+
+335
+00:16:56,369 --> 00:16:59,690
+And anyone loudly saying
+that one thing is the cause
+
+336
+00:16:59,769 --> 00:17:03,009
+of inflation is either lying
+or has absolutely no idea
+
+337
+00:17:03,090 --> 00:17:04,410
+what they're talking about.
+
+338
+00:17:04,489 --> 00:17:08,930
+Whichever combination of things
+got us into this mess,
+
+339
+00:17:09,009 --> 00:17:11,650
+the entity that many are looking
+to to get us out of it
+
+340
+00:17:11,729 --> 00:17:13,130
+is the Federal Reserve.
+
+341
+00:17:13,210 --> 00:17:16,690
+One of its key duties is to keep an eye
+out for things that can destabilize
+
+342
+00:17:16,769 --> 00:17:18,809
+the economy, like inflation,
+
+343
+00:17:18,890 --> 00:17:22,289
+and control it by raising
+and lowering interest rates.
+
+344
+00:17:22,370 --> 00:17:26,210
+Very basically, the Fed can increase
+how much it costs for banks
+
+345
+00:17:26,289 --> 00:17:27,410
+to borrow money,
+
+346
+00:17:27,489 --> 00:17:30,410
+a cost that they then pass along
+to businesses and consumers,
+
+347
+00:17:30,489 --> 00:17:33,650
+through higher rates on things
+like mortgages and credit cards.
+
+348
+00:17:33,729 --> 00:17:35,009
+And the higher the interest rates,
+
+349
+00:17:35,089 --> 00:17:37,610
+the less inclined people
+and businesses will be to borrow,
+
+350
+00:17:37,690 --> 00:17:39,529
+and the more inclined
+they'll be to save.
+
+351
+00:17:39,610 --> 00:17:44,170
+The Fed can indirectly influence
+how much people are spending.
+
+352
+00:17:44,249 --> 00:17:47,410
+So, when it comes to the demand
+side of the economy,
+
+353
+00:17:47,489 --> 00:17:49,249
+they have some real power here.
+
+354
+00:17:49,329 --> 00:17:51,410
+And the fact is,
+in this current crisis,
+
+355
+00:17:51,489 --> 00:17:55,690
+it did arguably take too long
+for the Fed to raise interest rates.
+
+356
+00:17:55,769 --> 00:17:57,729
+That's something that
+its chairman, Jerome Powell,
+
+357
+00:17:57,809 --> 00:18:00,529
+basically admitted at
+a congressional hearing in March.
+
+358
+00:18:00,610 --> 00:18:03,610
+Just listen to him explain
+that the Fed initially saw early signs
+
+359
+00:18:03,690 --> 00:18:06,690
+of inflation as being due to a temporary
+supply shock
+
+360
+00:18:06,769 --> 00:18:08,650
+that would simply resolve itself.
+
+361
+00:18:08,729 --> 00:18:11,769
+What the textbook says is
+the shock's going to come
+
+362
+00:18:11,850 --> 00:18:14,009
+and it's going to go,
+and you shouldn't react to it.
+
+363
+00:18:14,089 --> 00:18:16,450
+Hindsight says we should have
+moved earlier,
+
+364
+00:18:16,529 --> 00:18:19,890
+and that turned out to be wrong.
+Not maybe conceptually wrong.
+
+365
+00:18:19,970 --> 00:18:24,249
+But it's just taking so much longer for
+the supply side to heal than we thought.
+
+366
+00:18:24,329 --> 00:18:27,650
+Yeah, he's right. The standard textbook
+of economics says
+
+367
+00:18:27,729 --> 00:18:31,009
+that if there is a supply shock,
+you let it resolve itself organically.
+
+368
+00:18:31,089 --> 00:18:33,410
+Unfortunately, and in fairness
+to the Fed,
+
+369
+00:18:33,489 --> 00:18:35,850
+the pandemic
+was totally unprecedented,
+
+370
+00:18:35,930 --> 00:18:38,210
+so the standard textbook
+just didn't apply.
+
+371
+00:18:38,289 --> 00:18:41,210
+In fact, the only textbook applicable
+to this situation was:
+
+372
+00:18:41,289 --> 00:18:43,610
+"Fuck, Fuck, the Whole World
+Shut Down!"
+
+373
+00:18:43,690 --> 00:18:46,329
+"What Do We Do?
+God! Fuck, Fuck, Fuck!"
+
+374
+00:18:46,690 --> 00:18:49,650
+And it's not like the Fed was
+alone in calling this wrong.
+
+375
+00:18:49,729 --> 00:18:53,049
+Most economists thought
+inflation would go away on its own.
+
+376
+00:18:53,130 --> 00:18:55,569
+And some of the loudest voices
+on Wall Street were arguing
+
+377
+00:18:55,650 --> 00:18:57,729
+against the Fed raising interest rates,
+
+378
+00:18:57,809 --> 00:19:00,890
+because they, too, thought that
+inflation would be transitory.
+
+379
+00:19:00,970 --> 00:19:03,329
+For instance, here's Jim Cramer,
+the answer to the question,
+
+380
+00:19:03,410 --> 00:19:06,089
+"What if a garbage can full of cocaine
+and business school pamphlets"
+
+381
+00:19:06,170 --> 00:19:07,930
+"wished to be a real boy?"
+
+382
+00:19:08,009 --> 00:19:11,569
+making that very argument
+in November of last year.
+
+383
+00:19:11,650 --> 00:19:15,489
+I don't think Powell needs to slam
+the brakes on the economy.
+
+384
+00:19:15,569 --> 00:19:18,970
+Despite what you hear from
+the inflationistas in the media,
+
+385
+00:19:19,049 --> 00:19:22,329
+the weight of the evidence
+is finally going Powell's way.
+
+386
+00:19:22,410 --> 00:19:27,249
+Team transitory is going to win!
+I say stop freaking about inflation.
+
+387
+00:19:27,569 --> 00:19:30,970
+Setting aside the fact that he's
+speaking with an intensity level
+
+388
+00:19:31,049 --> 00:19:34,809
+best described as "Patti LuPone
+admonishing a rude audience member",
+
+389
+00:19:34,890 --> 00:19:38,249
+it's pretty clear that this clip,
+much like Jim Cramer himself,
+
+390
+00:19:38,329 --> 00:19:40,289
+has not aged very well.
+
+391
+00:19:40,370 --> 00:19:43,489
+Because here he was just six months
+later, doing a full 180,
+
+392
+00:19:43,569 --> 00:19:45,210
+with a very different tone.
+
+393
+00:19:45,650 --> 00:19:48,930
+I think that Powell may not understand.
+We gotta break this,
+
+394
+00:19:49,009 --> 00:19:50,210
+we've gotta break it now,
+
+395
+00:19:50,289 --> 00:19:54,529
+because this was the week
+we realized that it is just inflamed
+
+396
+00:19:54,610 --> 00:19:56,130
+and it is not going away.
+
+397
+00:20:00,610 --> 00:20:01,970
+I was shocked.
+
+398
+00:20:02,049 --> 00:20:05,650
+I just didn't know that it was
+as bad as it is. It's in every aisle.
+
+399
+00:20:06,130 --> 00:20:07,690
+The inflation's in every aisle.
+
+400
+00:20:08,809 --> 00:20:10,970
+That was a pretty dramatic turnaround.
+
+401
+00:20:11,049 --> 00:20:13,329
+He went from loudly unconcerned
+about rising prices
+
+402
+00:20:13,410 --> 00:20:16,809
+to full-blown inflationista
+in a matter of months.
+
+403
+00:20:16,890 --> 00:20:20,289
+What exactly is going on
+with this expression right here?
+
+404
+00:20:20,370 --> 00:20:23,370
+That is not the face you make when
+you're concerned about inflation.
+
+405
+00:20:23,450 --> 00:20:26,850
+That's the face you make when
+you're watching a giraffe give birth.
+
+406
+00:20:27,289 --> 00:20:31,170
+The fact is, a lot of smart people,
+and Jim Cramer,
+
+407
+00:20:31,249 --> 00:20:32,890
+read this situation wrong.
+
+408
+00:20:32,970 --> 00:20:35,769
+And there isn't really a roadmap
+for what to do next.
+
+409
+00:20:35,850 --> 00:20:37,809
+As one Wall Street Journal columnist
+has said,
+
+410
+00:20:37,890 --> 00:20:40,489
+"Economic models that worked
+for decades broke down"
+
+411
+00:20:40,569 --> 00:20:43,650
+"during the pandemic, and alternatives
+have yet to emerge."
+
+412
+00:20:43,729 --> 00:20:47,450
+Now, one thing that would really help
+is if we knew the extent to which
+
+413
+00:20:47,529 --> 00:20:49,930
+this is a supply
+or a demand problem.
+
+414
+00:20:50,009 --> 00:20:53,370
+If it's more about too much money
+or not enough stuff.
+
+415
+00:20:53,450 --> 00:20:57,930
+Because if it is too much money,
+the Fed can impact that pretty easily.
+
+416
+00:20:58,009 --> 00:21:00,970
+What they'd want to do is raise
+interest rates significantly enough
+
+417
+00:21:01,049 --> 00:21:02,729
+to curb spending and slow growth,
+
+418
+00:21:02,809 --> 00:21:07,210
+but not so aggressively that it would
+then trigger a painful recession.
+
+419
+00:21:07,289 --> 00:21:09,249
+But if it's about not
+enough stuff instead,
+
+420
+00:21:09,329 --> 00:21:12,890
+if the major issues are things
+like supply chain disruptions,
+
+421
+00:21:12,970 --> 00:21:15,569
+the effect the Fed can have
+is drastically reduced.
+
+422
+00:21:15,650 --> 00:21:18,370
+Because the Fed can't stop the war
+in Ukraine,
+
+423
+00:21:18,450 --> 00:21:21,769
+or open factories in China
+that are closed due to Covid.
+
+424
+00:21:21,850 --> 00:21:25,489
+I suppose Jerome Powell could lead
+an army of economists into Luhansk,
+
+425
+00:21:26,210 --> 00:21:28,049
+but I'm not sure anyone wants
+to see that,
+
+426
+00:21:28,130 --> 00:21:30,769
+and historically, that hasn't
+been the Fed's role.
+
+427
+00:21:30,850 --> 00:21:34,769
+So, the question of whether inflation
+is caused more by supply
+
+428
+00:21:34,850 --> 00:21:37,970
+or demand basically determines
+how much influence
+
+429
+00:21:38,049 --> 00:21:39,489
+the Fed has to improve things.
+
+430
+00:21:39,569 --> 00:21:42,890
+Unfortunately, even economists
+don't really agree
+
+431
+00:21:42,970 --> 00:21:45,249
+on which is the bigger driver here.
+
+432
+00:21:45,329 --> 00:21:49,289
+Meaning the truth is inflation
+may not be fully within our control.
+
+433
+00:21:49,370 --> 00:21:53,210
+Which isn't to say that Biden hasn't
+been out there promising to combat it
+
+434
+00:21:53,289 --> 00:21:55,610
+and showing empathy
+for Americans who are struggling,
+
+435
+00:21:55,690 --> 00:21:58,329
+sometimes in the
+weirdest way possible.
+
+436
+00:21:58,410 --> 00:22:03,809
+I want every American to know that
+I'm taking inflation very seriously,
+
+437
+00:22:03,890 --> 00:22:06,130
+and it's my top domestic priority.
+
+438
+00:22:06,210 --> 00:22:11,890
+I know you gotta be frustrated.
+I know. I can taste it.
+
+439
+00:22:11,970 --> 00:22:17,009
+No, no, no, no, no!
+Never say that again!
+
+440
+00:22:17,769 --> 00:22:21,329
+That may have been the single grossest
+thing I've ever heard come out
+
+441
+00:22:21,410 --> 00:22:23,529
+of Joe Biden's mouth,
+and that is saying a lot,
+
+442
+00:22:23,610 --> 00:22:26,329
+cause I've heard the stuff
+he used to say in the 1970s.
+
+443
+00:22:26,410 --> 00:22:31,089
+But to be fair, I do get why
+Biden is taking this approach.
+
+444
+00:22:31,170 --> 00:22:34,729
+Americans view inflation
+as the top problem facing the US
+
+445
+00:22:34,809 --> 00:22:36,529
+ahead of the midterm elections,
+
+446
+00:22:36,610 --> 00:22:40,170
+ahead of every other calamity facing
+the country, including Ezra Miller.
+
+447
+00:22:40,489 --> 00:22:44,569
+And there is an argument
+for trying to raise public confidence.
+
+448
+00:22:44,650 --> 00:22:46,690
+Once an inflationary cycle starts,
+
+449
+00:22:46,769 --> 00:22:50,650
+simply the expectation of it
+can keep inflation going.
+
+450
+00:22:50,729 --> 00:22:52,569
+For instance,
+as the cost of living rises,
+
+451
+00:22:52,650 --> 00:22:55,289
+workers might demand
+higher wages to cover that,
+
+452
+00:22:55,370 --> 00:22:57,450
+which in turn, raises the cost of labor,
+
+453
+00:22:57,529 --> 00:22:59,970
+leading businesses
+to charge higher prices,
+
+454
+00:23:00,049 --> 00:23:03,450
+leading to still more inflation.
+It's basically a vicious cycle.
+
+455
+00:23:03,529 --> 00:23:06,970
+That is why the worse
+our inflation expectations are,
+
+456
+00:23:07,049 --> 00:23:08,729
+the worse it can get.
+
+457
+00:23:08,809 --> 00:23:10,890
+And that may help
+explain why the Fed,
+
+458
+00:23:10,970 --> 00:23:14,489
+albeit late,
+is now taking some big steps.
+
+459
+00:23:14,569 --> 00:23:18,450
+It recently enacted the biggest increase
+to interest rates since 1994.
+
+460
+00:23:18,529 --> 00:23:21,690
+And it's all but certain that
+it'll raise them again next week.
+
+461
+00:23:21,769 --> 00:23:24,529
+Meanwhile, Jerome Powell has been
+trying to reassure people
+
+462
+00:23:24,610 --> 00:23:26,210
+that the Fed has things under control,
+
+463
+00:23:26,289 --> 00:23:28,850
+although he has also notably
+gone from talking about
+
+464
+00:23:28,930 --> 00:23:31,769
+trying to engineer a soft landing
+for the economy,
+
+465
+00:23:31,850 --> 00:23:33,890
+to something slightly different.
+
+466
+00:23:33,970 --> 00:23:38,089
+So, I would say there are a number
+of plausible paths
+
+467
+00:23:38,569 --> 00:23:42,650
+to having a soft or, as I've said,
+soft-ish landing.
+
+468
+00:23:43,610 --> 00:23:46,890
+So, we're aiming for a soft-ish
+landing now, are we, Jerome?
+
+469
+00:23:46,970 --> 00:23:50,170
+The thing is, "ish" isn't
+exactly the most reassuring suffix
+
+470
+00:23:50,249 --> 00:23:53,049
+to hear when you're discussing
+something so serious.
+
+471
+00:23:53,130 --> 00:23:55,410
+There is a huge difference
+between a surgeon telling you,
+
+472
+00:23:55,489 --> 00:23:59,049
+"The surgery went well",
+and, "It went well-ish".
+
+473
+00:23:59,489 --> 00:24:03,170
+I don't know where things are
+going to go from here, exactly.
+
+474
+00:24:03,249 --> 00:24:05,370
+I am not a monetary policy wonk,
+
+475
+00:24:05,450 --> 00:24:07,529
+even though my clothing, glasses,
+haircut,
+
+476
+00:24:07,610 --> 00:24:10,130
+and general vibe
+would strongly beg to differ.
+
+477
+00:24:10,210 --> 00:24:12,130
+Although, for what it's worth,
+
+478
+00:24:12,210 --> 00:24:15,049
+there have been some small
+encouraging developments recently,
+
+479
+00:24:15,130 --> 00:24:17,610
+among other things, gas prices
+have been dropping,
+
+480
+00:24:17,690 --> 00:24:21,130
+and long-term inflation
+expectations recently ticked down
+
+481
+00:24:21,210 --> 00:24:22,930
+after the Fed's intervention.
+
+482
+00:24:23,009 --> 00:24:26,210
+Most economists now expect
+this wave of inflation to pass
+
+483
+00:24:26,289 --> 00:24:27,970
+in a year or 18 months,
+
+484
+00:24:28,049 --> 00:24:29,610
+although that is
+by no means certain,
+
+485
+00:24:29,690 --> 00:24:33,970
+and importantly, that's an incredibly
+long time for those suffering the most.
+
+486
+00:24:34,049 --> 00:24:37,249
+Because for all of our discussion
+tonight of supply and demand curves,
+
+487
+00:24:37,329 --> 00:24:40,370
+it is really important to
+remember that inflation's effects
+
+488
+00:24:40,450 --> 00:24:43,529
+are anything but abstract for those
+that it's hitting the hardest,
+
+489
+00:24:43,610 --> 00:24:46,489
+like this woman, describing
+shopping with her kids.
+
+490
+00:24:46,569 --> 00:24:50,850
+They see it when I'm in line
+and I'm like calculating in my head
+
+491
+00:24:50,930 --> 00:24:52,850
+and looking at my groceries.
+
+492
+00:24:53,170 --> 00:24:56,089
+I have my calculator out,
+like, doing the tax.
+
+493
+00:24:56,170 --> 00:24:57,930
+What is this going to come to?
+
+494
+00:24:58,009 --> 00:25:01,410
+Or I'm putting things back
+as we get closer in line.
+
+495
+00:25:02,130 --> 00:25:04,289
+And my oldest daughter is, like,
+looking at me
+
+496
+00:25:04,370 --> 00:25:07,450
+and then she's putting something back.
+
+497
+00:25:08,769 --> 00:25:10,610
+It breaks your heart a little bit.
+
+498
+00:25:11,009 --> 00:25:13,410
+Of course. Kids shouldn't have
+to worry about putting food
+
+499
+00:25:13,489 --> 00:25:16,009
+back on the shelves because
+they can't afford it.
+
+500
+00:25:16,089 --> 00:25:18,450
+Kids should do what they
+are meant to at the grocery store,
+
+501
+00:25:18,529 --> 00:25:21,729
+go over to the big bin of rubber balls
+that are inexplicably sold there
+
+502
+00:25:21,809 --> 00:25:24,210
+and cause absolute mayhem.
+
+503
+00:25:24,650 --> 00:25:28,089
+So, the next year is likely to be very
+hard for a lot of people.
+
+504
+00:25:28,170 --> 00:25:31,690
+Which is why what we should definitely
+be doing right now is helping them.
+
+505
+00:25:31,769 --> 00:25:34,009
+One of the best ways to
+help low-income families
+
+506
+00:25:34,089 --> 00:25:36,529
+would be to pass a refundable
+child tax credit
+
+507
+00:25:36,610 --> 00:25:38,809
+for those who need it. And I know
+that that might be hard,
+
+508
+00:25:38,890 --> 00:25:41,529
+especially in an atmosphere where
+government spending
+
+509
+00:25:41,610 --> 00:25:43,489
+is being blamed for fueling inflation.
+
+510
+00:25:43,569 --> 00:25:45,329
+But it could be narrowly targeted,
+
+511
+00:25:45,410 --> 00:25:49,289
+while also fully offset with
+higher taxes on higher earners.
+
+512
+00:25:49,690 --> 00:25:51,529
+We could also expand
+rental assistance,
+
+513
+00:25:51,610 --> 00:25:53,930
+something that economists say would
+have a minimal impact
+
+514
+00:25:54,009 --> 00:25:58,370
+on driving inflation further up, while
+also keeping people in their homes.
+
+515
+00:25:58,450 --> 00:26:01,009
+Look, things are obviously
+pretty bad right now.
+
+516
+00:26:01,089 --> 00:26:03,489
+Families are struggling,
+penguins are pissed,
+
+517
+00:26:03,569 --> 00:26:06,329
+and Jim Cramer looks like
+he just shit himself.
+
+518
+00:26:06,809 --> 00:26:09,690
+And there is still
+a lot of uncertainty here.
+
+519
+00:26:09,769 --> 00:26:12,529
+But there are also two things
+that we do know for sure.
+
+520
+00:26:12,610 --> 00:26:16,009
+One, it's going to take a difficult
+combination of monetary policy,
+
+521
+00:26:16,089 --> 00:26:18,089
+supply chain recovery, and time
+
+522
+00:26:18,170 --> 00:26:20,529
+to bring supply
+and demand back into alignment.
+
+523
+00:26:20,610 --> 00:26:24,410
+And two, that if everyone does win
+the lottery in the future,
+
+524
+00:26:24,489 --> 00:26:27,170
+and does suddenly want
+some frog statues,
+
+525
+00:26:27,249 --> 00:26:31,170
+I just made the smartest investment
+of all time.
+
+526
+00:26:31,249 --> 00:26:35,930
+I am the Warren Buffett
+of frogs! And now, this.
+
+527
+00:26:36,569 --> 00:26:41,210
+And Now: Local News Reacts to the
+Consequences of Global Warming
+
+528
+00:26:41,289 --> 00:26:43,370
+Exactly As Expected.
+
+529
+00:26:43,769 --> 00:26:46,850
+As hip-hop sensation Nelly once said,
+
+530
+00:26:46,930 --> 00:26:52,329
+"It's hot in, so hot in here."
+But just how hot is it, Elizabeth?
+
+531
+00:26:52,410 --> 00:26:56,370
+It is so hot outside, Karsen,
+how hot is it?
+
+532
+00:26:56,450 --> 00:27:00,809
+It's so hot I bought a loaf of bread,
+Chase, before I got home, it was toast!
+
+533
+00:27:00,890 --> 00:27:05,130
+It is so hot, I saw a dog chasing a cat,
+and they were both walking.
+
+534
+00:27:05,210 --> 00:27:08,089
+It's so hot, yesterday,
+I saw the devil sitting by the AC.
+
+535
+00:27:08,170 --> 00:27:09,289
+How hot is it?
+
+536
+00:27:09,370 --> 00:27:15,130
+I almost called my ex-girlfriend just
+so I could be around something shady.
+
+537
+00:27:15,210 --> 00:27:16,769
+How hot is it gonna be, Mark?
+
+538
+00:27:16,850 --> 00:27:19,210
+I think I'm going to see
+a chicken lay an omelet.
+
+539
+00:27:19,289 --> 00:27:21,690
+My ex-girlfriend's heart is melting.
+
+540
+00:27:21,769 --> 00:27:25,009
+Adam and Eve are gonna trade
+their fig leaves for ice cubes.
+
+541
+00:27:25,089 --> 00:27:27,769
+- London is so hot
+- How hot is it?
+
+542
+00:27:27,850 --> 00:27:29,249
+They're canceling flights today.
+
+543
+00:27:29,329 --> 00:27:31,410
+And he says they're doing better
+in Spain,
+
+544
+00:27:31,489 --> 00:27:33,049
+where it's 90 degrees today.
+
+545
+00:27:33,130 --> 00:27:37,410
+Yesterday, he said it was 97,
+humidity around 100%.
+
+546
+00:27:40,529 --> 00:27:42,769
+Moving on. Before we go,
+
+547
+00:27:42,850 --> 00:27:45,249
+a quick update on something that
+we mentioned during the break.
+
+548
+00:27:45,329 --> 00:27:46,850
+Specifically, dolls.
+
+549
+00:27:46,930 --> 00:27:50,049
+The single weirdest thing to bring
+to a job interview.
+
+550
+00:27:50,130 --> 00:27:53,329
+"I went to UNC,
+but Liliana went to Tulane."
+
+551
+00:27:54,009 --> 00:27:56,489
+Over the July Fourth weekend,
+we released a web piece
+
+552
+00:27:56,569 --> 00:27:59,529
+about the fact that certain creepy dolls
+have been washing up
+
+553
+00:27:59,610 --> 00:28:01,850
+on a particular stretch of beach
+in Texas.
+
+554
+00:28:01,930 --> 00:28:04,890
+And each one of them is a legitimate
+horror show,
+
+555
+00:28:04,970 --> 00:28:07,930
+from Green Pirate Baby,
+to Nightmare Ghoul Baby,
+
+556
+00:28:08,009 --> 00:28:11,009
+to Barnacle Baby One, Two,
+and Three.
+
+557
+00:28:11,089 --> 00:28:14,489
+Honestly, I now see these demons
+everywhere.
+
+558
+00:28:14,569 --> 00:28:17,769
+In the mirror?
+Suddenly, there's a doll behind me.
+
+559
+00:28:17,850 --> 00:28:21,690
+In the stunning, humbling images from
+the James Webb space telescope
+
+560
+00:28:21,769 --> 00:28:23,210
+another doll.
+
+561
+00:28:23,289 --> 00:28:27,410
+I'm 45 years old. I've encountered
+a wide breadth of emotions.
+
+562
+00:28:27,489 --> 00:28:29,610
+But not until I saw these
+things did I experience
+
+563
+00:28:29,690 --> 00:28:31,410
+the feeling of being hunted.
+
+564
+00:28:31,489 --> 00:28:34,970
+And I will say, it seems like the local
+news in Texas did appreciate
+
+565
+00:28:35,049 --> 00:28:37,729
+us giving their plight some attention.
+
+566
+00:28:37,809 --> 00:28:42,130
+This is a little creepy. It's happening
+along the beaches in South Texas.
+
+567
+00:28:42,210 --> 00:28:46,249
+And while, you know,
+anything can wash up on shore,
+
+568
+00:28:46,329 --> 00:28:48,769
+these dolls are really
+turning heads.
+
+569
+00:28:48,850 --> 00:28:52,289
+Recently, the trend caught the eye
+of HBO's John Oliver,
+
+570
+00:28:52,370 --> 00:28:57,130
+who offered up his own solution
+for what he calls the demon dolls.
+
+571
+00:28:58,210 --> 00:29:00,170
+Burn them! Burn them now!
+
+572
+00:29:00,249 --> 00:29:03,729
+Yeah, I said that, and you know
+what? I stand by that sentiment.
+
+573
+00:29:03,809 --> 00:29:07,210
+Our idea wasn't just that the dolls
+should be burned.
+
+574
+00:29:07,289 --> 00:29:09,450
+It's that the coastal reserve
+that keeps finding them
+
+575
+00:29:09,529 --> 00:29:12,009
+should sell them to us
+and allow us to find
+
+576
+00:29:12,089 --> 00:29:13,650
+an appropriate way to dispose of them.
+
+577
+00:29:13,729 --> 00:29:17,289
+So, we offered 10 000 dollars
+to their turtle hospital
+
+578
+00:29:17,370 --> 00:29:20,329
+if they sent us every remaining plastic
+beast that they had.
+
+579
+00:29:20,410 --> 00:29:22,410
+And apparently,
+they got the message.
+
+580
+00:29:22,890 --> 00:29:26,329
+If I sent him all the dolls that I have,
+
+581
+00:29:26,410 --> 00:29:29,769
+they were gonna donate
+10 000 dollars,
+
+582
+00:29:29,850 --> 00:29:31,610
+and then they were gonna
+destroy all the dolls.
+
+583
+00:29:32,370 --> 00:29:34,970
+And I thought, "That sounds
+really good to me".
+
+584
+00:29:35,049 --> 00:29:39,130
+The Amos Rehabilitation Keep
+that rehabs the sea turtles,
+
+585
+00:29:39,210 --> 00:29:42,529
+they're pretty much run
+on donations from the community,
+
+586
+00:29:42,610 --> 00:29:44,769
+so 10 000 dollars can go
+a long way
+
+587
+00:29:44,850 --> 00:29:47,529
+and save hundreds of sea
+turtles, so I'm all about that.
+
+588
+00:29:47,610 --> 00:29:50,809
+Me too! Sure, yeah, totally.
+
+589
+00:29:51,690 --> 00:29:55,210
+I like sea turtles.
+I think they're fun, round little guys.
+
+590
+00:29:55,289 --> 00:29:59,370
+But was that my main objective here?
+No. Of course it fucking wasn't.
+
+591
+00:29:59,769 --> 00:30:03,089
+This was mainly about saving
+the planet from the heinous scourge
+
+592
+00:30:03,170 --> 00:30:04,850
+of these plastic beach demons.
+
+593
+00:30:04,930 --> 00:30:07,410
+Anyway, we began
+a correspondence with that man,
+
+594
+00:30:07,489 --> 00:30:11,249
+including, at one point, him sending us
+this photo of the available dolls.
+
+595
+00:30:11,329 --> 00:30:14,210
+Which is really bad. That's just
+a really bad way to do things.
+
+596
+00:30:14,289 --> 00:30:18,170
+A bucket is the single worst place
+to keep these dolls,
+
+597
+00:30:18,249 --> 00:30:22,170
+other than at a hospital in bassinets
+right next to real babies.
+
+598
+00:30:22,249 --> 00:30:26,089
+But we kept up our end of the deal.
+We sent the turtle rehab the money,
+
+599
+00:30:26,170 --> 00:30:27,970
+and in return, they sent us the dolls.
+
+600
+00:30:28,049 --> 00:30:30,009
+Now, we were actually on break
+when that happened,
+
+601
+00:30:30,089 --> 00:30:33,690
+so one of our staff members had
+them shipped directly to her home,
+
+602
+00:30:34,170 --> 00:30:37,890
+meaning that she had,
+where she lives, this box.
+
+603
+00:30:37,970 --> 00:30:41,130
+And you know what? I take it
+back. The bucket was actually fine.
+
+604
+00:30:41,210 --> 00:30:43,809
+This box is a much worse place
+to keep them.
+
+605
+00:30:43,890 --> 00:30:48,009
+But the fact is, we are now in
+possession of this large bucket
+
+606
+00:30:48,650 --> 00:30:50,769
+full of my worst nightmares.
+
+607
+00:30:51,410 --> 00:30:56,370
+This may be the single creepiest thing
+that has ever been in this building,
+
+608
+00:30:56,450 --> 00:30:58,089
+which is really saying something
+
+609
+00:30:58,170 --> 00:31:00,729
+because Charlie Rose used
+to work down the hall.
+
+610
+00:31:00,809 --> 00:31:03,249
+But before we get into what
+we are going to do with them,
+
+611
+00:31:03,329 --> 00:31:06,729
+we actually have
+a second quick update for you.
+
+612
+00:31:07,130 --> 00:31:10,529
+You may remember that we have
+another outstanding offer on the table.
+
+613
+00:31:10,610 --> 00:31:14,329
+Back in June, we discussed
+this giant Australian banana,
+
+614
+00:31:14,410 --> 00:31:16,769
+which was installed in the city
+of Yarra, in Melbourne,
+
+615
+00:31:16,850 --> 00:31:19,249
+as part of a city council project
+to slow down traffic.
+
+616
+00:31:19,329 --> 00:31:23,450
+But it was sadly removed after
+someone vandalized it with a saw.
+
+617
+00:31:23,529 --> 00:31:25,489
+Now, there was some controversy
+over the banana,
+
+618
+00:31:25,569 --> 00:31:29,049
+especially because Yarra apparently
+spent 22 000 dollars on it.
+
+619
+00:31:29,130 --> 00:31:32,489
+So, we offered to buy it for 10 dollars
+
+620
+00:31:32,569 --> 00:31:35,569
+plus a 10 000 dollar donation
+to their local food bank
+
+621
+00:31:35,650 --> 00:31:37,850
+and a 5 000 dollar donation
+
+622
+00:31:37,930 --> 00:31:40,009
+to The John Oliver
+Koala Chlamydia Ward.
+
+623
+00:31:40,089 --> 00:31:41,289
+But that's not all.
+
+624
+00:31:41,370 --> 00:31:45,370
+We also offered our "giant alligator
+giving the finger" statue
+
+625
+00:31:45,450 --> 00:31:46,890
+as a replacement for them.
+
+626
+00:31:46,970 --> 00:31:48,930
+It was a pretty good deal.
+And you should know,
+
+627
+00:31:49,009 --> 00:31:51,329
+we actually just heard back from Yarra.
+
+628
+00:31:51,729 --> 00:31:54,690
+Hi, John, I'm Sophie Wade,
+the mayor of the city of Yarra,
+
+629
+00:31:54,769 --> 00:31:56,009
+in Melbourne.
+
+630
+00:31:56,089 --> 00:31:58,610
+We were thrilled to receive your offer
+to provide a home
+
+631
+00:31:58,690 --> 00:32:01,289
+for our beloved yet
+beleaguered banana statue.
+
+632
+00:32:01,370 --> 00:32:04,370
+After much consideration, however,
+we must decline your offer.
+
+633
+00:32:04,450 --> 00:32:07,329
+Public art is an
+investment in local artists,
+
+634
+00:32:07,410 --> 00:32:10,089
+the community, and the
+vibrancy of our streets,
+
+635
+00:32:10,170 --> 00:32:12,489
+so it shouldn't be privatized
+and kept in an office.
+
+636
+00:32:12,569 --> 00:32:16,610
+Okay, first, I wouldn't call this
+"public art" so much as I'd call it
+
+637
+00:32:16,690 --> 00:32:18,450
+"the final boss in Donkey Kong".
+
+638
+00:32:18,529 --> 00:32:20,569
+But let's agree to disagree there.
+But second,
+
+639
+00:32:20,650 --> 00:32:22,410
+that was obviously disappointing
+for me to hear.
+
+640
+00:32:22,489 --> 00:32:25,210
+Although she did have
+a follow-up suggestion.
+
+641
+00:32:25,610 --> 00:32:28,370
+We would love to offer your
+belligerent alligator a new home
+
+642
+00:32:28,450 --> 00:32:29,690
+here in Melbourne.
+
+643
+00:32:29,769 --> 00:32:31,729
+We know you'll be disappointed
+about the banana.
+
+644
+00:32:31,809 --> 00:32:33,130
+Who wouldn't be?
+
+645
+00:32:33,210 --> 00:32:37,970
+So, as compensation, we will name our
+polystyrene recycling machine after you.
+
+646
+00:32:38,049 --> 00:32:41,249
+It turns trash into treasure,
+makes a lot of noise,
+
+647
+00:32:41,329 --> 00:32:43,769
+and nerds love it.
+So, it seems fitting.
+
+648
+00:32:43,850 --> 00:32:46,650
+We hope our counteroffer
+is appealing.
+
+649
+00:32:47,009 --> 00:32:50,569
+Okay, first, solid burn. Second,
+don't particularly care for the pun.
+
+650
+00:32:50,650 --> 00:32:52,850
+And third, now we're talking!
+
+651
+00:32:53,210 --> 00:32:56,049
+Because before watching that video,
+I didn't realize that I wanted
+
+652
+00:32:56,130 --> 00:32:58,529
+my name attached to a machine
+that vigorously churns out
+
+653
+00:32:58,610 --> 00:33:00,850
+a substance that looks like
+someone just stuffed
+
+654
+00:33:00,930 --> 00:33:04,489
+Snoopy through a sausage maker.
+But it turns out, I want it very badly.
+
+655
+00:33:04,569 --> 00:33:07,769
+In fact, I now have a counter
+to your counteroffer.
+
+656
+00:33:07,850 --> 00:33:11,690
+Because to be clear, I am not offering
+you my alligator statue anymore.
+
+657
+00:33:11,769 --> 00:33:14,370
+That went off the table as soon
+as you denied me the banana.
+
+658
+00:33:14,450 --> 00:33:16,289
+No banana, no alligator.
+
+659
+00:33:16,370 --> 00:33:21,289
+But I am still willing to send
+10 000 dollars to your food bank,
+
+660
+00:33:21,370 --> 00:33:25,089
+and 5 000
+to the Koala Chlamydia Ward
+
+661
+00:33:25,569 --> 00:33:27,610
+if you name that recycling machine
+after me
+
+662
+00:33:27,690 --> 00:33:29,610
+and, and this is non-negotiable,
+
+663
+00:33:30,370 --> 00:33:33,930
+you take this bucket of hellish
+dolls and run them
+
+664
+00:33:34,009 --> 00:33:36,410
+through your machine
+to destroy them forever.
+
+665
+00:33:36,489 --> 00:33:40,370
+I can think of no better way
+to rid the world of this menace.
+
+666
+00:33:40,450 --> 00:33:43,249
+And if you're sad that you're not
+getting the alligator, don't worry.
+
+667
+00:33:43,329 --> 00:33:45,089
+I also have a consolation prize.
+
+668
+00:33:45,170 --> 00:33:50,009
+Because I will throw in these
+three glorious frog statues,
+
+669
+00:33:50,089 --> 00:33:52,569
+which will only appreciate in value.
+
+670
+00:33:52,650 --> 00:33:55,410
+You have exactly one week
+to get back to us.
+
+671
+00:33:55,489 --> 00:33:57,890
+I await your response with interest,
+Yarra!
+
+672
+00:33:57,970 --> 00:33:59,890
+That is our show.
+Thank you so much for watching.
+
+673
+00:33:59,970 --> 00:34:02,370
+We'll see you next week.
+Good night!

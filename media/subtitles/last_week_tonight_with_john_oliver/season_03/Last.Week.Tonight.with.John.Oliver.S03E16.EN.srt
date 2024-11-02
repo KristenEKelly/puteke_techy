@@ -1,0 +1,2292 @@
+1
+00:00:20,080 --> 00:00:22,440
+LAST WEEK TONIGHT
+WITH JOHN OLIVER
+
+2
+00:00:22,560 --> 00:00:24,600
+SEASON III
+EPISODE 16
+
+3
+00:00:31,720 --> 00:00:36,360
+Welcome to Last Week Tonight.
+Thank you so much for joining us.
+
+4
+00:00:36,440 --> 00:00:37,520
+I am John Oliver.
+
+5
+00:00:37,600 --> 00:00:41,480
+Let's begin with the story that has
+dominated the news all this week:
+
+6
+00:00:41,560 --> 00:00:44,040
+the aftermath
+of the shootings in Orlando.
+
+7
+00:00:44,120 --> 00:00:47,320
+Everyone has had their own ideas
+on the root of the problem.
+
+8
+00:00:47,400 --> 00:00:51,360
+It will not surprise you to hear where
+the worst of those ideas came from.
+
+9
+00:00:51,720 --> 00:00:55,320
+I've been saying for a long time
+it's going to happen.
+
+10
+00:00:55,680 --> 00:00:59,600
+We are taking in thousands of people
+into our country.
+
+11
+00:01:00,160 --> 00:01:05,800
+We have no idea where they come from.
+We have no idea who the hell they are.
+
+12
+00:01:06,640 --> 00:01:11,200
+There is a great deal wrong with that,
+not least the fact that we know exactly
+
+13
+00:01:11,280 --> 00:01:14,720
+where this shooter came from,
+because he was born in Queens.
+
+14
+00:01:14,800 --> 00:01:17,960
+About 8 miles
+from where Donald Trump was born
+
+15
+00:01:19,120 --> 00:01:23,080
+presumably when a racist fairy
+brought a butternut squash to life.
+
+16
+00:01:24,120 --> 00:01:29,560
+Democrats focused less on the shooter,
+and more on the weapons he used,
+
+17
+00:01:29,640 --> 00:01:33,200
+even springing a surprise filibuster
+on the floor of the senate.
+
+18
+00:01:33,640 --> 00:01:37,280
+Democrats led by Chris Murphy
+held the floor for nearly 15 hours
+
+19
+00:01:37,400 --> 00:01:41,600
+pushing for new regulations
+to stop people on the terror watchlist
+
+20
+00:01:41,680 --> 00:01:44,440
+from buying guns
+and to expand background checks.
+
+21
+00:01:44,760 --> 00:01:46,160
+After nearly 15 hours,
+
+22
+00:01:46,280 --> 00:01:50,240
+Murphy said he had gotten signals
+that his 2 measures would get a vote.
+
+23
+00:01:50,920 --> 00:01:53,800
+Is he absolutely sure
+he saw those signals ?
+
+24
+00:01:54,160 --> 00:01:57,440
+Or was that a hallucination
+brought on by ammonia poisoning
+
+25
+00:01:57,520 --> 00:01:59,720
+after holding his pee in
+for 15 hours ?
+
+26
+00:02:00,320 --> 00:02:04,160
+Those proposals
+are actually coming up for a vote,
+
+27
+00:02:04,240 --> 00:02:07,640
+but before you get your hopes up,
+there may be a bit of a problem.
+
+28
+00:02:07,720 --> 00:02:09,120
+Let's not kid ourselves.
+
+29
+00:02:09,200 --> 00:02:12,280
+The Republicans
+control the house of representatives,
+
+30
+00:02:12,360 --> 00:02:15,440
+there is never going to be
+any gun control that passes.
+
+31
+00:02:16,000 --> 00:02:17,040
+That's true.
+
+32
+00:02:17,120 --> 00:02:21,160
+Closing the gun-show loophole in
+this congress is incredibly unlikely.
+
+33
+00:02:21,240 --> 00:02:24,280
+Even regulating the gun show
+Paul Ryan puts on every day
+
+34
+00:02:24,360 --> 00:02:27,120
+is pretty much
+a lost cause at this point.
+
+35
+00:02:27,440 --> 00:02:31,760
+Which means here we are again,
+after another mass shooting,
+
+36
+00:02:31,840 --> 00:02:34,200
+with weak legislation
+doomed to failure.
+
+37
+00:02:34,280 --> 00:02:37,560
+And there is clearly a disconnect
+between public opinion,
+
+38
+00:02:37,640 --> 00:02:41,360
+which favors, to varying degrees,
+different gun control measures
+
+39
+00:02:41,440 --> 00:02:44,400
+and any practical action
+in Washington.
+
+40
+00:02:44,600 --> 00:02:48,240
+And it is pretty clear what is standing
+between those two things:
+
+41
+00:02:48,320 --> 00:02:50,400
+the National Rifle Association.
+
+42
+00:02:50,480 --> 00:02:53,000
+Like PETA,
+but for guns, and effective.
+
+43
+00:02:53,760 --> 00:02:56,800
+And to be fair,
+to be fair to the NRA:
+
+44
+00:02:57,080 --> 00:03:00,400
+it's not surprising they take
+a hard line on gun legislation.
+
+45
+00:03:00,480 --> 00:03:03,800
+They're an advocacy group.
+It's what they're supposed to do.
+
+46
+00:03:03,880 --> 00:03:07,120
+What is shocking is just
+how successful they've been at it.
+
+47
+00:03:07,360 --> 00:03:10,240
+Look at the last big failed
+attempt at gun control,
+
+48
+00:03:10,320 --> 00:03:12,560
+known as
+the Manchin-Toomey amendment.
+
+49
+00:03:12,640 --> 00:03:16,240
+There were high hopes for that.
+Partly 'cause it didn't do much,
+
+50
+00:03:16,320 --> 00:03:20,000
+it called for background checks
+at gun shows and for online sales.
+
+51
+00:03:20,080 --> 00:03:23,000
+But mainly because Joe Manchin,
+who cosponsored it,
+
+52
+00:03:23,080 --> 00:03:25,440
+had some credibility
+regarding firearms.
+
+53
+00:03:25,920 --> 00:03:30,120
+I'll protect our 2nd amendment rights.
+That's why the NRA endorsed me.
+
+54
+00:03:30,440 --> 00:03:33,880
+And I'll take dead aim
+at the cap-and-trade bill.
+
+55
+00:03:34,760 --> 00:03:38,880
+Holy shit. That is a guy
+so comfortable with guns,
+
+56
+00:03:38,960 --> 00:03:41,320
+he basically just used one
+as a hole punch.
+
+57
+00:03:42,800 --> 00:03:46,160
+His office's three-hole punch
+must be fucking terrifying.
+
+58
+00:03:47,400 --> 00:03:51,560
+And Manchin did everything
+he could to appease the NRA.
+
+59
+00:03:51,800 --> 00:03:55,480
+He even inserted several
+of their direct requests into his bill
+
+60
+00:03:55,560 --> 00:04:00,120
+including allowing firearms dealers,
+for the first time since 1968,
+
+61
+00:04:00,200 --> 00:04:02,720
+to sell handguns across state lines.
+
+62
+00:04:03,080 --> 00:04:06,920
+Which is a weird provision
+to put in a gun-control bill.
+
+63
+00:04:07,000 --> 00:04:10,600
+It's like letting Jose Cuervo
+convince you that the seventh step
+
+64
+00:04:10,680 --> 00:04:13,560
+in Alcoholic's Anonymous
+should be tequila shots.
+
+65
+00:04:14,480 --> 00:04:18,840
+But despite all that, the NRA
+turned on Manchin and the bill,
+
+66
+00:04:18,920 --> 00:04:22,400
+and then punished him by running
+ads like this in his home state.
+
+67
+00:04:23,120 --> 00:04:25,480
+Manchin is working
+with President Obama
+
+68
+00:04:25,560 --> 00:04:27,720
+and New York mayor
+Michael Bloomberg.
+
+69
+00:04:27,880 --> 00:04:29,440
+Concerned ? You should be.
+
+70
+00:04:30,080 --> 00:04:33,680
+Yes, the NRA
+stabbed Manchin in the back.
+
+71
+00:04:33,760 --> 00:04:37,160
+It would've been more on-brand
+of them to shoot him in the back,
+
+72
+00:04:37,400 --> 00:04:40,720
+and argue it never would've
+happened if his back had had a gun.
+
+73
+00:04:41,360 --> 00:04:45,840
+And the thing is whenever
+any potential regulation comes up,
+
+74
+00:04:45,960 --> 00:04:47,840
+the pushback is always the same.
+
+75
+00:04:48,480 --> 00:04:51,320
+No evidence that gun laws
+would prevent shootings.
+
+76
+00:04:51,400 --> 00:04:54,040
+There is at least
+an absence of certain proof,
+
+77
+00:04:54,120 --> 00:04:56,960
+as to the efficacy
+of gun ownership laws in the past.
+
+78
+00:04:57,320 --> 00:05:00,960
+To think that somehow gun control
+is, or increased gun control,
+
+79
+00:05:01,040 --> 00:05:04,240
+is the answer, in my view
+that would have to be proved.
+
+80
+00:05:05,160 --> 00:05:09,560
+It's the old "I'm not doing anything
+until you can prove it" argument,
+
+81
+00:05:09,640 --> 00:05:12,680
+the same argument
+favored by climate-change deniers
+
+82
+00:05:12,760 --> 00:05:14,640
+and fathers of the baby on Maury.
+
+83
+00:05:16,000 --> 00:05:17,160
+Happy Father's Day !
+
+84
+00:05:19,040 --> 00:05:22,200
+The point is that brings us
+
+85
+00:05:22,480 --> 00:05:26,080
+to perhaps the most ingenious
+and insidious NRA tactic.
+
+86
+00:05:26,400 --> 00:05:30,040
+They don't just manage
+to block legislation concerning guns.
+
+87
+00:05:30,120 --> 00:05:33,480
+They've managed to block
+information concerning them, too.
+
+88
+00:05:33,560 --> 00:05:36,160
+One of the major funders
+of academic research,
+
+89
+00:05:36,240 --> 00:05:38,120
+the Centers for Disease Control,
+
+90
+00:05:38,200 --> 00:05:41,720
+has been hamstrung in studying
+how best to prevent gun violence
+
+91
+00:05:41,800 --> 00:05:43,400
+for the last twenty years.
+
+92
+00:05:43,960 --> 00:05:47,720
+In 1996,
+the NRA successfully lobbied congress
+
+93
+00:05:47,800 --> 00:05:50,520
+to put this restriction
+into the CDC's budget:
+
+94
+00:05:51,160 --> 00:05:55,200
+"... none of the funds may be used
+to advocate or promote gun control."
+
+95
+00:05:56,040 --> 00:05:59,720
+The CDC was already banned
+from advocating for gun control laws,
+
+96
+00:05:59,800 --> 00:06:02,240
+or, indeed, any form of legislation.
+
+97
+00:06:02,600 --> 00:06:06,240
+But the 1996 Dickey amendment
+named after both its sponsor,
+
+98
+00:06:06,320 --> 00:06:10,240
+Jay Dickey, and after the fact
+it was an extremely dickey thing to do
+
+99
+00:06:11,120 --> 00:06:15,720
+had a chilling effect on the CDC
+funding any gun research at all.
+
+100
+00:06:16,240 --> 00:06:21,840
+CDC funding into gun violence research
+has plummeted 96 percent since 1996,
+
+101
+00:06:21,920 --> 00:06:28,320
+to just $100,000 of last year's
+$5.6 billion dollar CDC budget.
+
+102
+00:06:28,840 --> 00:06:32,840
+The only other things that've dropped
+96 percent in the last two decades
+
+103
+00:06:32,920 --> 00:06:36,960
+are Lycos searches
+and Tickle-me-Elmo-related stampedes.
+
+104
+00:06:38,240 --> 00:06:42,760
+It's not just CDC struggling to collect
+reliable gun-related information.
+
+105
+00:06:42,960 --> 00:06:46,520
+For decades, the NRA has successfully
+lobbied to prevent the ATF
+
+106
+00:06:46,600 --> 00:06:50,240
+from having a database that
+is electronically searchable by name
+
+107
+00:06:50,320 --> 00:06:52,440
+when tracing the origins of firearms.
+
+108
+00:06:52,560 --> 00:06:54,560
+This is what they have to do
+
+109
+00:06:54,640 --> 00:06:57,880
+with documents from gun shops
+that've gone out of business.
+
+110
+00:06:58,080 --> 00:07:03,160
+Workers are left with an antiquated
+system to trace 350,000 guns a year,
+
+111
+00:07:03,520 --> 00:07:07,040
+requiring them to review
+by hand tons of paper records
+
+112
+00:07:07,160 --> 00:07:09,760
+and 500 million entries
+on microfilm.
+
+113
+00:07:10,200 --> 00:07:12,400
+Many of the records
+are barely legible.
+
+114
+00:07:12,640 --> 00:07:17,160
+These are records that we received
+as a result of Hurricane Katrina.
+
+115
+00:07:17,440 --> 00:07:19,720
+We had to dry these out
+in the parking lot.
+
+116
+00:07:20,720 --> 00:07:22,880
+That is clearly absurd.
+
+117
+00:07:23,160 --> 00:07:26,800
+That does not look like a present day
+record of gun ownership.
+
+118
+00:07:26,880 --> 00:07:30,920
+It looks like the manifesto from
+a Spanish galleon that sank in 1610.
+
+119
+00:07:32,000 --> 00:07:36,040
+So how the fuck has the NRA managed
+to accomplish all of this ?
+
+120
+00:07:36,240 --> 00:07:38,880
+Because they're not
+that large an organization
+
+121
+00:07:38,960 --> 00:07:42,160
+they claim they have a membership
+of around 5 million.
+
+122
+00:07:42,240 --> 00:07:45,920
+But that is 3 million fewer members
+than Planet Fitness.
+
+123
+00:07:47,000 --> 00:07:50,720
+And the members of Planet Fitness
+have almost no power.
+
+124
+00:07:51,320 --> 00:07:55,640
+Most of them don't even have the power
+to actually go to Planet Fitness.
+
+125
+00:07:56,440 --> 00:08:01,200
+And that is true. By mid-January,
+that place is nothing more
+
+126
+00:08:01,280 --> 00:08:04,560
+than a storage facility
+for grape colored exercise bikes.
+
+127
+00:08:05,600 --> 00:08:08,560
+And while the NRA
+does spend a lot of money lobbying,
+
+128
+00:08:08,640 --> 00:08:12,000
+they are frequently
+outspent by even the NAR,
+
+129
+00:08:12,080 --> 00:08:16,840
+or National Association of Realtors,
+a group of wily bastards
+
+130
+00:08:16,960 --> 00:08:20,600
+who have somehow convinced us
+we need to live indoors like nerds.
+
+131
+00:08:21,680 --> 00:08:26,120
+But the real power of the NRA
+is in its members,
+
+132
+00:08:26,200 --> 00:08:29,440
+who are highly motivated,
+and can be mobilized quickly.
+
+133
+00:08:29,520 --> 00:08:32,720
+At the website of the NRA's
+political action committee
+
+134
+00:08:32,800 --> 00:08:37,240
+you will find alerts for every piece
+of legislation around the country.
+
+135
+00:08:37,320 --> 00:08:39,920
+And not just
+"write your congressman" alerts,
+
+136
+00:08:40,000 --> 00:08:44,120
+alerts like, "the following bills
+are scheduled to be heard on June 14",
+
+137
+00:08:44,200 --> 00:08:47,800
+"at 9 am, in room 126
+of the State Capitol".
+
+138
+00:08:47,880 --> 00:08:51,360
+Because they know:
+their members often show up.
+
+139
+00:08:51,640 --> 00:08:55,240
+One of the reasons they're able
+to rally their base so effectively
+
+140
+00:08:55,320 --> 00:08:57,680
+is they have an appealingly
+simple message.
+
+141
+00:08:58,080 --> 00:08:59,760
+It's all about a single issue.
+
+142
+00:08:59,960 --> 00:09:02,840
+There's no four-point plan
+that they have to defend.
+
+143
+00:09:02,920 --> 00:09:05,360
+I would point out,
+they only have to say 'no.'
+
+144
+00:09:05,440 --> 00:09:08,480
+They're not for anything.
+They're against something.
+
+145
+00:09:08,560 --> 00:09:10,360
+A single issue. One word: 'no'.
+
+146
+00:09:11,000 --> 00:09:12,040
+Exactly.
+
+147
+00:09:12,160 --> 00:09:16,240
+It's a lot easier to drum up support
+when you're flatly against something.
+
+148
+00:09:16,440 --> 00:09:19,880
+There is a reason that TLC
+insisted upon "No Scrubs",
+
+149
+00:09:20,400 --> 00:09:24,360
+and not the implementation of a
+national registry of potential scrubs,
+
+150
+00:09:24,440 --> 00:09:28,480
+AKA "busters", that would screen
+for scrub-like tendencies
+
+151
+00:09:28,560 --> 00:09:30,640
+or affiliations with known scrubs.
+
+152
+00:09:31,440 --> 00:09:34,000
+They knew,
+"No Scrubs" is a lot catchier.
+
+153
+00:09:35,280 --> 00:09:38,560
+And the truth about politics is,
+it's about showing up.
+
+154
+00:09:38,840 --> 00:09:41,160
+Remember the Manchin-Toomey
+amendment ?
+
+155
+00:09:41,240 --> 00:09:45,000
+A national poll at that time
+found that 88 percent of people
+
+156
+00:09:45,080 --> 00:09:47,600
+supported
+universal background checks,
+
+157
+00:09:47,680 --> 00:09:51,400
+and yet Manchin's office maintains
+that, of the calls it received,
+
+158
+00:09:51,560 --> 00:09:54,440
+they ran 200-to-1
+in opposition to the bill.
+
+159
+00:09:54,920 --> 00:09:58,600
+And that is why it is important
+to actually call your congressman.
+
+160
+00:09:58,880 --> 00:10:01,720
+You can't just hit them up
+on Twitter or Facebook.
+
+161
+00:10:01,840 --> 00:10:04,280
+Because you won't get
+a personal response,
+
+162
+00:10:04,360 --> 00:10:07,800
+or, even worse, you'll get
+a very personal response indeed.
+
+163
+00:10:08,360 --> 00:10:10,800
+Put it away Carlos, put it away.
+
+164
+00:10:11,960 --> 00:10:14,000
+And remember the Dickey amendment,
+
+165
+00:10:14,120 --> 00:10:17,840
+which has effectively kept the CDC
+from studying gun violence ?
+
+166
+00:10:17,920 --> 00:10:22,400
+It is now opposed by both the American
+Medical Association and Jay Dickey,
+
+167
+00:10:22,480 --> 00:10:24,880
+the man who sponsored it
+in the first place.
+
+168
+00:10:25,000 --> 00:10:27,480
+Whenever a member of Congress
+tries to kill it
+
+169
+00:10:27,560 --> 00:10:30,280
+as Nita Lowey did last summer,
+this is how it goes.
+
+170
+00:10:30,800 --> 00:10:33,880
+Let's support research
+to prevent gun violence,
+
+171
+00:10:34,200 --> 00:10:37,840
+protect our communities
+and save lives. Thank you.
+
+172
+00:10:38,680 --> 00:10:42,000
+The question is on the Lowey
+amendment. All in favor say aye.
+
+173
+00:10:42,080 --> 00:10:43,280
+Aye.
+
+174
+00:10:43,360 --> 00:10:45,320
+- All opposed say no.
+- No.
+
+175
+00:10:45,400 --> 00:10:48,000
+The no's have it.
+The amendment is not agreed to.
+
+176
+00:10:50,200 --> 00:10:52,600
+It's like watching
+a committee of deer
+
+177
+00:10:52,680 --> 00:10:56,080
+voting against investigating
+the effects of oncoming cars.
+
+178
+00:10:56,400 --> 00:11:01,120
+"Let's stand still. I like our chances.
+And those headlights are shiny."
+
+179
+00:11:02,200 --> 00:11:05,040
+And if you're thinking,
+"I'm sure, after Orlando,"
+
+180
+00:11:05,120 --> 00:11:09,280
+"if someone tries that they'll succeed
+'cause we're all paying attention".
+
+181
+00:11:09,360 --> 00:11:11,120
+Here's the thing about that...
+
+182
+00:11:11,200 --> 00:11:15,880
+Representative Tony Cardenas tried to
+overturn it again just this Wednesday,
+
+183
+00:11:15,960 --> 00:11:19,560
+with an amendment to a mentalhealth
+bill, and this was the result.
+
+184
+00:11:20,040 --> 00:11:22,440
+- All those in favor will say aye.
+- Aye.
+
+185
+00:11:22,920 --> 00:11:25,040
+- All those opposed say no.
+- No.
+
+186
+00:11:25,280 --> 00:11:26,440
+The no's have it.
+
+187
+00:11:27,480 --> 00:11:31,240
+Are you fucking kidding me ?
+That happened four days ago.
+
+188
+00:11:31,480 --> 00:11:35,000
+I'm guessing that you're hearing
+about it for the first time now.
+
+189
+00:11:35,080 --> 00:11:37,840
+To be honest,
+we only found out about it yesterday.
+
+190
+00:11:37,920 --> 00:11:40,400
+And we've been working
+on this story all week.
+
+191
+00:11:40,480 --> 00:11:45,360
+The Dickey amendment is emblematic
+of a chokehold the NRA has
+
+192
+00:11:45,440 --> 00:11:47,480
+over even basic gun data.
+
+193
+00:11:47,600 --> 00:11:49,840
+And it should obviously
+be overturned.
+
+194
+00:11:49,920 --> 00:11:54,200
+But the hard truth is, NRA members
+seem to care more consistently
+
+195
+00:11:54,280 --> 00:11:58,120
+about preventing gun control
+than most of us do about passing it.
+
+196
+00:11:58,440 --> 00:12:01,280
+While you might be
+focused on gun control now,
+
+197
+00:12:01,360 --> 00:12:04,040
+they were focused on it
+two weeks before Orlando,
+
+198
+00:12:04,160 --> 00:12:07,080
+and they'll still be focused
+on it two weeks from now.
+
+199
+00:12:07,160 --> 00:12:08,240
+Here I would say:
+
+200
+00:12:08,360 --> 00:12:12,760
+"Tell your senator and representative
+to repeal the Dickey amendment".
+
+201
+00:12:12,840 --> 00:12:15,480
+And you should absolutely do that
+if you want to.
+
+202
+00:12:15,560 --> 00:12:18,080
+But you are going to need to do
+more than that.
+
+203
+00:12:18,160 --> 00:12:21,800
+You're going to need to call them
+and "remind" them to repeal it.
+
+204
+00:12:22,000 --> 00:12:23,920
+Then call them on their birthday:
+
+205
+00:12:24,000 --> 00:12:27,200
+"Happy birthday and also get rid
+of the Dickey amendment."
+
+206
+00:12:27,280 --> 00:12:30,280
+Call them on Arbor Day and say:
+"Happy Arbor Day !"
+
+207
+00:12:30,360 --> 00:12:33,080
+"What's going on
+with that Dickey amendment ?"
+
+208
+00:12:33,320 --> 00:12:37,400
+Call them on days
+where there wasn't a mass shooting,
+
+209
+00:12:37,480 --> 00:12:41,200
+and say: "What the fuck's up
+with the Dickey amendment ?"
+
+210
+00:12:41,800 --> 00:12:45,760
+Repealing it is not asking much.
+It's not gun control.
+
+211
+00:12:46,080 --> 00:12:48,880
+It's enabling us
+to have an informed conversation
+
+212
+00:12:48,960 --> 00:12:51,000
+about what that could look like.
+
+213
+00:12:51,080 --> 00:12:53,560
+If and when a proposal
+you like is on the table,
+
+214
+00:12:53,680 --> 00:12:56,480
+you're going to have
+to make all those calls again.
+
+215
+00:12:56,560 --> 00:13:00,040
+Because remember, it doesn't take
+much to outnumber the NRA.
+
+216
+00:13:00,360 --> 00:13:03,240
+Planet Fitness members
+outnumber them.
+
+217
+00:13:03,680 --> 00:13:06,960
+But it is time for us to learn
+what those members haven't:
+
+218
+00:13:07,080 --> 00:13:11,920
+if you want to see serious changes,
+you have to show up every fucking day.
+
+219
+00:13:12,800 --> 00:13:13,960
+And now, this.
+
+220
+00:13:15,080 --> 00:13:18,360
+And now, 60 Minutes anchors
+are still prompting people
+
+221
+00:13:18,440 --> 00:13:21,000
+to deliver
+the exact sound bite they need.
+
+222
+00:13:21,880 --> 00:13:25,480
+He's a notorious
+tunnel manufacturer and architect.
+
+223
+00:13:25,560 --> 00:13:26,880
+The tunnel king.
+
+224
+00:13:26,960 --> 00:13:29,680
+Not without controversy.
+
+225
+00:13:29,760 --> 00:13:32,080
+A collector of trophies.
+
+226
+00:13:32,480 --> 00:13:33,640
+Dirty money.
+
+227
+00:13:34,040 --> 00:13:35,640
+Bad actors.
+
+228
+00:13:36,040 --> 00:13:37,400
+Both are false.
+
+229
+00:13:37,720 --> 00:13:39,480
+Not the varsity team.
+
+230
+00:13:39,800 --> 00:13:41,720
+East German secret police.
+
+231
+00:13:42,040 --> 00:13:44,280
+Alarms were going off.
+
+232
+00:13:44,440 --> 00:13:46,480
+Took 16 years.
+
+233
+00:13:46,760 --> 00:13:48,840
+- You were Cockney...
+- I was a Cockney.
+
+234
+00:13:49,160 --> 00:13:51,360
+The class system
+was that rigid...
+
+235
+00:13:51,680 --> 00:13:54,520
+Just accept that.
+They're going to get in.
+
+236
+00:13:54,800 --> 00:13:56,760
+Didn't want to get his pants dirty.
+
+237
+00:13:56,840 --> 00:13:58,160
+The doo-wop.
+
+238
+00:13:58,240 --> 00:13:59,560
+You touch it.
+
+239
+00:13:59,640 --> 00:14:00,960
+And then they go home.
+
+240
+00:14:01,080 --> 00:14:02,120
+F-bird.
+
+241
+00:14:02,200 --> 00:14:03,640
+That's what happened.
+
+242
+00:14:04,600 --> 00:14:05,920
+Just like that.
+
+243
+00:14:06,320 --> 00:14:08,440
+- Nailed it ?
+- Nailed it.
+
+244
+00:14:11,800 --> 00:14:17,080
+Moving on: our main story
+tonight concerns the United Kingdom.
+
+245
+00:14:17,320 --> 00:14:20,760
+Birthplace of the Beatles and yet
+very much the world's Ringo.
+
+246
+00:14:22,480 --> 00:14:27,960
+On Thursday, the UK faces an in-out
+referendum on whether to leave the EU.
+
+247
+00:14:28,080 --> 00:14:32,560
+Incidentally, an "in-out referendum"
+is what most English people call sex:
+
+248
+00:14:33,400 --> 00:14:36,680
+I say, that was a jolly good
+in-out referendum, Priscilla.
+
+249
+00:14:37,040 --> 00:14:39,840
+Capital stuff, old girl !
+Simply capital !
+
+250
+00:14:41,960 --> 00:14:44,520
+You may not have heard
+about this referendum,
+
+251
+00:14:44,600 --> 00:14:48,640
+unless you watch financial networks,
+it's referred to by a catchy name.
+
+252
+00:14:48,880 --> 00:14:52,640
+A lot of fear in the marketplace about
+the Brexit vote.
+
+253
+00:14:52,720 --> 00:14:54,640
+Brexit fear is getting traction.
+
+254
+00:14:54,760 --> 00:14:57,720
+A new survey
+focuses on Brexit fears.
+
+255
+00:14:57,840 --> 00:14:59,960
+Brexit is one of the major concerns.
+
+256
+00:15:00,080 --> 00:15:03,640
+I think that the scariest thing
+about Brexit is the name Brexit.
+
+257
+00:15:04,000 --> 00:15:10,080
+Because it's unknown. It's like:
+Brexit, be afraid, conjuring Brexit.
+
+258
+00:15:10,840 --> 00:15:15,160
+Okay, calm down.
+"Brexit" doesn't sound scary.
+
+259
+00:15:15,240 --> 00:15:18,720
+It just sounds like a shitty
+granola bar you buy at the airport:
+
+260
+00:15:19,080 --> 00:15:21,360
+this tastes like
+a preserved owl pellet.
+
+261
+00:15:21,440 --> 00:15:24,360
+Fuck it, I'm going to Cinnabon,
+you pushed me into it !
+
+262
+00:15:24,600 --> 00:15:28,400
+If you are watching this outside the
+UK, you're probably thinking:
+
+263
+00:15:28,600 --> 00:15:31,560
+Why should I care about what
+Britain does with the EU ?
+
+264
+00:15:31,720 --> 00:15:35,440
+As long as those crooked-toothed
+scone goblins keep shooting out
+
+265
+00:15:35,520 --> 00:15:37,520
+royal babies
+and "Doctor Who",
+
+266
+00:15:37,600 --> 00:15:40,280
+I don't give a tally-ho fuck
+what happens there.
+
+267
+00:15:40,360 --> 00:15:41,680
+And fair enough.
+
+268
+00:15:41,760 --> 00:15:46,520
+But a "Brexit", or British exit,
+could have wide-ranging implications,
+
+269
+00:15:46,600 --> 00:15:48,840
+for the UK
+and the world's economy.
+
+270
+00:15:48,920 --> 00:15:52,600
+It might help to understand what
+the European Union actually is.
+
+271
+00:15:52,680 --> 00:15:55,320
+The idea for it came after
+the Second World War,
+
+272
+00:15:55,400 --> 00:16:00,120
+a desire to keep the continent
+from tearing itself apart yet again.
+
+273
+00:16:00,480 --> 00:16:04,080
+It has since evolved into an economic
+union of 28 countries,
+
+274
+00:16:04,160 --> 00:16:07,360
+whose citizens can trade
+and move freely across borders,
+
+275
+00:16:07,440 --> 00:16:10,440
+and who negotiate international
+agreements as a bloc.
+
+276
+00:16:10,640 --> 00:16:15,800
+Britain has always had an arm's
+length relationship with the EU.
+
+277
+00:16:15,880 --> 00:16:19,160
+It doesn't use the Euro,
+some British politicians
+
+278
+00:16:19,240 --> 00:16:23,040
+have been openly hostile,
+right to the face of EU officials.
+
+279
+00:16:23,280 --> 00:16:28,200
+I don't want to be rude, but you
+have the charisma of a damp rag
+
+280
+00:16:28,280 --> 00:16:30,880
+and the appearance
+of a low-grade bank clerk.
+
+281
+00:16:31,160 --> 00:16:34,600
+And the question that I want to
+ask, that we're all going to ask,
+
+282
+00:16:34,680 --> 00:16:35,880
+is who are you ?!
+
+283
+00:16:36,280 --> 00:16:40,080
+I'd never heard of you. Nobody in
+Europe had ever heard of you.
+
+284
+00:16:40,760 --> 00:16:44,200
+That is painful to watch,
+and not just because
+
+285
+00:16:44,280 --> 00:16:47,960
+all of those insults are things people
+in the UK have said about me.
+
+286
+00:16:49,200 --> 00:16:51,880
+The EU is not perfect.
+
+287
+00:16:52,080 --> 00:16:55,560
+It's large, confounding
+and relentlessly bureaucratic.
+
+288
+00:16:55,680 --> 00:16:57,640
+Think of it like Gerard Depardieu:
+
+289
+00:16:57,880 --> 00:17:02,000
+it's an unwieldy European body
+that's a source of great bewilderment.
+
+290
+00:17:03,160 --> 00:17:07,160
+But Britain leaving it would be
+a huge, destabilizing decision.
+
+291
+00:17:07,280 --> 00:17:11,320
+So you would expect the Brexit camp
+to have some pretty solid arguments.
+
+292
+00:17:11,480 --> 00:17:15,360
+Many of them are bullshit.
+One of the most popular
+
+293
+00:17:15,440 --> 00:17:18,880
+involves the financial contributions
+Britain makes to the EU.
+
+294
+00:17:18,960 --> 00:17:22,640
+We've got an opportunity to take
+back control in this country
+
+295
+00:17:22,720 --> 00:17:25,920
+of huge sums of money that
+we send every year to Brussels,
+
+296
+00:17:26,040 --> 00:17:29,160
+about 350 million pounds a week.
+
+297
+00:17:29,480 --> 00:17:32,400
+That is former London mayor
+Boris Johnson,
+
+298
+00:17:32,520 --> 00:17:37,040
+a man with look and economic insight
+of Bam-Bam from the Flintstones.
+
+299
+00:17:38,200 --> 00:17:42,960
+He has even been driven around
+in a giant red bus,
+
+300
+00:17:43,080 --> 00:17:48,680
+with the words "we send the EU 350
+million pounds a week" written.
+
+301
+00:17:48,920 --> 00:17:51,560
+But that number has been
+thoroughly debunked.
+
+302
+00:17:51,640 --> 00:17:54,280
+It's actually about 190 million
+pounds a week,
+
+303
+00:17:54,360 --> 00:17:58,360
+when you consider a rebate and
+money that the EU sends back.
+
+304
+00:17:58,440 --> 00:18:03,200
+If Britain does leave the EU it may
+have to spend close to that amount
+
+305
+00:18:03,280 --> 00:18:05,240
+just to access the common market.
+
+306
+00:18:05,360 --> 00:18:10,840
+What the bus should say is:
+"we send EU 190 million pounds a week"
+
+307
+00:18:10,920 --> 00:18:14,240
+"which as a proportion of our
+GDP makes sound fiscal sense."
+
+308
+00:18:14,320 --> 00:18:18,080
+"Considering the benefits we reap,
+we're running out of bus ! Bye !"
+
+309
+00:18:19,360 --> 00:18:23,880
+One of the other main talking
+points from pro-Brexit campaigners
+
+310
+00:18:23,960 --> 00:18:26,280
+has been
+the EU's onerous regulations.
+
+311
+00:18:26,360 --> 00:18:29,560
+It's even a centerpiece
+of the pro-Brexit movie,
+
+312
+00:18:29,920 --> 00:18:31,320
+"Brexit: The Movie".
+
+313
+00:18:32,080 --> 00:18:35,560
+Here is regulated EU man,
+waking from his regulated slumber
+
+314
+00:18:35,680 --> 00:18:37,240
+to start his regulated day.
+
+315
+00:18:38,240 --> 00:18:42,200
+You wouldn't think you'd need
+a law for pillowcases, EU has five.
+
+316
+00:18:42,760 --> 00:18:47,680
+But that's nothing. The pillow inside
+is subject to 109 different EU laws.
+
+317
+00:18:47,840 --> 00:18:50,960
+But is it, though ?
+Because we blew up that frame,
+
+318
+00:18:51,080 --> 00:18:54,680
+and then went looking through
+each of the pillow regulations.
+
+319
+00:18:54,840 --> 00:18:58,480
+Most have nothing
+to do with actual pillows.
+
+320
+00:18:58,600 --> 00:19:04,440
+This is a classification of a type of
+cereal that comes in "pillow shapes".
+
+321
+00:19:04,840 --> 00:19:08,440
+This one is related to a merger
+between two auto-part companies
+
+322
+00:19:08,520 --> 00:19:11,200
+that included
+the phrase "pillow ball joints",
+
+323
+00:19:11,280 --> 00:19:14,120
+and this one uses the word
+"pillow" in reference
+
+324
+00:19:14,200 --> 00:19:16,520
+to this weird foot pump thing,
+
+325
+00:19:16,680 --> 00:19:19,520
+which is supposedly for
+inflating air mattresses
+
+326
+00:19:19,600 --> 00:19:21,880
+but is clearly a sex doll
+for a platypus.
+
+327
+00:19:22,360 --> 00:19:26,840
+It's so obvious
+what that actually is.
+
+328
+00:19:27,800 --> 00:19:32,200
+It seems the benefits of leaving
+may be overstated.
+
+329
+00:19:32,400 --> 00:19:37,040
+There's a great many people
+warning about a real downside.
+
+330
+00:19:37,240 --> 00:19:41,520
+President Obama is against Britain
+leaving. So is China. So is Japan.
+
+331
+00:19:41,800 --> 00:19:44,360
+So is India. And the EU itself.
+
+332
+00:19:44,520 --> 00:19:49,040
+One Austrian politician tried to
+convince Britain with a poem.
+
+333
+00:19:49,600 --> 00:19:52,920
+The Brexit is, to put it simple,
+not like an ordinary pimple
+
+334
+00:19:53,160 --> 00:19:56,720
+you take some cream, put it on,
+a few days later it is gone.
+
+335
+00:19:57,200 --> 00:20:00,920
+It is a complicated matter
+more like a novel, not a letter.
+
+336
+00:20:01,720 --> 00:20:04,520
+To understand the story
+well you've got to listen,
+
+337
+00:20:04,600 --> 00:20:08,680
+I will tell you what may happen
+so sit back, and let me rappin'.
+
+338
+00:20:14,600 --> 00:20:21,080
+Cool. Come on, Britain,
+if a middle-aged Austrian bureaucrat
+
+339
+00:20:21,160 --> 00:20:24,000
+spitting dope half-rhymes
+in a busy hallway,
+
+340
+00:20:24,120 --> 00:20:26,600
+if he does not win you over,
+nobody will.
+
+341
+00:20:27,840 --> 00:20:31,840
+There's also overwhelming consensus
+about the damage Britain could do
+
+342
+00:20:31,920 --> 00:20:33,520
+to its economy by leaving.
+
+343
+00:20:33,680 --> 00:20:36,960
+Reports by the British
+Treasury, the Bank of England,
+
+344
+00:20:37,040 --> 00:20:41,960
+the IMF, the OECD, National Institute
+of Economic and Social Research,
+
+345
+00:20:42,040 --> 00:20:44,280
+Price Waterhouse,
+Oxford Economics,
+
+346
+00:20:44,360 --> 00:20:47,160
+Centre for Economic
+Performance have predicted
+
+347
+00:20:47,240 --> 00:20:50,640
+that leaving would have a negative
+effect on the British GDP.
+
+348
+00:20:50,760 --> 00:20:54,160
+The pro-Brexit camp's
+response to that has not been great.
+
+349
+00:20:54,720 --> 00:20:57,720
+People in this country
+have had enough of experts
+
+350
+00:20:57,800 --> 00:21:01,920
+with organizations from acronyms
+saying...
+
+351
+00:21:02,640 --> 00:21:07,560
+Saying that they know what is best
+and getting it consistently wrong.
+
+352
+00:21:08,040 --> 00:21:12,360
+Yes, fuck these eggheads
+with their studies and degrees !
+
+353
+00:21:12,960 --> 00:21:17,320
+I get my economic forecasts from
+Otis, the GDP predictin' horse !
+
+354
+00:21:19,160 --> 00:21:24,360
+You may be wondering: if leaving
+is so universally seen as a bad idea,
+
+355
+00:21:24,600 --> 00:21:26,640
+then who the
+fuck is in favor of it ?
+
+356
+00:21:27,000 --> 00:21:31,160
+Let me introduce you to one of the
+leading groups backing a Brexit,
+
+357
+00:21:31,280 --> 00:21:34,960
+the UK Independence Party,
+also called UKIP.
+
+358
+00:21:35,320 --> 00:21:38,440
+Their leader is Nigel Farage,
+that man you saw earlier
+
+359
+00:21:38,520 --> 00:21:43,040
+at the Roast of European Council
+President Herman van Rompoy.
+
+360
+00:21:44,040 --> 00:21:47,880
+UKIP is known for its hardline
+anti-immigration views
+
+361
+00:21:47,960 --> 00:21:51,120
+and some of its members
+have engaged in outright racism.
+
+362
+00:21:51,200 --> 00:21:54,280
+Look at Robert Blay,
+a UKIP candidate for parliament,
+
+363
+00:21:54,360 --> 00:21:57,440
+who was suspended after a tabloid
+caught him saying this
+
+364
+00:21:57,520 --> 00:21:59,600
+about a rival
+of Sri Lankan descent.
+
+365
+00:22:00,240 --> 00:22:02,920
+His family's only been
+here since the seventies.
+
+366
+00:22:03,000 --> 00:22:06,120
+You are not British enough
+to be in our parliament.
+
+367
+00:22:06,640 --> 00:22:11,040
+"Not British enough
+to be in our parliament" ?
+
+368
+00:22:11,360 --> 00:22:13,440
+He's talking about a British citizen
+
+369
+00:22:13,520 --> 00:22:16,160
+who was born in London
+and raised in Hampshire !
+
+370
+00:22:16,240 --> 00:22:21,040
+How is that not "British enough" ?
+Must he literally be a monocle badger
+
+371
+00:22:21,120 --> 00:22:23,760
+named Reginald
+who lives in a Shepherd's pie ?
+
+372
+00:22:24,200 --> 00:22:26,320
+Is that the bar of entry to him ?
+
+373
+00:22:27,560 --> 00:22:33,320
+UKIP has had councilors like this
+woman, on a district council in Kent.
+
+374
+00:22:33,920 --> 00:22:37,120
+I have to watch my tongue,
+because I can be very outspoken,
+
+375
+00:22:37,560 --> 00:22:39,320
+and it goes against the grain.
+
+376
+00:22:39,400 --> 00:22:43,560
+The only people I do have
+problems with are negroes.
+
+377
+00:22:45,200 --> 00:22:46,880
+And I don't know why.
+
+378
+00:22:48,920 --> 00:22:51,160
+Let's agree, it is now official:
+
+379
+00:22:51,360 --> 00:22:54,240
+not everything sounds
+smarter in a British accent.
+
+380
+00:22:54,480 --> 00:22:59,160
+It is absolutely, 100% official.
+
+381
+00:23:00,920 --> 00:23:04,720
+What you heard is horrifying,
+but at least we can all rest easy
+
+382
+00:23:04,800 --> 00:23:07,800
+knowing that, as she speaks,
+that shelf full of clowns
+
+383
+00:23:07,880 --> 00:23:10,760
+is plotting to carry her away
+into the night forever.
+
+384
+00:23:12,040 --> 00:23:15,680
+But even when UKIP candidates
+are caught making racist comments,
+
+385
+00:23:15,760 --> 00:23:18,800
+Farage has stood by them,
+look at Kerry Smith,
+
+386
+00:23:18,920 --> 00:23:21,480
+who used a racial slur
+about Chinese people.
+
+387
+00:23:21,600 --> 00:23:25,600
+A term I'm not going to use,
+because I'm not a candidate for UKIP.
+
+388
+00:23:26,200 --> 00:23:28,960
+But Nigel Farage
+did not exactly condemn him.
+
+389
+00:23:29,520 --> 00:23:33,160
+If you were going out for Chinese,
+what do you say you're going for ?
+
+390
+00:23:33,320 --> 00:23:35,880
+I would not use
+the word chinky, would you ?
+
+391
+00:23:35,960 --> 00:23:38,280
+No, but a lot of people would.
+
+392
+00:23:39,360 --> 00:23:43,320
+Yeah, a lot of people would.
+Racists, for example. Bigots.
+
+393
+00:23:43,520 --> 00:23:46,200
+Idiots, the intolerant...
+Who am I missing here ?
+
+394
+00:23:46,280 --> 00:23:49,320
+Yeah, UKIP voters.
+Them, as well. A lot of people would.
+
+395
+00:23:49,880 --> 00:23:54,760
+UKIP argue that a Brexit would
+enable the UK to reduce immigration,
+
+396
+00:23:54,920 --> 00:23:57,960
+preventing both EU citizens
+from taking British jobs
+
+397
+00:23:58,040 --> 00:24:01,560
+and non-EU citizens from sneaking
+in to commit terror attacks.
+
+398
+00:24:01,640 --> 00:24:06,480
+They have not been subtle,
+with toxic posters like this one,
+
+399
+00:24:06,600 --> 00:24:10,200
+showing lines of refugees and
+the headline "Breaking Point".
+
+400
+00:24:10,520 --> 00:24:12,760
+It is hard for me to overstate to you
+
+401
+00:24:12,960 --> 00:24:15,520
+how poisonous things have
+become in England.
+
+402
+00:24:15,760 --> 00:24:20,440
+MP Jo Cox was killed in the street,
+and the man charged for it
+
+403
+00:24:20,520 --> 00:24:24,800
+gave his name in court as "death
+to traitors, freedom for Britain".
+
+404
+00:24:25,160 --> 00:24:29,560
+In that cauldron, people are being
+asked to make a major decision.
+
+405
+00:24:29,880 --> 00:24:32,160
+Incidentally, regarding immigration,
+
+406
+00:24:32,240 --> 00:24:36,000
+even if you believe tightening borders
+is what Britain needs to do,
+
+407
+00:24:36,160 --> 00:24:41,680
+opting out of the EU will not
+enable Britain to do that.
+
+408
+00:24:41,960 --> 00:24:45,360
+Leaving the EU, does that mean
+UK gets control of its borders ?
+
+409
+00:24:45,440 --> 00:24:49,360
+It could do, if we cut ourselves
+off from the rest of Europe.
+
+410
+00:24:49,520 --> 00:24:53,560
+We could choose to end migration.
+But if we remain part of the market,
+
+411
+00:24:53,640 --> 00:24:57,320
+that means accepting
+free mobility of labor.
+
+412
+00:24:57,720 --> 00:25:01,680
+If Britain wants a good trade
+deal with the EU,
+
+413
+00:25:01,760 --> 00:25:04,400
+it's going to have to abide
+by most of its rules.
+
+414
+00:25:04,480 --> 00:25:07,960
+And the same goes for all
+those hypothetically cumbersome,
+
+415
+00:25:08,040 --> 00:25:10,440
+non-pillow-related
+pillow regulations.
+
+416
+00:25:10,720 --> 00:25:13,320
+If British companies want
+to trade with the EU,
+
+417
+00:25:13,400 --> 00:25:17,480
+they also are going to have to abide
+by those rules anyway.
+
+418
+00:25:17,560 --> 00:25:23,560
+So, it's not a Brexit so much as it's
+a "Bratus Quo", or a "Bromeostasis",
+
+419
+00:25:23,720 --> 00:25:25,680
+or a "Conscious Unbroupling".
+
+420
+00:25:26,800 --> 00:25:29,760
+So, to recap:
+immigration policy may not change,
+
+421
+00:25:29,840 --> 00:25:32,240
+hysteria overregulation
+is a red herring,
+
+422
+00:25:32,320 --> 00:25:37,040
+and the economic benefits of
+staying appear to outweigh the costs.
+
+423
+00:25:37,120 --> 00:25:43,400
+And yet, polls suggest my homeland is
+on the edge of doing something insane.
+
+424
+00:25:43,760 --> 00:25:47,000
+And on some level,
+I actually kind of understand.
+
+425
+00:25:47,200 --> 00:25:52,240
+There is an innate British desire to
+tell Europe to go fuck itself.
+
+426
+00:25:53,040 --> 00:25:54,200
+I feel it, too...
+
+427
+00:25:55,440 --> 00:25:59,040
+You know those things I say when
+countries pop up over my shoulder ?
+
+428
+00:25:59,120 --> 00:26:02,240
+That's a reflex action.
+I don't even know I'm doing it.
+
+429
+00:26:02,560 --> 00:26:05,920
+I'll show you: Germany:
+where the national motto is:
+
+430
+00:26:06,000 --> 00:26:08,200
+"let's stick
+to the present, shall we ?"
+
+431
+00:26:08,480 --> 00:26:11,200
+Okay, give me another one.
+Luxembourg !
+
+432
+00:26:11,480 --> 00:26:15,080
+What happens when you leave
+Lichtenstein out in the sun too long.
+
+433
+00:26:15,240 --> 00:26:17,320
+Okay, give me another one.
+Belgium !
+
+434
+00:26:17,400 --> 00:26:21,280
+The casual acquaintance France
+crops out of its Instagram photos.
+
+435
+00:26:21,640 --> 00:26:23,520
+One more.
+I'm on a roll, one more.
+
+436
+00:26:23,600 --> 00:26:26,880
+Denmark: what would happen if
+a suicide note was a country.
+
+437
+00:26:27,120 --> 00:26:31,240
+I don't even know I'm doing these
+and I could do them all day.
+
+438
+00:26:31,880 --> 00:26:35,760
+The EU does not make
+itself easy to love.
+
+439
+00:26:36,000 --> 00:26:38,760
+Its official anthem is
+Beethoven's "Ode to Joy"
+
+440
+00:26:38,920 --> 00:26:42,760
+and they actually had a competition
+to do a video, set to that tune.
+
+441
+00:26:43,240 --> 00:26:45,520
+You really have to see what won.
+
+442
+00:26:54,440 --> 00:26:57,280
+Fuck you.
+Fuck you all forever.
+
+443
+00:26:58,240 --> 00:27:01,640
+You fuck yourself,
+you go fuck yourself right now !
+
+444
+00:27:06,600 --> 00:27:11,520
+It is perfectly understandable
+to be annoyed at Europe.
+
+445
+00:27:11,600 --> 00:27:13,960
+I'm barely containing
+my anger right now.
+
+446
+00:27:14,760 --> 00:27:19,400
+But here is how I feel about the EU:
+it's a complicated, bureaucratic,
+
+447
+00:27:19,480 --> 00:27:24,440
+ambitious, overbearing, inspirational,
+consistently irritating institution
+
+448
+00:27:24,680 --> 00:27:27,680
+and Britain would be
+absolutely crazy to leave it.
+
+449
+00:27:28,040 --> 00:27:32,120
+Especially because, if it stays,
+it can reap all the benefits,
+
+450
+00:27:32,280 --> 00:27:37,320
+while still being a dick about
+everything, that is the British way.
+
+451
+00:27:38,960 --> 00:27:42,080
+So, to the people of the UK,
+I say this:
+
+452
+00:27:42,240 --> 00:27:46,360
+if you need your "hatred of the EU"
+itch scratched, I understand.
+
+453
+00:27:46,560 --> 00:27:51,440
+Don't vote for a Brexit.
+I have a better solution.
+
+454
+00:27:51,680 --> 00:27:54,800
+I'd like to retroactively
+enter that EU anthem contest,
+
+455
+00:27:54,880 --> 00:27:57,600
+with a song straight out
+of every British heart,
+
+456
+00:27:57,800 --> 00:28:04,280
+that insults Europe and acknowledges
+how lost we'd be without it.
+
+457
+00:28:04,720 --> 00:28:06,040
+Please, enjoy.
+
+458
+00:28:14,160 --> 00:28:17,800
+Fuck you, European Union,
+
+459
+00:28:18,040 --> 00:28:21,440
+tally-ho, you fucking pricks.
+
+460
+00:28:21,960 --> 00:28:25,560
+We are the United Kingdom
+
+461
+00:28:25,640 --> 00:28:29,320
+you can eat our spotted dicks !
+
+462
+00:28:29,720 --> 00:28:35,360
+That being said, we're not going to
+leave you, turns out we need you.
+
+463
+00:28:35,440 --> 00:28:37,080
+Nonetheless...
+
+464
+00:28:37,440 --> 00:28:44,200
+Fuck you, European Union,
+it feels good to tell you this !
+
+465
+00:28:44,960 --> 00:28:51,680
+Poland is depressing,
+and there's vampires in Romania,
+
+466
+00:28:52,320 --> 00:28:59,000
+Spain is far too hot
+and where the fuck is Lithuania ?
+
+467
+00:28:59,680 --> 00:29:06,520
+To be fair, Slovenia is lovely,
+we're only kidding, it sucks too,
+
+468
+00:29:07,200 --> 00:29:09,480
+but we must admit,
+
+469
+00:29:09,640 --> 00:29:14,400
+without these countries
+we'd be really screwed.
+
+470
+00:29:14,760 --> 00:29:21,560
+Fuck the European Union,
+even though we must admit
+
+471
+00:29:22,080 --> 00:29:28,960
+we would all be batshit crazy
+if we vote for leaving it.
+
+472
+00:29:29,560 --> 00:29:33,240
+We would all be batshit crazy,
+
+473
+00:29:33,360 --> 00:29:39,560
+if we vote for leaving it.
+
+474
+00:29:42,600 --> 00:29:47,120
+That's our show !
+We'll be back next week. Good night !
+
+475
+00:29:47,760 --> 00:29:50,440
+END OF EPISODE 16,
+SEASON III

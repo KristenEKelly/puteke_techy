@@ -1,0 +1,4343 @@
+1
+00:00:30,478 --> 00:00:31,647
+Welcome, welcome,
+
+2
+00:00:31,713 --> 00:00:32,682
+welcome to "last week tonight."
+
+3
+00:00:32,748 --> 00:00:34,185
+I'm John Oliver, thank you so
+
+4
+00:00:34,251 --> 00:00:38,092
+much for joining us.
+
+5
+00:00:38,158 --> 00:00:40,963
+We are back, we're back.
+
+6
+00:00:41,030 --> 00:00:43,735
+There is no time,
+
+7
+00:00:43,801 --> 00:00:44,303
+there's no time to get into
+
+8
+00:00:44,369 --> 00:00:45,639
+everything we missed over the
+
+9
+00:00:45,706 --> 00:00:46,240
+last three months, suffice to
+
+10
+00:00:46,307 --> 00:00:47,342
+say, every single person in
+
+11
+00:00:47,409 --> 00:00:48,076
+America is now running for
+
+12
+00:00:48,143 --> 00:00:49,713
+president, Jeff bezos told us
+
+13
+00:00:49,779 --> 00:00:51,116
+all to keep an eye out for his
+
+14
+00:00:51,182 --> 00:00:51,684
+dick pic, and of course, the
+
+15
+00:00:51,750 --> 00:00:56,526
+president has been very busy.
+
+16
+00:00:56,593 --> 00:00:57,761
+He famously posed with a feast
+
+17
+00:00:57,827 --> 00:00:58,730
+of 300 hamburgers -- or as he
+
+18
+00:00:58,796 --> 00:01:00,700
+put it, "over 1,000 hamberders."
+
+19
+00:01:00,767 --> 00:01:01,869
+And on Christmas Eve, he spoke
+
+20
+00:01:01,935 --> 00:01:03,404
+to a seven-year-old and said
+
+21
+00:01:03,471 --> 00:01:04,940
+this.
+
+22
+00:01:05,007 --> 00:01:08,414
+Are you still a believer in
+
+23
+00:01:08,481 --> 00:01:09,683
+Santa?
+
+24
+00:01:09,750 --> 00:01:10,918
+'Cause at seven, it's marginal,
+
+25
+00:01:10,985 --> 00:01:12,087
+right?
+
+26
+00:01:13,289 --> 00:01:14,158
+Yeah, that's the
+
+27
+00:01:14,224 --> 00:01:15,528
+President of the United States
+
+28
+00:01:15,594 --> 00:01:17,330
+ruining Santa for a child on
+
+29
+00:01:17,397 --> 00:01:19,468
+December 24th, which is actually
+
+30
+00:01:19,535 --> 00:01:25,111
+perfectly on-brand.
+
+31
+00:01:25,178 --> 00:01:26,581
+Because if there's one thing
+
+32
+00:01:26,648 --> 00:01:27,916
+trump is good at, it's fucking
+
+33
+00:01:27,982 --> 00:01:29,018
+up children forever.
+
+34
+00:01:29,084 --> 00:01:30,187
+But the major drama since we
+
+35
+00:01:30,254 --> 00:01:30,955
+left has been president trump's
+
+36
+00:01:31,022 --> 00:01:31,990
+repeated attempts to get
+
+37
+00:01:32,057 --> 00:01:32,959
+congress to fund his border
+
+38
+00:01:33,026 --> 00:01:33,960
+wall, including shutting the
+
+39
+00:01:34,027 --> 00:01:35,263
+government down for nearly a
+
+40
+00:01:35,330 --> 00:01:36,232
+month, and this Friday, he tried
+
+41
+00:01:36,299 --> 00:01:38,703
+a new approach.
+
+42
+00:01:38,770 --> 00:01:39,838
+Underway right now,
+
+43
+00:01:39,904 --> 00:01:41,274
+president trump declares a
+
+44
+00:01:41,341 --> 00:01:42,376
+national emergency in an attempt
+
+45
+00:01:42,443 --> 00:01:43,412
+to get billions for a border
+
+46
+00:01:43,478 --> 00:01:44,880
+wall.
+
+47
+00:01:44,947 --> 00:01:46,083
+Yes, according to
+
+48
+00:01:46,150 --> 00:01:47,252
+trump, the border suddenly
+
+49
+00:01:47,319 --> 00:01:48,621
+constitutes a national
+
+50
+00:01:48,688 --> 00:01:50,357
+emergency, or as he might spell
+
+51
+00:01:50,425 --> 00:01:51,326
+it in a tweet, "the berder
+
+52
+00:01:51,392 --> 00:01:52,328
+cornstidutes a nertional
+
+53
+00:01:52,394 --> 00:01:54,833
+ederdency."
+
+54
+00:01:54,899 --> 00:01:56,101
+And to be clear, there is zero
+
+55
+00:01:56,168 --> 00:01:57,036
+actual emergency at the border
+
+56
+00:01:57,103 --> 00:01:58,172
+right now.
+
+57
+00:01:58,239 --> 00:01:59,341
+Illegal crossings have been
+
+58
+00:01:59,374 --> 00:02:01,010
+declining for 20 years.
+
+59
+00:02:01,110 --> 00:02:01,812
+And as we've talked about before
+
+60
+00:02:01,912 --> 00:02:02,814
+on this show, a wall would be
+
+61
+00:02:02,880 --> 00:02:03,481
+expensive and completely
+
+62
+00:02:03,549 --> 00:02:05,585
+ineffective.
+
+63
+00:02:05,652 --> 00:02:06,454
+But putting those aside,
+
+64
+00:02:06,520 --> 00:02:07,789
+declaring a national emergency
+
+65
+00:02:07,856 --> 00:02:10,026
+is a big step.
+
+66
+00:02:10,094 --> 00:02:11,196
+Emergency declarations are meant
+
+67
+00:02:11,263 --> 00:02:12,531
+to temporarily enhance the
+
+68
+00:02:12,598 --> 00:02:13,767
+president's power during a
+
+69
+00:02:13,834 --> 00:02:15,003
+legitimate crisis, so trump
+
+70
+00:02:15,069 --> 00:02:16,472
+needed to sell this as a real
+
+71
+00:02:16,538 --> 00:02:18,208
+emergency.
+
+72
+00:02:18,276 --> 00:02:19,711
+And yet, within minutes of
+
+73
+00:02:19,778 --> 00:02:22,149
+declaring it, he said this.
+
+74
+00:02:22,216 --> 00:02:23,385
+I could do the wall over a
+
+75
+00:02:23,451 --> 00:02:24,553
+longer period of time.
+
+76
+00:02:24,620 --> 00:02:26,123
+I didn't need to do this.
+
+77
+00:02:26,189 --> 00:02:27,626
+But I'd rather do it much
+
+78
+00:02:27,693 --> 00:02:29,162
+faster.
+
+79
+00:02:29,229 --> 00:02:30,196
+Well, it's not an
+
+80
+00:02:30,264 --> 00:02:31,901
+emergency then, is it?
+
+81
+00:02:31,967 --> 00:02:34,003
+Also, for the record, there is
+
+82
+00:02:34,071 --> 00:02:35,875
+no way that's the first time
+
+83
+00:02:35,941 --> 00:02:37,076
+this week trump has claimed, "i
+
+84
+00:02:37,143 --> 00:02:38,211
+could do this over a longer
+
+85
+00:02:38,278 --> 00:02:39,715
+period of time, I'd just rather
+
+86
+00:02:39,782 --> 00:02:41,786
+do it much faster."
+
+87
+00:02:41,852 --> 00:02:43,287
+Happy Valentine's day, you two.
+
+88
+00:02:43,355 --> 00:02:45,992
+#couplegoals.
+
+89
+00:02:46,059 --> 00:02:47,228
+And as if that weren't bad
+
+90
+00:02:47,295 --> 00:02:48,698
+enough, he then responded to
+
+91
+00:02:48,764 --> 00:02:49,866
+this newly declared emergency
+
+92
+00:02:49,934 --> 00:02:51,402
+by, just hours later, flying off
+
+93
+00:02:51,469 --> 00:02:53,105
+to Florida for the weekend,
+
+94
+00:02:53,173 --> 00:02:54,608
+where he's apparently been
+
+95
+00:02:54,675 --> 00:02:55,811
+photographed waiting at an
+
+96
+00:02:55,877 --> 00:02:57,113
+omelet bar.
+
+97
+00:02:57,180 --> 00:02:58,449
+You know, the kind of thing you
+
+98
+00:02:58,515 --> 00:03:01,120
+do when America is in crisis.
+
+99
+00:03:01,187 --> 00:03:02,523
+Now, unsurprisingly, there were
+
+100
+00:03:02,590 --> 00:03:03,592
+legal challenges filed almost
+
+101
+00:03:03,659 --> 00:03:04,894
+instantly, which shocked nobody,
+
+102
+00:03:04,961 --> 00:03:08,200
+including trump himself.
+
+103
+00:03:08,266 --> 00:03:09,570
+And we will have a national
+
+104
+00:03:09,636 --> 00:03:10,939
+emergency, and we will then be
+
+105
+00:03:11,005 --> 00:03:12,775
+sued and they will sue us in the
+
+106
+00:03:12,843 --> 00:03:14,411
+ninth circuit -- even though it
+
+107
+00:03:14,479 --> 00:03:16,047
+shouldn't be there -- and we
+
+108
+00:03:16,115 --> 00:03:18,285
+will possibly get a bad ruling,
+
+109
+00:03:18,352 --> 00:03:20,523
+and then we'll get another bad
+
+110
+00:03:20,590 --> 00:03:22,593
+ruling, and then we'll end up in
+
+111
+00:03:22,660 --> 00:03:24,463
+the supreme court, and hopefully
+
+112
+00:03:24,530 --> 00:03:25,866
+we'll get a fair shake, and
+
+113
+00:03:25,933 --> 00:03:31,242
+we'll win in the supreme court.
+
+114
+00:03:31,308 --> 00:03:32,678
+You know, yet another
+
+115
+00:03:32,745 --> 00:03:33,513
+great reason for trump to not be
+
+116
+00:03:33,580 --> 00:03:34,883
+president is that now I kind of
+
+117
+00:03:34,949 --> 00:03:35,985
+want to see him as a historical
+
+118
+00:03:36,051 --> 00:03:36,987
+expert on the next Ken burns
+
+119
+00:03:37,053 --> 00:03:38,255
+miniseries.
+
+120
+00:03:38,321 --> 00:03:39,691
+"They killed the archduke and
+
+121
+00:03:39,758 --> 00:03:41,227
+Germany got mad, and then there
+
+122
+00:03:41,294 --> 00:03:43,598
+were tanks and also poison gas,
+
+123
+00:03:43,665 --> 00:03:45,068
+and there was a beagle on a
+
+124
+00:03:45,134 --> 00:03:46,570
+doghouse flying around shooting
+
+125
+00:03:46,637 --> 00:03:48,273
+at people, and then America
+
+126
+00:03:48,340 --> 00:03:50,645
+won."
+
+127
+00:03:50,711 --> 00:03:51,847
+Look, there will be plenty more
+
+128
+00:03:51,914 --> 00:03:53,148
+to say about trump's border wall
+
+129
+00:03:53,216 --> 00:03:54,452
+going forward, but for now, I'd
+
+130
+00:03:54,518 --> 00:03:55,854
+voted
+
+131
+00:03:55,922 --> 00:03:56,889
+number one in the world by
+
+132
+00:03:56,956 --> 00:03:58,125
+"places to end your marriage"
+
+133
+00:03:58,192 --> 00:03:59,862
+magazine.
+
+134
+00:03:59,929 --> 00:04:01,565
+Last week, Ikea apologized after
+
+135
+00:04:01,631 --> 00:04:07,308
+making an embarrassing mistake.
+
+136
+00:04:07,375 --> 00:04:08,443
+Ikea is facing criticism
+
+137
+00:04:08,511 --> 00:04:09,479
+after selling a map that had a
+
+138
+00:04:09,545 --> 00:04:10,547
+little something missing.
+
+139
+00:04:10,614 --> 00:04:11,817
+Customers in Washington, D.C.,
+
+140
+00:04:11,884 --> 00:04:13,252
+noticed the $30 map of the world
+
+141
+00:04:13,319 --> 00:04:14,889
+forgot to show New Zealand.
+
+142
+00:04:14,956 --> 00:04:16,659
+It's bad timing for Ikea because
+
+143
+00:04:16,726 --> 00:04:18,596
+the company is in the process of
+
+144
+00:04:18,662 --> 00:04:20,733
+opening its first store there.
+
+145
+00:04:20,800 --> 00:04:23,037
+Oops.
+
+146
+00:04:23,104 --> 00:04:25,174
+Yeah, "oops," indeed.
+
+147
+00:04:25,241 --> 00:04:26,911
+I'm not sure which one is more
+
+148
+00:04:26,978 --> 00:04:28,013
+surprising there, that Ikea
+
+149
+00:04:28,080 --> 00:04:29,282
+forgot New Zealand or that Ikea
+
+150
+00:04:29,349 --> 00:04:31,686
+sells world maps for $30.
+
+151
+00:04:31,753 --> 00:04:33,090
+Bear in mind, you can buy an
+
+152
+00:04:33,156 --> 00:04:34,726
+entire dining room table at Ikea
+
+153
+00:04:34,792 --> 00:04:37,263
+for $39.
+
+154
+00:04:37,329 --> 00:04:38,900
+So by that pricing, a world map
+
+155
+00:04:38,966 --> 00:04:42,406
+should cost negative $40.
+
+156
+00:04:42,506 --> 00:04:43,575
+Now, incredibly, this is not
+
+157
+00:04:43,675 --> 00:04:44,710
+even the first time this has
+
+158
+00:04:44,777 --> 00:04:46,446
+happened to New Zealand.
+
+159
+00:04:46,513 --> 00:04:47,215
+Their prime minister openly
+
+160
+00:04:47,282 --> 00:04:49,619
+complained about it last year.
+
+161
+00:04:49,686 --> 00:04:50,721
+We're not actually on every
+
+162
+00:04:50,788 --> 00:04:52,057
+map that's out there, so...
+
+163
+00:04:52,125 --> 00:04:53,359
+Seriously?
+
+164
+00:04:53,426 --> 00:04:54,094
+No, it's actually a real
+
+165
+00:04:54,161 --> 00:04:55,063
+problem.
+
+166
+00:04:55,130 --> 00:04:56,499
+We've had a campaign around it.
+
+167
+00:04:56,566 --> 00:04:57,500
+Yup, there are maps where we are
+
+168
+00:04:57,567 --> 00:04:58,302
+missing.
+
+169
+00:04:58,368 --> 00:04:59,470
+No!
+
+170
+00:04:59,537 --> 00:05:01,074
+Yes.
+
+171
+00:05:01,141 --> 00:05:02,209
+It's honestly true.
+
+172
+00:05:02,275 --> 00:05:03,244
+New Zealand gets left off maps
+
+173
+00:05:03,311 --> 00:05:04,546
+all the time.
+
+174
+00:05:04,613 --> 00:05:05,615
+Now, do I think that that is
+
+175
+00:05:05,682 --> 00:05:06,317
+funny?
+
+176
+00:05:06,383 --> 00:05:07,552
+Yes.
+
+177
+00:05:07,619 --> 00:05:08,020
+Yes, I do.
+
+178
+00:05:08,087 --> 00:05:08,955
+Yes.
+
+179
+00:05:09,021 --> 00:05:10,057
+New Zealand, a place that's
+
+180
+00:05:10,124 --> 00:05:11,192
+basically Times Square if all
+
+181
+00:05:11,259 --> 00:05:12,361
+the people were sheep and if all
+
+182
+00:05:12,428 --> 00:05:14,364
+the neon signs were also sheep,
+
+183
+00:05:14,431 --> 00:05:16,268
+keeps getting picked never in
+
+184
+00:05:16,335 --> 00:05:18,772
+the dodgeball game of maps.
+
+185
+00:05:18,839 --> 00:05:20,375
+That is objectively funny to me.
+
+186
+00:05:20,442 --> 00:05:22,412
+But this is a surprisingly
+
+187
+00:05:22,479 --> 00:05:23,281
+common occurrence.
+
+188
+00:05:23,348 --> 00:05:24,282
+There's both a subreddit and a
+
+189
+00:05:24,350 --> 00:05:25,485
+tumblr dedicated to collecting
+
+190
+00:05:25,552 --> 00:05:26,587
+examples of maps without
+
+191
+00:05:26,654 --> 00:05:28,257
+New Zealand on them.
+
+192
+00:05:28,323 --> 00:05:29,726
+For example, it's apparently
+
+193
+00:05:29,793 --> 00:05:30,794
+been left out from this textbook
+
+194
+00:05:30,862 --> 00:05:32,031
+illustration, this box from
+
+195
+00:05:32,098 --> 00:05:33,166
+Tiffany's, and the board game
+
+196
+00:05:33,233 --> 00:05:34,869
+"risk," as well as on large maps
+
+197
+00:05:34,936 --> 00:05:36,138
+in multiple major airports,
+
+198
+00:05:36,205 --> 00:05:37,607
+including Munich, Beijing, and
+
+199
+00:05:37,674 --> 00:05:40,213
+Prague, which begs the question:
+
+200
+00:05:40,279 --> 00:05:42,282
+Where do these airports think
+
+201
+00:05:42,349 --> 00:05:43,885
+flights to New Zealand are
+
+202
+00:05:43,952 --> 00:05:46,224
+going?
+
+203
+00:05:46,290 --> 00:05:47,325
+"We are now boarding the 8:55 to
+
+204
+00:05:47,392 --> 00:05:48,560
+Auckland.
+
+205
+00:05:48,627 --> 00:05:49,462
+Not sure where or what that is,
+
+206
+00:05:49,529 --> 00:05:50,631
+so from everyone here at
+
+207
+00:05:50,698 --> 00:05:51,700
+delta airlines, we wish you a
+
+208
+00:05:51,767 --> 00:05:54,138
+Sincere good luck."
+
+209
+00:05:54,204 --> 00:05:55,640
+And look, whether you like
+
+210
+00:05:55,707 --> 00:05:56,842
+New Zealand or not, you can't
+
+211
+00:05:56,909 --> 00:05:58,545
+deny it is there.
+
+212
+00:05:58,612 --> 00:06:00,182
+It's not just Australia's
+
+213
+00:06:00,249 --> 00:06:02,620
+imaginary friend.
+
+214
+00:06:02,687 --> 00:06:03,855
+And they are trying their best.
+
+215
+00:06:03,922 --> 00:06:05,292
+They did have an official
+
+216
+00:06:05,358 --> 00:06:07,028
+campaign just last year using
+
+217
+00:06:07,095 --> 00:06:08,564
+the hashtag
+
+218
+00:06:08,631 --> 00:06:10,067
+#getnewzealandonthemap,
+
+219
+00:06:10,133 --> 00:06:12,972
+but it clearly didn't work.
+
+220
+00:06:13,039 --> 00:06:14,308
+So tonight we're going to try to
+
+221
+00:06:14,374 --> 00:06:15,409
+help them out by giving people a
+
+222
+00:06:15,476 --> 00:06:16,478
+practical way to put things
+
+223
+00:06:16,545 --> 00:06:17,881
+right here.
+
+224
+00:06:17,948 --> 00:06:19,117
+So if you go to our Twitter feed
+
+225
+00:06:19,184 --> 00:06:20,452
+right now, you'll find a map of
+
+226
+00:06:20,519 --> 00:06:22,422
+New Zealand you can print out
+
+227
+00:06:22,489 --> 00:06:23,926
+and add to any incorrect map of
+
+228
+00:06:23,992 --> 00:06:25,829
+your choosing.
+
+229
+00:06:25,895 --> 00:06:27,531
+If you own that Ikea map?
+
+230
+00:06:27,598 --> 00:06:29,937
+Add New Zealand right there.
+
+231
+00:06:30,003 --> 00:06:31,306
+If you have the board game
+
+232
+00:06:31,372 --> 00:06:32,875
+"risk," add New Zealand.
+
+233
+00:06:32,942 --> 00:06:34,411
+And then throw it away because
+
+234
+00:06:34,511 --> 00:06:36,615
+it's a terrible game.
+
+235
+00:06:36,682 --> 00:06:37,851
+And also why stop with
+
+236
+00:06:37,917 --> 00:06:38,686
+inaccurate maps?
+
+237
+00:06:38,753 --> 00:06:39,453
+You can put New Zealand on
+
+238
+00:06:39,520 --> 00:06:40,323
+everything.
+
+239
+00:06:40,389 --> 00:06:42,126
+Map of Florida?
+
+240
+00:06:42,192 --> 00:06:42,961
+Add New Zealand.
+
+241
+00:06:43,027 --> 00:06:43,828
+An anatomical map of male sexual
+
+242
+00:06:43,895 --> 00:06:45,531
+organs?
+
+243
+00:06:45,598 --> 00:06:47,101
+Add New Zealand.
+
+244
+00:06:47,168 --> 00:06:48,804
+In fact, add two.
+
+245
+00:06:48,871 --> 00:06:50,708
+And, finally, if you should ever
+
+246
+00:06:50,775 --> 00:06:52,378
+find yourself in an Ikea, you
+
+247
+00:06:52,444 --> 00:06:54,248
+can help them never forget my
+
+248
+00:06:54,314 --> 00:06:55,683
+favorite heavily-logged island
+
+249
+00:06:55,750 --> 00:07:01,161
+nation ever again by finding
+
+250
+00:07:01,227 --> 00:07:02,530
+their in-store store map and
+
+251
+00:07:02,596 --> 00:07:03,365
+going full New Zealand on it.
+
+252
+00:07:03,431 --> 00:07:04,233
+It's the only way they'll learn.
+
+253
+00:07:04,300 --> 00:07:06,371
+And now, this.
+
+254
+00:07:06,437 --> 00:07:07,839
+And now,
+
+255
+00:07:07,906 --> 00:07:08,908
+news anchors shit talk the
+
+256
+00:07:08,974 --> 00:07:10,143
+winner of the westminster
+
+257
+00:07:10,211 --> 00:07:12,181
+dog show.
+
+258
+00:07:12,247 --> 00:07:13,183
+This is not my favorite breed
+
+259
+00:07:13,249 --> 00:07:14,484
+of dog.
+
+260
+00:07:14,552 --> 00:07:15,420
+I just don't find it very
+
+261
+00:07:15,486 --> 00:07:16,621
+attractive.
+
+262
+00:07:16,688 --> 00:07:17,557
+It's not my favorite-looking
+
+263
+00:07:17,623 --> 00:07:18,759
+dog.
+
+264
+00:07:18,826 --> 00:07:22,233
+It's ridiculous.
+
+265
+00:07:22,300 --> 00:07:22,967
+So goofy, that face.
+
+266
+00:07:23,034 --> 00:07:23,568
+He looks snobby.
+
+267
+00:07:23,634 --> 00:07:24,536
+That dog looks like in the
+
+268
+00:07:24,603 --> 00:07:25,572
+morning he wakes up and sips tea
+
+269
+00:07:25,605 --> 00:07:26,807
+and eats crumpets.
+
+270
+00:07:26,874 --> 00:07:30,647
+He should get a shave.
+
+271
+00:07:30,714 --> 00:07:31,216
+That beard.
+
+272
+00:07:31,282 --> 00:07:31,916
+Puffy legs, puffy chin.
+
+273
+00:07:31,983 --> 00:07:32,918
+Goofy-looking dog.
+
+274
+00:07:32,985 --> 00:07:35,357
+Does that dog have knees?
+
+275
+00:07:35,424 --> 00:07:39,264
+He needs a shave.
+
+276
+00:07:39,331 --> 00:07:43,271
+No, it's okay.
+
+277
+00:07:43,338 --> 00:07:47,044
+Arthur Chester look, or
+
+278
+00:07:47,111 --> 00:07:54,291
+Chester a. Arthur.
+
+279
+00:07:54,358 --> 00:07:54,825
+I gave you the phone book
+
+280
+00:07:54,892 --> 00:07:55,126
+version.
+
+281
+00:07:55,193 --> 00:07:55,760
+Either way, I don't know.
+
+282
+00:07:55,827 --> 00:07:56,495
+Chester Arthur.
+
+283
+00:07:56,562 --> 00:07:57,163
+You don't know?
+
+284
+00:07:57,230 --> 00:07:57,831
+He was president?
+
+285
+00:07:57,898 --> 00:07:58,499
+He was not president.
+
+286
+00:07:58,565 --> 00:07:59,200
+Chester Arthur?
+
+287
+00:07:59,267 --> 00:08:00,035
+You sure about that?
+
+288
+00:08:00,102 --> 00:08:00,569
+100% sure.
+
+289
+00:08:00,636 --> 00:08:01,237
+Who am I thinking of?
+
+290
+00:08:01,304 --> 00:08:01,938
+I don't know.
+
+291
+00:08:02,006 --> 00:08:02,606
+Taft?
+
+292
+00:08:02,673 --> 00:08:04,944
+I have no idea.
+
+293
+00:08:05,011 --> 00:08:05,545
+Woodrow Wilson?
+
+294
+00:08:05,611 --> 00:08:06,246
+No, it was before that.
+
+295
+00:08:06,313 --> 00:08:06,948
+I think it was Chester a.
+
+296
+00:08:07,015 --> 00:08:07,582
+Arthur.
+
+297
+00:08:07,649 --> 00:08:10,720
+There was no president named
+
+298
+00:08:10,788 --> 00:08:11,656
+Chester a. -- Jesse, look it up.
+
+299
+00:08:17,233 --> 00:08:18,702
+Moving on.
+
+300
+00:08:18,769 --> 00:08:20,072
+Our main story tonight concerns
+
+301
+00:08:20,139 --> 00:08:21,708
+an issue that promises to
+
+302
+00:08:21,808 --> 00:08:23,811
+dominate this entire year,
+
+303
+00:08:23,879 --> 00:08:25,048
+brexit, the playful, fun name
+
+304
+00:08:25,114 --> 00:08:26,784
+that's been given to a disaster.
+
+305
+00:08:26,850 --> 00:08:28,321
+It's like if you said
+
+306
+00:08:28,387 --> 00:08:29,890
+an animal died of
+
+307
+00:08:29,957 --> 00:08:31,693
+"otter-erotic asphyxiation."
+
+308
+00:08:31,759 --> 00:08:35,232
+It's cute, although when you
+
+309
+00:08:35,300 --> 00:08:39,274
+think about the actual
+
+310
+00:08:39,341 --> 00:08:39,975
+consequences, it becomes quite
+
+311
+00:08:40,041 --> 00:08:40,709
+sad.
+
+312
+00:08:40,776 --> 00:08:41,378
+It's now been two and a half
+
+313
+00:08:41,445 --> 00:08:42,012
+years since britain voted to
+
+314
+00:08:42,079 --> 00:08:42,746
+leave the eu.
+
+315
+00:08:42,813 --> 00:08:43,582
+The long story short is, there
+
+316
+00:08:43,648 --> 00:08:44,483
+was a bus with a lie on it,
+
+317
+00:08:44,550 --> 00:08:46,587
+people made a massively
+
+318
+00:08:46,653 --> 00:08:47,422
+consequential decision by a
+
+319
+00:08:47,489 --> 00:08:48,190
+narrow margin, and ever since,
+
+320
+00:08:48,256 --> 00:08:48,958
+the subject of the impending
+
+321
+00:08:49,025 --> 00:08:49,926
+brexit has dominated every
+
+322
+00:08:49,993 --> 00:08:51,229
+waking moment in British life.
+
+323
+00:08:51,296 --> 00:08:52,664
+It even comes up on reality
+
+324
+00:08:52,731 --> 00:08:53,867
+shows like this one, called
+
+325
+00:08:53,934 --> 00:08:55,604
+"love island."
+
+326
+00:08:55,670 --> 00:08:57,072
+What do you think about
+
+327
+00:08:57,140 --> 00:08:57,974
+brexit?
+
+328
+00:08:58,041 --> 00:08:58,976
+What's that?
+
+329
+00:08:59,043 --> 00:09:00,278
+Where we're leaving the
+
+330
+00:09:00,345 --> 00:09:02,116
+European union.
+
+331
+00:09:02,182 --> 00:09:02,883
+I seriously don't have a
+
+332
+00:09:02,950 --> 00:09:04,320
+clue.
+
+333
+00:09:04,387 --> 00:09:06,156
+So it was to leave the eu so
+
+334
+00:09:06,223 --> 00:09:06,757
+we wouldn't be part of Europe.
+
+335
+00:09:06,823 --> 00:09:08,327
+Oh, the eu, yeah, yeah.
+
+336
+00:09:08,394 --> 00:09:09,061
+Which would mean, like,
+
+337
+00:09:09,129 --> 00:09:11,032
+welfare, and, like, things we
+
+338
+00:09:11,098 --> 00:09:12,067
+trade with would be cut down.
+
+339
+00:09:12,134 --> 00:09:14,405
+So does that mean we won't
+
+340
+00:09:14,471 --> 00:09:15,607
+have any trees?
+
+341
+00:09:15,640 --> 00:09:16,909
+Cheese?
+
+342
+00:09:16,976 --> 00:09:19,681
+Trees.
+
+343
+00:09:19,747 --> 00:09:21,083
+No, that's got nothing to do
+
+344
+00:09:21,151 --> 00:09:21,918
+with it, babe, that's weather.
+
+345
+00:09:21,985 --> 00:09:23,120
+Why wouldn't we have trees?
+
+346
+00:09:23,187 --> 00:09:25,725
+But doesn't it mean it would
+
+347
+00:09:25,792 --> 00:09:26,360
+be harder to go to, like, Spain
+
+348
+00:09:26,427 --> 00:09:27,094
+and stuff?
+
+349
+00:09:27,162 --> 00:09:27,962
+So it would be harder to go
+
+350
+00:09:28,029 --> 00:09:28,764
+on holidays?
+
+351
+00:09:28,831 --> 00:09:29,599
+Yeah, I think so.
+
+352
+00:09:29,666 --> 00:09:30,568
+Oh, I love my holidays!
+
+353
+00:09:30,635 --> 00:09:32,639
+Yeah.
+
+354
+00:09:32,705 --> 00:09:34,375
+Okay, so there's a lot
+
+355
+00:09:34,442 --> 00:09:35,410
+to unpack there, absolutely none
+
+356
+00:09:35,477 --> 00:09:40,752
+of which is worth unpacking.
+
+357
+00:09:40,820 --> 00:09:41,588
+It's like coming over to help a
+
+358
+00:09:41,655 --> 00:09:42,490
+friend move and finding all his
+
+359
+00:09:42,557 --> 00:09:43,525
+boxes are labeled "dead spiders
+
+360
+00:09:43,592 --> 00:09:45,027
+for mommy."
+
+361
+00:09:45,094 --> 00:09:46,297
+Yeah, you could unpack that, but
+
+362
+00:09:46,363 --> 00:09:47,231
+it's probably better to just
+
+363
+00:09:47,298 --> 00:09:48,200
+burn everything to the ground
+
+364
+00:09:48,266 --> 00:09:49,570
+and never speak of it again.
+
+365
+00:09:49,636 --> 00:09:51,539
+The point is, you cannot escape
+
+366
+00:09:51,606 --> 00:09:53,309
+talk about brexit in the uk.
+
+367
+00:09:53,376 --> 00:09:54,845
+It's something brilliantly
+
+368
+00:09:54,911 --> 00:09:56,415
+captured by a TV show called
+
+369
+00:09:56,482 --> 00:09:57,550
+"gogglebox."
+
+370
+00:09:57,617 --> 00:09:58,786
+It's a show in britain where you
+
+371
+00:09:58,853 --> 00:09:59,421
+get to watch other people watch
+
+372
+00:09:59,488 --> 00:10:00,623
+TV.
+
+373
+00:10:00,690 --> 00:10:02,092
+It's actually great, trust me.
+
+374
+00:10:02,159 --> 00:10:02,893
+Just eavesdrop on some British
+
+375
+00:10:02,960 --> 00:10:06,366
+people watching the news.
+
+376
+00:10:06,434 --> 00:10:07,935
+Why did David Cameron call a
+
+377
+00:10:08,002 --> 00:10:11,842
+referendum in the first place?
+
+378
+00:10:11,910 --> 00:10:13,412
+He should be put in prison.
+
+379
+00:10:13,479 --> 00:10:14,013
+Britain wants to have their
+
+380
+00:10:14,081 --> 00:10:14,815
+cake and eat it.
+
+381
+00:10:14,882 --> 00:10:16,151
+They want to trade with the rest
+
+382
+00:10:16,217 --> 00:10:17,354
+of the world, but they also have
+
+383
+00:10:17,420 --> 00:10:18,155
+the benefit of trading with
+
+384
+00:10:18,221 --> 00:10:20,392
+Europe.
+
+385
+00:10:20,459 --> 00:10:21,762
+I'm halfway through the
+
+386
+00:10:21,828 --> 00:10:24,634
+585-page withdrawal agreement.
+
+387
+00:10:24,700 --> 00:10:26,002
+No!
+
+388
+00:10:26,069 --> 00:10:28,072
+Who are you?
+
+389
+00:10:28,139 --> 00:10:29,776
+It's like one of those mugs I
+
+390
+00:10:29,842 --> 00:10:32,447
+saw in pudsey, Mary.
+
+391
+00:10:32,514 --> 00:10:34,852
+"Different day, same old shit."
+
+392
+00:10:34,919 --> 00:10:36,522
+Mary.
+
+393
+00:10:36,589 --> 00:10:37,724
+I don't like you swearing.
+
+394
+00:10:37,791 --> 00:10:39,026
+I saw it on a mug.
+
+395
+00:10:39,092 --> 00:10:39,928
+I'm just quoting what I read on
+
+396
+00:10:39,994 --> 00:10:40,663
+a mug.
+
+397
+00:10:40,729 --> 00:10:41,965
+Okay.
+
+398
+00:10:42,032 --> 00:10:43,100
+"Here's something else
+
+399
+00:10:43,167 --> 00:10:44,403
+I saw on a mug, Mary.
+
+400
+00:10:44,469 --> 00:10:45,872
+'This marriage is like
+
+401
+00:10:45,939 --> 00:10:46,974
+a locomotive lying on my chest,
+
+402
+00:10:47,041 --> 00:10:48,143
+crushing my spirit to dust.'
+
+403
+00:10:48,210 --> 00:10:49,345
+I'm just quoting what I saw on a
+
+404
+00:10:49,412 --> 00:10:50,080
+mug, Mary.
+
+405
+00:10:50,147 --> 00:10:53,587
+Don't blame me, blame the mug."
+
+406
+00:10:53,653 --> 00:10:55,791
+People in britain are exhausted
+
+407
+00:10:55,857 --> 00:10:57,125
+by brexit talk, and the crazy
+
+408
+00:10:57,193 --> 00:10:58,729
+thing is, it hasn't even
+
+409
+00:10:58,797 --> 00:11:00,198
+happened yet, although it has
+
+410
+00:11:00,265 --> 00:11:01,602
+already had big effects on the
+
+411
+00:11:01,668 --> 00:11:05,976
+British economy.
+
+412
+00:11:06,042 --> 00:11:07,546
+In the wake of the brexit vote,
+
+413
+00:11:07,613 --> 00:11:08,513
+the uk has become one of the
+
+414
+00:11:08,580 --> 00:11:09,717
+worst-performing economies in
+
+415
+00:11:09,783 --> 00:11:10,885
+the g-7, major companies like
+
+416
+00:11:10,951 --> 00:11:11,453
+Nissan and Dyson are moving
+
+417
+00:11:11,519 --> 00:11:12,320
+operations out of britain, and
+
+418
+00:11:12,387 --> 00:11:13,690
+the pound has dropped by almost
+
+419
+00:11:13,757 --> 00:11:15,293
+14%.
+
+420
+00:11:15,360 --> 00:11:16,295
+And all of this will come to a
+
+421
+00:11:16,362 --> 00:11:17,697
+head just 40 days from now, on
+
+422
+00:11:17,764 --> 00:11:18,965
+march 29, when the uk is set to
+
+423
+00:11:19,033 --> 00:11:22,573
+officially leave the eu.
+
+424
+00:11:22,640 --> 00:11:24,543
+And it could be an absolute
+
+425
+00:11:24,610 --> 00:11:25,746
+catastrophe because nothing is
+
+426
+00:11:25,812 --> 00:11:26,881
+happening the way that was
+
+427
+00:11:26,947 --> 00:11:28,384
+promised.
+
+428
+00:11:28,450 --> 00:11:30,287
+Britain was supposed to leave
+
+429
+00:11:30,353 --> 00:11:31,857
+the eu in orderly stages, first
+
+430
+00:11:31,923 --> 00:11:34,093
+entering a transition period on
+
+431
+00:11:34,160 --> 00:11:35,530
+march 29, during which it would
+
+432
+00:11:35,597 --> 00:11:36,932
+negotiate its future
+
+433
+00:11:36,999 --> 00:11:38,302
+relationship with the eu and
+
+434
+00:11:38,368 --> 00:11:41,240
+then leave entirely.
+
+435
+00:11:41,307 --> 00:11:42,877
+And prime minister Theresa may
+
+436
+00:11:42,943 --> 00:11:44,112
+has spent the last two years
+
+437
+00:11:44,179 --> 00:11:45,615
+locking down the terms of that
+
+438
+00:11:45,682 --> 00:11:47,151
+transition plan with the eu.
+
+439
+00:11:47,217 --> 00:11:48,219
+But when she presented this
+
+440
+00:11:48,286 --> 00:11:49,355
+agreed-upon deal to parliament,
+
+441
+00:11:49,422 --> 00:11:51,259
+this happened.
+
+442
+00:11:51,326 --> 00:11:52,962
+Theresa may suffers the
+
+443
+00:11:53,028 --> 00:11:54,264
+biggest commons defeat in
+
+444
+00:11:54,331 --> 00:11:55,701
+history.
+
+445
+00:11:55,767 --> 00:11:56,803
+This was the moment the
+
+446
+00:11:56,869 --> 00:12:00,108
+defeat was announced.
+
+447
+00:12:00,175 --> 00:12:03,414
+The ayes to the right, 202.
+
+448
+00:12:03,481 --> 00:12:05,184
+The nos to the left, 432.
+
+449
+00:12:08,691 --> 00:12:10,159
+What was that noise?
+
+450
+00:12:10,226 --> 00:12:11,663
+That was the biggest commons
+
+451
+00:12:11,730 --> 00:12:12,965
+defeat in British history and
+
+452
+00:12:13,032 --> 00:12:14,066
+they sounded like a
+
+453
+00:12:14,134 --> 00:12:14,969
+middle school lunchroom who just
+
+454
+00:12:15,035 --> 00:12:15,738
+heard someone called to the
+
+455
+00:12:15,804 --> 00:12:21,481
+principal's office.
+
+456
+00:12:21,547 --> 00:12:22,816
+"Oh, Theresa's in trou-ble!"
+
+457
+00:12:22,884 --> 00:12:24,754
+Now, incidentally, we can't show
+
+458
+00:12:24,820 --> 00:12:25,388
+that moment in the uk because of
+
+459
+00:12:25,454 --> 00:12:27,124
+their dumb law banning
+
+460
+00:12:27,191 --> 00:12:28,494
+parliamentary footage in comedy
+
+461
+00:12:28,560 --> 00:12:31,733
+shows, so when this airs there
+
+462
+00:12:31,800 --> 00:12:33,503
+tomorrow night, it'll be
+
+463
+00:12:33,569 --> 00:12:34,839
+replaced by a clip from a 1983
+
+464
+00:12:34,906 --> 00:12:36,074
+chippendales exercise video
+
+465
+00:12:36,141 --> 00:12:37,109
+instead with absolutely no
+
+466
+00:12:37,176 --> 00:12:39,848
+explanation.
+
+467
+00:12:39,915 --> 00:12:41,083
+So this is what they'll see:
+
+468
+00:12:41,150 --> 00:12:42,252
+This is the moment the defeat
+
+469
+00:12:42,318 --> 00:12:43,254
+was announced.
+
+470
+00:12:53,205 --> 00:12:54,575
+Yeah, that's what
+
+471
+00:12:54,642 --> 00:12:55,043
+they'll get.
+
+472
+00:12:55,109 --> 00:12:55,844
+They'll be confused by it, and
+
+473
+00:12:55,911 --> 00:12:59,517
+it'll be all their fault.
+
+474
+00:12:59,584 --> 00:13:00,085
+The point is, the defeat of
+
+475
+00:13:00,151 --> 00:13:00,519
+Theresa may's deal
+
+476
+00:13:00,586 --> 00:13:01,621
+raises the specter of what many
+
+477
+00:13:01,688 --> 00:13:02,222
+consider to be the worst-case
+
+478
+00:13:02,289 --> 00:13:02,824
+the uk dropping
+
+479
+00:13:02,890 --> 00:13:03,691
+out of the eu next month with no
+
+480
+00:13:03,759 --> 00:13:05,395
+transition plan in place.
+
+481
+00:13:05,462 --> 00:13:06,664
+It's the so-called no-deal
+
+482
+00:13:06,730 --> 00:13:08,066
+scenario, and the ramifications
+
+483
+00:13:08,133 --> 00:13:09,502
+of that could be massive, not
+
+484
+00:13:09,569 --> 00:13:12,173
+just for the uk or the eu, but
+
+485
+00:13:12,240 --> 00:13:14,211
+for the entire world.
+
+486
+00:13:14,277 --> 00:13:16,014
+So tonight, let's try and answer
+
+487
+00:13:16,081 --> 00:13:17,917
+why don't
+
+488
+00:13:17,985 --> 00:13:19,087
+people like Theresa may's deal?
+
+489
+00:13:19,153 --> 00:13:20,188
+What happens if the uk leaves
+
+490
+00:13:20,255 --> 00:13:21,591
+with no deal?
+
+491
+00:13:21,657 --> 00:13:23,094
+And could they just not do
+
+492
+00:13:23,160 --> 00:13:24,563
+brexit at all?
+
+493
+00:13:24,630 --> 00:13:25,665
+And let's start with why
+
+494
+00:13:25,732 --> 00:13:26,801
+parliament rejected her deal.
+
+495
+00:13:26,868 --> 00:13:27,936
+There's a lot of reasons that
+
+496
+00:13:28,003 --> 00:13:29,138
+people don't like it, but the
+
+497
+00:13:29,204 --> 00:13:30,240
+biggest sticking point has to do
+
+498
+00:13:30,306 --> 00:13:31,442
+with northern Ireland.
+
+499
+00:13:31,509 --> 00:13:32,544
+And let me explain here.
+
+500
+00:13:32,611 --> 00:13:34,548
+You see, the uk is actually four
+
+501
+00:13:34,615 --> 00:13:36,251
+england, Scotland,
+
+502
+00:13:36,317 --> 00:13:38,488
+wales, and northern Ireland.
+
+503
+00:13:38,555 --> 00:13:40,224
+A fab four, sort of like the
+
+504
+00:13:40,291 --> 00:13:41,861
+Beatles.
+
+505
+00:13:41,928 --> 00:13:42,897
+I won't say who the Ringo is,
+
+506
+00:13:42,963 --> 00:13:45,268
+because that would be unfair to
+
+507
+00:13:45,334 --> 00:13:46,537
+wales.
+
+508
+00:13:46,603 --> 00:13:47,939
+Now, northern Ireland shares a
+
+509
+00:13:47,973 --> 00:13:49,341
+border with the Republic of
+
+510
+00:13:49,408 --> 00:13:50,510
+Ireland, and right now,
+
+511
+00:13:50,577 --> 00:13:51,947
+everything you see here is part
+
+512
+00:13:52,014 --> 00:13:53,816
+of the eu, so goods and people
+
+513
+00:13:53,883 --> 00:13:55,587
+can move freely between them.
+
+514
+00:13:55,654 --> 00:13:56,889
+But the whole point of brexit is
+
+515
+00:13:56,956 --> 00:13:58,525
+for the uk to leave the eu, and
+
+516
+00:13:58,592 --> 00:14:00,529
+that could put a hard border
+
+517
+00:14:00,596 --> 00:14:02,032
+across Ireland, and that could
+
+518
+00:14:02,098 --> 00:14:04,369
+be a problem in a region that's
+
+519
+00:14:04,436 --> 00:14:05,973
+been plagued by sectarian
+
+520
+00:14:06,040 --> 00:14:07,241
+violence.
+
+521
+00:14:07,308 --> 00:14:08,610
+And I don't have time to get
+
+522
+00:14:08,678 --> 00:14:09,679
+into the sociopolitical history
+
+523
+00:14:09,745 --> 00:14:12,084
+of Ireland right now.
+
+524
+00:14:12,151 --> 00:14:13,419
+So feel free to Google
+
+525
+00:14:13,485 --> 00:14:14,221
+"ira bombings" or
+
+526
+00:14:14,287 --> 00:14:16,290
+"bloody Sunday," or
+
+527
+00:14:16,358 --> 00:14:17,694
+"Daniel day-Lewis' 1990s film
+
+528
+00:14:17,760 --> 00:14:19,831
+output" or -- do you know what?
+
+529
+00:14:19,898 --> 00:14:20,465
+Do you know what?
+
+530
+00:14:20,532 --> 00:14:24,439
+I'll just let the Cranberries
+
+531
+00:14:24,506 --> 00:14:25,274
+10 seconds.
+
+532
+00:14:38,232 --> 00:14:39,133
+That's basically it.
+
+533
+00:14:39,200 --> 00:14:39,901
+Tanks, bombs, guns, absolutely
+
+534
+00:14:39,968 --> 00:14:41,403
+no more than four chords.
+
+535
+00:14:41,471 --> 00:14:42,305
+You know, Ireland.
+
+536
+00:14:42,372 --> 00:14:43,208
+In the "troubles," thousands of
+
+537
+00:14:43,274 --> 00:14:44,142
+people died.
+
+538
+00:14:44,210 --> 00:14:45,411
+Businesses on the border were
+
+539
+00:14:45,478 --> 00:14:46,312
+regularly bombed, and
+
+540
+00:14:46,380 --> 00:14:47,849
+checkpoints became targets.
+
+541
+00:14:47,915 --> 00:14:50,221
+So removing them was a
+
+542
+00:14:50,287 --> 00:14:51,957
+centerpiece to the historic
+
+543
+00:14:52,024 --> 00:14:53,426
+good Friday agreement of 1998,
+
+544
+00:14:53,493 --> 00:14:54,762
+which brought a fragile peace to
+
+545
+00:14:54,828 --> 00:14:57,233
+the whole region.
+
+546
+00:14:57,300 --> 00:14:58,869
+Returning to checkpoints in any
+
+547
+00:14:58,936 --> 00:15:00,305
+way, shape, or form is going to
+
+548
+00:15:00,371 --> 00:15:01,708
+re-inflame tensions, as people
+
+549
+00:15:01,775 --> 00:15:04,246
+who live there know.
+
+550
+00:15:04,312 --> 00:15:06,083
+If somebody builds a customs
+
+551
+00:15:06,150 --> 00:15:07,686
+post on the border between the
+
+552
+00:15:07,752 --> 00:15:08,888
+north and Southern Ireland,
+
+553
+00:15:08,954 --> 00:15:10,390
+people will shoot at it.
+
+554
+00:15:10,457 --> 00:15:11,793
+And they'll shoot at the people
+
+555
+00:15:11,859 --> 00:15:13,329
+who work at it.
+
+556
+00:15:13,395 --> 00:15:14,732
+That's absolutely 100% certain.
+
+557
+00:15:14,799 --> 00:15:22,546
+Wow.
+
+558
+00:15:22,612 --> 00:15:23,081
+That is striking, because
+
+559
+00:15:23,147 --> 00:15:24,016
+normally for people to
+
+560
+00:15:24,083 --> 00:15:24,650
+be that certain something will
+
+561
+00:15:24,717 --> 00:15:25,584
+be a disaster, they need to see
+
+562
+00:15:25,652 --> 00:15:26,553
+will Smith in blueface.
+
+563
+00:15:26,619 --> 00:15:27,722
+So everyone agrees there cannot
+
+564
+00:15:27,788 --> 00:15:29,292
+be a hard border there again.
+
+565
+00:15:29,358 --> 00:15:31,528
+But how do you avoid that?
+
+566
+00:15:31,595 --> 00:15:33,432
+Because if you're not in the eu,
+
+567
+00:15:33,499 --> 00:15:35,503
+goods have to be screened
+
+568
+00:15:35,570 --> 00:15:37,340
+somewhere, like you would at any
+
+569
+00:15:37,406 --> 00:15:38,876
+international border, and no one
+
+570
+00:15:38,943 --> 00:15:42,182
+has yet come up with a plausible
+
+571
+00:15:42,249 --> 00:15:42,583
+solution for this.
+
+572
+00:15:42,649 --> 00:15:43,284
+Some, including former foreign
+
+573
+00:15:43,351 --> 00:15:44,552
+secretary and untitled
+
+574
+00:15:44,619 --> 00:15:45,654
+Gary busey project
+
+575
+00:15:45,721 --> 00:15:47,658
+Boris Johnson, have proposed
+
+576
+00:15:47,725 --> 00:15:48,761
+elaborate workarounds, including
+
+577
+00:15:48,827 --> 00:15:50,063
+technologies that don't yet
+
+578
+00:15:50,130 --> 00:15:51,900
+exist and customs screenings
+
+579
+00:15:51,967 --> 00:15:55,240
+near, but not at, the border.
+
+580
+00:15:55,306 --> 00:15:56,574
+But Ireland is not remotely
+
+581
+00:15:56,641 --> 00:15:58,145
+convinced by those.
+
+582
+00:15:58,211 --> 00:15:59,480
+And when journalists pushed
+
+583
+00:15:59,547 --> 00:16:00,949
+Boris Johnson for more details,
+
+584
+00:16:01,016 --> 00:16:02,286
+his response did not inspire
+
+585
+00:16:02,353 --> 00:16:05,057
+confidence.
+
+586
+00:16:05,124 --> 00:16:06,459
+Nobody thinks it's a
+
+587
+00:16:06,526 --> 00:16:07,395
+realistic plan, because they
+
+588
+00:16:07,461 --> 00:16:08,731
+don't think Ireland would accept
+
+589
+00:16:08,798 --> 00:16:08,931
+it.
+
+590
+00:16:08,998 --> 00:16:09,532
+The eu does.
+
+591
+00:16:09,598 --> 00:16:10,333
+Don't -- don't run away.
+
+592
+00:16:10,401 --> 00:16:10,968
+We want to ask you some serious
+
+593
+00:16:11,035 --> 00:16:11,803
+questions, because you've just
+
+594
+00:16:11,869 --> 00:16:12,503
+done a load of interviews, why
+
+595
+00:16:12,571 --> 00:16:19,184
+don't you talk to channel four?
+
+596
+00:16:19,250 --> 00:16:19,818
+And answer -- answer a couple of
+
+597
+00:16:19,884 --> 00:16:20,485
+questions?
+
+598
+00:16:20,552 --> 00:16:21,086
+You...
+
+599
+00:16:21,153 --> 00:16:22,088
+This is absurd.
+
+600
+00:16:22,155 --> 00:16:22,622
+You want to have a serious
+
+601
+00:16:22,689 --> 00:16:23,224
+conversation about brexit and
+
+602
+00:16:23,291 --> 00:16:24,359
+then you ride off without
+
+603
+00:16:24,426 --> 00:16:24,693
+talking to us.
+
+604
+00:16:24,760 --> 00:16:25,494
+Why can't you answer any serious
+
+605
+00:16:25,561 --> 00:16:26,197
+questions?
+
+606
+00:16:26,263 --> 00:16:27,432
+I'll tell you why Boris
+
+607
+00:16:27,498 --> 00:16:28,266
+can't answer any serious
+
+608
+00:16:28,333 --> 00:16:28,867
+he doesn't have any
+
+609
+00:16:28,935 --> 00:16:31,673
+answers.
+
+610
+00:16:31,739 --> 00:16:32,308
+In fact, the only question he's
+
+611
+00:16:32,374 --> 00:16:32,975
+ever capable of answering is,
+
+612
+00:16:33,042 --> 00:16:34,110
+"what would it look like if
+
+613
+00:16:34,177 --> 00:16:34,845
+Gordon Ramsey was tumble-dried
+
+614
+00:16:34,912 --> 00:16:39,587
+on high?"
+
+615
+00:16:39,653 --> 00:16:40,389
+So just in case no one comes up
+
+616
+00:16:40,456 --> 00:16:41,290
+with a solution for this
+
+617
+00:16:41,357 --> 00:16:43,361
+un-fixable problem by the end of
+
+618
+00:16:43,428 --> 00:16:44,529
+the transition period, the eu
+
+619
+00:16:44,596 --> 00:16:45,432
+and Theresa may agreed on
+
+620
+00:16:45,498 --> 00:16:52,677
+something called a "backstop."
+
+621
+00:16:52,744 --> 00:16:53,412
+Now, under it, northern Ireland
+
+622
+00:16:53,480 --> 00:16:54,348
+would broadly live under eu
+
+623
+00:16:54,414 --> 00:16:55,650
+rules and there would be a hard
+
+624
+00:16:55,717 --> 00:16:56,952
+border between it and the rest
+
+625
+00:16:57,019 --> 00:16:58,121
+of the uk, and that would remain
+
+626
+00:16:58,188 --> 00:16:59,323
+in effect until they came up
+
+627
+00:16:59,390 --> 00:17:00,993
+with a permanent solution to the
+
+628
+00:17:01,059 --> 00:17:01,961
+border problem -- a solution
+
+629
+00:17:02,028 --> 00:17:03,230
+that, remember, does not exist.
+
+630
+00:17:03,298 --> 00:17:06,136
+The problem is, brexiteers have
+
+631
+00:17:06,203 --> 00:17:07,438
+strong reservations about the
+
+632
+00:17:07,505 --> 00:17:09,808
+backstop, and they want Theresa
+
+633
+00:17:09,876 --> 00:17:10,844
+may to renegotiate it.
+
+634
+00:17:10,911 --> 00:17:12,614
+But the eu says they're done
+
+635
+00:17:12,681 --> 00:17:13,983
+negotiating, leaving britain
+
+636
+00:17:14,050 --> 00:17:14,852
+hurtling towards the
+
+637
+00:17:14,919 --> 00:17:16,121
+ever-increasing possibility of
+
+638
+00:17:16,187 --> 00:17:17,456
+leaving next month with no deal
+
+639
+00:17:17,524 --> 00:17:21,898
+in place at all.
+
+640
+00:17:21,965 --> 00:17:23,301
+So what happens if there is no
+
+641
+00:17:23,334 --> 00:17:25,672
+deal?
+
+642
+00:17:25,738 --> 00:17:27,375
+Well, first -- ironically --
+
+643
+00:17:27,442 --> 00:17:29,211
+there will be a hard border in
+
+644
+00:17:29,278 --> 00:17:30,047
+Ireland, the one thing that
+
+645
+00:17:30,113 --> 00:17:33,920
+everyone agrees they don't want.
+
+646
+00:17:33,987 --> 00:17:34,688
+But the consequences would go
+
+647
+00:17:34,754 --> 00:17:35,756
+much further than that, because
+
+648
+00:17:35,823 --> 00:17:37,092
+it won't just be the Irish
+
+649
+00:17:37,160 --> 00:17:39,931
+border where there'll be customs
+
+650
+00:17:39,998 --> 00:17:42,469
+checks.
+
+651
+00:17:42,536 --> 00:17:43,137
+Brand-new screenings will be
+
+652
+00:17:43,204 --> 00:17:44,340
+required at every point of
+
+653
+00:17:44,406 --> 00:17:44,907
+entry, and at major British
+
+654
+00:17:44,974 --> 00:17:45,575
+ports like Dover, where trucks
+
+655
+00:17:45,641 --> 00:17:46,444
+arrive on ferries, that could
+
+656
+00:17:46,510 --> 00:17:47,445
+mean chaos.
+
+657
+00:17:47,512 --> 00:17:48,146
+Under a no-deal brexit,
+
+658
+00:17:48,213 --> 00:17:48,880
+world trade organization rules
+
+659
+00:17:48,947 --> 00:17:50,183
+would kick in overnight, meaning
+
+660
+00:17:50,250 --> 00:17:50,784
+customs inspections on every
+
+661
+00:17:50,851 --> 00:17:55,793
+vehicle.
+
+662
+00:17:55,860 --> 00:17:56,528
+By one estimate, if customs
+
+663
+00:17:56,595 --> 00:17:57,564
+delayed each truck by just
+
+664
+00:17:57,630 --> 00:17:58,532
+70 additional seconds, the wait
+
+665
+00:17:58,599 --> 00:17:59,534
+to board the ferry could reach
+
+666
+00:17:59,601 --> 00:18:00,369
+six days.
+
+667
+00:18:00,435 --> 00:18:02,406
+Yeah, that is a massive
+
+668
+00:18:02,473 --> 00:18:04,209
+problem, because the whole
+
+669
+00:18:04,275 --> 00:18:06,012
+system is built on seamless
+
+670
+00:18:06,079 --> 00:18:11,489
+movement.
+
+671
+00:18:11,556 --> 00:18:12,290
+Introduce any hitch into that
+
+672
+00:18:12,357 --> 00:18:12,991
+system, and it all breaks down.
+
+673
+00:18:13,058 --> 00:18:14,160
+It's like being in a supermarket
+
+674
+00:18:14,228 --> 00:18:14,795
+checkout when one person brings
+
+675
+00:18:14,862 --> 00:18:15,363
+a fruit the cashier doesn't
+
+676
+00:18:15,430 --> 00:18:15,829
+know.
+
+677
+00:18:15,897 --> 00:18:16,731
+Hold on a second.
+
+678
+00:18:16,798 --> 00:18:18,368
+You are not trying to buy a
+
+679
+00:18:18,402 --> 00:18:19,470
+dragonfruit at a kroger at
+
+680
+00:18:19,537 --> 00:18:21,073
+6:00 pm on a rainy Sunday.
+
+681
+00:18:21,140 --> 00:18:27,585
+Get the fuck out of here!
+
+682
+00:18:27,652 --> 00:18:28,654
+You drop that fruit!
+
+683
+00:18:28,720 --> 00:18:32,327
+You drop that fruit!
+
+684
+00:18:32,394 --> 00:18:32,861
+You drop it and walk away!
+
+685
+00:18:32,928 --> 00:18:33,829
+Not up in here!
+
+686
+00:18:33,897 --> 00:18:34,465
+Not up in here!
+
+687
+00:18:34,532 --> 00:18:35,766
+And perishable goods will be
+
+688
+00:18:35,833 --> 00:18:36,401
+particularly hard-hit by delays
+
+689
+00:18:36,468 --> 00:18:36,902
+at ports, as this flower
+
+690
+00:18:36,968 --> 00:18:37,637
+importer will tell you.
+
+691
+00:18:37,704 --> 00:18:38,639
+If things get delayed, our
+
+692
+00:18:38,705 --> 00:18:39,941
+shipping gets delayed, and we're
+
+693
+00:18:40,008 --> 00:18:41,611
+trading with no -- no flowers.
+
+694
+00:18:41,678 --> 00:18:43,614
+So we -- we need free movements
+
+695
+00:18:43,681 --> 00:18:45,552
+and it will affect us.
+
+696
+00:18:45,618 --> 00:18:46,654
+What's at stake for you if we
+
+697
+00:18:46,720 --> 00:18:47,656
+don't get this right now?
+
+698
+00:18:47,722 --> 00:18:49,192
+Everything.
+
+699
+00:18:49,258 --> 00:18:50,594
+My family, my house, everything,
+
+700
+00:18:50,661 --> 00:18:53,499
+my staff.
+
+701
+00:18:53,567 --> 00:18:54,134
+You know, we've been trading for
+
+702
+00:18:54,201 --> 00:18:54,501
+33 years.
+
+703
+00:18:54,568 --> 00:18:55,269
+Yeah, that's very sad
+
+704
+00:18:55,336 --> 00:18:56,638
+because people do tend to want
+
+705
+00:18:56,705 --> 00:18:58,808
+flowers now and alive.
+
+706
+00:18:58,875 --> 00:19:00,946
+Although you may feel slightly
+
+707
+00:19:01,012 --> 00:19:02,950
+less sorry for that man when you
+
+708
+00:19:03,016 --> 00:19:04,319
+hear what he said next.
+
+709
+00:19:04,385 --> 00:19:05,589
+You know, we've been trading
+
+710
+00:19:05,655 --> 00:19:06,890
+for 33 years.
+
+711
+00:19:06,957 --> 00:19:08,293
+And I did vote to leave.
+
+712
+00:19:08,360 --> 00:19:10,163
+Do you regret that?
+
+713
+00:19:10,230 --> 00:19:11,600
+I definitely have second
+
+714
+00:19:11,633 --> 00:19:14,237
+thoughts now, but --
+
+715
+00:19:14,271 --> 00:19:15,573
+but when you voted "leave,"
+
+716
+00:19:15,640 --> 00:19:18,378
+did you not think, "well, this
+
+717
+00:19:18,445 --> 00:19:19,313
+is gonna affect my flowers?"
+
+718
+00:19:19,380 --> 00:19:20,582
+I didn't really think about
+
+719
+00:19:20,649 --> 00:19:21,451
+it like that.
+
+720
+00:19:21,518 --> 00:19:22,318
+I didn't really think about the
+
+721
+00:19:22,385 --> 00:19:23,287
+business side of it.
+
+722
+00:19:23,354 --> 00:19:24,021
+Yeah, well, you
+
+723
+00:19:24,089 --> 00:19:24,856
+probably should've done,
+
+724
+00:19:24,923 --> 00:19:26,125
+shouldn't you?
+
+725
+00:19:26,192 --> 00:19:27,327
+And now, you've pretty much
+
+726
+00:19:27,395 --> 00:19:29,331
+fucked yourself with a rusty
+
+727
+00:19:29,398 --> 00:19:30,133
+piece of rebar.
+
+728
+00:19:30,200 --> 00:19:31,402
+Which isn't offensive, it's
+
+729
+00:19:31,469 --> 00:19:32,371
+something I saw on a mug, so
+
+730
+00:19:32,437 --> 00:19:34,107
+it's fine.
+
+731
+00:19:34,174 --> 00:19:41,020
+The mug makes it okay, Mary.
+
+732
+00:19:41,086 --> 00:19:44,025
+You trust a mug always.
+
+733
+00:19:44,091 --> 00:19:45,428
+Now, look, the chilling prospect
+
+734
+00:19:45,495 --> 00:19:46,863
+of a no-deal brexit has now
+
+735
+00:19:46,930 --> 00:19:47,532
+become likely enough that the
+
+736
+00:19:47,599 --> 00:19:48,567
+government has released over a
+
+737
+00:19:48,634 --> 00:19:49,235
+hundred guidance documents
+
+738
+00:19:49,302 --> 00:19:54,511
+instructing people about what to
+
+739
+00:19:54,578 --> 00:19:55,179
+do if it does happen, everything
+
+740
+00:19:55,246 --> 00:19:55,747
+from how pesticides will be
+
+741
+00:19:55,814 --> 00:19:56,415
+regulated to what the new
+
+742
+00:19:56,481 --> 00:19:57,115
+procedures would be for taking
+
+743
+00:19:57,182 --> 00:19:58,117
+your horse abroad.
+
+744
+00:19:58,184 --> 00:19:58,752
+Although I think I can actually
+
+745
+00:19:58,819 --> 00:19:59,320
+solve that one for you right
+
+746
+00:19:59,386 --> 00:20:00,188
+take off its shoes, put it
+
+747
+00:20:00,255 --> 00:20:01,324
+in a separate tray, and look
+
+748
+00:20:01,390 --> 00:20:02,292
+innocently confused when airport
+
+749
+00:20:02,359 --> 00:20:03,595
+security starts asking whose
+
+750
+00:20:03,661 --> 00:20:08,503
+fucking horse this is.
+
+751
+00:20:08,570 --> 00:20:09,539
+And while some of what will
+
+752
+00:20:09,606 --> 00:20:10,907
+happen in a no-deal scenario may
+
+753
+00:20:10,974 --> 00:20:11,876
+go into the category of
+
+754
+00:20:11,942 --> 00:20:13,212
+"manageable annoyance," there
+
+755
+00:20:13,279 --> 00:20:14,581
+are some genuinely alarming
+
+756
+00:20:14,648 --> 00:20:15,950
+issues like, will there be a
+
+757
+00:20:16,017 --> 00:20:17,186
+shortage of medication that
+
+758
+00:20:17,253 --> 00:20:18,588
+comes from other countries that
+
+759
+00:20:18,656 --> 00:20:19,624
+could affect someone like this
+
+760
+00:20:19,690 --> 00:20:20,659
+girl with cerebral palsy and
+
+761
+00:20:20,726 --> 00:20:22,161
+epilepsy?
+
+762
+00:20:22,228 --> 00:20:23,230
+She has three drugs that she
+
+763
+00:20:23,297 --> 00:20:24,734
+has that are critical, and
+
+764
+00:20:24,800 --> 00:20:26,270
+without them, she will have
+
+765
+00:20:26,336 --> 00:20:28,574
+multiple seizures in a day.
+
+766
+00:20:28,641 --> 00:20:30,243
+It's one of the biggest
+
+767
+00:20:30,310 --> 00:20:31,646
+countries in the world,
+
+768
+00:20:31,712 --> 00:20:33,483
+financially, and I'm sitting
+
+769
+00:20:33,549 --> 00:20:34,551
+here thinking, "will I be able
+
+770
+00:20:34,618 --> 00:20:35,452
+to get medicine in two months'
+
+771
+00:20:35,519 --> 00:20:40,361
+time?"
+
+772
+00:20:40,428 --> 00:20:41,463
+It's a completely crazy
+
+773
+00:20:41,530 --> 00:20:46,707
+situation.
+
+774
+00:20:46,774 --> 00:20:47,975
+You are right about
+
+775
+00:20:48,042 --> 00:20:49,378
+that, because medicine shortages
+
+776
+00:20:49,445 --> 00:20:50,547
+are not a problem that britons
+
+777
+00:20:50,614 --> 00:20:50,981
+expect to deal with.
+
+778
+00:20:51,048 --> 00:20:51,582
+They're used to having their
+
+779
+00:20:51,649 --> 00:20:52,518
+problems limited to hearing
+
+780
+00:20:52,584 --> 00:20:53,152
+Americans mispronounce the word
+
+781
+00:20:53,218 --> 00:20:54,086
+"vitamin."
+
+782
+00:20:54,154 --> 00:20:55,256
+Not having enough beans as part
+
+783
+00:20:55,323 --> 00:20:56,023
+of your breakfast, and having to
+
+784
+00:20:56,090 --> 00:20:56,926
+wait 20 years for another royal
+
+785
+00:20:56,992 --> 00:20:57,760
+wedding.
+
+786
+00:20:57,827 --> 00:20:58,529
+How are you still single,
+
+787
+00:20:58,595 --> 00:20:59,798
+George?
+
+788
+00:20:59,864 --> 00:21:00,933
+Settle down already, you're this
+
+789
+00:21:00,999 --> 00:21:02,469
+many.
+
+790
+00:21:02,569 --> 00:21:03,871
+Find a fiancee for us to
+
+791
+00:21:03,939 --> 00:21:06,977
+ferociously judge.
+
+792
+00:21:07,043 --> 00:21:07,779
+And if all of this is not
+
+793
+00:21:07,846 --> 00:21:09,281
+already frightening enough,
+
+794
+00:21:09,348 --> 00:21:10,551
+there are warnings of empty
+
+795
+00:21:10,617 --> 00:21:13,556
+shelves, and some britons have
+
+796
+00:21:13,622 --> 00:21:14,926
+begun stockpiling food or buying
+
+797
+00:21:14,992 --> 00:21:16,227
+so-called "brexit boxes," which,
+
+798
+00:21:16,294 --> 00:21:17,731
+when you see what's actually
+
+799
+00:21:17,797 --> 00:21:22,706
+inside them, seems pretty grim.
+
+800
+00:21:22,773 --> 00:21:23,575
+They may look like tins of
+
+801
+00:21:23,641 --> 00:21:25,010
+paint, but they could be dinner
+
+802
+00:21:25,076 --> 00:21:26,914
+a la brexit.
+
+803
+00:21:26,981 --> 00:21:28,049
+Every brexit box contains all
+
+804
+00:21:28,116 --> 00:21:29,385
+you need to whip up family
+
+805
+00:21:29,451 --> 00:21:30,821
+favorites like chili con carne,
+
+806
+00:21:30,888 --> 00:21:33,961
+chicken tikka, and even fajitas.
+
+807
+00:21:34,027 --> 00:21:35,730
+Now, putting aside how
+
+808
+00:21:35,797 --> 00:21:37,198
+unappetizing a paint can of wet
+
+809
+00:21:37,266 --> 00:21:38,769
+meat sounds, let's also not
+
+810
+00:21:38,835 --> 00:21:40,471
+overlook the metaphorical
+
+811
+00:21:40,539 --> 00:21:41,808
+significance of every dish in
+
+812
+00:21:41,875 --> 00:21:43,143
+the brexit box being something
+
+813
+00:21:43,210 --> 00:21:44,346
+that came to britain from
+
+814
+00:21:44,413 --> 00:21:45,548
+another country and greatly
+
+815
+00:21:45,615 --> 00:21:46,717
+improved the lives of everyone
+
+816
+00:21:46,784 --> 00:21:48,286
+there.
+
+817
+00:21:48,353 --> 00:21:50,289
+Now, things look dire here.
+
+818
+00:21:50,357 --> 00:21:52,393
+Under any form of brexit,
+
+819
+00:21:52,460 --> 00:21:53,529
+britain's economic options are
+
+820
+00:21:53,596 --> 00:21:55,533
+basically "bad" and "worse."
+
+821
+00:21:55,599 --> 00:21:56,735
+The government's own analysis
+
+822
+00:21:56,802 --> 00:21:57,938
+suggests that, under a brexit
+
+823
+00:21:58,005 --> 00:21:59,540
+like Theresa may's plan, the uk
+
+824
+00:21:59,607 --> 00:22:01,610
+economy could be up to 3.9%
+
+825
+00:22:01,677 --> 00:22:03,180
+smaller after 15 years.
+
+826
+00:22:03,246 --> 00:22:05,718
+Which sounds bad until you learn
+
+827
+00:22:05,785 --> 00:22:07,455
+that under a no-deal brexit,
+
+828
+00:22:07,521 --> 00:22:09,124
+we're looking at an economy as
+
+829
+00:22:09,191 --> 00:22:11,261
+much as 9.3% smaller.
+
+830
+00:22:11,328 --> 00:22:12,330
+And a slowdown like that would
+
+831
+00:22:12,397 --> 00:22:13,599
+not just hurt britain -- it
+
+832
+00:22:13,666 --> 00:22:14,969
+would ripple across the whole
+
+833
+00:22:15,036 --> 00:22:25,354
+world.
+
+834
+00:22:25,421 --> 00:22:26,122
+And yet, incredibly, some in
+
+835
+00:22:26,188 --> 00:22:26,891
+britain remain completely
+
+836
+00:22:26,958 --> 00:22:27,758
+unfazed by all this, drawing
+
+837
+00:22:27,825 --> 00:22:28,527
+confidence from the worst
+
+838
+00:22:28,594 --> 00:22:29,461
+possible examples.
+
+839
+00:22:29,528 --> 00:22:30,196
+I lost a grandfather in the
+
+840
+00:22:30,263 --> 00:22:31,432
+first world war, I lost an uncle
+
+841
+00:22:31,499 --> 00:22:32,067
+in the second world war, and we
+
+842
+00:22:32,133 --> 00:22:32,834
+survived.
+
+843
+00:22:32,902 --> 00:22:33,736
+Are you not a little bit
+
+844
+00:22:33,803 --> 00:22:34,838
+concerned that we're talking
+
+845
+00:22:34,905 --> 00:22:35,640
+about this political event the
+
+846
+00:22:35,707 --> 00:22:37,142
+same way that we're talking
+
+847
+00:22:37,208 --> 00:22:37,878
+about the aftermath of
+
+848
+00:22:37,944 --> 00:22:39,514
+world wars?
+
+849
+00:22:39,580 --> 00:22:40,649
+No, I'm not.
+
+850
+00:22:40,716 --> 00:22:41,618
+I think it's the same sort of
+
+851
+00:22:41,684 --> 00:22:42,720
+situation.
+
+852
+00:22:42,786 --> 00:22:43,955
+But it isn't, though,
+
+853
+00:22:44,022 --> 00:22:44,489
+is it?
+
+854
+00:22:44,556 --> 00:22:45,257
+Because the world wars were
+
+855
+00:22:45,323 --> 00:22:46,192
+provoked.
+
+856
+00:22:46,259 --> 00:22:47,561
+They were a response to outside
+
+857
+00:22:47,629 --> 00:22:48,196
+events.
+
+858
+00:22:48,263 --> 00:22:49,532
+Brexit is something britain's
+
+859
+00:22:49,598 --> 00:22:53,873
+done to itself.
+
+860
+00:22:53,940 --> 00:22:54,607
+Britain is basically Pompeii if
+
+861
+00:22:54,674 --> 00:22:55,777
+Pompeii had voted for the
+
+862
+00:22:55,844 --> 00:22:56,778
+volcano.
+
+863
+00:22:56,845 --> 00:22:57,880
+"A bus said the volcano would be
+
+864
+00:22:57,947 --> 00:22:58,649
+good!
+
+865
+00:22:58,715 --> 00:22:59,717
+I believe the bus!
+
+866
+00:22:59,784 --> 00:23:01,654
+And a mug backed it up!
+
+867
+00:23:01,720 --> 00:23:05,862
+You trust mugs!"
+
+868
+00:23:05,929 --> 00:23:07,131
+And this brings us to the final
+
+869
+00:23:07,197 --> 00:23:07,698
+question here.
+
+870
+00:23:07,765 --> 00:23:08,767
+If all of this going to be so
+
+871
+00:23:08,833 --> 00:23:09,669
+bad, could britain just not do
+
+872
+00:23:09,735 --> 00:23:10,503
+this?
+
+873
+00:23:10,571 --> 00:23:11,639
+To which the answer is,
+
+874
+00:23:11,706 --> 00:23:13,242
+technically, yes.
+
+875
+00:23:13,309 --> 00:23:14,276
+In December, the European court
+
+876
+00:23:14,344 --> 00:23:15,580
+of justice ruled that the uk can
+
+877
+00:23:15,646 --> 00:23:17,316
+simply revoke its intention to
+
+878
+00:23:17,382 --> 00:23:18,518
+withdraw.
+
+879
+00:23:18,585 --> 00:23:19,453
+That is a big indication that
+
+880
+00:23:19,520 --> 00:23:21,724
+Europe would take us back.
+
+881
+00:23:21,791 --> 00:23:25,598
+And an even bigger indication is
+
+882
+00:23:25,664 --> 00:23:26,466
+the existence of the
+
+883
+00:23:26,533 --> 00:23:27,935
+breunion boys, a Dutch group who
+
+884
+00:23:28,003 --> 00:23:29,672
+describe themselves as a
+
+885
+00:23:29,739 --> 00:23:30,908
+"boy band driven to re-unite
+
+886
+00:23:30,975 --> 00:23:33,879
+Great Britain with the eu."
+
+887
+00:23:33,946 --> 00:23:35,015
+And if you think they didn't
+
+888
+00:23:35,083 --> 00:23:36,084
+make a music video, you clearly
+
+889
+00:23:36,150 --> 00:23:37,286
+don't understand why I'm
+
+890
+00:23:37,353 --> 00:23:39,523
+bringing this up.
+
+891
+00:24:00,763 --> 00:24:06,372
+Dope.
+
+892
+00:24:06,439 --> 00:24:14,054
+I mean, it's the classic
+
+893
+00:24:14,120 --> 00:24:14,922
+boy band formula, isn't it?
+
+894
+00:24:14,989 --> 00:24:15,589
+You get five eurotrash hunks,
+
+895
+00:24:15,656 --> 00:24:16,892
+dress two like fishermen, two
+
+896
+00:24:16,958 --> 00:24:17,894
+like guys who run a vc firm, and
+
+897
+00:24:17,960 --> 00:24:18,461
+one like a marxist guerrilla
+
+898
+00:24:18,528 --> 00:24:19,096
+with a throat cold, put them on
+
+899
+00:24:19,163 --> 00:24:19,663
+the world's grayest, dankest
+
+900
+00:24:19,730 --> 00:24:20,265
+beach, and have them croon in
+
+901
+00:24:20,331 --> 00:24:20,765
+different keys about the
+
+902
+00:24:20,832 --> 00:24:23,337
+dissolution of a customs union.
+
+903
+00:24:23,403 --> 00:24:26,676
+It's just textbook.
+
+904
+00:24:26,743 --> 00:24:27,511
+And look, if I'm honest, that
+
+905
+00:24:27,578 --> 00:24:28,213
+clip doesn't make a completely
+
+906
+00:24:28,280 --> 00:24:29,514
+airtight case for staying in the
+
+907
+00:24:29,581 --> 00:24:30,149
+eu, but the rap break certainly
+
+908
+00:24:30,217 --> 00:24:31,251
+does.
+
+909
+00:24:40,936 --> 00:24:42,973
+Hold on.
+
+910
+00:24:43,040 --> 00:24:46,646
+Hold on there.
+
+911
+00:24:46,713 --> 00:24:48,317
+You really think British people
+
+912
+00:24:48,383 --> 00:24:48,884
+are going to be impressed by
+
+913
+00:24:48,951 --> 00:24:49,886
+your abs?
+
+914
+00:24:49,953 --> 00:24:51,388
+We're British.
+
+915
+00:24:51,455 --> 00:24:53,492
+If there's one thing people know
+
+916
+00:24:53,558 --> 00:24:54,527
+about us, it's that we all have
+
+917
+00:24:54,594 --> 00:24:55,830
+spectacular abs.
+
+918
+00:24:55,897 --> 00:24:56,865
+Look, mine are obviously
+
+919
+00:24:56,932 --> 00:24:58,335
+amazing.
+
+920
+00:24:58,401 --> 00:24:59,904
+The queen's are completely
+
+921
+00:24:59,971 --> 00:25:01,540
+insane.
+
+922
+00:25:01,607 --> 00:25:02,842
+So why don't you take your
+
+923
+00:25:02,910 --> 00:25:03,844
+little eurozone four-pack and
+
+924
+00:25:03,911 --> 00:25:06,482
+hit the gym, pencil-neck.
+
+925
+00:25:06,549 --> 00:25:08,653
+And while, clearly, that band is
+
+926
+00:25:08,720 --> 00:25:10,157
+a pretty solid argument for
+
+927
+00:25:10,223 --> 00:25:11,926
+leaving the eu on any terms
+
+928
+00:25:11,993 --> 00:25:13,897
+necessary, what if britain did
+
+929
+00:25:13,963 --> 00:25:15,166
+want to stay?
+
+930
+00:25:15,232 --> 00:25:16,802
+How would that even happen?
+
+931
+00:25:16,868 --> 00:25:18,137
+Well, Theresa may and parliament
+
+932
+00:25:18,205 --> 00:25:19,606
+could weigh the evidence and
+
+933
+00:25:19,673 --> 00:25:20,809
+decide that brexit is not worth
+
+934
+00:25:20,875 --> 00:25:21,610
+it.
+
+935
+00:25:21,677 --> 00:25:22,646
+That would be the truly
+
+936
+00:25:22,712 --> 00:25:24,148
+courageous thing to do.
+
+937
+00:25:24,216 --> 00:25:25,017
+They won't do it because of the
+
+938
+00:25:25,083 --> 00:25:26,453
+political backlash they'd get
+
+939
+00:25:26,519 --> 00:25:27,721
+for defying the popular will.
+
+940
+00:25:27,788 --> 00:25:29,591
+But that is why some have
+
+941
+00:25:29,659 --> 00:25:33,199
+suggested a second referendum.
+
+942
+00:25:33,265 --> 00:25:34,167
+Now, that would not be easy.
+
+943
+00:25:34,234 --> 00:25:38,775
+First, the shortest estimate of
+
+944
+00:25:38,842 --> 00:25:40,212
+the time it would take to
+
+945
+00:25:40,278 --> 00:25:41,613
+organize a vote is 22 weeks, and
+
+946
+00:25:41,681 --> 00:25:42,382
+there's just six weeks left.
+
+947
+00:25:42,449 --> 00:25:43,050
+And also, what, exactly, would
+
+948
+00:25:43,116 --> 00:25:44,085
+people vote on?
+
+949
+00:25:44,152 --> 00:25:44,919
+Would it be remain in the eu
+
+950
+00:25:44,987 --> 00:25:46,389
+versus Theresa may's brexit?
+
+951
+00:25:46,456 --> 00:25:47,692
+Or remain versus the no-deal
+
+952
+00:25:47,758 --> 00:25:49,661
+brexit?
+
+953
+00:25:49,728 --> 00:25:50,730
+Or do you put all three options
+
+954
+00:25:50,797 --> 00:25:52,167
+on the ballot, probably split
+
+955
+00:25:52,234 --> 00:25:53,302
+the vote, fail to get a clear
+
+956
+00:25:53,369 --> 00:25:54,371
+majority for any option, and
+
+957
+00:25:54,438 --> 00:25:55,772
+somehow make this whole mess
+
+958
+00:25:55,840 --> 00:25:57,409
+even worse?
+
+959
+00:25:57,477 --> 00:25:58,712
+Because the reality is, this
+
+960
+00:25:58,778 --> 00:26:02,953
+situation is far too complex for
+
+961
+00:26:03,020 --> 00:26:06,192
+an up-or-down referendum, which,
+
+962
+00:26:06,260 --> 00:26:09,499
+by the way, was also true of the
+
+963
+00:26:09,565 --> 00:26:11,101
+first fucking one, because when
+
+964
+00:26:11,168 --> 00:26:13,839
+voters were just asked to leave
+
+965
+00:26:13,907 --> 00:26:15,676
+or stay without a sense of what
+
+966
+00:26:15,743 --> 00:26:16,211
+that might actually mean.
+
+967
+00:26:16,278 --> 00:26:16,878
+The first referendum was a
+
+968
+00:26:16,945 --> 00:26:17,813
+terrible idea, because it was
+
+969
+00:26:17,880 --> 00:26:18,515
+the government punting a
+
+970
+00:26:18,581 --> 00:26:19,249
+difficult decision to the
+
+971
+00:26:19,317 --> 00:26:20,084
+people, which, in the people's
+
+972
+00:26:20,151 --> 00:26:21,687
+defense, is not their job.
+
+973
+00:26:21,754 --> 00:26:22,689
+They elect politicians to make
+
+974
+00:26:22,756 --> 00:26:25,227
+reasoned, fact-based decisions
+
+975
+00:26:25,294 --> 00:26:26,829
+on their behalf.
+
+976
+00:26:26,896 --> 00:26:28,166
+That's how representative
+
+977
+00:26:28,233 --> 00:26:29,601
+democracy works.
+
+978
+00:26:29,702 --> 00:26:30,736
+And you know who could've told
+
+979
+00:26:30,804 --> 00:26:32,942
+you all of this at the time?
+
+980
+00:26:33,008 --> 00:26:35,479
+The people of "gogglebox."
+
+981
+00:26:35,546 --> 00:26:36,515
+Just watch them react to the
+
+982
+00:26:36,581 --> 00:26:38,251
+referendum being announced in
+
+983
+00:26:38,318 --> 00:26:39,887
+2016.
+
+984
+00:26:39,954 --> 00:26:41,056
+Do you think everybody knows
+
+985
+00:26:41,122 --> 00:26:43,394
+enough to be able to vote?
+
+986
+00:26:43,461 --> 00:26:45,397
+I know there must be other
+
+987
+00:26:45,464 --> 00:26:46,967
+people like me.
+
+988
+00:26:47,033 --> 00:26:50,773
+This is what's worrying me.
+
+989
+00:26:50,840 --> 00:26:52,744
+I'm worried that people aren't
+
+990
+00:26:52,811 --> 00:26:53,980
+well-informed enough to make the
+
+991
+00:26:54,046 --> 00:26:55,782
+decision.
+
+992
+00:26:55,849 --> 00:26:57,086
+It's such a big decision.
+
+993
+00:26:57,152 --> 00:27:00,625
+I don't understand it.
+
+994
+00:27:00,691 --> 00:27:01,461
+And then I don't want to vote on
+
+995
+00:27:01,527 --> 00:27:02,261
+something that I don't really
+
+996
+00:27:02,328 --> 00:27:02,963
+truly understand.
+
+997
+00:27:03,030 --> 00:27:03,731
+Right.
+
+998
+00:27:03,797 --> 00:27:04,699
+That is an intelligent thing to
+
+999
+00:27:04,766 --> 00:27:05,701
+say.
+
+1000
+00:27:05,768 --> 00:27:06,837
+Sometimes you don't know stuff,
+
+1001
+00:27:06,903 --> 00:27:07,905
+so you hire someone else to know
+
+1002
+00:27:07,972 --> 00:27:10,042
+it for you.
+
+1003
+00:27:10,110 --> 00:27:11,946
+If you came to your doctor with
+
+1004
+00:27:12,013 --> 00:27:13,181
+stomach pain, and he said,
+
+1005
+00:27:13,248 --> 00:27:15,085
+"well, what do you think?
+
+1006
+00:27:15,152 --> 00:27:16,287
+Should your appendix leave or
+
+1007
+00:27:16,354 --> 00:27:17,088
+remain?"
+
+1008
+00:27:17,156 --> 00:27:17,790
+You'd probably say, "don't ask
+
+1009
+00:27:17,857 --> 00:27:18,625
+me.
+
+1010
+00:27:18,691 --> 00:27:21,864
+Do your fucking job!"
+
+1011
+00:27:21,930 --> 00:27:23,634
+Look, a true act of political
+
+1012
+00:27:23,701 --> 00:27:25,371
+courage at this point wouldn't
+
+1013
+00:27:25,438 --> 00:27:26,839
+be to call for a second
+
+1014
+00:27:26,906 --> 00:27:31,616
+referendum -- something
+
+1015
+00:27:31,682 --> 00:27:32,917
+that Theresa may's already said
+
+1016
+00:27:32,985 --> 00:27:33,520
+she won't do.
+
+1017
+00:27:33,586 --> 00:27:34,320
+It would be to acknowledge that
+
+1018
+00:27:34,387 --> 00:27:35,055
+the first one was fatally flawed
+
+1019
+00:27:35,121 --> 00:27:36,023
+and that carrying it out will do
+
+1020
+00:27:36,090 --> 00:27:36,825
+long-term damage to the country
+
+1021
+00:27:36,892 --> 00:27:37,593
+and then canceling brexit
+
+1022
+00:27:37,660 --> 00:27:38,695
+altogether.
+
+1023
+00:27:38,761 --> 00:27:40,098
+But it seems that there is no
+
+1024
+00:27:40,165 --> 00:27:42,803
+way that's happening.
+
+1025
+00:27:42,869 --> 00:27:44,138
+Instead, britain seems
+
+1026
+00:27:44,205 --> 00:27:45,608
+determined to step firmly down
+
+1027
+00:27:45,675 --> 00:27:46,810
+upon the rake of history and
+
+1028
+00:27:46,876 --> 00:27:48,914
+suffer the consequences.
+
+1029
+00:27:48,980 --> 00:27:51,351
+And I wish I could offer you a
+
+1030
+00:27:51,418 --> 00:27:52,787
+rousing, churchillian speech now
+
+1031
+00:27:52,854 --> 00:27:54,056
+about how everything's going to
+
+1032
+00:27:54,123 --> 00:27:55,960
+be okay, but under the
+
+1033
+00:27:56,027 --> 00:27:57,830
+circumstances, honestly, the
+
+1034
+00:27:57,896 --> 00:28:02,506
+best I can offer you is this.
+
+1035
+00:28:02,573 --> 00:28:04,843
+People of britain, throughout
+
+1036
+00:28:04,909 --> 00:28:06,613
+history, we've faced our share
+
+1037
+00:28:06,680 --> 00:28:07,949
+of dark hours.
+
+1038
+00:28:08,015 --> 00:28:09,218
+The great war.
+
+1039
+00:28:09,284 --> 00:28:10,721
+The blitz.
+
+1040
+00:28:10,787 --> 00:28:12,257
+And that time when Deborah
+
+1041
+00:28:12,324 --> 00:28:14,561
+accidentally used Howard's
+
+1042
+00:28:14,628 --> 00:28:16,264
+custard in her own trifle.
+
+1043
+00:28:16,364 --> 00:28:17,266
+That's my custard.
+
+1044
+00:28:17,299 --> 00:28:19,102
+Oh, no.
+
+1045
+00:28:19,136 --> 00:28:22,442
+So sorry, Howard.
+
+1046
+00:28:22,509 --> 00:28:23,878
+And through all this, our
+
+1047
+00:28:23,944 --> 00:28:25,481
+stiff upper lip has prevailed,
+
+1048
+00:28:25,548 --> 00:28:27,050
+because this country is not for
+
+1049
+00:28:27,117 --> 00:28:28,153
+turning, not when other
+
+1050
+00:28:28,219 --> 00:28:31,993
+countries have tried to destroy
+
+1051
+00:28:32,059 --> 00:28:33,730
+us and not when we are in the
+
+1052
+00:28:33,796 --> 00:28:34,364
+midst of trying to destroy
+
+1053
+00:28:34,430 --> 00:28:35,566
+ourselves.
+
+1054
+00:28:35,633 --> 00:28:36,468
+And I know some are yelling,
+
+1055
+00:28:36,535 --> 00:28:37,670
+britain, come back, don't do
+
+1056
+00:28:37,737 --> 00:28:38,605
+this!
+
+1057
+00:28:38,672 --> 00:28:40,475
+You're pointlessly fucking
+
+1058
+00:28:40,542 --> 00:28:43,346
+yourselves!
+
+1059
+00:28:43,414 --> 00:28:45,618
+And to them, we say, oh, we have
+
+1060
+00:28:45,685 --> 00:28:47,153
+not even begun to fuck
+
+1061
+00:28:47,221 --> 00:28:49,992
+ourselves.
+
+1062
+00:28:50,059 --> 00:28:51,629
+We shall fuck ourselves at the
+
+1063
+00:28:51,696 --> 00:28:52,731
+ports.
+
+1064
+00:28:52,798 --> 00:28:53,899
+We shall fuck ourselves at the
+
+1065
+00:28:53,966 --> 00:28:58,776
+shops.
+
+1066
+00:28:58,842 --> 00:28:59,910
+We shall fuck ourselves in the
+
+1067
+00:28:59,977 --> 00:29:01,079
+hospitals and in the fields.
+
+1068
+00:29:01,146 --> 00:29:03,150
+We shall never surrender.
+
+1069
+00:29:03,217 --> 00:29:04,619
+And when the dust clears, what
+
+1070
+00:29:04,687 --> 00:29:06,790
+will remain?
+
+1071
+00:29:06,857 --> 00:29:08,226
+Britain.
+
+1072
+00:29:08,292 --> 00:29:09,361
+Not the same britain, certainly.
+
+1073
+00:29:09,428 --> 00:29:10,997
+A worse one with a weaker
+
+1074
+00:29:11,064 --> 00:29:13,402
+economy.
+
+1075
+00:29:13,469 --> 00:29:14,571
+Possibly no fresh fruit and a
+
+1076
+00:29:14,638 --> 00:29:16,307
+great deal of confusion over how
+
+1077
+00:29:16,374 --> 00:29:17,409
+horses can go on holiday.
+
+1078
+00:29:18,545 --> 00:29:22,619
+But britain nonetheless.
+
+1079
+00:29:22,686 --> 00:29:25,056
+And once we have delivered this
+
+1080
+00:29:25,123 --> 00:29:27,629
+mortal wound to ourselves, we
+
+1081
+00:29:27,695 --> 00:29:29,665
+will savor the taste of victory,
+
+1082
+00:29:29,733 --> 00:29:32,537
+a victory that tastes like
+
+1083
+00:29:32,604 --> 00:29:34,240
+mummified chicken fajitas!
+
+1084
+00:29:38,749 --> 00:29:43,658
+That's our show,
+
+1085
+00:29:43,724 --> 00:29:44,526
+thanks so much for watching.
+
+1086
+00:29:44,593 --> 00:29:46,061
+See you next week, good night!
