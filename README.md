@@ -1,1 +1,1 @@
-# puteki_techy
+# puteke_techy
